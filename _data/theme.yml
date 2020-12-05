@@ -35,7 +35,8 @@ google_fonts:
 
 navigation_pages:
   - writing/index.md
-  - speaking/index.md
   - sketchnoting/index.md
+  - apps/index.md
+  - speaking/index.md
   - resume/index.md
   - about/index.md
