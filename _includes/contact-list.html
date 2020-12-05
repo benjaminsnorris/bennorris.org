@@ -12,10 +12,6 @@
       <li>{% include icon-linkedin.html username=site.linkedin_username label='LinkedIn' %}</li>
     {% endif %}
   
-    {% if site.github_username %}
-      <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
-    {% endif %}
-  
     {% if site.microblog_username %}
       <li>{% include icon-microblog.html username=site.microblog_username label='Micro.blog' %}</li>
     {% endif %}
@@ -24,10 +20,14 @@
       <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
     {% endif %}
   
+    {% if site.github_username %}
+      <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
+    {% endif %}
+  
     <li>
-        <a href="https://bennorris.blog/feed.json" title="JSON Feed">
-          <span class="icon icon--rss">{% include icon-rss.svg %}</span>
-          <span class="label">{{ site.data.theme.t.subscribe | default: 'Subscribe' }}</span>
+        <a href="https://bennorris.blog/" title="Blog">
+          <span class="icon" style="fill: #268bd2;">{% include icon-rss.svg %}</span>
+          <span class="label">Blog</span>
         </a>
     </li>
   </ul>
