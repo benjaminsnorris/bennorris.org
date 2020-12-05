@@ -16,6 +16,10 @@
       <li>{% include icon-github.html username=site.github_username label='GitHub' %}</li>
     {% endif %}
   
+    {% if site.microblog_username %}
+      <li>{% include icon-microblog.html username=site.microblog_username label='Micro.blog' %}</li>
+    {% endif %}
+  
     {% if site.twitter_username %}
       <li>{% include icon-twitter.html username=site.twitter_username label='Twitter' %}</li>
     {% endif %}
