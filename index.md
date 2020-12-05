@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Welcome
+image: /assets/images/illustrations.png
 ---
 
 This site is my online home. I make a number of stops around the web, but enjoy a steady resting place.
