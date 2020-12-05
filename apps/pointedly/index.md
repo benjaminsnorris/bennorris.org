@@ -1,11 +1,12 @@
 ---
+layout:         app
 title:          Pointedly
 date:           2016-12-20
 release_date:   2014-12-09
-update_date:    2016-12-20
 external_link:  https://bsn.design/pointedly
 store_link:     https://bsn.design/download/pointedly
-summary:        Keep score.
+sub_title:      Keep score
+image:          https://media.bsn.design/images/pointedly/pointedly.png
 ---
 
 ## Backstory

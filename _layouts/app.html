@@ -1,0 +1,17 @@
+---
+layout: post
+---
+
+{% if page.store_link %}
+    <p>
+        {% include app-store-badge.html link=page.store_link %}
+    </p>
+{% endif %}
+
+{{ content }}
+
+{% if page.store_link %}
+    <p>
+        {% include app-store-badge.html link=page.store_link %}
+    </p>
+{% endif %}

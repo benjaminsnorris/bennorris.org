@@ -1,9 +1,9 @@
 ---
+layout:         app
 title:          Whimmy
 date:           2015-04-18
 release_date:   2015-03-06
-update_date:    2015-04-18
-summary:        Invites with a fuse. Connect with the people who matter most.
+sub_title:      Invites with a fuse
 ---
 
 ## Backstory
