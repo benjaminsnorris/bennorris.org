@@ -5,7 +5,7 @@ title: Writing
 
 One of the greatest technologies we have for communicating with each other is the written word. While I am not a professional writer, I constantly aspire to be better.
 
-## [bennorris.blog](https://bennorris.blog)
+## [bennorris.blog](http://bennorris.blog)
 
 My personal blog is a place for me to share whatever is on my mind. Much of what I write here is related to parenting, leadership, or mental health.
 
