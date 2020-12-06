@@ -4,6 +4,7 @@ title:          Carrier
 date:           2018-05-01
 store_link:     https://bsn.design/download/carrier
 sub_title:      Messages on delay
+app_image:      https://media.bsn.design/images/carrier/Carrier.png
 ---
 
 ## Backstory
