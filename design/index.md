@@ -8,20 +8,20 @@ My personal website has gone through many different iterations, which now serve 
 
 ## [Static blog](//old-blog.bennorris.org)
 
-_image_
+[![Old blog](/assets/images/old-blog.jpeg)](//old-blog.bennorris.org)
 
 This was all static
 
 
 ## [Flat design](//old-flat.bennorris.org)
 
-_image_
+[![Flat design](/assets/images/old-flat.jpeg)](//old-flat.bennorris.org)
 
 This was flat
 
 
 ## [Sketchbook design](//old-sketchbook.bennorris.org)
 
-_image_
+[![Skeumorphic sketchbook design](/assets/images/old-sketchbook.jpeg)](//old-sketchbook.bennorris.org)
 
 This was skeumorphic
