@@ -4,6 +4,7 @@ title:          Crash Bowling
 date:           2015-11-25
 release_date:   2015-10-28
 sub_title:      Best multiplayer bowling game on Apple TV
+app_image:      https://media.bsn.design/images/apps/bowling-tv.png
 ---
 
 ## Backstory

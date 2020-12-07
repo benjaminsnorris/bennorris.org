@@ -4,6 +4,7 @@ title:          Whimmy
 date:           2015-04-18
 release_date:   2015-03-06
 sub_title:      Invites with a fuse
+app_image:      https://media.bsn.design/images/apps/Whimmy.png
 ---
 
 ## Backstory
