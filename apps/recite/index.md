@@ -1,4 +1,5 @@
 ---
+layout:         app
 title:          Recite
 date:           2016-06-10
 release_date:   2016-04-13
