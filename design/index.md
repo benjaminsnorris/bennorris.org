@@ -8,16 +8,16 @@ My personal website has gone through many different iterations, which now serve 
 
 ## [Sketchbook design](https://sketchbook.bennorris.org)
 
-[![Skeumorphic sketchbook design](/assets/images/old-sketchbook.jpeg)](https://sketchbook.bennorris.org)
+[![Skeuomorphic sketchbook design](/assets/images/old-sketchbook.jpeg)](https://sketchbook.bennorris.org)
 
-This was my first website to design alone every part of it. In the middle of 2013 when I did this, I was using sketchbooks constantly and decided to make the design skeumorphic and to show off my new CSS skills. It was a blast to make.
+This was my first website to design alone every part of it. In the middle of 2013 when I did this, I was using sketchbooks constantly and decided to make the design skeuomorphic and to show off my new CSS skills. It was a blast to make.
 
 
 ## [Flat design](https://sketchbook.bennorris.org?design=flat)
 
 [![Flat design](/assets/images/old-flat.jpeg)](https://sketchbook.bennorris.org?design=flat)
 
-At the time that I created the sketchbook design (2013), skeumorphic design was falling out of fashion, and the trend was flat design. I wanted to show that I was aware of this and was able to do both styles, and so I created an alternate design for the same site that users could toggle between.
+At the time that I created the sketchbook design (2013), skeuomorphic design was falling out of fashion, and the trend was flat design. I wanted to show that I was aware of this and was able to do both styles, and so I created an alternate design for the same site that users could toggle between.
 
 
 ## [Static blog](https://old-blog.bennorris.org)
