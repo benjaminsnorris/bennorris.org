@@ -41,11 +41,12 @@
           Category: 
           {% for category in page.categories %}
             {%- if site.category_archive_path -%}
-              <span class="byline-item"><a href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].category | default: 'Category' }} {{ category }}" rel="category">{{ category }}</a></span>
+              <a href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].category | default: 'Category' }} {{ category }}" rel="category">{{ category }}</a>  
             {%- else -%}
               {{ category }}
             {%- endif -%}
-          {% endfor %}        </p>
+          {% endfor %}        
+        </p>
       {% endif %}
       
       {% if page.tags.size > 0 %}
@@ -53,7 +54,7 @@
           Tagged: 
           {% for tag in page.tags %}
             {%- if site.tag_archive_path -%}
-              <span class="byline-item"><a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].posts_tagged | default: 'Posts tagged' }} {{ tag }}" rel="tag">{{ tag }}</a></span>
+              <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].posts_tagged | default: 'Posts tagged' }} {{ tag }}" rel="tag">{{ tag }}</a>  
             {%- else -%}
               {{ tag }}
             {%- endif -%}
