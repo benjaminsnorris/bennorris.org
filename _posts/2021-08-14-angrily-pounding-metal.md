@@ -2,8 +2,11 @@
 title:          #48: Angrily pounding metal
 date:           2021-08-14 19:54:00-0700
 image:          https://www.mentalworkhealth.org/uploads/2021/e75b889f85.jpg
-category:       mental-work-health
-tags:           mental-health
+categories:     
+- Mental Work Health
+tags:           
+- Mental Health
+- sketchnotes
 ---
 
 In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
