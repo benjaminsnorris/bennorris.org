@@ -6,7 +6,7 @@
 
 <article class="entry">
   <header class="entry-header">
-    {% unless post.categories contains "microblog" %}
+    {% unless post.categories contains "Microblog" %}
       <h3 class="entry-title">
         <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
       </h3>
@@ -16,7 +16,7 @@
       <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
-  {% unless post.categories contains "microblog" %}
+  {% unless post.categories contains "Microblog" %}
     <footer class="entry-meta">
       <ul>
       {% if post.date %}
@@ -31,7 +31,7 @@
   <div class="entry-excerpt">
     {% if post.excerpt %}
       {{ post.excerpt | markdownify }}
-      {% if post.categories contains "microblog" %}
+      {% if post.categories contains "Microblog" %}
         <p><a href="{{ post.url | relative url }}" class="more-link"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></p>
       {% else %}
         <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
