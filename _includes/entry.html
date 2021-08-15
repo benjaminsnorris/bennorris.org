@@ -13,27 +13,25 @@
     {% endunless %}
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail | relative_url | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+      <img class="u-photo" src="{{ entry_image }}" alt="">
     {% endif %}
   </header>
-  {% unless post.categories contains "Microblog" %}
-    <footer class="entry-meta">
-      <ul>
-      {% if post.date %}
-       <li><a href="{{ post.url | relative_url }}"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></li>
-      {% endif %}
+  <footer class="entry-meta">
+    <ul>
+    {% if post.date %}
+     <li><a href="{{ post.url | relative_url }}"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></li>
+    {% endif %}
+    {% unless post.categories contains "Microblog" %}
       {% if post.read_time %}
         <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
       {% endif %}
-      </ul>
-    </footer>
-  {% endunless %}
+    {% endunless %}
+    </ul>
+  </footer>
   <div class="entry-excerpt">
     {% if post.excerpt %}
       {{ post.excerpt | markdownify }}
-      {% if post.categories contains "Microblog" %}
-        <p class="entry-meta"><a href="{{ post.url | relative url }}"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></p>
-      {% else %}
+      {% unless post.categories contains "Microblog" %}
         <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
       {% endif %}
     {% endif %}
