@@ -2,8 +2,8 @@
 title: "#48: Angrily pounding metal"
 date: 2021-08-12 09:54:00-0700
 image: 
-- path: https://www.mentalworkhealth.org/uploads/2021/e75b889f85.jpg
-- thumbnail: https://www.bennorris.blog/uploads/2021/f348116fed.jpg
+  path: https://www.mentalworkhealth.org/uploads/2021/e75b889f85.jpg
+  thumbnail: https://www.bennorris.blog/uploads/2021/f348116fed.jpg
 categories:     
 - Mental Work Health
 tags:           
