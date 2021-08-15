@@ -18,12 +18,12 @@ title: Ben Norris
 email: info@bennorris.org
 description: The online home for Ben Norris
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://bennorris.org
 plausible: bennorris.org
 author:
-  name: Ben Norris
-  twitter: bsndesign
-  picture: /assets/images/ben-norris-2021-dark.jpg
+   name: Ben Norris
+   twitter: bsndesign
+   picture: /assets/images/ben-norris-2021-dark.jpg
 twitter_username: bsndesign
 github_username: benjaminsnorris
 linkedin_username: benjaminsnorris
@@ -32,6 +32,7 @@ logo: /assets/images/ben-norris-2021-dark-small.jpeg # path of site logo, e.g. "
 date_format: "%-d %b %Y"
 date_time:   "%-d %b %Y, %I:%M %p"
 timezone:    America/Denver
+tag_archive_path: /tags
 
 # Build settings
 markdown: kramdown
