@@ -33,6 +33,7 @@ date_format: "%-d %b %Y"
 date_time:   "%-d %b %Y, %I:%M %p"
 timezone:    America/Denver
 tag_archive_path: /tags/
+category_archive_path: /categories/
 
 # Build settings
 markdown: kramdown
