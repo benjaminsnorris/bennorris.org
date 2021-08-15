@@ -29,6 +29,9 @@ github_username: benjaminsnorris
 linkedin_username: benjaminsnorris
 microblog_username: bennorris
 logo: /assets/images/ben-norris-2021-dark-small.jpeg # path of site logo, e.g. "/assets/images/logo.png"
+date_format: "%-d %b %Y"
+date_time:   "%-d %b %Y, %I:%M %p"
+timezone:    America/Denver
 
 # Build settings
 markdown: kramdown
