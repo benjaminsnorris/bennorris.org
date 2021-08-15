@@ -39,34 +39,30 @@
       {% if page.categories.size > 0 %}
         <p class="entry-meta">
           Category: 
-          <ul>
-            {% for category in page.categories %}
-              <li>
-                {%- if site.category_archive_path -%}
-                  <a href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].category | default: 'Category' }} {{ category }}" rel="category">{{ category }}</a>  
-                {%- else -%}
-                  {{ category }}
-                {%- endif -%}
-              </li>
-            {% endfor %}
-          </ul>
+          {% for category in page.categories %}
+            <span class="meta-item">
+              {%- if site.category_archive_path -%}
+                <a href="{{ category | slugify | prepend: site.category_archive_path | relative_url }}" title="{{ site.data.text[site.locale].category | default: 'Category' }} {{ category }}" rel="category">{{ category }}</a>  
+              {%- else -%}
+                {{ category }}
+              {%- endif -%}
+            </span>
+          {% endfor %}
         </p>
       {% endif %}
       
       {% if page.tags.size > 0 %}
         <p class="entry-meta">
           Tagged: 
-          <ul>
-            {% for tag in page.tags %}
-              <li>
-                {%- if site.tag_archive_path -%}
-                  <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].posts_tagged | default: 'Posts tagged' }} {{ tag }}" rel="tag">{{ tag }}</a>  
-                {%- else -%}
-                  {{ tag }}
-                {%- endif -%}
-              </li>
-            {% endfor %}
-          </ul>
+          {% for tag in page.tags %}
+            <span class="meta-item">
+              {%- if site.tag_archive_path -%}
+                <a href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}" title="{{ site.data.text[site.locale].posts_tagged | default: 'Posts tagged' }} {{ tag }}" rel="tag">{{ tag }}</a>  
+              {%- else -%}
+                {{ tag }}
+              {%- endif -%}
+            </span>
+          {% endfor %}
         </p>
       {% endif %}
     </div>
