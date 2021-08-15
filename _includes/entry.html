@@ -33,7 +33,7 @@
       {{ post.excerpt | markdownify }}
       {% unless post.categories contains "Microblog" %}
         <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
-      {% endif %}
+      {% endunless %}
     {% endif %}
   </div>
 </article>
