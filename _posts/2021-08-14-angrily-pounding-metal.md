@@ -1,5 +1,5 @@
 ---
-title: #48: Angrily pounding metal
+title: "#48: Angrily pounding metal"
 date: 2021-08-12 09:54:00-0700
 image: https://www.mentalworkhealth.org/uploads/2021/e75b889f85.jpg
 categories:     
