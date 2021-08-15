@@ -32,7 +32,7 @@
     {% if post.excerpt %}
       {{ post.excerpt | markdownify }}
       {% if post.categories contains "Microblog" %}
-        <p><a href="{{ post.url | relative url }}" class="more-link"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></p>
+        <p><a href="{{ post.url | relative url }}"><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></a></p>
       {% else %}
         <p><a href="{{ post.url | relative_url }}" class="more-link">{{ site.data.theme.t.read_more | default: 'Read More' }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></p>
       {% endif %}
