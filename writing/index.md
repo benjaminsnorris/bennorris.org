@@ -20,8 +20,8 @@ This is a passion project of mine. I deal with severe OCD, and have found that a
     <div class="posts">
       {% for post in site.posts %}
           <div class="post py3">
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
             <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
             <p class="post-summary">
               {% if post.summary %}
                 {{ post.summary }}
@@ -29,13 +29,6 @@ This is a passion project of mine. I deal with severe OCD, and have found that a
                 {{ post.excerpt }}
               {% endif %}
             </p>
-            {% if post.categories.size > 0 %}
-            <div class="post-meta">
-              {% for category in post.categories %}
-              <a href="{{ site.baseurl }}/categories/{{ category }}" class="category">{{ category }}</a>
-              {% endfor %}
-            </div>
-            {% endif %}
           </div>
       {% endfor %}
     </div>
