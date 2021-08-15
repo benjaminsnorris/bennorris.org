@@ -2,5 +2,5 @@
 layout: tag
 title: Mental Health
 taxonomy: Mental Health
-permalink: /tags/mental-health
+permalink: /tags/mental-health/
 ---
