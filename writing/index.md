@@ -23,8 +23,8 @@ This is a passion project of mine. I deal with severe OCD, and have found that a
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="post-title">{{ post.title }}</h3></a>
             <p class="post-meta">{{ post.date | date: site.date_format }}</p>
             <p class="post-summary">
-              {% if post.summary %}
-                {{ post.summary }}
+              {% if post.introduction %}
+                {{ post.introduction }}
               {% else %}
                 {{ post.excerpt }}
               {% endif %}
