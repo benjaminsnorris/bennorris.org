@@ -1,11 +1,16 @@
 ---
 title:          #48: Angrily pounding metal
 date:           2021-08-14 19:54:00-0700
-introduction:   In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
 image:          https://www.mentalworkhealth.org/uploads/2021/e75b889f85.jpg
 category:       mental-work-health
 tags:           mental-health
 ---
+
+In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
+
+_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+
+***
 
 This was a rough week. Many things came together to make it so, and the effects were brutal. As a lot of them were intimately connected to my mental health, I thought it might be helpful to share.
 
