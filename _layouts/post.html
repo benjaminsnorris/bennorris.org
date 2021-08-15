@@ -4,8 +4,6 @@ layout: default
 
 {% include page-intro.html %}
 
-{% include page-tags.html %}
-
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <article class="entry-wrap">
@@ -13,5 +11,6 @@ layout: default
         {{ content }}
       </div>
     </article>
+    {% include page-tags.html %}
   </div>
 </main>
