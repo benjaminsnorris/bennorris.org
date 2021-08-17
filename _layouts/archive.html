@@ -19,7 +19,7 @@ layout: page
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
     <h2 class="taxonomy-title">{{ year.name }}</h2>
-      {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%M"' %}
+      {% assign postsInMonth = year.items | group_by_exp: 'item', 'item.date | date: "%M"' %}
       {% for month in postsInMonth %}
         <ul class="taxonomy-index">
           <li>
