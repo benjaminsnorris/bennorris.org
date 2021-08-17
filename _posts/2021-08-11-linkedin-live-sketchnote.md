@@ -6,6 +6,7 @@ categories:
 - Sketchnotable
 tags:
 - Sketchnotes
+excerpt_separator: "<!--more-->"
 ---
 
 ![LinkedIn Live Event Sketchnote]({{ site.media_url }}/images/sketchnotable/linkedin-live-aug-2021-sketchnote.jpeg)
