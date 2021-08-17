@@ -34,8 +34,10 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - writing/index.md
-  - sketchnoting/index.md
+  - mental-work-health.md
+  - sketchnotable.md
+  - gospel-sketcher.md
+  - archive.md
   - speaking/index.md
   - design/index.md
   - apps/index.md
