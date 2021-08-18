@@ -6,6 +6,7 @@ categories:
 - Sketchnotable
 tags:
 - Sketchnotes
+read_time: false
 excerpt_separator: "<!--more-->"
 ---
 
