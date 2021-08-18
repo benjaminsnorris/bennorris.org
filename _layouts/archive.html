@@ -18,14 +18,16 @@ layout: page
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
-    <h2 class="taxonomy-title">{{ year.name }}</h2>
+    <h3 class="taxonomy-title">{{ year.name }}</h3>
       {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
       {% for month in postsInMonth %}
         <ul class="taxonomy-index">
           <li>
-            <a href="">
-              <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
-            </a>
+            <h5>
+              <a href="#{{ year.name }}-{{ month.name }}">
+                <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
+              </a>
+            </h5>
           </li>
         </ul>
         <div id="{{ year.name }}-{{ month.name }}">
