@@ -1,5 +1,5 @@
 ---
-title: "#49: Birthdat getaway"
+title: "#49: Birthday getaway"
 date: 2021-08-20 11:30:00-0700
 categories:     
 - Mental Work Health
