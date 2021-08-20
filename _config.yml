@@ -42,9 +42,14 @@ remote_theme: benjaminsnorris/jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
 permalink:    /:year/:month/:day/:title
 include:
   - /.well-known
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
 exclude:
