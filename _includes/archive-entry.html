@@ -4,7 +4,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<article class="entry">
+<article>
   <header class="entry-header">
     <h3 class="entry-title">
       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
@@ -19,13 +19,10 @@
     {% endif %}
   </header>
   <footer class="entry-meta">
-    <ul>
+    <div>
     {% if post.date %}
-      <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
+      <span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
     {% endif %}
-    {% if post.read_time %}
-      <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
-    {% endif %}
-    </ul>
+    </div>
   </footer>
 </article>

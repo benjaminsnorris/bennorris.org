@@ -31,11 +31,9 @@ layout: page
           </li>
         </ul>
         <div id="{{ year.name }}-{{ month.name }}">
-          <div class="entries-grid">
-            {% for post in month.items %}
-              {% include archive-entry.html %}
-            {% endfor %}
-          </div>
+          {% for post in month.items %}
+            {% include archive-entry.html %}
+          {% endfor %}
         </div>
       {% endfor %}
     <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
