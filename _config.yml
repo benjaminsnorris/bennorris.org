@@ -43,6 +43,8 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
 permalink:    /:year/:month/:day/:title
+include:
+  - /.well-known
 
 # Exclude from processing.
 exclude:
