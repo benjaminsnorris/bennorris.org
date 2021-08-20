@@ -24,18 +24,9 @@
                   "comment": "Do not open links to My Team in the mobile app"
                },
                {
-                  "/": "/myteam/*",
-                  "exclude": true,
-                  "comment": "Do not open sublinks in My Team in the mobile app"
-               },
-               {
                   "/": "settings",
                   "exclude": true,
                   "comment": "Do not open links to Settings in the mobile app"
-               },
-               {
-                  "/": "*",
-                  "comment": "Add wildcard to support all links not excluded"
                }
              ]
            }
