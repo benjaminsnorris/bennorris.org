@@ -36,10 +36,6 @@ timezone:    America/Denver
 tag_archive_path: /tags/
 category_archive_path: /categories/
 
-collections:
-  microblog:
-    output: true
-
 # Build settings
 markdown: kramdown
 remote_theme: benjaminsnorris/jekyll-theme-basically-basic
