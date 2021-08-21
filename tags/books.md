@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: Books
-taxonomy: books
+taxonomy: book
 permalink: /tags/books/
 ---
