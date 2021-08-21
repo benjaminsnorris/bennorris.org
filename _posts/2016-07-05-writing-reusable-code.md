@@ -11,7 +11,7 @@ One thing that has made this easier is that my employer has been generous in all
 
 One of the first areas that I tackled was to create a network stack built on top of `NSURLSession` that provided a simple interface to make network requests. The end result is somewhat specific to our projects at O.C. Tanner, but we made it open-source in case it is useful to anyone else: [ios-network-stack](https://github.com/octanner/ios-network-stack).
 
-Since then, I have made a [number of libraries](/libraries) that I use across different apps. Most of the libraries are not to the level that I would like yet—I need to add automated tests, better code documentation, and useful readme files. But I have learned a number of things in creating and using these libraries, and thought it would be useful to go through some of the pros and cons.
+Since then, I have made a number of libraries that I use across different apps. Most of the libraries are not to the level that I would like yet—I need to add automated tests, better code documentation, and useful readme files. But I have learned a number of things in creating and using these libraries, and thought it would be useful to go through some of the pros and cons.
 
 
 ## Cons

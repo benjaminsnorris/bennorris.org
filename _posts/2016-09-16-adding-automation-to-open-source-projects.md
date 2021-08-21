@@ -9,12 +9,12 @@ tags:
 - reference
 ---
 
-One goal that I have had for all of my open-source projects is to have run automated builds and have complete test coverage. Achieving this goals is a slow process, but something that I have wanted to learn and get more comfortable with so that I can be more disciplined. I decide to post the build status and coverage data for all of my [libraries on my site](/libraries), to provide myself additional incentive to hurry and get everything updated.
+One goal that I have had for all of my open-source projects is to have run automated builds and have complete test coverage. Achieving this goals is a slow process, but something that I have wanted to learn and get more comfortable with so that I can be more disciplined. I decide to post the build status and coverage data for all of my libraries on my site, to provide myself additional incentive to hurry and get everything updated.
 
 At my day job, we are using [Jenkins](https://jenkins.io) and [Fastlane](https://fastlane.tools) to run all unit and UI tests after every commit that is pushed, and to submit to iTunes Connect after every merge to `master` following a successful pull request. For my open-source libraries, I just wanted something to make sure that they build and run all the tests after changes. For now, I landed on using [Travis](https://travis-ci.org) to run the automated builds, and [Codecov](https://codecov.io) to collect coverage reports. I wanted to capture some of the process to be able to refer back to it, and hopefully it can help others with similar goals.
 
 ## Steps
-_All examples are using my [TextMagic](/libraries/text-magic) framework. Remember to change the names to match your project._
+_All examples are using my [TextMagic](https://github.com/benjaminsnorris/TextMagic) framework. Remember to change the names to match your project._
 
 1. Set up [Travis](https://travis-ci.org/profile) to start building your project
 1. Add `travis.yml` to project (see sample below)

@@ -11,15 +11,15 @@ One of the downsides of this setup was the temptation to tinker. Because it was 
 I have instead gone all in on [Micro.blog](https://micro.blog). I have long posted my content there, and have published microposts on my blog. [Manton Reece](https://manton.org) has done a phenomenal job at building up the community and infrastructure of [Micro.blog](https://micro.blog) so that it is both a blog hosting platform as well as a social network, and I am now going to use both.
 
 **My new sites:**
-- [bsn.design](http://bsn.design): my home for blogging and microblogging
-- [sketchnotable.com](http://sketchnotable.com): dedicated to business-related sketchnotes
-- [mormonsketcher.com](http://mormonsketcher.com): dedicated to religious sketchnotes
+- [bsn.design](https://bsn.design): my home for blogging and microblogging
+- [sketchnotable.com](https://sketchnotable.com): dedicated to business-related sketchnotes
+- [gospelsketcher.com](https://gospelsketcher.com): dedicated to religious sketchnotes
 
 **Micro.blog handles:**
-- [@bsndesign](https://micro.blog/bsndesign): my main social network account
+- [@bennorris](https://micro.blog/bennorris): my main social network account
 - [@sketchnotable](https://micro.blog/sketchnotable): a feed solely for business-related sketchnotes
-- [@mormonsketcher](https://micro.blog/mormonsketcher): a feed solely for religious sketchnotes
+- [@gospelsketcher](https://micro.blog/gospelsketcher): a feed solely for religious sketchnotes
 
 My content will be cross-posted to Twitter with matching usernames, so if people prefer to find or engage with content there, I will continue to have a presence. But moving forward, I will be posting everything to one of my own sites first. Each of my sites has a JSON/RSS feed where you can subscribe if you want. Hopefully this makes it easy for people to choose the content that interests them most and follow or engage it with it easily.
 
-The [vision of Micro.blog](http://help.micro.blog/2015/why-i-created-this/) resonates strongly with me, and I am excited to fully participate in that community. Here’s to many more great years of sharing knowledge and creating meaningful interactions!
+The [vision of Micro.blog](https://help.micro.blog/2015/why-i-created-this/) resonates strongly with me, and I am excited to fully participate in that community. Here’s to many more great years of sharing knowledge and creating meaningful interactions!

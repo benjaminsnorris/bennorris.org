@@ -22,8 +22,6 @@ The workflow converts the link from a web link to a link that will open the Gosp
 gospellibrary://content/scriptures/dc-testament/dc/130?lang=eng
 ```
 
-<a class="button button-blue" href="/resources/convert-link-for-gospel-library.wflow"/><span class="fa fa-cogs"></span><span>Download convert link workflow</span></a>
-
 
 ## Create markdown link
 
@@ -37,7 +35,6 @@ The markdown link looks like this:
 [Doctrine and Covenants 130:18-19](gospellibrary://content/scriptures/dc-testament/dc/130.18-19?lang=eng)
 ```
 
-<a class="button button-blue" href="/resources/markdown-link-from-gospel-library.wflow"/><span class="fa fa-link"></span><span>Download markdown link workflow</span></a>
 
 ## Extracting the entire quote
 
@@ -50,8 +47,6 @@ The final piece is getting out the actual text of the quote. This last workflow 
 >
 > [Doctrine and Covenants 130:18-19](gospellibrary://content/scriptures/dc-testament/dc/130.18-19?lang=eng)
 ```
-
-<a class="button button-blue" href="/resources/markdown-quote-from-gospel-library.wflow"/><span class="fa fa-quote-right"></span><span>Download markdown quote workflow</span></a>
 
 All three workflows have to be downloaded and installed in order to get the final quote. When they are, it is just one touch to take selected text and get a nicely formatted quote.
 

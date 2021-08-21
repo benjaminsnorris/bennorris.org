@@ -9,19 +9,19 @@ tags:
 - general conference
 ---
 
-[PDF of entire collection (3 MB)](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-04-priesthood-sketchnotes.pdf)
+[PDF of entire collection (3 MB)]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-04-priesthood-sketchnotes.pdf)
 
-![General Conference 18](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-18.jpg)
+![General Conference Sketchnotes 18]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-18.jpg)
 _Jeffrey R. Holland: Emissaries to the Church_
 
-![General Conference 19](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-19.jpg)
+![General Conference Sketchnotes 19]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-19.jpg)
 _LeGrand R. Curtis Jr: There Is Power in the Book_
 
-![General Conference 20](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-20.jpg)
+![General Conference Sketchnotes 20]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-20.jpg)
 _Dieter F. Uchtdorf: Learn from Alma and Amulek_
 
-![General Conference 21](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-21.jpg)
+![General Conference Sketchnotes 21]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-21.jpg)
 _Henry B. Eyring: That He May Become Strong Also_
 
-![General Conference 22](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-22.jpg)
+![General Conference Sketchnotes 22]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-22.jpg)
 _Thomas S. Monson: Principles and Promises_

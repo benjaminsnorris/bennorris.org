@@ -11,7 +11,7 @@ date: 2017-01-12 08:09:26-0700
 I wrote [last week]({% post_url 2017-01-06-using-workflow-to-publish-to-github-pages %}) about publishing to a GitHub Pages blog using [Workflow](https://workflow.is) on the iPad. As I worked on writing that post, I realized there was one piece missing from my process: previewing the draft. When I write locally on my computer, I compile the site using [Jekyll commands](https://jekyllrb.com/docs/usage/) and include drafts. Then I can work on a post and make sure that the links all work properly and do a final check before publishing the post. With the Workflow process I created, a post would go straight from iA Writer to being published on my site, and that made me a bit nervous.
 
 ## Displaying drafts
-Jekyll [already supports drafts](https://jekyllrb.com/docs/drafts/), but the only way to see them is when building locally. As I looked into the easiest way to display drafts on my published site, I realized that I already have a model that would work well. For my [apps](/apps) and [libraries](/libraries), I am using the [collections feature](https://jekyllrb.com/docs/collections/) of Jekyll. In order to extend the default functionality of drafts to make them public, only a few small changes are needed:
+Jekyll [already supports drafts](https://jekyllrb.com/docs/drafts/), but the only way to see them is when building locally. As I looked into the easiest way to display drafts on my published site, I realized that I already have a model that would work well. For my [apps](/apps/) and libraries, I am using the [collections feature](https://jekyllrb.com/docs/collections/) of Jekyll. In order to extend the default functionality of drafts to make them public, only a few small changes are needed:
 
 1. Add drafts collection
 2. Specify default layout
@@ -55,22 +55,12 @@ All of this work is nice, but without some additions and updates to the workflow
 
 Armed with this workaround, I was able to create a few additional workflows:
 
-- [Publish draft](/resources/publish-draft-to-github.wflow)
-- [Update draft](/resources/update-draft-on-github.wflow)
-- [Delete files](/resources/delete-files-on-github.wflow)
+- Publish draft
+- Update draft
+- Delete files
 
 
 ### Improved post publishing
 Finally, I wanted to handle the draft well when publishing the blog post. The workflow to publish a post will hit GitHub first to see if a draft is there with the same name, and if so, the draft will be deleted and the post will be published with the correct date. This completes the draft process, allowing you to start by publishing a draft, update it one or more times for review, and then actually publishing the post.
 
-- [Publish post](/resources/publish-blog-post-to-github.wflow)
-
-
-## Previous workflows
-Just for reference, here are the previous workflows that have all been updated:
-
-- [Update post](/resources/update-blog-post-on-github.wflow)
-- [Microblog post](/resources/microblog-post-to-github.wflow)
-- [Publish files](/resources/publish-files-to-github.wflow)
-- [Update files](/resources/update-files-on-github.wflow)
-- [Publish photos](/resources/publish-photos-to-github.wflow)
+- Publish post
