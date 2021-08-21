@@ -27,6 +27,10 @@
                   "/": "settings",
                   "exclude": true,
                   "comment": "Do not open links to Settings in the mobile app"
+               },
+               {
+                  "/": "*",
+                  "comment": "Add wildcard to support all links not excluded"
                }
              ]
            }
