@@ -1,8 +1,8 @@
 ---
 title: Simpler blogging with Working Copy
 summary: Combining Workflow and Working Copy makes for powerful, easy blogging from iOS with a GitHub Pages blog
-category: reference
-tags: process workflow
+category: General
+tags: reference
 date: 2017-11-17 12:36:04-0700
 ---
 

@@ -2,7 +2,8 @@
 title:          iOS 10 and my apps
 date:           2016-06-20 08:20:00-0700
 summary:        Some raw thoughts on how the new possibilities announced at WWDC 2016 might affect my apps
-category:       musings
+category:       General
+tags:           code
 ---
 
 After consuming much of WWDC last week, I wanted to take a few minutes and consider how my apps could be affected by the new announcements. Since I mostly sat in my office at home and watched live session videos, some effort is required to make sure that the videos can translate into action and improvement. I thought I would take each of my active projects in turn, or rather active and semi-active projects, and consider the state of the app, and how I might incorporate some new technologies. Most of this will be “thinking out loud” so that I can try and process some of what I learned.

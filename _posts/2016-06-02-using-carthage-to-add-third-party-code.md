@@ -2,8 +2,10 @@
 title:          Using Carthage to add third-party code
 date:           2016-06-02 10:30:00-0700
 summary:        Simplify third-party dependencies using Carthage and Git submodules.
-category:     	reference
-tags:						process carthage
+category:     	General
+tags:
+- code
+- reference
 ---
 
 In almost every project that I create, I bring in frameworks and libraries. After trying a number of different approaches to make this easier, I have landed on a system that uses [Carthage](https://github.com/Carthage/Carthage), and [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). The system basically comes from [a post by Bart Whiteley](https://gist.github.com/bwhiteley/aa571da100bca3a65c1f), but I wanted to record all of the steps so that I have them in one place for my own reference.

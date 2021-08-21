@@ -2,7 +2,7 @@
 title:          Finally getting started
 date:           2016-05-27 14:12:00-0700
 summary:        After putting this off far too long, I’m finally blogging.
-category:       musings
+category:       General
 ---
 
 Back in January of 2016, I had a discussion with my manager and made some goals for the year. One of my main goals was to start blogging. I have been heads down on coding for the past year and a half, and had always meant to start recording some of thoughts and contributing back to the community, but just hadn’t started yet.

@@ -3,8 +3,10 @@ title:          Handling live text reload elegantly
 date:           2016-08-31 13:00:00-0700
 update_date:    2016-09-02 06:20:00-0700
 summary:        Easy steps to support concurrent editing without losing cursor position or text selection in UITextView
-category:       reference
-tags:           code
+category:       General
+tags:
+- code
+- reference
 ---
 
 In my current project at my day job, we are using [Firebase](https://firebase.google.com) and [ReSwift](https://github.com/ReSwift/ReSwift). I plan to write more about this powerful combination soon. One of the major advantages is that it allows us to easily support live reloading of concurrent editing. However, I ran into a problem in long-form text editing. It was impressive to see the text update while someone else edited the same data, but if you were also trying to type, it would get extremely frustrating. With every reload, your cursor would jump to the end of the text, making it nearly impossible to keep working.

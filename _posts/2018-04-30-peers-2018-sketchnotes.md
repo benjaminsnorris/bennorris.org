@@ -1,9 +1,9 @@
 ---
 title: Peers 2018 Sketchnotes
 summary: Sketchnotes from the 2018 Peers Conference
-category: sketchnotes
+category: Sketchnotable
 tags: sketchnotes
-minutes: 12
+read_time: false
 date: 2018-04-30 11:38:55-0600
 ---
 

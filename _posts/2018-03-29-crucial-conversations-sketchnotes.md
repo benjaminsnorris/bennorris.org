@@ -1,9 +1,11 @@
 ---
 title: Crucial Conversations Sketchnotes
 summary: A major step in my path to a black belt in Crucial Conversations
-category: sketchnotes
-tags: sketchnotes book
-minutes: 5
+category: Sketchnotable
+tags:
+- sketchnotes
+- book
+read_time: false
 date: 2018-03-29 10:58:18-0600
 ---
 

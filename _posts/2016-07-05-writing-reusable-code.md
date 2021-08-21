@@ -1,10 +1,9 @@
 ---
-layout:         post
 title:          Writing reusable code
 date:           2016-07-05 14:10:00-0700
 summary:        Make your own life easier by focusing on writing code that you can reuse in multiple projects
-category:       musings
-tags:           process carthage
+category:       General
+tags:           code
 ---
 At the beginning of this year, I was put on a new team at work. We had the chance to a build a project completely from scratch. When I joined the team, they had already spent a few months interviewing potential customers and learning about the market, and were ready to build a prototype. I was tasked with creating a quick, simple version of the app that stored all data locally. I knew that I would be rebuilding the app a couple times, or at least refactoring major portions of the app. So I set out to build portions of the app in ways that I could easily reuse them multiple times, and across multiple projects.
 

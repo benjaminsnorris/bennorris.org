@@ -2,9 +2,11 @@
 title:          Oct 2016 General Conference Women’s Session Sketchnotes
 date:           2017-01-01 07:45:00-0700
 summary:        Sketchnotes of all talks in the Women’s session from Oct 2016 LDS General Conference
-category:       sketchnotes
-tags:           sketchnotes ldsconf
-minutes:        8
+read_time:      false
+category:       Gospel Sketcher
+tags:
+- sketchnotes
+- general conference
 ---
 
 [PDF of entire collection (2 MB)](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-01-womens-sketchnotes.pdf)

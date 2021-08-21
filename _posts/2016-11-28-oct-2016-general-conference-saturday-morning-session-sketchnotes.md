@@ -2,9 +2,11 @@
 title:          Oct 2016 General Conference Saturday Morning Session Sketchnotes
 date:           2016-11-28 07:15:00-0700
 summary:        Sketchnotes of all talks in the Saturday morning session from Oct 2016 LDS General Conference
-category:       sketchnotes
-tags:           sketchnotes ldsconf
-minutes:        15
+read_time:      false
+category:       General Sketcher
+tags:
+- sketchnotes
+- general conference
 ---
 
 [PDF of entire collection (3 MB)](/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-02-sat-morning-sketchnotes.pdf)

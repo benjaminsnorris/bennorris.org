@@ -2,8 +2,11 @@
 title:          Adding automation to open-source projects
 date:           2016-09-16 13:00:00-0700
 summary:        Improving projects and increasing self-guilt with Travis, Slather and Codecov
-category:       reference
-tags:           testing
+category:       General
+tags:
+- code
+- testing
+- reference
 ---
 
 One goal that I have had for all of my open-source projects is to have run automated builds and have complete test coverage. Achieving this goals is a slow process, but something that I have wanted to learn and get more comfortable with so that I can be more disciplined. I decide to post the build status and coverage data for all of my [libraries on my site](/libraries), to provide myself additional incentive to hurry and get everything updated.

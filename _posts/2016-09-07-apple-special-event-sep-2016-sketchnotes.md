@@ -2,8 +2,10 @@
 title:          Apple Special Event Sep 2016 Sketchnotes
 date:           2016-09-07 17:30:00-0700
 summary:        A summary of my sketchnotes from the iPhone 7 launch
-category:       sketchnotes
-minutes:        10
+read_time:      false
+category:       Sketchnotable
+tags:
+- sketchnotes
 ---
 
 One of the most exciting events every fall is the Apple Event to announce the new iPhone. I was thrilled to watch and learn about some of the new hardware Apple is releasing this summer. And I cannot wait for a Batman-style matte black iPhone 7! Here are the sketchnotes I created from the event.

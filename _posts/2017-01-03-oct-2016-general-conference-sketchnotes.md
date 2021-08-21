@@ -3,10 +3,11 @@
 title:          Oct 2016 General Conference Sketchnotes
 date:           2017-01-03 07:00:00-0700
 summary:        Sketchnotes of all talks from Oct 2016 LDS General Conference
-category:       sketchnotes
-tags:           sketchnotes ldsconf
-minutes:        12
-
+read_time:      false
+category:       Gospel Sketcher
+tags:
+- sketchnotes
+- general conference
 ---
 
 

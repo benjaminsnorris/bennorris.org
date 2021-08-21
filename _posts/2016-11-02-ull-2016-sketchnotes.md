@@ -2,8 +2,10 @@
 title:          Úll 2016 Sketchnotes
 date:           2016-11-02 08:45:00-0700
 summary:        A collection of my sketchnotes from the Úll 2016 conference
-category:       sketchnotes
-minutes:        15
+read_time:      false
+category:       Sketchnotable
+tags:
+- sketchnotes
 ---
 
 [Úll](http://2016.ull.ie) has been wonderful so far. I had the pleasure of sketchnoting the first day of the conference, and wanted to post them to have them all together.

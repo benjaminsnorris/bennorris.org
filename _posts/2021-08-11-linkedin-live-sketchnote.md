@@ -5,7 +5,7 @@ title: LinkedIn Live Event Sketchnote
 categories:
 - Sketchnotable
 tags:
-- Sketchnotes
+- sketchnotes
 read_time: false
 excerpt_separator: "<!--more-->"
 ---

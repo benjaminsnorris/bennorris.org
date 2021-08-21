@@ -2,7 +2,7 @@
 title:          Lopsided relationships
 date:           2016-08-12 14:10:00-0700
 summary:        Navigating both sides of uneven relationships
-category:       musings
+category:       General
 ---
 
 Since deciding that I wanted to change careers to become a full-time developer, I have started listening to a number of podcasts. Some of my favorites are [Under the Radar](https://www.relay.fm/radar), the spiritual successor to my previous favorite [Developing Perspective](http://developingperspective.com), [Core Intuition](http://www.coreint.org), and [Release Notes](https://releasenotes.tv). There are many others that I have enjoyed off and on, including the [Accidental Tech Podcast](http://atp.fm) and [The Talk Show](https://daringfireball.net/thetalkshow/), as well as some new ones I am loving, such as [Runtime](https://spec.fm/podcasts/runtime) and [Canvas](https://www.relay.fm/canvas). I am not sure how many hours of podcasts I have listened to, but I know that [Overcast](https://overcast.fm) has saved me an extra 46 hours from Smart Speed alone, if that tells you anything.

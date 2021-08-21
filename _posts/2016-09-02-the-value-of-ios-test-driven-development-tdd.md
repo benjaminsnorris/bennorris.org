@@ -2,8 +2,10 @@
 title:          The value of iOS test-driven development (TDD)
 date:           2016-09-02 13:00:00-0700
 summary:        Starting with tests helps you write better code
-category:       musings
-tags:           testing
+category:       General
+tags:
+- code
+- testing
 ---
 
 This will not come as a surprise to most people—writing tests makes your code better. I have come to appreciate this more over the past few months, as I wrote about [previously]({% post_url 2016-07-14-leveling-up-with-automated-testing %}). Also not a surprise—writing tests first makes your code even better. From my experience with iOS developers, while we might know this, most of us do not do it. Even after coming to see the value, it is easy to skip straight to writing the code. I had an experience this week that highlighted the value of this for me again, and wanted to pause and reflect before allowing myself to lose the lesson.

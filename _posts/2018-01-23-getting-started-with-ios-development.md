@@ -1,10 +1,10 @@
 ---
 title: Getting started with iOS development
 summary: A basic set of resources for those considering learning to code iOS apps
-category: reference
-tags: learning
+category: General
+tags:
+- reference
 date: 2018-01-23 12:05:33-0700
-
 ---
 
 I have been asked frequently how to get started making iPhone apps. Having taught at an iOS development bootcamp for the past few years, I have seen many people approach iOS development and succeed well. Those that excel typically have the right *attitude* as well as the *aptitude*.

@@ -2,8 +2,10 @@
 title:          WWDC 2016 Sketchnotes
 date:           2016-06-13 17:30:00-0700
 summary:        A summary of my sketchnotes from the keynote and state of the union.
-category:       sketchnotes
-minutes:        10
+category:       Sketchnotable
+tags:
+- sketchnotes
+read_time:      false
 ---
 
 WWDC is here again! I was thrilled to have the chance to watch and sketchnote the main events today, and wanted to gather all of my sketchnotes together. Hope you enjoy!

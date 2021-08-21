@@ -2,8 +2,10 @@
 title:          Leveling Up with Automated Testing
 date:           2016-07-14 09:20:00-0700
 summary:        My latest focus in self-improvement as a software engineer
-category:       musings
-tags:           testing
+category:       General
+tags:
+- code
+- testing
 ---
 As I approached the end of 2015, I was thinking of my goals for 2016, and how I wanted to grow and improve as a developer. One of the main areas in which I felt like I was lacking was in automated testing. That is a topic that many developers talk about, usually with a slight sense of shame, or a tinge of regret. There is almost always a tacit acknowledgement that it is important, and we should be doing it, but for many reasons, it is not happening.
 

@@ -2,8 +2,10 @@
 title:          Retrieving iOS Shared Web Credentials
 date:           2016-08-05 14:00:00-0700
 summary:        Simplify authentication for your users
-category:       reference
-tags:           code
+category:       General
+tags:
+- code
+- reference
 ---
 
 ## The problem

@@ -2,8 +2,10 @@
 title:          Installing on iOS 10 with Xcode 7
 date:           2016-08-26 14:00:00-0700
 summary:        Keep working on your production-ready apps, even while running the iOS beta on your phone
-category:       reference
-tags:           code
+category:       General
+tags:
+- code
+- reference
 ---
 
 Like many developers, I was anxious to install iOS 10 on my devices. This summer, I went all in and installed iOS 10 beta on my primary iPhone, iPad, as well as watchOS 3 beta on my Apple Watch. I have had remarkably few issues, but one of the major problems was installing apps that I still needed to work on that needed to be shipped before iOS 10 came out.
