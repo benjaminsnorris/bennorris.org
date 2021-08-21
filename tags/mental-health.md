@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: Mental Health
-taxonomy: Mental Health
+taxonomy: mental health
 permalink: /tags/mental-health/
 ---

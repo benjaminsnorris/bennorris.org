@@ -1,6 +1,6 @@
 ---
 layout: tag
 title: Sketchnotes
-taxonomy: Sketchnotes
+taxonomy: sketchnotes
 permalink: /tags/sketchnotes/
 ---
