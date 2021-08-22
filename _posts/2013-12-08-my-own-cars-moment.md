@@ -1,6 +1,7 @@
 ---
-layout: post
 title: My own Cars moment
+date: 2013-12-08 11:43:00-0700
+category: General
 ---
 Anyone who has ever searched for something related to web development has run into Chris. He runs the blog [CSS-Tricks](https://css-tricks.com), as well as [Code Pen](https://codepen.io), and the podcast [Shop Talk Show](https://shoptalkshow.com). He’s like your own personal Mr. Miyagi in a can—always available to pop out when you need advice. He is now one of my heroes as he has unknowingly become something of a mentor on my path to front-end web development competence.
 

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Meeting Your Heroes
+date: 2013-12-07 13:23:00-0700
+category: General
 ---
 We all have moments that shape our lives to take us in different directions. For some people, it might be reading a particular book; for others, it might be hearing an influential talk; and for others, it might be just meeting someone. We often don't realize in the moment that we are being transformed, but as we look back on our lives, it is easy to pick out those turning points. It can be dangerous when those turning points are so closely aligned with people that they become heroes to us. The danger is that they are human, and the possibility of eventual disappointment is huge.
 
