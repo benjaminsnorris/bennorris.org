@@ -5,9 +5,9 @@ image: https://media.bennorris.org/images/mentalworkhealth/angrily-pounding-meta
 categories:     
 - Mental Work Health
 tags:           
-- Mental Health
-- Weekly Update
-- Sketchnotes
+- mental health
+- weekly update
+- sketchnotes
 ---
 
 In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.

@@ -4,8 +4,8 @@ date: 2021-08-20 11:30:00-0700
 categories:     
 - Mental Work Health
 tags:           
-- Mental Health
-- Weekly Update
+- mental health
+- weekly update
 ---
 
 This week I share about delightful last-minute plans for **my birthday** and one of my heroes, **[John Moe](https://www.johnmoe.website/)**.
