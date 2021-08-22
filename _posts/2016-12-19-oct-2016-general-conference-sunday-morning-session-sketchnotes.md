@@ -9,7 +9,7 @@ tags:
 - general conference
 ---
 
-[PDF of entire collection (3 MB)]{{ site.media_url }}(/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-05-sun-morning-sketchnotes.pdf)
+[PDF of entire collection (3 MB)]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-05-sun-morning-sketchnotes.pdf)
 
 ![General Conference Sketchnotes 23]({{ site.media_url }}/images/sketchnotes/general-conference-oct-2016/oct-2016-general-conference-sketchnote-23.jpg)
 _Thomas S. Monson: The Perfect Path to Happiness_
