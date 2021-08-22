@@ -16,7 +16,7 @@
 lang: en-US
 title: Ben Norris
 email: info@bennorris.org
-description: The online home for Ben Norris
+description: Sharing mental health, parenting, leadership, and other thoughts
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://bennorris.org
 media_url: https://media.bennorris.org
@@ -34,7 +34,7 @@ date_format: "%-d %b %Y"
 date_time:   "%-d %b %Y, %I:%M %p"
 timezone:    America/Denver
 tag_archive_path: /tags/
-category_archive_path: /categories/
+category_archive_path: /
 
 # Build settings
 markdown: kramdown
