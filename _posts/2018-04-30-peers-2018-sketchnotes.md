@@ -1,6 +1,6 @@
 ---
 title: Peers 2018 Sketchnotes
-summary: Sketchnotes from the 2018 Peers Conference
+excerpt: Sketchnotes from the 2018 Peers Conference
 category: Sketchnotable
 tags: sketchnotes
 read_time: false

@@ -1,7 +1,7 @@
 ---
 title:          iOS 10 and my apps
 date:           2016-06-20 08:20:00-0700
-summary:        Some raw thoughts on how the new possibilities announced at WWDC 2016 might affect my apps
+excerpt:        Some raw thoughts on how the new possibilities announced at WWDC 2016 might affect my apps
 category:       General
 tags:           code
 ---

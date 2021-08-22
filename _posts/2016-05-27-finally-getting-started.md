@@ -1,7 +1,7 @@
 ---
 title:          Finally getting started
 date:           2016-05-27 14:12:00-0700
-summary:        After putting this off far too long, I’m finally blogging.
+excerpt:        After putting this off far too long, I’m finally blogging.
 category:       General
 ---
 

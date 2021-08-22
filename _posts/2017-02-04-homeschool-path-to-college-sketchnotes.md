@@ -1,6 +1,6 @@
 ---
 title: Homeschool Path to College Sketchnotes
-summary: Sketchnotes from a homeschool presentation on helping prepare children in high school for college
+excerpt: Sketchnotes from a homeschool presentation on helping prepare children in high school for college
 read_time:      false
 category: Gospel Sketcher
 tags:

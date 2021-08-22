@@ -1,7 +1,7 @@
 ---
 title:          Adding automation to open-source projects
 date:           2016-09-16 13:00:00-0700
-summary:        Improving projects and increasing self-guilt with Travis, Slather and Codecov
+excerpt:        Improving projects and increasing self-guilt with Travis, Slather and Codecov
 category:       General
 tags:
 - code

@@ -1,6 +1,6 @@
 ---
 title: Crucial Conversations Sketchnotes
-summary: A major step in my path to a black belt in Crucial Conversations
+excerpt: A major step in my path to a black belt in Crucial Conversations
 category: Sketchnotable
 tags:
 - sketchnotes

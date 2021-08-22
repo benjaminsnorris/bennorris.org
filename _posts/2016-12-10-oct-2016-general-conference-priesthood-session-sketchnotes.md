@@ -1,7 +1,7 @@
 ---
 title:          Oct 2016 General Conference Priesthood Session Sketchnotes
 date:           2016-12-10 07:15:00-0700
-summary:        Sketchnotes of all talks in the Priesthood session from Oct 2016 LDS General Conference
+excerpt:        Sketchnotes of all talks in the Priesthood session from Oct 2016 LDS General Conference
 read_time:      false
 category:       Gospel Sketcher
 tags:

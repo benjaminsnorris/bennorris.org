@@ -1,7 +1,7 @@
 ---
 title:          Writing reusable code
 date:           2016-07-05 14:10:00-0700
-summary:        Make your own life easier by focusing on writing code that you can reuse in multiple projects
+excerpt:        Make your own life easier by focusing on writing code that you can reuse in multiple projects
 category:       General
 tags:           code
 ---

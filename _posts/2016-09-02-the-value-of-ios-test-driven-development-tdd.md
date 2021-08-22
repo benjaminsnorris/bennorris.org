@@ -1,7 +1,7 @@
 ---
 title:          The value of iOS test-driven development (TDD)
 date:           2016-09-02 13:00:00-0700
-summary:        Starting with tests helps you write better code
+excerpt:        Starting with tests helps you write better code
 category:       General
 tags:
 - code

@@ -1,6 +1,6 @@
 ---
 title: Public drafts with a GitHub Pages blog
-summary: Improve the process of publishing from anywhere by previewing drafts on your actual site
+excerpt: Improve the process of publishing from anywhere by previewing drafts on your actual site
 category: General
 tags:
 - reference

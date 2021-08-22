@@ -1,7 +1,7 @@
 ---
 title:          Apple Special Event Sep 2016 Sketchnotes
 date:           2016-09-07 17:30:00-0700
-summary:        A summary of my sketchnotes from the iPhone 7 launch
+excerpt:        A summary of my sketchnotes from the iPhone 7 launch
 read_time:      false
 category:       Sketchnotable
 tags:

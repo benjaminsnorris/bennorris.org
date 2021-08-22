@@ -1,7 +1,7 @@
 ---
 title:          Takeaways from Release Notes
 date:           2016-09-30 13:30:00-0600
-summary:        Turning a pleasant fire hose of information into actionable improvement
+excerpt:        Turning a pleasant fire hose of information into actionable improvement
 category:       General
 ---
 

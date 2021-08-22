@@ -12,7 +12,7 @@ The most important thing I’m doing right now is continuing to recover from and
 
 My day job is mobile manager at [O.C. Tanner](https://www.octanner.com) where I am lucky to lead a great team building world-class iOS apps.
 
-I also publish some of my own apps on the side through my business [BSN Design](http://bsn.design).
+I also publish some of my own apps on the side through my business [BSN Design](https://bsn.design).
 
 One of my biggest hobbies is sketchnoting, and I post business sketchnotes in [Sketchnotable](/sketchnotable/) and religious sketchnotes in [Gospel Sketcher](/gospel-sketcher/).
 

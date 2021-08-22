@@ -1,6 +1,6 @@
 ---
 title: Using Workflow to publish to GitHub Pages
-summary: Leverage the power of automation to reduce friction in publishing from anywhere
+excerpt: Leverage the power of automation to reduce friction in publishing from anywhere
 category: General
 tags:
 - reference

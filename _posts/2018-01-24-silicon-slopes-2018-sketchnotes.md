@@ -1,6 +1,6 @@
 ---
 title: Silicon Slopes 2018 Sketchnotes
-summary: Sketchnotes from the Silicon Slopes 2018 Tech Summit
+excerpt: Sketchnotes from the Silicon Slopes 2018 Tech Summit
 read_time:      false
 category: Sketchnotable
 tags:

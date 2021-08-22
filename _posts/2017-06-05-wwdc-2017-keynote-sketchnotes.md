@@ -1,6 +1,6 @@
 ---
 title: WWDC 2017 Keynote Sketchnotes
-summary: Sketchnotes from the keynote of WWDC 2017
+excerpt: Sketchnotes from the keynote of WWDC 2017
 read_time:      false
 category: Sketchnotable
 tags:

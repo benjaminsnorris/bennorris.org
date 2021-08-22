@@ -1,7 +1,7 @@
 ---
 title:          Oct 2016 General Conference Sunday Afternoon Session Sketchnotes
 date:           2016-12-27 07:15:00-0700
-summary:        Sketchnotes of all talks in the Sunday afternoon session from Oct 2016 LDS General Conference
+excerpt:        Sketchnotes of all talks in the Sunday afternoon session from Oct 2016 LDS General Conference
 read_time:      false
 category:       Gospel Sketcher
 tags:
