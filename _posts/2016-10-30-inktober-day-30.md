@@ -3,6 +3,7 @@ title:          Inktober day 30
 date:           2016-10-30 14:54:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 30: Wreck.

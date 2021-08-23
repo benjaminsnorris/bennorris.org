@@ -3,6 +3,7 @@ date:           2016-10-01 22:15:00-0700
 title:          Inktober day 1
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 Fast.

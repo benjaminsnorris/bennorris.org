@@ -3,6 +3,7 @@ title:          Inktober day 9
 date:           2016-10-09 16:14:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 9: Broken.

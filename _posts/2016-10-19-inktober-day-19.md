@@ -3,6 +3,7 @@ title:          Inktober day 19
 date:           2016-10-19 22:30:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 19: Flight.

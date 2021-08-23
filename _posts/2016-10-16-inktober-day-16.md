@@ -3,6 +3,7 @@ title:          Inktober day 16
 date:           2016-10-16 20:13:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 16: Wet.

@@ -3,6 +3,7 @@ title:          Inktober day 26
 date:           2016-10-26 19:31:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 26: Box.

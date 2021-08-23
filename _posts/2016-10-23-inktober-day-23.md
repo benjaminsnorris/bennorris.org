@@ -3,6 +3,7 @@ title:          Inktober day 23
 date:           2016-10-23 22:33:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 23: Slow.

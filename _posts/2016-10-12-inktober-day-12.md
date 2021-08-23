@@ -3,6 +3,7 @@ title:          Inktober day 12
 date:           2016-10-12 19:23:00-0700
 category:       Sketchnotable
 tags:           inktober
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 12: Worried.

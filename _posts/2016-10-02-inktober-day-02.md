@@ -5,6 +5,7 @@ category:       Sketchnotable
 tags:
 - inktober
 - general conference
+read_time:      false
 excerpt_separator: "<!--more-->"
 ---
 [#inktober]({{ site.url }}/tags/inktober) day 2: Noisy.
