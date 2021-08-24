@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Being a parent is hazardous to your health.
 
-![Worried parent]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-12.jpg)
+![Worried parent]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-12.jpg){:loading="lazy"}
 
 <!--more-->

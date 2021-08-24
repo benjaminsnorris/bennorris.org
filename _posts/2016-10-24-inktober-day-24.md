@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Once you get past four or so, it stops mattering how many there are.
 
-![Dozen kids]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-24.jpg)
+![Dozen kids]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-24.jpg){:loading="lazy"}
 
 <!--more-->

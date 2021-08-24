@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Collect all the things!
 
-![Collect everything]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-03.jpg)
+![Collect everything]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-03.jpg){:loading="lazy"}
 
 <!--more-->

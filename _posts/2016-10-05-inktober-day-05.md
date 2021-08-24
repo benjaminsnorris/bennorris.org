@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Some days, even the rain is not enough.
 
-![Rain storm]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-05.jpg)
+![Rain storm]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-05.jpg){:loading="lazy"}
 
 <!--more-->

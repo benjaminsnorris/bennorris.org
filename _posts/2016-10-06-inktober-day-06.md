@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Three small friends enjoying the cafe.
 
-![Cafe terrace]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-06.jpg)
+![Cafe terrace]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-06.jpg){:loading="lazy"}
 
 <!--more-->

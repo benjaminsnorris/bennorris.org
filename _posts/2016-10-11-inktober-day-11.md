@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Sometimes a box on wheels is the best way to get stuff around.
 
-![Truck]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-11.jpg)
+![Truck]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-11.jpg){:loading="lazy"}
 
 <!--more-->

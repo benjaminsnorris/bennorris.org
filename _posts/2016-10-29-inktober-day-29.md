@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Boo! 👻
 
-![Ghost surprise]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-29.jpg)
+![Ghost surprise]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-29.jpg){:loading="lazy"}
 
 <!--more-->

@@ -11,14 +11,14 @@ tags:
 
 [PDF of entire collection (2 MB)]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-01-womens-sketchnotes.pdf)
 
-![General Conference Sketchnotes 01]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-01.jpg)
+![General Conference Sketchnotes 01]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-01.jpg){:loading="lazy"}
 _Jean B. Bingham: I Will Bring the Light of the Gospel into My Home_
 
-![General Conference Sketchnotes 02]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-02.jpg)
+![General Conference Sketchnotes 02]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-02.jpg){:loading="lazy"}
 _Carole M. Stephens: The Master Healer_
 
-![General Conference Sketchnotes 03]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-03.jpg)
+![General Conference Sketchnotes 03]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-03.jpg){:loading="lazy"}
 _Bonnie L. Oscarson: Rise Up in Strength, Sisters in Zion_
 
-![General Conference Sketchnotes 04]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-04.jpg)
+![General Conference Sketchnotes 04]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-04.jpg){:loading="lazy"}
 _Dieter F. Uchtdorf: Fourth Floor, Last Door_

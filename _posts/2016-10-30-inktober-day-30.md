@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 “This was clean when I left two minutes ago!”
 
-![Messy room]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-30.jpg)
+![Messy room]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-30.jpg){:loading="lazy"}
 
 <!--more-->

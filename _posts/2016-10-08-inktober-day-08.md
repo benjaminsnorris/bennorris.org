@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Back and forth and back and forth.
 
-![Rocking chair]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-08.jpg)
+![Rocking chair]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-08.jpg){:loading="lazy"}
 
 <!--more-->

@@ -14,7 +14,7 @@ I had a wonderful time sketchnoting a talk a day for my personal studies from th
 
 [PDF of entire collection (18 MB)]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/october-2016-general-conference-sketchnotes.pdf)
 
-![General Conference Sketchnotes 00]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg)
+![General Conference Sketchnotes 00]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg){:loading="lazy"}
 
 [Women’s Session]({% post_url 2017-01-01-oct-2016-general-conference-womens-session-sketchnotes %})
 

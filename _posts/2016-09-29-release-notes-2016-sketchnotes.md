@@ -12,40 +12,40 @@ tags:
 
 [PDF of entire collection (8 MB)]({{ site.media_url }}/images/sketchnotable/release-notes-2016/Release-Notes-2016-Sketchnotes.pdf)
 
-![Release Notes 01]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-01.jpg)
+![Release Notes 01]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-01.jpg){:loading="lazy"}
 
-![Release Notes 02]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-02.jpg)
+![Release Notes 02]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-02.jpg){:loading="lazy"}
 _Cristina Warren: It will be fine...probably (Part I)_
 
-![Release Notes 03]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-03.jpg)
+![Release Notes 03]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-03.jpg){:loading="lazy"}
 _Cristina Warren: It will be fine...probably (Part II)_
 
-![Release Notes 04]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-04.jpg)
+![Release Notes 04]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-04.jpg){:loading="lazy"}
 _Greg Pierce: Navigating indie life_
 
-![Release Notes 05]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-05.jpg)
+![Release Notes 05]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-05.jpg){:loading="lazy"}
 _David Sparks: Legal advice for developers_
 
-![Release Notes 06]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-06.jpg)
+![Release Notes 06]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-06.jpg){:loading="lazy"}
 _App Camp for Girls: [Donate](https://releasenotes.tv/appcamp4girls)_
 
-![Release Notes 07]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-07.jpg)
+![Release Notes 07]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-07.jpg){:loading="lazy"}
 _Matthew Bischoff: Write your way out_
 
-![Release Notes 08]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-08.jpg)
+![Release Notes 08]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-08.jpg){:loading="lazy"}
 _Ariel Michaeli: Is your app ready to make money?_
 
-![Release Notes 09]({{ site.media_url }}images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-09.jpg)
+![Release Notes 09]({{ site.media_url }}images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-09.jpg){:loading="lazy"}
 _Sarah Hatter: How to improve at support as a developer_
 
-![Release Notes 10]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-10.jpg)
+![Release Notes 10]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-10.jpg){:loading="lazy"}
 _Jaimee Newberry: The art of the sell_
 
-![Release Notes 11]({{ site.media_url }}images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-11.jpg)
+![Release Notes 11]({{ site.media_url }}images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-11.jpg){:loading="lazy"}
 _Litha Soyizwapi: A long walk to app development_
 
-![Release Notes 12]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-12.jpg)
+![Release Notes 12]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-12.jpg){:loading="lazy"}
 _Rich Siegel: Better marketing through cupcakes_
 
-![Release Notes 13]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-13.jpg)
+![Release Notes 13]({{ site.media_url }}/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-13.jpg){:loading="lazy"}
 _Stephen Hackett: Myths and adjustments for indie life_

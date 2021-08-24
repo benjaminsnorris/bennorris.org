@@ -5,7 +5,7 @@ excerpt:        Turning a pleasant fire hose of information into actionable impr
 category:       General
 ---
 
-![Union Station]({{ site.media_url }}/images/posts/indianapolis.jpg)
+![Union Station]({{ site.media_url }}/images/posts/indianapolis.jpg){:loading="lazy"}
 _Old Union Station in Indianapolis_
 
 This week, I attended [Release Notes](https://releasenotes.tv/conference), and it was great. I sketchnoted the talks, and [posted a summary]({% post_url 2016-09-29-release-notes-2016-sketchnotes %}) with all of them. Before I came to the conference, my wife asked what I was hoping to get out of it, and my first answer was to meet new people. She was a little surprised by that, and reminded me that networking is not something that I typically enjoy or do particularly well. So I set a goal to talk with at least one person each day for an extended time and get to know them better.

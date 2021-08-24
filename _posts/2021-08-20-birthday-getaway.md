@@ -23,7 +23,7 @@ My birthday was last weekend. (Thank you for the reflexive mental well wishes. Y
 
 I loved that idea.
 
-![Weight of responsibility illustration](https://media.bennorris.org/images/mentalworkhealth/weight-of-responsibility.jpg)
+![Weight of responsibility illustration](https://media.bennorris.org/images/mentalworkhealth/weight-of-responsibility.jpg){:loading="lazy"}
 _Weight of responsibility_
 
 I drew the image above for the 2020 TOATC OCD Awareness Week Art Exhibit contest[^1] at the [OCD & Anxiety Treatment Center](https://www.theocdandanxietytreatmentcenter.com/) where I did an intensive outpatient program. The weight of responsibility is a huge part of my OCD. I describe my diagnosis of scrupulosity as a superset of perfectionism. In many ways, it is the drive to be perfect with the threat of eternal damnation looming over any failure, of which they are naturally many each day. Often, when I reach my breaking point, I feel as if I’m being crushed by the different responsibilities in my life.

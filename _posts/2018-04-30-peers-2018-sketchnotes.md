@@ -11,37 +11,37 @@ Our iOS team had the opportunity to attend Peers Conference for the first time t
 
 [PDF of entire collection (13 MB)]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnotes.pdf)
 
-![peers-2018-sketchnote-01]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-01.jpg)
+![peers-2018-sketchnote-01]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-01.jpg){:loading="lazy"}
 
-![peers-2018-sketchnote-02]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-02.jpg)
+![peers-2018-sketchnote-02]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-02.jpg){:loading="lazy"}
 _Leanne Shapton—Intro to GraphQL Workshop_
 
-![peers-2018-sketchnote-03]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-03.jpg)
+![peers-2018-sketchnote-03]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-03.jpg){:loading="lazy"}
 _Tanya Tarr—How to Negotiate with Difficult Personalities_
 
-![peers-2018-sketchnote-04]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-04.jpg)
+![peers-2018-sketchnote-04]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-04.jpg){:loading="lazy"}
 _Garrett Winder—Productizing Web Services to Stabilize Business Cash Flow_
 
-![peers-2018-sketchnote-05]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-05.jpg)
+![peers-2018-sketchnote-05]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-05.jpg){:loading="lazy"}
 _Charles Perry—Brute-Forcing Customer Acquisition with Cold Email_
 
-![peers-2018-sketchnote-06]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-06.jpg)
+![peers-2018-sketchnote-06]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-06.jpg){:loading="lazy"}
 _Natalie & Anthony Armendariz, Jamie (& Ian) Landsman, Natalie & Chris Nagele—Partnership Panel: Making Marriage and Business Work_
 
-![peers-2018-sketchnote-07]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-07.jpg)
+![peers-2018-sketchnote-07]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-07.jpg){:loading="lazy"}
 _Joe Rinaldi—Building a Reliable Business Development Process_
 
-![peers-2018-sketchnote-08]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-08.jpg)
+![peers-2018-sketchnote-08]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-08.jpg){:loading="lazy"}
 _Eryn O'Neil—So You're the Tech Lead? Now What?_
 
-![peers-2018-sketchnote-09]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-09.jpg)
+![peers-2018-sketchnote-09]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-09.jpg){:loading="lazy"}
 _Cat Johnson—Online, But Alone: A Case for In-Person Communities_
 
-![peers-2018-sketchnote-10]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-10.jpg)
+![peers-2018-sketchnote-10]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-10.jpg){:loading="lazy"}
 _Cecy Correa—The Psychology of Fake News (And What Tech Can Do About It)_
 
-![peers-2018-sketchnote-11]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-11.jpg)
+![peers-2018-sketchnote-11]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-11.jpg){:loading="lazy"}
 _Manton Reece—Indie Microblogging_
 
-![peers-2018-sketchnote-12]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-12.jpg)
+![peers-2018-sketchnote-12]({{ site.media_url }}/images/sketchnotable/peers-2018/peers-2018-sketchnote-12.jpg){:loading="lazy"}
 _Sameera Kapila—Desinging Diversity and Inclusion_

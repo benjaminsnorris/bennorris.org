@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Often the best things in life just take time.
 
-![Reading book]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-23.jpg)
+![Reading book]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-23.jpg){:loading="lazy"}
 
 <!--more-->

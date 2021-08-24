@@ -31,14 +31,14 @@ _All examples are using my [TextMagic](https://github.com/benjaminsnorris/TextMa
   <a href="https://travis-ci.org/benjaminsnorris/TextMagic"><img src="https://img.shields.io/travis/benjaminsnorris/TextMagic.svg" alt="Build Status"></a>
   <br/>
   <code class="highlighter-rouge">
-    [![Build Status](https://img.shields.io/travis/benjaminsnorris/TextMagic.svg)](https://travis-ci.org/benjaminsnorris/TextMagic)
+    [![Build Status](https://img.shields.io/travis/benjaminsnorris/TextMagic.svg)](https://travis-ci.org/benjaminsnorris/TextMagic){:loading="lazy"}
   </code>
   <br/>
   <br/>
   <a href="https://codecov.io/gh/benjaminsnorris/TextMagic"><img src="https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg" alt="Code Coverage"></a>
   <br/>
   <code class="highlighter-rouge">
-    [![codecov](https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg)](https://codecov.io/gh/benjaminsnorris/TextMagic)  </code>
+    [![codecov](https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg)](https://codecov.io/gh/benjaminsnorris/TextMagic){:loading="lazy"}  </code>
 </div>
 
 ## Sample `travis.yml` file

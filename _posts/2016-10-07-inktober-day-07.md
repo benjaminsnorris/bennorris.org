@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 What do you do when you find yourself in the jungle?
 
-![Jungle]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-07.jpg)
+![Jungle]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-07.jpg){:loading="lazy"}
 
 <!--more-->

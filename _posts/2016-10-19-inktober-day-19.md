@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Even the magic of your first flight doesn’t stop you missing home.
 
-![First flight]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-19.jpg)
+![First flight]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-19.jpg){:loading="lazy"}
 
 <!--more-->

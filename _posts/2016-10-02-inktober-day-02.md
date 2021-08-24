@@ -12,6 +12,6 @@ excerpt_separator: "<!--more-->"
 
 Watching [General Conference]({{ site.url }}/tags/ldsconf) as a family is wonderful, but not always quiet.
 
-![Watching conference]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-02.jpg)
+![Watching conference]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-02.jpg){:loading="lazy"}
 
 <!--more-->

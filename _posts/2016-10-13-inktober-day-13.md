@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 “Dad, can’t I take you anywhere!?”
 
-![Scared dad]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-13.jpg)
+![Scared dad]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-13.jpg){:loading="lazy"}
 
 <!--more-->

@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Breakfast in bed from the kids is such a mixed blessing…
 
-![Burned food]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-28.jpg)
+![Burned food]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-28.jpg){:loading="lazy"}
 
 <!--more-->

@@ -11,23 +11,23 @@ tags:
 
 [PDF of entire collection (3 MB)]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-06-sun-afternoon-sketchnotes.pdf)
 
-![General Conference 31]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-31.jpg)
+![General Conference 31]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-31.jpg){:loading="lazy"}
 _David A. Bednar: “If Ye Had Known Me”_
 
-![General Conference 32]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-32.jpg)
+![General Conference 32]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-32.jpg){:loading="lazy"}
 _Brian K. Ashton: The Doctrine of Christ_
 
-![General Conference 33]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-33.jpg)
+![General Conference 33]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-33.jpg){:loading="lazy"}
 _Carl B. Cook: Serve_
 
-![General Conference 34]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-34.jpg)
+![General Conference 34]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-34.jpg){:loading="lazy"}
 _Ronald A. Rasband: Lest Thou Forget_
 
-![General Conference 35]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-35.jpg)
+![General Conference 35]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-35.jpg){:loading="lazy"}
 _Evan A. Schmutz: God Shall Wipe Away All Tears_
 
-![General Conference 36]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-36.jpg)
+![General Conference 36]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-36.jpg){:loading="lazy"}
 _K. Brett Nattress: No Greater Joy Than to Know That They Know_
 
-![General Conference 37]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-37.jpg)
+![General Conference 37]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-37.jpg){:loading="lazy"}
 _Dale G. Renlund: Repentance: A Joyful Choice_

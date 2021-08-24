@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Somehow this always comes as a surprise to the kids.
 
-![Toothpaste]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-20.jpg)
+![Toothpaste]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-20.jpg){:loading="lazy"}
 
 <!--more-->

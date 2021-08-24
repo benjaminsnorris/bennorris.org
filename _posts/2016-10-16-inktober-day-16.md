@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 That moment when you realize the first activity of the day requires a change of clothes.
 
-![Wet slide]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-16.jpg)
+![Wet slide]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-16.jpg){:loading="lazy"}
 
 <!--more-->

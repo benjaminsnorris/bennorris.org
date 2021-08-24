@@ -13,10 +13,10 @@ One of my favorite books is [Crucial Conversations](https://amzn.to/2E4AOAg). I 
 
 [PDF of entire collection (5 MB)]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnotes.pdf)
 
-![Crucial Conversations Sketchnote 1]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-1.jpg)
+![Crucial Conversations Sketchnote 1]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-1.jpg){:loading="lazy"}
 
-![Crucial Conversations Sketchnote 2]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-2.jpg)
+![Crucial Conversations Sketchnote 2]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-2.jpg){:loading="lazy"}
 
-![Crucial Conversations Sketchnote 3]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-3.jpg)
+![Crucial Conversations Sketchnote 3]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-3.jpg){:loading="lazy"}
 
-![Crucial Conversations Sketchnote 4]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-4.jpg)
+![Crucial Conversations Sketchnote 4]({{ site.media_url }}/images/sketchnotable/crucial-conversations/crucial-conversations-sketchnote-4.jpg){:loading="lazy"}

@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Just don’t ask how I drew this with no reference.
 
-![Fighting child]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-17.jpg)
+![Fighting child]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-17.jpg){:loading="lazy"}
 
 <!--more-->

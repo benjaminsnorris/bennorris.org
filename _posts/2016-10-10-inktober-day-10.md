@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Earn your wings!
 
-![Parachuting]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-10.jpg)
+![Parachuting]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-10.jpg){:loading="lazy"}
 
 <!--more-->

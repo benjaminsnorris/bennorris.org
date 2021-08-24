@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 The best playgrounds are natural.
 
-![Playing in tree]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-14.jpg)
+![Playing in tree]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-14.jpg){:loading="lazy"}
 
 <!--more-->

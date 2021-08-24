@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 All brothers know how to inspire fear.
 
-![Creepy brother]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-27.jpg)
+![Creepy brother]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-27.jpg){:loading="lazy"}
 
 <!--more-->

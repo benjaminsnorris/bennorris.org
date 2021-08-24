@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Saturday afternoon college football. Or so I’ve heard.
 
-![Watching football]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-15.jpg)
+![Watching football]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-15.jpg){:loading="lazy"}
 
 <!--more-->

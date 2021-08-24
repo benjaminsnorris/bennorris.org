@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Sometimes only a bowl of cereal can satisfy.
 
-![Bowl of cereal]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-04.jpg)
+![Bowl of cereal]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-04.jpg){:loading="lazy"}
 
 <!--more-->

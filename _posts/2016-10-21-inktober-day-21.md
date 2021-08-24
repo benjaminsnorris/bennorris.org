@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 “So big!”
 
-![So big baby]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-21.jpg)
+![So big baby]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-21.jpg){:loading="lazy"}
 
 <!--more-->

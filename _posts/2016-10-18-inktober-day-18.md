@@ -10,6 +10,6 @@ excerpt_separator: "<!--more-->"
 
 Getting dressed: the daily ritual that transforms a parent into a warden.
 
-![Escaping child]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-18.jpg)
+![Escaping child]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-18.jpg){:loading="lazy"}
 
 <!--more-->
