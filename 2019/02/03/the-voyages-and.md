@@ -1,4 +1,0 @@
----
-layout: redirected
-redirect_to: https://www.bennorris.blog/2019/02/03/the-voyages-and.html
----
