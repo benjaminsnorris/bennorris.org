@@ -1,8 +1,9 @@
 ---
 title: "Peers 2018 Sketchnotes"
 excerpt: Sketchnotes from the 2018 Peers Conference
+tags:
+- sketchnotes
 category: Sketchnotable
-tags: sketchnotes
 read_time: false
 date: 2018-04-30 11:38:55-0600
 ---

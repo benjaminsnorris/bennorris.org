@@ -1,6 +1,8 @@
 ---
 title: "Release Notes 2019 Sketchnotes"
 date: 2019-10-06 00:15:56-0000
+tags:
+- sketchnotes
 category: Sketchnotable
 ---
 

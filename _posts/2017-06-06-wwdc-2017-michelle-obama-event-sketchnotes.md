@@ -1,8 +1,9 @@
 ---
 title: "WWDC 2017 Michelle Obama Event Sketchnotes"
 excerpt: Sketchnotes from the conversation between Michelle Obama and Lisa Jackson
+tags:
+- sketchnotes
 category: Sketchnotable
-tags: sketchnotes
 read_time:      false
 date: 2017-06-06 10:45:02-0800
 excerpt_separator: "<!--more-->"

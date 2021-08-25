@@ -1,6 +1,8 @@
 ---
 title: "Úll 2016 Sketchnotes"
 date: 2016-11-02 14:45:00-0000
+tags:
+- sketchnotes
 category: Sketchnotable
 ---
 

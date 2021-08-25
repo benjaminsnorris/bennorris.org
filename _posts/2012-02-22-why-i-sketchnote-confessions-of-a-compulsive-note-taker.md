@@ -1,6 +1,8 @@
 ---
 title: "Why I Sketchnote: Confessions of a Compulsive Note-Taker"
 date: 2012-02-22 03:05:55-0000
+tags:
+- sketchnotes
 category: Sketchnotable
 ---
 
