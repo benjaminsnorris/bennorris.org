@@ -88,8 +88,6 @@ def createPostFile(post, config):
         tags = post['tags'].split(',')
         for tag in tags:
             frontmatter += '- ' + tag + '\n'
-            if tag == 'mental health':
-                category = 'Mental Work Health'
     if category:
         frontmatter += 'category: ' + category + '\n'
     if '<!--more-->' in text:
@@ -108,8 +106,8 @@ def createPostFile(post, config):
 
 def main():
     # postTypes: post, micro, all
-    config = {'postType':'post', 'category':'General', 'requireTag': False, 'dir': 'posts'}
-    posts = parseXML('bennorris_wordpress.xml',  config)
+    config = {'postType':'post', 'category':'Mental Work Health', 'requireTag': False, 'dir': 'posts'}
+    posts = parseXML('mwh_wordpress.xml',  config)
     createPostFiles(posts,  config)
 
 main()
