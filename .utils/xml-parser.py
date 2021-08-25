@@ -20,6 +20,13 @@ def parseXML(xmlfile, config):
         post = {}
         shouldInclude = True
         tags = ''
+        excludeTags = ''
+        if 'excludeTags' in config:
+            excludeTags = config['excludeTags']
+        removeTags = ''
+        if 'removeTags' in config:
+            removeTags = config['removeTags']
+
         for child in item:
             if child.tag == wp+'post_type' and child.text == 'attachment':
                 shouldInclude = False
@@ -32,11 +39,15 @@ def parseXML(xmlfile, config):
                 if child.text:
                     post['content'] = child.text
             elif child.tag == 'category':
-                allTags[child.text] = True
-                if tags:
-                    tags += ',' + child.text.lower()
-                else:
-                    tags = child.text.lower()
+                tag = child.text.lower()
+                allTags[tag] = True
+                if tag in excludeTags:
+                    shouldInclude = False
+                elif tag not in removeTags:
+                    if tags:
+                        tags += ',' + tag
+                    else:
+                        tags = tag
         
         if postType != 'all':
             if 'title' in post:
@@ -44,6 +55,13 @@ def parseXML(xmlfile, config):
                     shouldInclude = False
             elif postType != 'micro':
                 shouldInclude = False
+
+        if 'category' in config:
+            if config['category'] == "Gospel Sketcher" or config['category'] == "Sketchnotable":
+                if tags:
+                    tags = "sketchnotes," + tags
+                else:
+                    tags = "sketchnotes"
 
         if tags:
             post['tags'] = tags
@@ -59,8 +77,11 @@ def parseXML(xmlfile, config):
     return posts
 
 def createPostFiles(posts, config):
+    filenames = []
     for post in posts:
-        createPostFile(post, config)
+        filename = createPostFile(post, config)
+        filenames.append(filename)
+    return filenames
         
 def createPostFile(post, config):
     filename = post['filedate'] + '-'
@@ -74,6 +95,7 @@ def createPostFile(post, config):
         frontmatter += 'title: "' + post['title'] + '"\n'
         title = post['title'].lower()
         title = title.replace('’','')
+        title = title.replace("'", '')
         title = re.sub('\A[^a-zA-Z]*|\W*\Z','',title)
         title = re.sub('[^a-z0-9]+','-',title)
         title = urllib.parse.quote(title)
@@ -88,6 +110,8 @@ def createPostFile(post, config):
         tags = post['tags'].split(',')
         for tag in tags:
             frontmatter += '- ' + tag + '\n'
+            if tag == 'mental health':
+                category = 'Mental Work Health'
     if category:
         frontmatter += 'category: ' + category + '\n'
     if '<!--more-->' in text:
@@ -97,17 +121,33 @@ def createPostFile(post, config):
     text = frontmatter + text
 
     if 'dir' in config:
-        filename = config['dir'] + "/" + filename
+        dir = config['dir'] + "/"
+        if 'title' in post:
+            dir += "posts/"
+        else:
+            dir += "microposts/"
+        filename = dir + filename
 
-    print(filename)
     file = open(filename,'w')
     file.write(text)
     file.close
 
+    return filename
+
 def main():
     # postTypes: post, micro, all
-    config = {'postType':'post', 'category':'Mental Work Health', 'requireTag': False, 'dir': 'posts'}
-    posts = parseXML('mwh_wordpress.xml',  config)
-    createPostFiles(posts,  config)
+    config = {
+        'postType':'all', 
+        'category':'General', 
+        'requireTag': False, 
+        'dir': 'bennorris', 
+        'excludeTags': 'books,movies',
+        'removeTags': 'articles'
+        }
+    posts = parseXML('bennorris_wordpress.xml',  config)
+    filenames = createPostFiles(posts,  config)
+    for filename in filenames:
+        print('created file=' + filename)
+    print('\ncreated ' + str(len(filenames)) + ' files')
 
 main()
