@@ -1,6 +1,8 @@
 ---
 title: "General Conference Sketchnotes Oct 2019"
 date: 2019-10-06 22:20:00-0000
+tags:
+- sketchnotes
 category: Gospel Sketcher
 ---
 

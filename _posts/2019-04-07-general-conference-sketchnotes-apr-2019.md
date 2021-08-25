@@ -1,6 +1,8 @@
 ---
 title: "General Conference Sketchnotes Apr 2019"
 date: 2019-04-07 22:43:12-0000
+tags:
+- sketchnotes
 category: Gospel Sketcher
 ---
 

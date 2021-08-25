@@ -1,6 +1,8 @@
 ---
 title: "Apr 2016 General Conference Saturday Morning Session Sketchnotes"
 date: 2017-02-28 12:45:45-0000
+tags:
+- sketchnotes
 category: Gospel Sketcher
 ---
 

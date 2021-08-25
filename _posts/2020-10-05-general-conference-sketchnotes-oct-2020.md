@@ -1,6 +1,8 @@
 ---
 title: "General Conference Sketchnotes Oct 2020"
 date: 2020-10-05 02:06:07-0000
+tags:
+- sketchnotes
 category: Gospel Sketcher
 ---
 
