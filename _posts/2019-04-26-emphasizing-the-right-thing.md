@@ -2,6 +2,7 @@
 title: "🌀 Emphasizing the right thing"
 date: 2019-04-26 21:02:16-0000
 tags:
+- mindfulness
 - musings
 category: General
 excerpt_separator: "<!--more-->"

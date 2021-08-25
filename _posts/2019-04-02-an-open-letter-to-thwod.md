@@ -1,6 +1,9 @@
 ---
 title: "📝 An open letter to THWoD"
 date: 2019-04-02 14:44:00-0000
+tags:
+- open letter
+- mental health
 category: General
 excerpt_separator: "<!--more-->"
 ---

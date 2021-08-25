@@ -2,8 +2,9 @@
 title: "🌀 Just write"
 date: 2019-07-03 14:56:46-0000
 tags:
+- mental health
 - musings
-category: General
+category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---
 

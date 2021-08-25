@@ -3,7 +3,8 @@ title: "🧘🏻‍♂️ Ninety days of meditation"
 date: 2019-04-16 14:41:06-0000
 tags:
 - mindfulness
-category: General
+- mental health
+category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---
 

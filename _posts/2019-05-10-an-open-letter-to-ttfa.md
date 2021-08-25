@@ -1,6 +1,9 @@
 ---
 title: "📃 An open letter to TTFA"
 date: 2019-05-10 17:23:00-0000
+tags:
+- open letter
+- mental health
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -2,8 +2,9 @@
 title: "🌀 Learning to be kind"
 date: 2019-07-05 17:25:00-0000
 tags:
+- mental health
 - musings
-category: General
+category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---
 
