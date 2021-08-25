@@ -1,9 +1,7 @@
 ---
 title: "😂 Zombies under the bed"
 date: 2019-12-26 18:45:00-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 

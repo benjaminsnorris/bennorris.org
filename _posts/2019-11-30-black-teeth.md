@@ -1,9 +1,7 @@
 ---
 title: "😂 Black teeth"
 date: 2019-11-30 17:17:00-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 

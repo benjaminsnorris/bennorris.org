@@ -1,9 +1,7 @@
 ---
 title: "😂 Cold Dr. Pepper"
 date: 2020-08-24 00:54:40-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Cold hands 😂"
 date: 2020-04-10 15:03:00-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 

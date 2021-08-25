@@ -1,9 +1,7 @@
 ---
 title: "😂 Tooth fairy"
 date: 2019-11-03 00:00:00-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 

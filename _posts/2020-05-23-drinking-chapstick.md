@@ -1,9 +1,7 @@
 ---
 title: "Drinking chapstick 😂"
 date: 2020-05-23 04:26:00-0000
-tags:
-- kid quotes
-category: General
+category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---
 
