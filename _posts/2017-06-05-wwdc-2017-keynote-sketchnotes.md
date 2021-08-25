@@ -1,5 +1,5 @@
 ---
-title: WWDC 2017 Keynote Sketchnotes
+title: "WWDC 2017 Keynote Sketchnotes"
 excerpt: Sketchnotes from the keynote of WWDC 2017
 read_time:      false
 category: Sketchnotable

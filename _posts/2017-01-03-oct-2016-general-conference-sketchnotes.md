@@ -1,5 +1,5 @@
 ---
-title:          Oct 2016 General Conference Sketchnotes
+title:          "Oct 2016 General Conference Sketchnotes"
 date:           2017-01-03 07:00:00-0700
 excerpt:        Sketchnotes of all talks from Oct 2016 LDS General Conference
 read_time:      false

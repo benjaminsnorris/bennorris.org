@@ -1,5 +1,5 @@
 ---
-title:          Oct 2016 General Conference Women’s Session Sketchnotes
+title:          "Oct 2016 General Conference Women’s Session Sketchnotes"
 date:           2017-01-01 07:45:00-0700
 excerpt:        Sketchnotes of all talks in the Women’s session from Oct 2016 LDS General Conference
 read_time:      false

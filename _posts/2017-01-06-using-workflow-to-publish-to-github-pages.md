@@ -1,5 +1,5 @@
 ---
-title: Using Workflow to publish to GitHub Pages
+title: "Using Workflow to publish to GitHub Pages"
 excerpt: Leverage the power of automation to reduce friction in publishing from anywhere
 category: General
 tags:

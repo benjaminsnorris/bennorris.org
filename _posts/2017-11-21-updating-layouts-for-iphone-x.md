@@ -1,5 +1,5 @@
 ---
-title: Updating layouts for iPhone X
+title: "Updating layouts for iPhone X"
 excerpt: An ongoing summary of lessons learned from updating designs for the iPhone X
 category: General
 tags:

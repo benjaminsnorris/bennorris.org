@@ -1,5 +1,5 @@
 ---
-title:          Takeaways from Release Notes
+title:          "Takeaways from Release Notes"
 date:           2016-09-30 13:30:00-0600
 excerpt:        Turning a pleasant fire hose of information into actionable improvement
 category:       General

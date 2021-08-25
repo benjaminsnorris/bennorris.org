@@ -1,5 +1,5 @@
 ---
-title:          Lopsided relationships
+title:          "Lopsided relationships"
 date:           2016-08-12 14:10:00-0700
 excerpt:        Navigating both sides of uneven relationships
 category:       General

@@ -1,5 +1,5 @@
 ---
-title: Crucial Conversations Sketchnotes
+title: "Crucial Conversations Sketchnotes"
 excerpt: A major step in my path to a black belt in Crucial Conversations
 category: Sketchnotable
 tags:

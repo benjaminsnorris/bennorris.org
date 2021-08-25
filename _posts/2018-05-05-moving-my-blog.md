@@ -1,5 +1,5 @@
 ---
-title: Moving my blog to <a href='http://bsn.design'>bsn.design</a>
+title: "Moving my blog to <a href='http://bsn.design'>bsn.design</a>"
 excerpt: My blog has moved to a new home
 category: General
 date: 2018-05-05 02:49:44-0600

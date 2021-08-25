@@ -1,5 +1,5 @@
 ---
-title:          Installing on iOS 10 with Xcode 7
+title:          "Installing on iOS 10 with Xcode 7"
 date:           2016-08-26 14:00:00-0700
 excerpt:        Keep working on your production-ready apps, even while running the iOS beta on your phone
 category:       General

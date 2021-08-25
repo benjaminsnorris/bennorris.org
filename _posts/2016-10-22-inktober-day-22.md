@@ -1,5 +1,5 @@
 ---
-title:          Inktober day 22
+title:          "Inktober day 22"
 date:           2016-10-22 22:18:00-0700
 category:       Sketchnotable
 tags:           inktober

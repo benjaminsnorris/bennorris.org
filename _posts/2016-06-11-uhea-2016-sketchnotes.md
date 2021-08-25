@@ -1,5 +1,5 @@
 ---
-title:          UHEA 2016 Sketchnotes
+title:          "UHEA 2016 Sketchnotes"
 date:           2016-06-11 17:30:00-0700
 excerpt:        Sketchnotes from a few talks at the Utah Home Education Association convention.
 category:

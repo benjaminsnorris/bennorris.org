@@ -1,5 +1,5 @@
 ---
-title:          Inktober day 18
+title:          "Inktober day 18"
 date:           2016-10-18 22:24:00-0700
 category:       Sketchnotable
 tags:           inktober

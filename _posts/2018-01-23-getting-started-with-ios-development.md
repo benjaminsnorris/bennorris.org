@@ -1,5 +1,5 @@
 ---
-title: Getting started with iOS development
+title: "Getting started with iOS development"
 excerpt: A basic set of resources for those considering learning to code iOS apps
 category: General
 tags:

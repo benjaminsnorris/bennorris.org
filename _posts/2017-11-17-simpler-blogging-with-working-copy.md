@@ -1,5 +1,5 @@
 ---
-title: Simpler blogging with Working Copy
+title: "Simpler blogging with Working Copy"
 excerpt: Combining Workflow and Working Copy makes for powerful, easy blogging from iOS with a GitHub Pages blog
 category: General
 tags: reference

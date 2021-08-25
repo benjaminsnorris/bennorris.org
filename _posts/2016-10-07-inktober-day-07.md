@@ -1,5 +1,5 @@
 ---
-title:          Inktober day 7
+title:          "Inktober day 7"
 date:           2016-10-07 14:16:00-0700
 category:       Sketchnotable
 tags:           inktober

@@ -1,5 +1,5 @@
 ---
-title: Automating Scripture Quotes
+title: "Automating Scripture Quotes"
 excerpt: Using Workflow to extract markdown quotes of scriptures
 category: General
 tags: reference

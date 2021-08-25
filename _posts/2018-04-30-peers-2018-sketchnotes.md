@@ -1,5 +1,5 @@
 ---
-title: Peers 2018 Sketchnotes
+title: "Peers 2018 Sketchnotes"
 excerpt: Sketchnotes from the 2018 Peers Conference
 category: Sketchnotable
 tags: sketchnotes

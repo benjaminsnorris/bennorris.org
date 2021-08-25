@@ -1,5 +1,5 @@
 ---
-title:          The Luxury of Launching into Obscurity
+title:          "The Luxury of Launching into Obscurity"
 date:           2016-05-31 16:30:00-0700
 excerpt:        Launching without an audience is intimidating and empowering.
 category:       General

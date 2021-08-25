@@ -1,5 +1,5 @@
 ---
-title: Meeting Your Heroes
+title: "Meeting Your Heroes"
 date: 2013-12-07 13:23:00-0700
 category: General
 ---

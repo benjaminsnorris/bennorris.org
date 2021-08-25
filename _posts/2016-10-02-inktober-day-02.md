@@ -1,6 +1,6 @@
 ---
 date:           2016-10-02 13:05:00-0700
-title:          Inktober day 2
+title:          "Inktober day 2"
 category:       Sketchnotable
 tags:
 - inktober

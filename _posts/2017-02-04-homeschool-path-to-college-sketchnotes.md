@@ -1,5 +1,5 @@
 ---
-title: Homeschool Path to College Sketchnotes
+title: "Homeschool Path to College Sketchnotes"
 excerpt: Sketchnotes from a homeschool presentation on helping prepare children in high school for college
 read_time:      false
 category: Gospel Sketcher

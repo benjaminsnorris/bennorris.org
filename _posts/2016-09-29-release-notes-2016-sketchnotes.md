@@ -1,5 +1,5 @@
 ---
-title:          Release Notes 2016 Sketchnotes
+title:          "Release Notes 2016 Sketchnotes"
 date:           2016-09-29 17:30:00-0700
 excerpt:        A collection of my sketchnotes from the Release Notes 2016 conference
 read_time:      false

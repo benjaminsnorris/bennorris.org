@@ -1,5 +1,5 @@
 ---
-title: Why I Sketchnote: Confessions of a Compulsive Note-Taker
+title: "Why I Sketchnote: Confessions of a Compulsive Note-Taker"
 date: 2013-11-09 14:12:00-0700
 category: General
 tags:
