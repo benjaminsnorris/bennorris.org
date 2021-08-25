@@ -3,7 +3,6 @@ title: "🌀 Just write"
 date: 2019-07-03 14:56:46-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

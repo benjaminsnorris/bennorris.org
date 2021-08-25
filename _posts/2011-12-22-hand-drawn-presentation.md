@@ -1,8 +1,6 @@
 ---
 title: "Hand-Drawn Presentation"
 date: 2011-12-22 13:53:06-0000
-tags:
-- articles
 category: General
 ---
 

@@ -3,7 +3,6 @@ title: "🎙 4: Playing Solo"
 date: 2019-02-07 19:07:25-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

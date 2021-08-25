@@ -2,7 +2,6 @@
 title: "🛡 A leader’s role: protect"
 date: 2020-04-15 21:54:18-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

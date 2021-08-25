@@ -3,7 +3,6 @@ title: "🌀 Going grayscale"
 date: 2019-02-08 18:56:53-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

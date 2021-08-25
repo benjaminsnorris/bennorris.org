@@ -3,7 +3,6 @@ title: "🌀 Did you do your best?"
 date: 2019-01-08 18:42:56-0000
 tags:
 - musings
-- articles
 - favorites
 category: General
 excerpt_separator: "<!--more-->"

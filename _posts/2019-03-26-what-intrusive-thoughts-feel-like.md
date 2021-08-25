@@ -3,7 +3,6 @@ title: "💮 What intrusive thoughts feel like"
 date: 2019-03-26 14:51:46-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

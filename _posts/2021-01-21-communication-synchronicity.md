@@ -2,7 +2,6 @@
 title: "🛡 Communication synchronicity"
 date: 2021-01-21 22:28:28-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

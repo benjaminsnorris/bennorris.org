@@ -1,8 +1,6 @@
 ---
 title: "Presentation Recreation"
 date: 2011-12-09 23:39:10-0000
-tags:
-- articles
 category: General
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Meeting Your Heroes"
 date: 2013-12-08 04:47:37-0000
-tags:
-- articles
 category: General
 ---
 

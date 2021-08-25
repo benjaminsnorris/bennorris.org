@@ -2,7 +2,6 @@
 title: "🗒 Book review template"
 date: 2019-04-14 22:48:46-0000
 tags:
-- articles
 - reviews
 category: General
 excerpt_separator: "<!--more-->"

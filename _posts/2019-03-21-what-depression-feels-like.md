@@ -3,7 +3,6 @@ title: "💮 What depression feels like"
 date: 2019-03-21 18:55:54-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

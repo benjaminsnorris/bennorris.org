@@ -3,7 +3,6 @@ title: "🌀 Trivializing gratitude"
 date: 2019-02-21 20:56:45-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

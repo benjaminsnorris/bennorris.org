@@ -1,8 +1,6 @@
 ---
 title: "Verbal violence"
 date: 2021-05-04 03:30:01-0000
-tags:
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

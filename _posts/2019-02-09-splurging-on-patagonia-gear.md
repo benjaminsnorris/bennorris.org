@@ -3,7 +3,6 @@ title: "🌀 Splurging on Patagonia gear"
 date: 2019-02-09 20:02:45-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

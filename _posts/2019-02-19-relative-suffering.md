@@ -3,7 +3,6 @@ title: "🌀 Relative suffering"
 date: 2019-02-19 19:16:10-0000
 tags:
 - musings
-- articles
 - favorites
 category: General
 excerpt_separator: "<!--more-->"

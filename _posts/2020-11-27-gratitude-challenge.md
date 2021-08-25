@@ -1,8 +1,6 @@
 ---
 title: "Gratitude challenge"
 date: 2020-11-27 17:26:00-0000
-tags:
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

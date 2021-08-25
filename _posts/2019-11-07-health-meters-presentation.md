@@ -3,7 +3,6 @@ title: "💮 Health meters presentation"
 date: 2019-11-07 22:20:00-0000
 tags:
 - mental health
-- articles
 - videos
 category: Mental Work Health
 excerpt_separator: "<!--more-->"

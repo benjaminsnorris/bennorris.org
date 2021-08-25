@@ -1,8 +1,6 @@
 ---
 title: "UX/Product Management Webinar"
 date: 2012-04-17 19:54:02-0000
-tags:
-- articles
 category: General
 ---
 

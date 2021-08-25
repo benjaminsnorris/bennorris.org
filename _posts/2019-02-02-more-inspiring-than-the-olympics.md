@@ -3,7 +3,6 @@ title: "🌀 More inspiring than the Olympics"
 date: 2019-02-02 18:04:43-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

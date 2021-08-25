@@ -1,8 +1,6 @@
 ---
 title: "Basic and Enhanced Mockups"
 date: 2011-12-19 14:08:15-0000
-tags:
-- articles
 category: General
 ---
 

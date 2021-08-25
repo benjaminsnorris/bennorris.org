@@ -3,7 +3,6 @@ title: "🧘🏻‍♂️ Ninety days of meditation"
 date: 2019-04-16 14:41:06-0000
 tags:
 - mindfulness
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

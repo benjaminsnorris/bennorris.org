@@ -1,8 +1,6 @@
 ---
 title: "Hello world!"
 date: 2011-11-18 00:01:26-0000
-tags:
-- articles
 category: General
 ---
 

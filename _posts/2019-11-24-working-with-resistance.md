@@ -3,7 +3,6 @@ title: "🔗 Working with resistance"
 date: 2019-11-24 16:49:16-0000
 tags:
 - links
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

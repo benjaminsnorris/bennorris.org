@@ -1,8 +1,6 @@
 ---
 title: "Digital Learning Day 2012"
 date: 2012-02-02 13:22:20-0000
-tags:
-- articles
 category: General
 ---
 

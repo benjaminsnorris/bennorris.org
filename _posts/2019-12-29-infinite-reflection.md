@@ -3,7 +3,6 @@ title: "😂 Infinite reflection"
 date: 2019-12-29 02:17:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

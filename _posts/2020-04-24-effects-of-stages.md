@@ -2,7 +2,6 @@
 title: "🛡 Effects of stages"
 date: 2020-04-24 16:09:25-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

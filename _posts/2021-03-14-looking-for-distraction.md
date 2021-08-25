@@ -1,8 +1,6 @@
 ---
 title: "Looking for distraction"
 date: 2021-03-14 21:10:04-0000
-tags:
-- articles
 category: General
 ---
 

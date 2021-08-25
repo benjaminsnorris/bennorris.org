@@ -3,7 +3,6 @@ title: "🔗 The Slipstream of Comfort"
 date: 2019-02-04 02:31:35-0000
 tags:
 - links
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

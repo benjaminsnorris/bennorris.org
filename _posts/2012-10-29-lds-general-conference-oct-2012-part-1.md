@@ -1,8 +1,6 @@
 ---
 title: "LDS General Conference Oct 2012 Part 1"
 date: 2012-10-29 03:08:38-0000
-tags:
-- articles
 category: General
 ---
 

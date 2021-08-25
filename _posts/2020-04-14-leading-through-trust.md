@@ -2,7 +2,6 @@
 title: "🛡 Leading through trust"
 date: 2020-04-14 22:01:00-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

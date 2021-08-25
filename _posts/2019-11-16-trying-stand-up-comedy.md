@@ -3,7 +3,6 @@ title: "💮 Trying stand-up comedy"
 date: 2019-11-16 23:59:00-0000
 tags:
 - mental health
-- articles
 - favorites
 - videos
 category: Mental Work Health

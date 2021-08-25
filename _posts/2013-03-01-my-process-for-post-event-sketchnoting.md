@@ -1,8 +1,6 @@
 ---
 title: "My Process for Post-Event Sketchnoting"
 date: 2013-03-01 13:48:47-0000
-tags:
-- articles
 category: General
 ---
 

@@ -3,7 +3,6 @@ title: "🌀 Learning to be kind"
 date: 2019-07-05 17:25:00-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

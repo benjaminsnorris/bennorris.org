@@ -3,7 +3,6 @@ title: "🌀 Sleeping on hardwood floors"
 date: 2019-01-04 17:05:54-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

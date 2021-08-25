@@ -1,8 +1,6 @@
 ---
 title: "Greenfield vs. Brownfield"
 date: 2021-07-16 15:25:24-0000
-tags:
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

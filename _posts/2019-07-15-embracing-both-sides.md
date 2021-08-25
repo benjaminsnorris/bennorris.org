@@ -3,7 +3,6 @@ title: "🔗 Embracing both sides"
 date: 2019-07-15 02:38:00-0000
 tags:
 - links
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

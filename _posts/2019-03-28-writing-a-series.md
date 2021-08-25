@@ -3,7 +3,6 @@ title: "🌀 Writing a series"
 date: 2019-03-28 16:31:32-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "🌀 Unleashing inner creativity"
 date: 2020-04-22 14:25:11-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

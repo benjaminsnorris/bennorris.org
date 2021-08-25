@@ -3,7 +3,6 @@ title: "🌀 I wanna vacuum"
 date: 2018-12-19 18:57:41-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

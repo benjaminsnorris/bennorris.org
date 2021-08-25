@@ -3,7 +3,6 @@ title: "💮 Playing through injuries"
 date: 2019-02-11 21:05:53-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

@@ -1,8 +1,6 @@
 ---
 title: "Sketchnotes for Tax Webinar"
 date: 2013-02-19 14:26:03-0000
-tags:
-- articles
 category: General
 ---
 

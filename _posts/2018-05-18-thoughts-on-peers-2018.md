@@ -1,8 +1,6 @@
 ---
 title: "Thoughts on Peers 2018"
 date: 2018-05-18 18:54:25-0000
-tags:
-- articles
 category: General
 ---
 

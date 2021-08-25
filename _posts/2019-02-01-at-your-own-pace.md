@@ -3,7 +3,6 @@ title: "🎙 2: At Your Own Pace"
 date: 2019-02-01 00:43:25-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

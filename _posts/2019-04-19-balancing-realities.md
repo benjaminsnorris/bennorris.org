@@ -3,7 +3,6 @@ title: "💮 Balancing realities"
 date: 2019-04-19 18:30:46-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

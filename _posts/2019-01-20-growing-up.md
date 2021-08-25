@@ -3,7 +3,6 @@ title: "🔗 Growing up"
 date: 2019-01-20 17:02:56-0000
 tags:
 - links
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

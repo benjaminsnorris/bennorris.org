@@ -3,7 +3,6 @@ title: "🌀 Allowing emotions"
 date: 2019-05-02 18:09:00-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "💮 The loneliest club"
 date: 2019-03-12 18:09:00-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

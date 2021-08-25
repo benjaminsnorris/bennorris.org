@@ -2,7 +2,6 @@
 title: "🛡 Remote work thoughts"
 date: 2020-05-12 19:09:00-0000
 tags:
-- articles
 - favorites
 - leadership
 category: General

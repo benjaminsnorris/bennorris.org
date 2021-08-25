@@ -3,7 +3,6 @@ title: "😂 Stupid bees"
 date: 2020-09-11 14:33:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "💮 What OCD feels like"
 date: 2019-03-25 16:26:44-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

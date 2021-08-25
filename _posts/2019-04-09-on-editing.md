@@ -3,7 +3,6 @@ title: "🎙 On Editing"
 date: 2019-04-09 14:28:00-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "🌀 Ordering by size"
 date: 2019-02-22 18:12:50-0000
 tags:
 - musings
-- articles
 - favorites
 category: General
 excerpt_separator: "<!--more-->"

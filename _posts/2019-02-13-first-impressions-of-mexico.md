@@ -3,7 +3,6 @@ title: "🎙 5: First Impressions of Mexico"
 date: 2019-02-13 21:43:00-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

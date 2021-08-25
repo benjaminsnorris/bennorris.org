@@ -3,7 +3,6 @@ title: "💮 Promoting mental wellness"
 date: 2019-11-22 03:22:01-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

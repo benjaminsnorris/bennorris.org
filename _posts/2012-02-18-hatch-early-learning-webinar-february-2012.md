@@ -1,8 +1,6 @@
 ---
 title: "Hatch Early Learning Webinar February 2012"
 date: 2012-02-18 03:04:25-0000
-tags:
-- articles
 category: General
 ---
 

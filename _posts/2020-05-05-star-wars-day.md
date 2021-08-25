@@ -3,7 +3,6 @@ title: "Star Wars Day 😂"
 date: 2020-05-05 03:02:47-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

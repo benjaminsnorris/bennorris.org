@@ -1,8 +1,6 @@
 ---
 title: "Presentation Creation"
 date: 2011-12-09 23:46:29-0000
-tags:
-- articles
 category: General
 ---
 

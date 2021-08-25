@@ -3,7 +3,6 @@ title: "💮 Let’s take care of us"
 date: 2019-11-29 16:09:03-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

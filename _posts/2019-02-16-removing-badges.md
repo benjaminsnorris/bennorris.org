@@ -3,7 +3,6 @@ title: "🌀 Removing badges"
 date: 2019-02-16 15:42:57-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

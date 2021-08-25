@@ -1,8 +1,6 @@
 ---
 title: "Home Education"
 date: 2011-11-28 20:02:40-0000
-tags:
-- articles
 category: General
 ---
 

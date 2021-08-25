@@ -3,7 +3,6 @@ title: "🌀 Trivializing apologies"
 date: 2019-02-21 00:12:42-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

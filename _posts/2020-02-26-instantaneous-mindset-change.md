@@ -3,7 +3,6 @@ title: "🌀 Instantaneous mindset change"
 date: 2020-02-26 20:34:10-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

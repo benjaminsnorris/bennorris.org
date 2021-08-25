@@ -1,8 +1,6 @@
 ---
 title: "Sketchnotes for Webinar on Raising Capital"
 date: 2013-03-01 03:58:18-0000
-tags:
-- articles
 category: General
 ---
 

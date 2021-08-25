@@ -3,7 +3,6 @@ title: "🌀 Emphasizing the right thing"
 date: 2019-04-26 21:02:16-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

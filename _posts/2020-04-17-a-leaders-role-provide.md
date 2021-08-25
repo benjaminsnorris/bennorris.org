@@ -2,7 +2,6 @@
 title: "🛡 A leader’s role: provide"
 date: 2020-04-17 19:10:39-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

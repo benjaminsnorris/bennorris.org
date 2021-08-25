@@ -3,7 +3,6 @@ title: "💮 How are you?"
 date: 2019-01-30 16:24:45-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

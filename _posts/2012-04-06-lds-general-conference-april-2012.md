@@ -1,8 +1,6 @@
 ---
 title: "LDS General Conference April 2012"
 date: 2012-04-06 02:14:51-0000
-tags:
-- articles
 category: General
 ---
 

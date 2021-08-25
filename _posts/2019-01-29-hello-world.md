@@ -3,7 +3,6 @@ title: "🎙 1: Hello World"
 date: 2019-01-29 20:36:27-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

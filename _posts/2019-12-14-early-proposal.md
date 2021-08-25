@@ -3,7 +3,6 @@ title: "😂 Early proposal"
 date: 2019-12-14 23:44:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

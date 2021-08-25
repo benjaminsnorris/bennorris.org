@@ -3,7 +3,6 @@ title: "🔗 How to be kind"
 date: 2019-11-15 20:33:10-0000
 tags:
 - links
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

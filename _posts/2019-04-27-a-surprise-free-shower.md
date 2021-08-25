@@ -3,7 +3,6 @@ title: "😂 A surprise-free shower"
 date: 2019-04-27 17:14:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

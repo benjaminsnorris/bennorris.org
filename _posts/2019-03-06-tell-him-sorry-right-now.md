@@ -3,7 +3,6 @@ title: "🌀 “Tell him sorry right now!”"
 date: 2019-03-06 15:51:48-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

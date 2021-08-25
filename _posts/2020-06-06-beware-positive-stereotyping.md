@@ -3,7 +3,6 @@ title: "🌀 Beware positive stereotyping"
 date: 2020-06-06 14:48:28-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "🌀 People matter most"
 date: 2019-07-19 01:27:00-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

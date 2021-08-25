@@ -1,8 +1,6 @@
 ---
 title: "Presentation Clean Up"
 date: 2011-12-09 23:26:19-0000
-tags:
-- articles
 category: General
 ---
 

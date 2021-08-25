@@ -3,7 +3,6 @@ title: "😂 Thought not"
 date: 2020-08-27 15:27:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

@@ -3,7 +3,6 @@ title: "🌀 Getting distracted"
 date: 2019-09-24 15:47:53-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

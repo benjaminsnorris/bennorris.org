@@ -3,7 +3,6 @@ title: "🧪 UI-TDD with Xcode Part II"
 date: 2018-09-20 19:03:00-0000
 tags:
 - testing
-- articles
 - videos
 category: General
 excerpt_separator: "<!--more-->"

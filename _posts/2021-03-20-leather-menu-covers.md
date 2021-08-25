@@ -1,8 +1,6 @@
 ---
 title: "Leather menu covers"
 date: 2021-03-20 06:47:10-0000
-tags:
-- articles
 category: General
 ---
 

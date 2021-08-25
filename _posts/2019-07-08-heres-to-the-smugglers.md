@@ -3,7 +3,6 @@ title: "🇺🇸 Here’s to the smugglers"
 date: 2019-07-08 20:24:00-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

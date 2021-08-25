@@ -3,7 +3,6 @@ title: "💮 Experiences over artifacts"
 date: 2019-08-23 16:30:00-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

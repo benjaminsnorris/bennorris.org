@@ -2,7 +2,6 @@
 title: "🛡 Stages of leadership"
 date: 2020-04-21 18:18:59-0000
 tags:
-- articles
 - leadership
 category: General
 excerpt_separator: "<!--more-->"

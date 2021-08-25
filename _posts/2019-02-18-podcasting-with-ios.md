@@ -3,7 +3,6 @@ title: "🎙 6: Podcasting with iOS"
 date: 2019-02-18 21:32:00-0000
 tags:
 - podcast
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

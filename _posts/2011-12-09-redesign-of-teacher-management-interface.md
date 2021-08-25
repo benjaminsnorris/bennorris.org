@@ -1,8 +1,6 @@
 ---
 title: "Redesign of Teacher Management Interface"
 date: 2011-12-09 23:02:15-0000
-tags:
-- articles
 category: General
 ---
 

@@ -3,7 +3,6 @@ title: "🌀 Thanksgiving carving"
 date: 2018-11-26 16:29:26-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

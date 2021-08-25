@@ -1,8 +1,6 @@
 ---
 title: "Moving my blog to bsn.design"
 date: 2018-05-05 20:16:54-0000
-tags:
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

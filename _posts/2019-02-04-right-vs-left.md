@@ -3,7 +3,6 @@ title: "💮 Right vs left"
 date: 2019-02-04 15:05:29-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---

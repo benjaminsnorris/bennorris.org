@@ -3,7 +3,6 @@ title: "🌀 Requesting a table"
 date: 2019-02-10 18:16:26-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

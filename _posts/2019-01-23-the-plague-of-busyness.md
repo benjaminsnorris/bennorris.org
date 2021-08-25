@@ -3,7 +3,6 @@ title: "🌀 The plague of busyness"
 date: 2019-01-23 15:46:20-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

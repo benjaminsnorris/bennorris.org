@@ -1,8 +1,6 @@
 ---
 title: "Sketchnote Presentation Oct 2012"
 date: 2012-10-11 17:18:36-0000
-tags:
-- articles
 category: General
 ---
 

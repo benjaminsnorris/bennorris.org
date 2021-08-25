@@ -1,8 +1,6 @@
 ---
 title: "My own Cars moment"
 date: 2013-12-09 04:48:35-0000
-tags:
-- articles
 category: General
 ---
 

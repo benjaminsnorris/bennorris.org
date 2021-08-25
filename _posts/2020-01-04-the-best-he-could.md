@@ -3,7 +3,6 @@ title: "😂 The best he could"
 date: 2020-01-04 21:03:00-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

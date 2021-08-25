@@ -3,7 +3,6 @@ title: "🌀 Puppy parenting"
 date: 2018-12-30 20:23:50-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

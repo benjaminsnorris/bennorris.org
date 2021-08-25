@@ -1,8 +1,6 @@
 ---
 title: "LDS Tech Conference 2012"
 date: 2012-05-31 03:14:43-0000
-tags:
-- articles
 category: General
 ---
 

@@ -3,7 +3,6 @@ title: "💮 Summer reading fun"
 date: 2019-09-06 13:09:00-0000
 tags:
 - mental health
-- articles
 - favorites
 category: Mental Work Health
 excerpt_separator: "<!--more-->"

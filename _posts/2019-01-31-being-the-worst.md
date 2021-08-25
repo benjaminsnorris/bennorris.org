@@ -3,7 +3,6 @@ title: "🌀 Being the worst"
 date: 2019-01-31 18:12:54-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

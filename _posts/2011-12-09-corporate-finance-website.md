@@ -1,8 +1,6 @@
 ---
 title: "Corporate Finance Website"
 date: 2011-12-09 22:22:00-0000
-tags:
-- articles
 category: General
 ---
 

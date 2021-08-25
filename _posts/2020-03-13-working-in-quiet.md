@@ -3,7 +3,6 @@ title: "🌀 Working in quiet"
 date: 2020-03-13 22:24:22-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

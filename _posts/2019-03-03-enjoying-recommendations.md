@@ -3,7 +3,6 @@ title: "🌀 Enjoying recommendations"
 date: 2019-03-03 03:18:09-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

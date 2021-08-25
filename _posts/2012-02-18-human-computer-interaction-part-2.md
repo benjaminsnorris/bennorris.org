@@ -1,8 +1,6 @@
 ---
 title: "Human-Computer Interaction (Part 2)"
 date: 2012-02-18 02:58:12-0000
-tags:
-- articles
 category: General
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: "Sketchnotes for Next Thing Now Jan 2013"
 date: 2013-01-18 06:03:48-0000
-tags:
-- articles
 category: General
 ---
 

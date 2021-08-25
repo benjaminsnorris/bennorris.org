@@ -3,7 +3,6 @@ title: "😂 Force feeding"
 date: 2019-11-15 20:14:39-0000
 tags:
 - kid quotes
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

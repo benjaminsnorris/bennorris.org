@@ -3,7 +3,6 @@ title: "🌀 Not a comedian"
 date: 2019-04-01 13:44:32-0000
 tags:
 - musings
-- articles
 category: General
 excerpt_separator: "<!--more-->"
 ---

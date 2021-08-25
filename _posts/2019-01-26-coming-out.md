@@ -3,7 +3,6 @@ title: "💮 Coming out"
 date: 2019-01-26 15:33:34-0000
 tags:
 - mental health
-- articles
 - favorites
 category: Mental Work Health
 excerpt_separator: "<!--more-->"

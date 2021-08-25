@@ -1,8 +1,6 @@
 ---
 title: "Holding fewer meetings"
 date: 2021-03-19 05:47:38-0000
-tags:
-- articles
 category: General
 ---
 

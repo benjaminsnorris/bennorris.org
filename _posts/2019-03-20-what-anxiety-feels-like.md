@@ -3,7 +3,6 @@ title: "💮 What anxiety feels like"
 date: 2019-03-20 19:06:44-0000
 tags:
 - mental health
-- articles
 category: Mental Work Health
 excerpt_separator: "<!--more-->"
 ---
