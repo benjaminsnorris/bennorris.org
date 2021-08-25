@@ -7,8 +7,7 @@ excerpt_separator: "<!--more-->"
 
 Many of us have been thrust into coping with a global crisis by working from home, if we are lucky. For some, this is a welcome reprieve from the stresses of office life; for all, there are additional challenges. This leads to the question: should we support or pursue remote work when we have a choice?
 
-<!--more-->
-***
+<!--more-->***
 
 In a continued break from my ongoing series on [my story discovering mental health]({% post_url 2019-11-10-my-story %}), I wanted to share an article that I wrote about remote work on my personal blog [bennorris.org](https://bennorris.org). As many in the technology field, my team has been required to work from home lately, and it has given us an opportunity to consider whether this is a situation we would want to continue after it is no longer mandatory.
 

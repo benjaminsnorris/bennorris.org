@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 In our efforts to reassure someone that their transgression was not overly severe, we can inadvertently trivialize the effort it took for them to apologize to us.
 
 <!--more-->
-
 ***
 
 It is not uncommon for our natural instinct to preserve harmony and avoid discomfort to emerge when someone tries to apologize. We become uncomfortable that the other person is regretting what they have done, and seek to assure them that we are not upset. As I wrote about a few weeks ago in [Replacing sorry](https://www.bennorris.org/2019/01/25/replacing-sorry.html), we sometimes do this even when the other person is not apologizing. They say the words, “I’m sorry” and we immediately feel compelled to tell them that it’s fine.

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week’s update, I discuss a **purple monkey birthday party**, a **magical phrase**, and a **tricky programming bug**.
 
-<!--more-->
-***
+<!--more-->***
 
 The start of a new year has traditionally been a time I look forward to and enjoy greatly. In the past, I used to set all manner of detailed goals for the new year. For the past couple of years, I have taken an entirely new approach. My [2019 goals](https://www.bennorris.blog/2019/01/01/my-goals.html) were to **be intentional**, **be present** and **be curious**. My [2020 goals](https://www.bennorris.blog/2020/01/01/my-goals.html) were to **make more mistakes**, and **carry less to give more**.
 

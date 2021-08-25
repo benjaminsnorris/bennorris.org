@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week, I discuss **feeling emotions**, a **relaxing project**, and **sketchnoting**. 
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

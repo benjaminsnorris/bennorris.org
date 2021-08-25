@@ -13,7 +13,6 @@ excerpt_separator: "<!--more-->"
 A few thoughts on the process and effects of writing my first series, [“What mental illness feels like.”](https://www.bennorris.org/2019/03/18/what-mental-illness.html)
 
 <!--more-->
-
 ***
 
 As I shared in the conclusion of my overview of my [series on mental illness](https://www.bennorris.org/2019/03/18/what-mental-illness.html#conclusion), this was a learning exercise for me. This topic had been on my mind for a couple months. Part of the reason was to better understand my own experiences. In that sense, it was a resounding success.

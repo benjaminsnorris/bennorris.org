@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 The best analogy I have found for physical panic attacks is the Obscurus discovered by Newt Scamander. It sits dormant inside of me, ready to burst out and wreak havoc and destruction at any time.
 
 <!--more-->
-
 *Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
 
 ***

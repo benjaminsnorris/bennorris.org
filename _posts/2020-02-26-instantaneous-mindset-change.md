@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 Behavior exists in the realm of time because it requires action, but mindset exists in a timeless realm of thought. We can change our mindset in a split second.
 
-<!--more-->
-***
+<!--more-->***
 
 I recently had the opportunity to participate in some trainings by the [Arbinger Institute](https://arbinger.com/home.html). These trainings were hugely impactful on me, in both a professional and personal sense. They have published a number of books that include the same basic principles, such as [Leadership and Self-Deception](https://arbinger.com/Landing/LeadershipAndSelfDeception.html), [The Anatomy of Peace](https://arbinger.com/Landing/AnatomyOfPeace.html), and [The Outward Mindset](https://arbinger.com/Landing/TheOutwardMindset.html). The foundational principle is that mindset drives behavior.
 

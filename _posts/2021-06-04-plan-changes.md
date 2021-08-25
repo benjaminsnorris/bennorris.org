@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week’s update, I share about a change in plans, and the challenge that comes from dealing with the associated emotions.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

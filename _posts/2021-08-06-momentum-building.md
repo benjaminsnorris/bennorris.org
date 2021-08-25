@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week’s update, I discuss a **more difficult therapy session**, a **delightful group of sisters**, and an **inspiring TV show**.
 
-<!--more-->
-***
+<!--more-->***
 
 ## Something hard
 

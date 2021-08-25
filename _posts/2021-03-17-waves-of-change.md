@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my update this week, I share about **more departures at work**, **writing by hand**, and looking forward to a **new psychiatrist**.
 
-<!--more-->
-_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+<!--more-->_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 
 ## Something hard

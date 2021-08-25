@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week, I share about **sitting with emotions**, a **link between creativity and mental health**, and **respect**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

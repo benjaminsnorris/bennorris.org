@@ -11,8 +11,7 @@ excerpt_separator: "<!--more-->"
 
 Leadership permeates our lives. Good leadership has the ability to uplift, just as poor leadership corrodes. We will consider the effects in terms of **team makeup**, **team perspective**, and **team health**.
 
-<!--more-->
-*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
+<!--more-->*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
 
 ***
 

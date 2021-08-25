@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my update this week, I try something new, and share the **story of a panic attack**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

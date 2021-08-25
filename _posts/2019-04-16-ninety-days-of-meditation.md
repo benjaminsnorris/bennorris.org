@@ -13,7 +13,6 @@ excerpt_separator: "<!--more-->"
 A reflection on my daily meditation habit over the last three months.
 
 <!--more-->
-
 ***
 
 ## My journey

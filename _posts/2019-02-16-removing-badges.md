@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 Our societal concept of a badge of honor for having endured suffering can be detrimental and even destructive at times.
 
 <!--more-->
-
 ***
 
 As as society, we have an infatuation with suffering. I would like to think that it stems from a healthy, compassionate place. We feel intrinsically drawn to suffering, and our hearts go out to those affected. Obviously, this has been exploited in many different ways. Somewhere along the line, our perspective of the value of suffering has warped.

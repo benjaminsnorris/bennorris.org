@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This past challenging week brought **panic attacks**, **connecting moments**, and a **charming game**.
 
-<!--more-->
-_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+<!--more-->_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 
 So many people are having a hard time right now. If that includes you, I hope that you can find some good coping strategies. Ideally, those will also help your future self, and not sabotage it instead.

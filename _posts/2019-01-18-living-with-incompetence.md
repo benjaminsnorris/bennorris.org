@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 I heard in the news on the radio that the government shutdown has become the longest ever. It seems that everyone involved is happy to have it drag on as long as they are able to blame someone else for it. This behavior makes me sick and a bit worried about the future.
 
 <!--more-->
-
 It hit me that this kind of incompetence has become almost ubiquitous. We see people in positions of authority who appear to be comfortable with sitting back and looking for others to blame for their failures instead of working to create solutions.
 
 One of the problems is that we have come to equate experience, or time in position, with competence. We often promote the wrong people—someone who does well as an individual contributor gets promoted and immediately starts on the management track. These people then stay in management and begin to be considered as competent just because they have management experience.

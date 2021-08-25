@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 One of the fastest ways to grow is to put ourselves in situations where we are inexperienced or even incompetent.
 
 <!--more-->
-
 ***
 
 I took the opportunity the other day to join in an open [Pickleball](https://en.wikipedia.org/wiki/Pickleball) night at the local rec center. This was my second time ever playing in my life, and while I had a great time, I commented to a friend the next day,

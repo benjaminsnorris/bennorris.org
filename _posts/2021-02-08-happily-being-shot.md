@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In a quick update this week, I discuss **taking a week off**, a **date with my son**, and a **device fast**.
 
-<!--more-->
-***
+<!--more-->***
 
 I vacillated on whether to write an update this week, and in the end decided to write something quick. My hope is that this can still be helpful for you.
 

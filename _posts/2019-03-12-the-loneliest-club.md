@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 After coming to grips with the fact that I have a mental illness, I realized that I am part of the secret society of mental health sufferers.
 
 <!--more-->
-
 ***
 
 It is sad and ironic that one of the pernicious lies of mental illness is that you are alone and different from everyone else. While there is some truth to being different than most (or maybe just some!) people, you are far from alone. There are so many other people that grapple with the same kinds of issues.

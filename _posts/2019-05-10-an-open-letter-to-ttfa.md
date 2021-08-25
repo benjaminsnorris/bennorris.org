@@ -11,7 +11,6 @@ excerpt_separator: "<!--more-->"
 My thoughts and feelings for my new one-way friend, Nora McInerny, after listening to every episode of [Terrible, Thanks For Asking](http://ttfa.org).
 
 <!--more-->
-
 ***
 
 Dear Nora,

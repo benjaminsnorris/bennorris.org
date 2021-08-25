@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This update describes a **week of obsession** as well an illustration of **making progress**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

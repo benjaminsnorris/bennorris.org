@@ -14,7 +14,6 @@ Great inspiration on making small changes to set yourself apart: [Sunday Firesid
 > We often despair of finding success, and being noticed in a saturated field, feeling that we have to compete with everyone, and be many orders of magnitude greater. In reality, you just have to be a few degrees different to leave the masses behind.
 
 <!--more-->
-
 This jumped out as being directly applicable to me as an iOS developer. It can feel like the App Store is overcrowded; that there is no room to distinguish my apps. But it really doesn’t require insane amounts of investment—just a steady commitment to make great work. Of course, that’s not a business plan, but it is a means of differentiation.
 
 It’s also applicable more generally right now. This week I’ve been blogging more and have started a podcast. These are both skills that I want to develop more. It is easy to allow self-doubt to creep in and discourage me from pushing forward. “I’ll never be exceptional. I’ll never make a difference.”

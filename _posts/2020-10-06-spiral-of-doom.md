@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my update this week, I discuss **parenting**, **sketchnoting**, and **self-compassion**.
 
-<!--more-->
-***
+<!--more-->***
 
 Another roller coaster of a week has come and gone. Let’s get right into it.
 

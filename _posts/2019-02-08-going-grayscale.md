@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 In my recurring review of how I am using my phone, I have decided to make some drastic changes.
 
 <!--more-->
-
 ***
 
 I started reading [Digital Minimalism](http://calnewport.com/books/digital-minimalism/) by Cal Newport the other day, and last night, I came across a reference to an organization that was new to me. Time Well Spent is a movement created by the [Center for Humane Technology](http://humanetech.com/) to help people be more intentional about their use of technology. As I looked through their site, one suggestion they made was to turn your phone grayscale, and make it easy to do so using the Accessibility Shortcut to [Filter Colors](https://support.apple.com/en-us/HT207025). A friend had done this before and advised me to do the same, so I had set up the shortcut, but rarely used it. I decided that I wanted this to be my default interaction with my phone. I will leave it on, and switch it off only intentionally, and for a short time.

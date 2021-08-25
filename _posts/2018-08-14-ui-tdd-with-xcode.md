@@ -11,7 +11,6 @@ excerpt_separator: "<!--more-->"
 Last week I had the opportunity to present at our local Cocoaheads meetup. At work, I have been focused on testing more as of late, and have been working to get our UI tests in much better shape.
 
 <!--more-->
-
 I adapted an approach that our Test Engineering department has been taking with automated tests for our web apps. Essentially, we create a page object to represent each screen in the app, and include all of the elements, actions, and verifications needed for that screen. Then the actual UI tests just reference the page objects using the exposed API of actions and verifications. As an example, this has changed a call from this:
 
 `XCUIApplication().tables.children(matching: .cell).element(boundBy: 0).staticTexts["2018-07-03 20:45:14 +0000"].tap()`

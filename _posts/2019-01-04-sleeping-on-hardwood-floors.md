@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 Watching our new puppy sleep has helped me remember that sometimes people don’t need or want the help we feel compelled to offer.
 
 <!--more-->
-
 ***
 
 Our puppy seems to alternate between two modes—unbridled energy or complete lethargy. My daughter has been doing a great job of taking him out regularly and making sure that he gets the exercise that he needs, as well as ample opportunity to do his business outside. I have often come upstairs and found him asleep on the hardwood floor.

@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 An exploration of a template I am creating for reviews of books I read.
 
 <!--more-->
-
 ***
 
 In 2019, I have read 15 books. And yet, I have not shared any meaningful thoughts on those books. I recently finished *Keep Going*, by Austin Kleon, and [Patrick Rhone](https://patrickrhone.net/) asked my thoughts on it. I answered him, but realized I would have rather pointed him to a thoughtful review of the book. I want to push myself to be less passive, especially with content that I consume.

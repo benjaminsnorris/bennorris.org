@@ -11,8 +11,7 @@ excerpt_separator: "<!--more-->"
 
 I have long nursed a secret desire to do stand-up comedy, although I have allowed my fears to hold me back from trying. I finally made the attempt as part of my OCD recovery, and enjoyed the experience.
 
-<!--more-->
-***
+<!--more-->***
 
 As I got close to the end of my treatment at the [OCD & Anxiety Treatment Center](https://www.theocdandanxietytreatmentcenter.com/), I was pushing myself to do more activities in which I risked something. I have long wished that I was funny, but I have come to grips with my lack of natural humor. As I [wrote earlier this year](https://www.bennorris.org/2019/04/01/not-a-comedian.html), I am not destined to become a stand-up comedian. And that’s ok. I decided that I should try stand-up comedy and risk not being the best. Since I was nearly guaranteed to not be the best, it seemed like a productive thing to risk.
 

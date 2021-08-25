@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 I was thrilled to join with the rest of my product team at work to share a case study of our process operating within constraints.
 
-<!--more-->
-***
+<!--more-->***
 
 In my day job, I am an engineering manager and get to work closely with my product team—our product manager, our UX designer, and me. We recently gave a joint presentation on working within constraints, and how we have approached things with our current project. I am extremely fortunate to work with talented and capable people, and it was delightful to prepare and deliver together.
 

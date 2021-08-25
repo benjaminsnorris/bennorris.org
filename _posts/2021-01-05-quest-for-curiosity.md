@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my first weekly update of the new year, I discuss the **difficulty of the holidays**, the **joy of a new project**, and **missing a week**.
 
-<!--more-->
-***
+<!--more-->***
 
 Happy New Year! I have always enjoyed this time of year with its feeling of renewal and fresh start. I am less obsessive than I used to be about creating all manner of goals and resolutions, and so I have reduced much of the stress. I hope that the new year brings you and me improvements to our mental health and capacity for compassion.
 

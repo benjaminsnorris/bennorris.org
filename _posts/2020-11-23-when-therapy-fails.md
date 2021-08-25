@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week felt like one of the longest years of my life. I discuss **layoffs**, **coping**, and **therapy failures**.
 
-<!--more-->
-***
+<!--more-->***
 
 The events of [last week](https://www.mentalworkhealth.org/2020/11/16/a-slight-breakdown.html) set me up for this week in some unusual ways. This was my conclusion:
 

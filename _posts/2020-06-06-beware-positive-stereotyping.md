@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 We have to be so careful anytime that we view individuals primarily through the lens of a group to which they belong. This can creep in to our lives even through a positive guise, such as appreciating health care workers.
 
-<!--more-->
-***
+<!--more-->***
 
 One thought that I have been having through this global pandemic is that our group of societal heroes has expanded. Of course, not everyone feels this way, but the general view of society has evolved throughout my lifetime. I first saw that members of the military were seen as heroes. Following 9/11, first responders and firefighters joined in the hero category. And then with COVID-19, health care workers have become included as well.
 

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week’s update includes a **delightful visit**, my experience with a **remote office space**, and **apprehensions about working in our corporate office**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my second weekly update, I share about **missing medication**, **blacksmithing**, and **role-playing as a thuggish henchman**.
 
-<!--more-->
-***
+<!--more-->***
 
 This week has given me the opportunity to act in a few different roles than I typically do, and has helped me to reflect on how these different experiences can inform the rest of my life. Grappling with a mental health condition can feel like a constant battle, and acknowledging and facing that completely can be helpful and healing.
 

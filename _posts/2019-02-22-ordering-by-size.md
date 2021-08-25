@@ -13,7 +13,6 @@ excerpt_separator: "<!--more-->"
 Instead of ordering the best value, order the size you actually want.
 
 <!--more-->
-
 ***
 
 I imagine that my experience is similar to yours. When I go to order food, I am mentally doing a quick calculation between the different sizes to identify the best value. If 20oz is only 50¢ more than 16oz, it is nearly impossible to order the smaller size. Even when I actually want the smaller size.

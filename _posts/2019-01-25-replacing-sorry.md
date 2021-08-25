@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 The phrase “I’m sorry” has so many potential meanings and applications that it is nearly incomprehensible.
 
 <!--more-->
-
 My wife and I have worked on removing it from our conversation with each other in favor of more explicit phrases. There are two main substitutes we use instead:
 
 - “I send you compassion”

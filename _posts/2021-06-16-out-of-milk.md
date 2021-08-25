@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 The [Holistic Psychologist](https://theholisticpsychologist.com/) said recently, “Wise people have known suffering + transformed it into grace.” Here’s my attempt to become more wise.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

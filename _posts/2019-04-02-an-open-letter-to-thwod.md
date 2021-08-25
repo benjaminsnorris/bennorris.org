@@ -11,7 +11,6 @@ excerpt_separator: "<!--more-->"
 My thoughts on and appreciation for the delightful podcast, [The Hilarious World of Depression](http://hilariousworld.org).
 
 <!--more-->
-
 ***
 
 To John Moe and co.,

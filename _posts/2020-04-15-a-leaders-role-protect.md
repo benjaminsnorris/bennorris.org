@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 In my opinion, the most important functions a leader fulfills is to **protect** and **provide**. There are many ways in which a leader can do those, and I will first explore how a leader can protect **people**, the **team**, and the **company**.
 
 <!--more-->
-
 *Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
 
 ***

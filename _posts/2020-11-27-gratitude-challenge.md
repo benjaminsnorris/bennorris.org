@@ -9,7 +9,6 @@ This last week has been a great experience to take the challenge to [#GiveThanks
 
 <img src="https://www.bennorris.blog/uploads/2020/31ea165a7c.jpg"  alt="How to feel the healing power of gratitude" />
 <!--more-->
-
 ### [Day one](https://www.bennorris.org/2020/11/20/today-i-am.html)
 
 > Today, I am grateful to have found a therapist that is the right fit. It makes all the difference. [#GiveThanks](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude)

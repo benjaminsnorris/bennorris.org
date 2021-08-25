@@ -21,7 +21,6 @@ I was intrigued by this article by Fiona Voss: [My favorite way to run a retro](
 > When all the cards are written, use Trello voting to vote on cards. When voting is finished, the leader sorts the cards by number of votes (descending).
 
 <!--more-->
-
 One of my favorite aspects of this is how it facilitates different personalities and allows for everyone to have their voice heard. As a manager, often my biggest concern is that certain people may be marginalized and I am always looking for ways to improve our group communication. Whether the cause is unconscious bias, different thinking styles, or something else altogether, this sounds like a great approach to address the issue.
 
 Fiona said this, talking about using lightning rounds to address an issue:

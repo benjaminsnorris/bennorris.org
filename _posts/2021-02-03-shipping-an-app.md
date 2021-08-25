@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 My update from this week includes a **grossly overdue vehicle registration**, finally **releasing a major app update**, and **continued Lego-building success**.
 
-<!--more-->
-***
+<!--more-->***
 
 This has been a week full of ups and downs—for you as well, I’m sure. Here in Utah, we are having some unexpectedly warm weather, even though Punxsutawney Phil warns that it [might not last](https://www.groundhog.org). In an age of so much uncertainty, it is a relief to have at least the next six weeks predicted to us in such a reliable way.
 

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 One of the most common benefits that I have heard identified through the pandemic and quarantine was additional free time. Every time I heard that, my blood temperature went up a little bit more. My experience has been the complete opposite.
 
-<!--more-->
-***
+<!--more-->***
 
 We are coming up on three months since many of us have been forced to work from home. Throughout that time, I have heard often about the surfeit of discretionary time that we all theoretically have. This has been so far from my experience that I wanted to consider it a bit deeper.
 

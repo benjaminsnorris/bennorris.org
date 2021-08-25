@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 Mental health and physical health can be intimately connected, as I found out when I had my first personal exposure to a mental health crisis.
 
 <!--more-->
-
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
 
 ***

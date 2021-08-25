@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 Training a young puppy and parenting children require the same base set of skills. Getting better at one means that you are immediately better at the other.
 
 <!--more-->
-
 - - -
 
 We first got a dog after child number three was born. Our oldest was about five, and it seemed like a good time to try this thing out. We went to our local humane society, and fell in love with Popcorn, a poodle-mini mix.

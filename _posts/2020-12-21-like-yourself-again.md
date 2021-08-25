@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my regular weekly update, I discuss **feeling like myself again**, renting a **private office**, and supporting my wife in taking a **sick day**.
 
-<!--more-->
-***
+<!--more-->***
 
 This is a lovely time of the year in many ways. Most of us are inclined to think more of others and find ways to see and serve them. One of the best things we can do is to check in on the mental health of those we love, because in other ways, this can be a difficult time of the year. I hope we can find an extra measure of compassion, both for others and for ourselves.
 

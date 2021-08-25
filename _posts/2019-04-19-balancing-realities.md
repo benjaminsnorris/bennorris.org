@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 A central tenet of dialectical behavioral therapy became my reality recently; I was able to embrace two apparently contradictory realities.
 
 <!--more-->
-
 ***
 
 The first weekend of April was [General Conference](https://www.mormonnewsroom.org/article/april-2019-general-conference-news-summary) in the Church of Jesus Christ of Latter-day Saints. It is essentially ten hours of sermons spread over five different two-hour sessions. That has always been a weekend that I have anticipated and enjoyed. It occurs every April and October, and so this was the first conference since I learned that I have OCD. Last October, I was still in the discovery phase, and did not know what I was dealing with.

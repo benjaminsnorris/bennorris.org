@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week is all about the experience and fallout of an intense therapy session—**extreme agitation**, the pleasure of a **strong support system**, and the clarity that came through **journaling**.
 
-<!--more-->
-***
+<!--more-->***
 
 One of these weeks will surely come and go as a boring series of terrestrial rotations. This was not.
 

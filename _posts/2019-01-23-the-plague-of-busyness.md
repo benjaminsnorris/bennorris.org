@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 A multitude of plagues beset us today, and one of the most pernicious is busyness. Somehow, we have allowed this to become a martyr’s badge of glory. We revel in how little time we have to ourselves as if this validates our importance, our inclusion into the elite. The few. The proud. The busy.
 
 <!--more-->
-
 ## Symptoms
 Three ramifications of this infatuation have forced their way into my consciousness lately:
 

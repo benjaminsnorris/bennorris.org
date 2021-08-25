@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week’s update covers **pain at inconveniencing others**, the delights of **designing a presentation**, and **communicating with respect**.
 
-<!--more-->
-***
+<!--more-->***
 
 I feel like I am finally starting to settle fully into work after the holidays. It is so nice to take some time to disconnect, and often results in an ability to see things more clearly when coming back. There is definitely a ramp-up period though to settle into a rhythm. I hope you are finding yours as well.
 

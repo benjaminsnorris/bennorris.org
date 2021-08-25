@@ -7,8 +7,7 @@ excerpt_separator: "<!--more-->"
 
 This week, I share about **nailing the holiday**, **recognizing panic attacks**, and **expressing gratitude**.
 
-<!--more-->
-***
+<!--more-->***
 
 One thing I am grateful for is this outlet for my thoughts and feelings. It has been helpful for me to regularly take stock and to be honest with myself about where things are at. Many of you reading this have reached out to express support or solidarity or to comment on how nice it is to know that you are not alone in your struggles. I hope this blog can continue to help you as it is helping me.
 

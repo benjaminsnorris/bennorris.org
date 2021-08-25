@@ -9,7 +9,6 @@ My wife came down to grab her phone and called a greeting through my office door
 
 From the stairs, he said, “Nuts!”
 <!--more-->
-
 Then he came around the corner and saw us kissing, he said, “Ew! Ok, I will wait.”
 
 After maybe ten more seconds, he said, “You guys do that all the time. You’ve done it for like 50 days.”

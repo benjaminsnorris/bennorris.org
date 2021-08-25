@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this week’s update, I discuss **moving**, **playing games**, and **losing time**.
 
-<!--more-->
-***
+<!--more-->***
 
 I find myself in my van, writing this update parked near [a serene spot](https://en.wikipedia.org/wiki/Mount_Timpanogos_Utah_Temple), hoping both to distract myself from the thoughts going through my head, and also to find purpose in the pain. Life can be challenging, but we can choose how we respond and what we make of it.
 

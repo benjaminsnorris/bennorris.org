@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 As a leader, your most important commodity is **trust**. Every action you take, every word you say, every success you notice or ignore affects the trust others have in you.
 
 <!--more-->
-
 *Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
 
 ***

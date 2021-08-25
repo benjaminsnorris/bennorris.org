@@ -11,8 +11,7 @@ I loved this article studying how the voices of women can be better fostered and
 
 > The bottom line, if you want to empower women, apply majority rule when women have the numbers and unanimous rule—or at the very least, an underlying principle of unanimous rule, hearing from everyone—when they don’t.
 
-<!--more-->
-***
+<!--more-->***
 
 As a father of four girls, I find myself thinking a lot about gender roles and how to teach them, and my three boys, how to confront bias, whether conscious or not. As a manager of a software team that is 77% male, I spend a lot of time considering this as work as well. I was thrilled last week when my wife found and shared this article with me because she knew how much I care about this.
 

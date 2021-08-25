@@ -8,7 +8,6 @@ excerpt_separator: "<!--more-->"
 The words we speak or the tone we use can cause damage just as physical blows.
 
 <!--more-->
-
 _Originally posted on my [HEY World blog](https://world.hey.com/bennorris/verbal-violence-64c393ff)._
 ***
 

@@ -11,7 +11,6 @@ excerpt_separator: "<!--more-->"
 As I have had my own experience with mental health over the last year or so, I have found that looking at my own health in a more holistic way to be extremely helpful.
 
 <!--more-->
-
 ***
 
 I have always loved public speaking. For a long time, I have wanted to start speaking at conferences more often, but I could never figure out exactly the right topic. Finally, I know.

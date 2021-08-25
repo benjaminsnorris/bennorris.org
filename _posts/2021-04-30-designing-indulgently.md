@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 This week I discuss **impulse control**, the **gift of OCD**, and **change and growth**.
 
 <!--more-->
-
 _These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 

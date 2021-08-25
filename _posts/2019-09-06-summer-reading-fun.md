@@ -13,7 +13,6 @@ excerpt_separator: "<!--more-->"
 A month of intense reading led to rediscovered relationships with a number of old friends.
 
 <!--more-->
-
 ***
 
 At the beginning of August, I decided to pick up a series that I started when I was a teenager: [The Sword of Truth](https://en.wikipedia.org/wiki/The_Sword_of_Truth) by Terry Goodkind. I have often enjoyed fantasy as a genre, and wanted to read something purely enjoyable instead of informative and educational. More than with most books, the characters of this series draw me in, and I wanted to read more to spend more time with friends that I have not seen for years.

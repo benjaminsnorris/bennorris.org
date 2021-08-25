@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week I share about **struggling to come home**, the **joy of sketching**, and **finding fun**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 ***
 
 Last week, I had the opportunity to take two of my children (#2 and #3) on a camping trip with their [school group](https://www.alpinevalleyacademy.org/). We went to Snow Canyon State Park in Southern Utah, and it was gorgeous. Most of my thoughts in this week’s update come from that trip.

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 My update from this week includes a **nonsensical meal**, an **uplifting 1:1**, and an **evening of sports**.
 
-<!--more-->
-***
+<!--more-->***
 
 Naturally, following a [wonderful week]({% post_url 2020-09-21-recharging-in-allentown %}), this past week was more challenging for me. Nothing was terribly difficult or noteworthy—it was a decent week. I struggled at times with focus and motivation, and at other times got in the zone. It was a great reminder to me that things will go all right—not every moment will be amazing or awful.
 

@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 Amidst tears and candy, this week brought both expected and surprising **news of departures**, a welcome **reminder of progress**, and a **spooky and worthwhile holiday**.
 
-<!--more-->
-***
+<!--more-->***
 
 This week felt like a ride to me. I told my therapist that it was a bit of a rollercoaster—not because there were ups and downs, but just a number of downs. Ironically, we went on to discuss all the wins that occurred. It is easy to forget how much more negative emotions stick with us, and can skew our sense of how things are going.
 

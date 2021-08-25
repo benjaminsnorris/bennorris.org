@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 There are many situations in life where everything is pleasant and rewarding, but getting started can still be next to impossible.
 
 <!--more-->
-
 ***
 
 I went walking in the rec center the other day. I didn’t mean to go walking—I meant to play racquetball. At 7:52am, I sent this to my wife:

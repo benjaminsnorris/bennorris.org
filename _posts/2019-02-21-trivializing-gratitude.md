@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 When gratitude is trivialized too often and too thoughtlessly, we run the risk of discouraging it to the point where it stops altogether.
 
 <!--more-->
-
 ***
 
 As I have been in Mexico, I have noticed an interesting linguistic phenomenon. By far, the most common response I’ve noticed to someone expressing gratitude is, „De nada.” I’m sure there are part of the U.S. where “No problem” or “It’s nothing” are the most common responses to “Thank you” as well, so this is nothing of a cultural indictment. But it got me thinking.

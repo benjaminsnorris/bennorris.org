@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this update, I share a positive application of my OCD in my efforts to become a villain.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

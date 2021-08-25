@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 We often attach so many expectations and hopes to recommendations we give others that we deny them the opportunity to simply experience the moment.
 
 <!--more-->
-
 ***
 
 I recently returned from a vacation with my brother in Mexico. He was able to live in San Carlos for eight months last year, as his company has an office down there. I tagged along for a business trip of his, and we had a great time relaxing.

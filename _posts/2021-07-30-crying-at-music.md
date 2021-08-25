@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 This week’s update shares an **emotional experience with music**, and then **wrestling with those emotions**.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

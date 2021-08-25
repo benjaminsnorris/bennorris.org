@@ -12,7 +12,6 @@ excerpt_separator: "<!--more-->"
 It’s ok that I’m not that funny. Just because I’ve listened to comedians on THWoD doesn’t mean I have to be one.
 
 <!--more-->
-
 ***
 
 I’ve mentioned a few times, and will again, that my current favorite podcast is [The Hilarious World of Depression](http://hilariousworld.org). Many of the guests have been comedians and have talked about dealing with their mental health through comedy.

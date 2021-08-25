@@ -10,7 +10,6 @@ excerpt_separator: "<!--more-->"
 One of the first things that I discovered when beginning therapy was to appreciate the impact that my previous life experiences have on my current situation. As I have talked with others, it seems clear that my experience is not unique. We all pass through moments that shape us into who we are today, and in order to understand ourselves, it is helpful to look back on our own history.
 
 <!--more-->
-
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
 
 ***

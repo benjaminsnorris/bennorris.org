@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 The traditional holiday season can be full of joy, but also sorrow and heartache. Even for those who do not struggle with mental illnesses, there are many reasons that could cause this time of year to be difficult.
 
-<!--more-->
-***
+<!--more-->***
 
 As I mentioned [last week](https://www.bennorris.org/2019/11/21/promoting-mental-wellness.html), we had the opportunity to spend some time with our IT department on mental health and wellness. A number of people asked for the slides, and I sent a PDF out right before Thanksgiving. I had the thought that this was a perfect chance to remind everyone about some of the struggles that the holidays can bring.
 

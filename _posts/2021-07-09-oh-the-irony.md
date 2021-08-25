@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In this update, I share **details of the new app** I have been creating, and the **deep irony** of become obsessed with making it.
 
-<!--more-->
-{% include weekly-update.md %}
+<!--more-->{% include weekly-update.md %}
 
 ***
 

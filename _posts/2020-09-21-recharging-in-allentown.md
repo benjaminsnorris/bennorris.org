@@ -9,8 +9,7 @@ excerpt_separator: "<!--more-->"
 
 In my regular weekly update, I share about **disappointing others**, **traveling with my brother**, and **sketching my surroundings**.
 
-<!--more-->
-***
+<!--more-->***
 
 Following a difficult week, I was pleasantly surprised to enjoy a lovely week largely free from stress and anxiety. It was a great reminder that emotions are always transitory.
 
