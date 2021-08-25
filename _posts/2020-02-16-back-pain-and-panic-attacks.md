@@ -49,6 +49,6 @@ I left straight from that experience to a chiropractor appointment, and after it
 
 Over the next little while, I continued to have occasional panic attacks. I still had no language for them, and they seemed huge and scary. Looking back, it is interesting to me that my introduction to mental health came in the form of physical experiences. It is easy for us to forget how integrated our bodies are. Our brains are just another organ, and like others in our body, they can malfunction at times.
 
-In the next installment of my story, I look forward to continuing with my early attempts at [trying out therapy]({{< ref "trying-out-therapy" >}}).
+In the next installment of my story, I look forward to continuing with my early attempts at [trying out therapy]({% post_url 2020-09-11-trying-out-therapy %}).
 
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._

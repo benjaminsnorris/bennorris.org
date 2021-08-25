@@ -62,6 +62,6 @@ One of the big reasons I feel like my story is worth telling is the dissonance b
 
 As I have learned more about OCD, I have discovered that a common symptom is intrusive thoughts, often of a violent or disturbing nature. When I first heard of that as a symptom, I felt relieved it hadn’t happened to me. Only as I worked with my therapist more did I realize that my roof-jumping incident fit the bill. I was able to see more clearly that incident and others in which I had intrusive thoughts, but didn’t act on them.
 
-Mental health can be affected by a number of factors. My journey began early in my life, and only recently have I come to realize the impact that it had on me. I will continue to explore my story in my next article on the [suggestion of counseling]({{< ref "suggestion-of-counseling" >}}).
+Mental health can be affected by a number of factors. My journey began early in my life, and only recently have I come to realize the impact that it had on me. I will continue to explore my story in my next article on the [suggestion of counseling]({% post_url 2019-12-23-suggestion-of-counseling %}).
 
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._

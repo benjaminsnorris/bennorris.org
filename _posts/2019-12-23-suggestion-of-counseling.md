@@ -64,6 +64,6 @@ As I reflect back on this period of my life, it strikes me as fitting that it to
 
 When we have had no personal experience with mental health, it can be difficult or impossible to recognize warning signs and get the help that we need. That is part of what drives me with this project. The more that we can open up and talk with each other about our circumstances, the more we can learn and benefit from each other. It is more important now than ever to increase awareness and decrease stigma around mental health, especially at work.
 
-I look forward to continuing my story in my next article on [back pain and panic attacks]({{< ref "back-pain-and.html" >}}).
+I look forward to continuing my story in my next article on [back pain and panic attacks]({% post_url 2020-02-16-back-pain-and-panic-attacks %}).
 
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
