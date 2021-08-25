@@ -38,7 +38,6 @@ category_archive_path: /
 
 # Build settings
 markdown: kramdown
-remote_theme: benjaminsnorris/jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
