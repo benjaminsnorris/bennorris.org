@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This week, I share about **sitting with emotions**, a **link between creativity and mental health**, and **respect**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -69,4 +69,4 @@ Instead, the principle I think was behind the intent, and should be the main mes
 Whatever life is throwing at us right now, we would be well served to pause and notice how we are reacting to it. Find ways to be creative and look past ourselves and improve the lives of others. Practice respect and show up fully where you are. There is so much good in our lives amidst the challenges.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

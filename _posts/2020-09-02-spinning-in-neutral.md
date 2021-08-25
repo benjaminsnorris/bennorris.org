@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 In the hopes of publishing more regularly, I am trying out a new format. I want to share some thoughts on **decisions**, **milestones**, and **exercise**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 ***
 
 As I was out on an early morning walk this last week, the thought came to me to start trying to write a simple update on a regular basis. I have struggled to post as frequently as I would like to on this site, and would like to build that habit. One technique I have used successfully in other areas of my life is to add some structure that I then just have to fill in. This will be a new experiment for me, and I hope that you enjoy it.
@@ -40,6 +40,6 @@ There is always so much going on that it is easy to dismiss exercise as aspirati
 This felt good. I hope it did for you as well. There is so much going on in the world right now, and it can seem overwhelming. Be kind to yourself, and look for opportunities to reach out to others. 
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}
 
 [^1]: [Ranger’s Apprentice](https://en.wikipedia.org/wiki/Ranger%27s_Apprentice) by John Flanagan

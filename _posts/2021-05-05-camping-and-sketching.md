@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This week I share about **struggling to come home**, the **joy of sketching**, and **finding fun**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 ***
 
 Last week, I had the opportunity to take two of my children (#2 and #3) on a camping trip with their [school group](https://www.alpinevalleyacademy.org/). We went to Snow Canyon State Park in Southern Utah, and it was gorgeous. Most of my thoughts in this week’s update come from that trip.
@@ -55,4 +55,4 @@ Those activities are going to be different for everyone, but I know that it is e
 It is always a challenge to return to normal life after a break. This break can be a vacation, a good book, a moving show, or any number of things. As we find ourselves struggling to adjust, my hope is that we will have compassion for ourselves. And be kind with those around you, for you never know what adjustments they may be struggling with.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

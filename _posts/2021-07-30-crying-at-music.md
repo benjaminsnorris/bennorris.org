@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This week’s update shares an **emotional experience with music**, and then **wrestling with those emotions**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -74,4 +74,4 @@ But in the moment, I couldn’t see that. All I could see was that I was emotion
 So much of kindness and compassion is seeking to understand. This is important for ourselves and for those around us.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

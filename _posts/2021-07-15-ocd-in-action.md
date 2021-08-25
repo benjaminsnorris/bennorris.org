@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 In this update, I share a positive application of my OCD in my efforts to become a villain.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -39,4 +39,4 @@ I’m still not sure exactly what happened there. Did he like my idea and went w
 One of the keys in my OCD recovery is recognizing the strengths that are associated with the way my brain operates, as well as the weaknesses. That is true for all of us. Often our weaknesses are just strengths that are misapplied or taken too far. Having that perspective can help us be kind to ourselves, and to those around us whose weaknesses are often more visible than their underlying strengths.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

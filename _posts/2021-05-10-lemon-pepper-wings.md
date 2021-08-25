@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 In my update this week, I try something new, and share the **story of a panic attack**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -60,4 +60,4 @@ Don’t chase the feeling away. Just try to sit with it. No judgment. Simply not
 That’s enough for this week. If you can do that, if I can do that, let’s celebrate. It may be a small victory, but it is still a meaningful win. Give yourself a smile and some kind words. You deserve it.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

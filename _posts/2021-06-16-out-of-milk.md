@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 The [Holistic Psychologist](https://theholisticpsychologist.com/) said recently, “Wise people have known suffering + transformed it into grace.” Here’s my attempt to become more wise.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -82,4 +82,4 @@ Instead, take a few deep breaths. Try to identify the emotions and locate them i
 You are enough.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

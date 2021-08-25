@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This update describes a **week of obsession** as well an illustration of **making progress**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -62,4 +62,4 @@ Flexibility has been extremely difficult for me. We all struggle at times to adj
 We are coming up on a holiday weekend here in the U.S., which often brings lots of family time. That can be great and hard for so many of us. We just need to get up in the morning, and accept the day that is before us. We get to choose what to do with it. And we could all use some kindness with ourselves, whatever we choose.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

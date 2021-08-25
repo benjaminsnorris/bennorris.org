@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This week was a struggle. This update shares **what that looked like**, and a possible cause. I also share about **another craft project**, and a **teaser of a new app**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -63,4 +63,4 @@ For the past couple years, I have been trying to think of an app idea around men
 We all have bad days, or bad weeks (or even bad months or years!). A key to getting through them is self-compassion. This is a good reminder for me, and hopefully for you too. Be kind, especially to yourself.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

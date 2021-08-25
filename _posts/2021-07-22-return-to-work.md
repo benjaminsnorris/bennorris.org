@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 This week’s update includes a **delightful visit**, my experience with a **remote office space**, and **apprehensions about working in our corporate office**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -37,4 +37,4 @@ All of that is to say that I am not particularly excited about having to work in
 As we continue to experience change and uncertainly, my continued hope is for extra compassion. Be kind to yourself and those around you. It is nearly impossible to know what they are going through.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 In this week’s update, I share about a change in plans, and the challenge that comes from dealing with the associated emotions.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -52,4 +52,4 @@ Dealing with plan changes is all about expectations. The more I live in the futu
 So during this next week, the challenge is to identify a plan change that comes up, and sit with it. Instead of fighting against it and resisting the distress, use it as an opportunity to practice. Learn how it feels to have the distress course through our body. Come to recognize the texture of the distress. And finally, remember that at any moment, anyone around us could be dealing with the same struggle. Extend compassion to them, and to ourselves as well.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}

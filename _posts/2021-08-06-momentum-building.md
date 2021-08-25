@@ -10,7 +10,7 @@ excerpt_separator: "<!--more-->"
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.
 
 <!--more-->
-{{% weekly-update %}}
+{% include weekly-update.md %}
 
 ***
 
@@ -100,6 +100,6 @@ While these situations were public, and reached millions of people, the effect i
 It’s OK to not be OK.
 
 ***
-{{% subscribe-weekly %}}
+{% include subscribe-weekly.md %}
 
 [^1]: I wrote about Ted Lasso and the impact the show had on me [back in February](https://www.mentalworkhealth.org/2021/02/24/talking-with-strangers.html#something-else).
