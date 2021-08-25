@@ -28,7 +28,7 @@ The final one-on-one with my departing employee was an emotional experience. One
 
 ## Something good
 
-{{< glightbox src="https://www.mentalworkhealth.org/uploads/2020/6729957227.jpg" alt="Carry less to give more goal" >}}
+<img src="https://www.mentalworkhealth.org/uploads/2020/6729957227.jpg" alt="Carry less to give more goal"/>
 
 As I wrote about [last week](https://www.mentalworkhealth.org/2020/11/02/loss-and-uncertainty.html), one of my best friends at work is moving on to a new role at a different company. I had an experience with him that highlighted one of my two big goals for 2020. I wrote about these on my [personal blog](https://www.bennorris.org/2020/01/01/my-goals.html) at the beginning of the year, and have kept them as the wallpaper on my phone and iPad to help me remember. The goals were simple:
 
@@ -41,7 +41,7 @@ What I learned was that there were a couple major problems with my instincts and
 
 Another major problem with my instinctual response is the personal toll it takes on me. In and of itself, that is not really the issue, but it directly leads to the issue. When I am spending my time, energy, and emotional resources invested in the problems of other people, I am too depleted to handle the issues that come up in my own life. For me specifically, as a husband and father of seven, some of the most important emotional weight I need to carry is with my family.
 
-{{< glightbox src="https://www.mentalworkhealth.org/uploads/2020/4bdc8bafe6.jpg" alt="Family" >}}
+<img src="https://www.mentalworkhealth.org/uploads/2020/4bdc8bafe6.jpg" alt="Family"/>
 
 In my wallpaper that I drew for myself, I included a stick figure-style representation of my family to help me remember the purpose of my goal. I am not trying to carry less emotionally for me. The reason this is important for me is that I need to be able to give more and more regularly to my family. Over the past couple years, since the great breakdown of 2018[^2], there have been numerous times that I have needed to check out from family involvement and recover enough to re-engage. I would like to continue to reduce the need and instances of those emergency breaks.
 

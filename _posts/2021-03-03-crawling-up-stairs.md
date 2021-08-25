@@ -47,11 +47,11 @@ One of the biggest lesson that I have learned in my mental health journey, and o
 
 ## Something else - Creaks
 
-{{< glightbox src="https://www.mentalworkhealth.org/uploads/2021/93a58b7bd1.jpg" alt="Creaks castle" >}}
+<img src="https://www.mentalworkhealth.org/uploads/2021/93a58b7bd1.jpg" alt="Creaks castle"/>
 
 As I mentioned earlier, I sought escape throughout this past week, and I found it in the form of the [Creaks game](https://en.wikipedia.org/wiki/Creaks_(video_game)) from [Animata Design](https://amanita-design.net/index.html). They are the creators of one of my previous favorites, [Machinarium](https://en.wikipedia.org/wiki/Machinarium). I love the sound design, the visual design, and especially the puzzle or challenge design.
 
-{{< glightbox src="https://www.mentalworkhealth.org/uploads/2021/a4ae6d933b.jpg" alt="Creaks game" >}}
+<img src="https://www.mentalworkhealth.org/uploads/2021/a4ae6d933b.jpg" alt="Creaks game"/>
 
 In this game, you play as a human descending through a maze of rooms in an underground mansion. You encounter aggressive monsters that become harmless inanimate objects when light shines on them. There are bird-like people that initially seem intimidating, but soon are revealed to be friendly, and you work to help them in escaping a giant monster that is tearing apart the mansion.
 

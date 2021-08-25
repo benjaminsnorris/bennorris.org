@@ -10,8 +10,8 @@ I attended this year for the first time and was richly rewarded. The conference 
 
 Included here are my sketchnotes from the event.
 
-{{< glightbox src="https://www.gospelsketcher.org/uploads/2021/821c15abc0.png" alt="LDS Tech 2012 Sketchnotes 1" gallery="ldstech2012">}}
+<img src="https://www.gospelsketcher.org/uploads/2021/821c15abc0.png" alt="LDS Tech 2012 Sketchnotes 1" gallery="ldstech2012">}}
 
-{{< glightbox src="https://www.gospelsketcher.org/uploads/2021/6bd0bafdda.png" alt="LDS Tech 2012 Sketchnotes 2" gallery="ldstech2012">}}
+<img src="https://www.gospelsketcher.org/uploads/2021/6bd0bafdda.png" alt="LDS Tech 2012 Sketchnotes 2" gallery="ldstech2012">}}
 
-{{< glightbox src="https://www.gospelsketcher.org/uploads/2021/d83c705676.png" alt="LDS Tech 2012 Sketchnotes 3" gallery="ldstech2012">}}
+<img src="https://www.gospelsketcher.org/uploads/2021/d83c705676.png" alt="LDS Tech 2012 Sketchnotes 3" gallery="ldstech2012">}}

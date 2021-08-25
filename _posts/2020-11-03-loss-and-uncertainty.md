@@ -55,7 +55,7 @@ There are definitely some dark sides to Halloween, but overall, it is a holiday 
 
 There seem to be few people who are comfortable in their own skin, and have no problem standing out or being different. Most of us feel pressure to conform to societal norms in our dress and behavior on a regular basis. Halloween represents a type of official permission for children (and adults!) to dress in ways that would be considered bizarre, distracting, or inappropriate at other times.
 
-{{< glightbox src="https://www.mentalworkhealth.org/uploads/2020/f978ddf787.png" >}}
+<img src="https://www.mentalworkhealth.org/uploads/2020/f978ddf787.png"/>
 
 One of my friends at work, [Jessica Young](https://www.jdyoungsolutions.com), dressed up as different characters from Inside Out[^1] throughout the week. While she is one of those rare people possessed of confidence to be herself generally, this holiday provided an outlet for even more creativity than usual. And the same is true for so many people. I think that is a great thing.
 
