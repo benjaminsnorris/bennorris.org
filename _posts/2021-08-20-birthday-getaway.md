@@ -41,6 +41,6 @@ One of the things I love about John Moe and his work is that we are basically on
 We all have a chance in our own sphere to make a difference for the people around us. It could be one person that needs a smile, a kind word, or empowering vulnerability. That’s enough. I’m enough. You’re enough. Just as we are.
 
 ***
-{% include subscribe-weekly.md }}
+{% include subscribe-weekly.md %}
 
 [^1]: And I won the "Staff Pick" award! 🥳
