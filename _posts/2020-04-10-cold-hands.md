@@ -2,7 +2,7 @@
 title: "Cold hands 😂"
 date: 2020-04-10 15:03:00-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 I came upstairs and realized my hands were super cold. I put them under people’s shirts on their backs, and it was fascinating the different reactions.
@@ -20,4 +20,3 @@ Wife: An exclamation, “What is that? It’s cold!”
 2yo boy: Reached back with his hands to move mine. Commented, “That’s cold!” Two minutes later, said, “Dad, that’s coldy!”
 
 15yo girl: Turned and asked, “What are you doing? Go away!”
-<!--more-->

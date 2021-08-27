@@ -2,7 +2,7 @@
 title: "😂 A surprise-free shower"
 date: 2019-04-27 17:14:00-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 I announced that I was going to take a shower. Micah (age 6) got a glint in his eye and started running for the bathroom. I said, “Micah, I have a favor to ask of you.”
@@ -15,4 +15,3 @@ I answered, “Well, sometimes it’s kind of hard, you know?”
 
 His solution was simple. “You could know I’m coming, and so you could turn your back. That way it doesn’t get on you-know-what.”
 
-<!--more-->

@@ -2,7 +2,7 @@
 title: "Star Wars Day 😂"
 date: 2020-05-05 03:02:47-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 We celebrated Star Wars day by all watching a movie. The older kids watched episode III upstairs for their first time. As the 7yo and 6yo and I watched Star Wars IV for the first time, they both climbed on to my lap as they got scared. The 7yo crawled over from his chair onto my lap. “Is this part scary? Well, just in case...”
@@ -14,4 +14,3 @@ After the movie, the 6yo was walking out and said, “Thank you. Thank you. Than
 Me: “Yeah.”
 
 6yo: “Wait. Did it!? Did that really happen!?”
-<!--more-->

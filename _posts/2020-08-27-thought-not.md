@@ -2,7 +2,7 @@
 title: "😂 Thought not"
 date: 2020-08-27 15:27:00-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 My 8yo came down with some coupons from a mailer to ask if I went to some of these places by myself, and if so, he would give me the coupons.
@@ -20,4 +20,3 @@ Me: “Nope.”
 Me: “No.”
 
 8yo: “I thought you’d go there. They have great cheese sticks. Or whatever they’re called.”
-<!--more-->

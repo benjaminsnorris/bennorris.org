@@ -4,7 +4,7 @@ date: 2019-04-09 14:28:00-0000
 tags:
 - podcast
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 Thoughts on the book *On Writing*, by Stephen King, and how it has affected my writing workflow.
@@ -21,4 +21,3 @@ Final post from editing example image: [🌀 Not a comedian](https://www.bennorr
 
 <audio controls="controls" src="https://www.bennorris.blog/uploads/2019/82b2b7d604.mp3" />
 
-<!--more-->

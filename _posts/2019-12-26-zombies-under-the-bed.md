@@ -2,7 +2,7 @@
 title: "😂 Zombies under the bed"
 date: 2019-12-26 18:45:00-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 Micah (7yo): “Dad, do you believe in them?”
@@ -26,4 +26,3 @@ Micah: “Urrgh mmrrgh errrr ggrrr.”
 Annie: “Oh, like this--I can speak it too. Mmrrgh aarrgh errr.”
 
 Micah: “No, it’s more nerdy. Get it, Dad? More Nerd-y. (As he eats a scoop of Nerds) Ha. Ha. Ha.”
-<!--more-->
