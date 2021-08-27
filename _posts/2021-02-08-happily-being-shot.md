@@ -19,14 +19,14 @@ I vacillated on whether to write an update this week, and in the end decided to 
 
 We had a game night this past weekend with my brother- and sister-in-law. Two days later, she let us know that she could not taste or smell and was congested. We decided that we would keep everyone home from everything for a bit and try to make sure that we are not spreading anything nasty.
 
-I had the thought to take the week off work to help with the family. Even though I work remotely, and could have just tried to work from home, I decided that was not a great idea. There was a reason that I got an [office space]({% post_url 2020-12-20-like-yourself-again %}) to work in. Trying to focus and be productive with the kids running around and the natural sounds and stresses of a large family is exceptionally difficult for me.
+I had the thought to take the week off work to help with the family. Even though I work remotely, and could have just tried to work from home, I decided that was not a great idea. There was a reason that I got an [office space]({% post_url 2020-12-21-like-yourself-again %}) to work in. Trying to focus and be productive with the kids running around and the natural sounds and stresses of a large family is exceptionally difficult for me.
 
 So for my family’s benefit, and for my own mental health, I am taking the next week off.
 
 
 ## Something good
 
-I [mentioned last week]({% post_url 2021-02-02shipping-an-app %}) that I started a new Lego set and included my three-year-old in beginning the project. He continued to ask about it throughout the week and check in on the progress. So on Saturday, I decided to take him on a date to my office to finish. On the drive over, he was giddy.
+I [mentioned last week]({% post_url 2021-02-03-shipping-an-app %}) that I started a new Lego set and included my three-year-old in beginning the project. He continued to ask about it throughout the week and check in on the progress. So on Saturday, I decided to take him on a date to my office to finish. On the drive over, he was giddy.
 
 > 3yo: “Fank you so much for my date. Dad, I am so excited for my date, with you.”
 > 
