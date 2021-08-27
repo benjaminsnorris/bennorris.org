@@ -4,12 +4,13 @@ date: 2021-02-17 21:10:35-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my update this week, I share about **difficulty returning to work**, the **emotional impact of a TV show**, and the **results of my short device fast**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Happy Valentine’s Day! I hope that regardless of your situation, you have found loved ones to be grateful for and have expressed how you feel.
 
@@ -18,7 +19,7 @@ Happy Valentine’s Day! I hope that regardless of your situation, you have foun
 
 Coming back to work is often a difficult thing for many people following a holiday or time off. While I have certainly experienced a degree of that before in my life, I was a little shaken by the feelings I had on Monday as I contemplated returning to work the next day.
 
-As I [mentioned last week](https://www.mentalworkhealth.org/2021/02/08/happily-being-shot.html), I took the week off to be with family. We played lots of card games[^1], and built lots of Legos[^2], and mostly just enjoyed ourselves. There were certainly moments when my OCD flared up, and I needed to withdraw from the family, or take some time to recenter and focus on the people and relationships instead of my rules of how things needed to go. For the most part, I was able to quickly recover from those situations and move on with the day.
+As I [mentioned last week]({% post_url 2021-02-08-happily-being-shot %}), I took the week off to be with family. We played lots of card games[^1], and built lots of Legos[^2], and mostly just enjoyed ourselves. There were certainly moments when my OCD flared up, and I needed to withdraw from the family, or take some time to recenter and focus on the people and relationships instead of my rules of how things needed to go. For the most part, I was able to quickly recover from those situations and move on with the day.
 
 Near the end of the week, and over the weekend, as I considered returning to work, thoughts of change started to intrude in my mind. I started thinking how nice it would be to just quit my job and find a mindless job somewhere that I could just show up, do my work, and go home. I am a software engineering manager, and while I definitely enjoy what I do, there are many stresses.
 
@@ -40,7 +41,7 @@ As my wife and I were eating out on a date, we discussed the show and why we enj
 
 ## Something else
 
-I mentioned [last week](https://www.mentalworkhealth.org/2021/02/08/happily-being-shot.html#something-else) that I was going to try something of a device fast, and wanted to report on it. I loved it. Absolutely loved it. I felt so free leaving my phone out of my reach and interacting with the world in an analog way. I wore my Apple Watch still, so I was able to send and receive messages and make phone calls if needed. But I was surprised at how little I actually needed to use it.
+I mentioned [last week]({% post_url 2021-02-08-happily-being-shot %}) that I was going to try something of a device fast, and wanted to report on it. I loved it. Absolutely loved it. I felt so free leaving my phone out of my reach and interacting with the world in an analog way. I wore my Apple Watch still, so I was able to send and receive messages and make phone calls if needed. But I was surprised at how little I actually needed to use it.
 
 I already interact very little with social media, but even this short break from the immediate distractions my phone has to offer further cemented my desires to take back control of my attention. Part of mindfulness, as I discussed earlier, is being fully present in the moment. I found that much easier without a distraction box constantly within reach.
 
