@@ -16,7 +16,7 @@ This week felt like a ride to me. I told my therapist that it was a bit of a rol
 
 ## Something hard
 
-The backdrop to everything that happened this week was my continuing recovery from hernia surgery, as I [wrote about last week](https://www.mentalworkhealth.org/2020/10/26/surgery-and-healing.html). On top of the physical pain I was feeling, I went through an emotional ringer this week.
+The backdrop to everything that happened this week was my continuing recovery from hernia surgery, as I [wrote about last week]({% post_url 2020-10-26-surgery-and-healing %}). On top of the physical pain I was feeling, I went through an emotional ringer this week.
 
 The first blow was not unexpected, but it came sooner than anticipated. Earlier this year, I started an apprentice program on my team. We lucked out with our first hire, and she was more capable than we expected, both in initial ability and in how quickly she progressed. I had secretly hoped that I could find a permanent position for her, but I was working to prepare her for full-time employment. So when I found out she had accepted a great offer, I was both genuinely excited for her and emotionally devastated. I ended the call with her by expressing sincere congratulations, hung up, and started sobbing. The ability to hold conflicting emotions at the same time and give them each space has been a hard-won skill in my mental health journey.
 

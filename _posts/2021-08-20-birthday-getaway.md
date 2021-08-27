@@ -10,11 +10,11 @@ tags:
 
 This week I share about delightful last-minute plans for **my birthday** and one of my heroes, **[John Moe](https://www.johnmoe.website/)**.
 
-_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+{% include weekly-update.md %}
 
 ***
 
-I felt extremely blessed that last week was such a turnaround from the previous week. A big help was [writing about it](https://www.mentalworkhealth.org/2021/08/12/angrily-pounding-metal.html) and allowing myself to feel the big emotions. That’s often a challenge for me.
+I felt extremely blessed that last week was such a turnaround from the previous week. A big help was [writing about it]({% post_url 2021-08-12-angrily-pounding-metal %}) and allowing myself to feel the big emotions. That’s often a challenge for me.
 
 My birthday was last weekend. (Thank you for the reflexive mental well wishes. You don’t need to say anything. 😊) It snuck up on us, and we didn’t have anything planned. As I wrapped up the work week, I thought about what I would like to do, and decided on a short getaway. Ideally, my wife and I would have gone together, but with seven kids, impromptu trips are nearly impossible. We discussed a number of options, and my wife sent me this:
 
