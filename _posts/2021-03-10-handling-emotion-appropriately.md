@@ -4,12 +4,11 @@ date: 2021-03-10 19:14:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week’s update includes **being asked for advice**, **mindfully processing emotions**, and a **new way to blog**.
 
-<!--more-->_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 
 I hope this finds you well. Recently, I have been feeling overwhelmed, and have found that nearly everyone else is as well. We need to find times and ways to relax and recharge.

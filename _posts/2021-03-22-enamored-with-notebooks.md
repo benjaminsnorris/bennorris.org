@@ -4,12 +4,11 @@ date: 2021-03-22 13:49:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week I share about a **significant birthday**, a **leather notebook cover**, and a **new psychiatrist**.
 
-<!--more-->_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 
 ## Something hard

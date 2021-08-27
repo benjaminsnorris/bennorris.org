@@ -11,4 +11,6 @@ As I finished reading this article this morning, I said out loud, “That was be
 
 > It can also get stronger. But it can’t maintain its strength for long. You can breathe, stay with it, wait it out. Bring curiosity to it. Give the feeling a little compassion and kindness.
 
-<!--more-->The key is develop more mindfulness. Instead of shying away from hard thoughts or feelings, sink into them for a moment and get to know them better. Over time, as we become more comfortable with them, we can notice them and acknowledge the message they are sending us and them make our own choice about what to do.
+<!--more-->
+
+The key is develop more mindfulness. Instead of shying away from hard thoughts or feelings, sink into them for a moment and get to know them better. Over time, as we become more comfortable with them, we can notice them and acknowledge the message they are sending us and them make our own choice about what to do.

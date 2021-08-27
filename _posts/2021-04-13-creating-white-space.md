@@ -4,12 +4,11 @@ date: 2021-04-13 14:42:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 After a couple weeks off, in this update I share about the **difficulty of quitting**, an **uplifting and enjoyable weekend**, and the **need for white space**.
 
-<!--more-->_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 
 A couple weeks ago, as a family, we decided to do a screen fast leading up to the [General Conference of our church](https://en.wikipedia.org/wiki/General_Conference_(LDS_Church)). We wanted to try to eliminate some of the distractions in our life. I felt some distress at not publishing a weekly update, but decided to just let it go. I was surprised at how missing just one week seemed to break the habit a bit in my mind, so that another week went by before I was writing another update. It is healthy for me to not do something perfectly, like publishing a weekly update every week. There is a delicate balance to be found there.
