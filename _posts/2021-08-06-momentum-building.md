@@ -101,4 +101,4 @@ It’s OK to not be OK.
 ***
 {% include subscribe-weekly.md %}
 
-[^1]: I wrote about Ted Lasso and the impact the show had on me [back in February]({% post_url 2021-02-24-talking-with-strangers %}).
+[^1]: I wrote about Ted Lasso and the impact the show had on me [back in February](https://www.mentalworkhealth.org/2021/02/24/talking-with-strangers.html#something-else).

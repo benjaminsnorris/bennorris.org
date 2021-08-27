@@ -53,7 +53,7 @@ After more consideration, my answer is no. I would not ask to be healed of my OC
 
 ## Wrap up
 
-I mentioned [last week]({% post_url 2020-11-21-aftermath-of-therapy %}) that I keep hoping to have a boring week, and keep not doing so. My surgery went well and recovery is progressing. The reminder that I am coming to peace with my OCD was a welcome surprise. I hope that whatever struggles you are facing, you are able to find the gold nuggets and come to peace with your situation.
+I mentioned [last week]({% post_url 2020-10-20-aftermath-of-therapy %}) that I keep hoping to have a boring week, and keep not doing so. My surgery went well and recovery is progressing. The reminder that I am coming to peace with my OCD was a welcome surprise. I hope that whatever struggles you are facing, you are able to find the gold nuggets and come to peace with your situation.
 
 ***
 {% include subscribe-weekly.md %}
