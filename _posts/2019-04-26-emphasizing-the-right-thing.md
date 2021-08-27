@@ -5,14 +5,12 @@ tags:
 - mindfulness
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/cd385d0bc1.jpg" alt="Mindful days" />
 
 The Calm app impressed me this weekend when I broke my streak.
 
-<!--more-->
 ***
 
 I [posted recently](https://www.bennorris.org/2019/04/16/ninety-days-of.html) about my 90 day meditation streak. Last weekend, I missed my meditation on Saturday, which I realized Sunday. Part of my OCD is an obsession for streaks, so when I found that I blew my 90+ day streak, I felt my stomach drop out of my body.

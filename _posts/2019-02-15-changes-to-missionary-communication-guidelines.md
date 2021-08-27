@@ -14,6 +14,7 @@ A major change to that policy was [just announced today](https://www.mormonnewsr
 > Effective immediately, missionaries may communicate with their families on their weekly preparation day via text messages, online messaging, phone calls and video chat in addition to letters and emails.
 
 <!--more-->
+
 My wife sent me this article, and my first reaction was that I would have struggled with this policy. Here is an example of the flexibility being introduced:
 
 > We encourage missionaries to communicate with their families each week using whatever approved method missionaries decide. This may vary based on their circumstances, locations and schedules for that week. It is not expected that all missionaries will call or video chat with their parents every week. The precise manner of communication is left up to the missionary as he or she decides what will best meet their needs.

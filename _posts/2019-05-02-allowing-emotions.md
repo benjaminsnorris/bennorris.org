@@ -4,14 +4,12 @@ date: 2019-05-02 18:09:00-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/725a4a482a.png" alt="Angry" />
 
 Acknowledging and welcoming emotions, even painful ones, makes it possible to process and digest them in a healthy way.
 
-<!--more-->
 ***
 
 I continue to have experiences that illustrate principles I am learning in my OCD treatment. I suppose that is due to the [Baader–Meinhof effect](https://en.m.wikipedia.org/wiki/Baader%E2%80%93Meinhof_effect). A skill we recently discussed is [emotion regulation](https://en.wikipedia.org/wiki/Emotional_self-regulation), which is essentially the ability to identify and process your emotions healthily. In the middle of learning about this, I had a situation that felt straight out of a textbook.

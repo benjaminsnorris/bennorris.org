@@ -4,12 +4,10 @@ date: 2020-09-11 04:14:00-0000
 tags:
 - my story
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 My first experience with talk therapy was uncomfortable, awkward, and unfulfilling. I have since had fantastic experiences, but the beginning was anything but.
 
-<!--more-->
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
 
 ***

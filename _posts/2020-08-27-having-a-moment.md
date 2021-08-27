@@ -8,7 +8,9 @@ excerpt_separator: "<!--more-->"
 My wife came down to grab her phone and called a greeting through my office door. I popped out to say hi, and we were embracing when our 8yo came down the stairs. I didn’t know who it was, but I could hear a child coming down, so I said, “Hold on! We’re having a moment.”
 
 From the stairs, he said, “Nuts!”
+
 <!--more-->
+
 Then he came around the corner and saw us kissing, he said, “Ew! Ok, I will wait.”
 
 After maybe ten more seconds, he said, “You guys do that all the time. You’ve done it for like 50 days.”

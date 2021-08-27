@@ -4,14 +4,12 @@ date: 2019-03-20 19:06:44-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/a9579719ca.jpg" alt="Arc reactor" />
 
 Anxiety for me is like the [arc reactor](https://marvel.fandom.com/wiki/Arc_Reactor), as shown in Iron Man 2. At times, it pulses and the energy it emits ebbs and flows. But it is always spreading poison throughout my body.
 
-<!--more-->
 *Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
 
 ***

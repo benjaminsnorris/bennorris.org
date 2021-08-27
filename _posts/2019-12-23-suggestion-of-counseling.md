@@ -4,12 +4,10 @@ date: 2019-12-23 22:39:00-0000
 tags:
 - my story
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 As someone who grew up largely ignorant of mental health, and the situations and resources connected with it, I was completely taken aback when someone suggested that I consider counseling.
 
-<!--more-->
 _Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
 
 ***

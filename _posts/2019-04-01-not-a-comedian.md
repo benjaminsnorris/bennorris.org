@@ -4,14 +4,12 @@ date: 2019-04-01 13:44:32-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/a8d2a8400b.png" alt="Comedian" />
 
 It’s ok that I’m not that funny. Just because I’ve listened to comedians on THWoD doesn’t mean I have to be one.
 
-<!--more-->
 ***
 
 I’ve mentioned a few times, and will again, that my current favorite podcast is [The Hilarious World of Depression](http://hilariousworld.org). Many of the guests have been comedians and have talked about dealing with their mental health through comedy.

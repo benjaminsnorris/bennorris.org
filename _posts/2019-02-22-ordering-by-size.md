@@ -5,14 +5,12 @@ tags:
 - musings
 - favorites
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/8e67eaa05c.png" alt="No value meal" />
 
 Instead of ordering the best value, order the size you actually want.
 
-<!--more-->
 ***
 
 I imagine that my experience is similar to yours. When I go to order food, I am mentally doing a quick calculation between the different sizes to identify the best value. If 20oz is only 50¢ more than 16oz, it is nearly impossible to order the smaller size. Even when I actually want the smaller size.

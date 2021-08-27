@@ -14,6 +14,7 @@ I loved this delightfully written article by Craig Mod: [Who Would Have Thought 
 > Move the pointer above a button and the circle morphs into the button itself, "snapping" into it, enveloping it like an amoeba, causing it to glow in a pleasing way. What this means is that the usual precision of a trackpad isn’t required to get exact hits on navigational elements. If you own an Apple TV, you’re already familiar with this vibe—it’s how the cursor on the TV “jumps” from icon to icon with a kind of sticky momentum. Similarly, on the iPad home screen, you can “lazily” slam the cursor around and have it lock onto applications with an eerie telepathy not experienced on a desktop OS.
 
 <!--more-->
+
 I have used an iPad Pro as my primary machine for nearly a year now. I usually only go to my MacBook Pro when I need to work in Xcode, or do serious work in Jira. That’s the life of a software manager.
 
 I actually have enjoyed using the Smart Keyboard Folio available with last year’s model of iPad Pro. But when I saw the new [Magic Keyboard](https://www.apple.com/ipad-keyboards/) announced last week, I was ecstatic. Alas, like everyone else, I have to wait until May to really try it out.

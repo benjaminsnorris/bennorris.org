@@ -4,12 +4,10 @@ date: 2019-09-24 15:47:53-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 Life is like walking against a moving walkway. We need to regularly stop and take stock of where we are at, and whether we are still focusing on what is actually most important.
 
-<!--more-->
 ***
 
 In my job as a software engineering manager, there are a number of possible activities in which I can engage on a daily basis. It is easy to allow myself to coast and be reactive; just dealing with the crises that arise on any given day. The natural pull of entropy is constantly tugging at us to disrupt and distract us from our priorities.

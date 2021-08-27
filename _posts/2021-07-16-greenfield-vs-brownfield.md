@@ -2,12 +2,10 @@
 title: "Greenfield vs. Brownfield"
 date: 2021-07-16 15:25:24-0000
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 I came across a fantastic article today from [Austin Kleon’s weekly newsletter](https://austinkleon.com/newsletter/) that he wrote called [“The pirate gardener”](https://austinkleon.com/2021/07/13/the-pirate-gardener/). It’s worth reading in full.
 
-<!--more-->
 In it, he shares that Brian Eno suggests that artists can be divided into either farmers or cowboys. Then Dave Hickey gave a different spin on the same idea, classifying people as either farmers or pirates.
 
 Austin challenged the idea that we can define people by those categories:

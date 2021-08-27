@@ -4,12 +4,10 @@ date: 2019-02-02 18:04:43-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 A trip to the local rec center can bring more real-life inspiration than watching the Olympic Games.
 
-<!--more-->
 ***
 
 A couple days ago, I recorded a podcast episode about my experience at the rec center called [At Your Own Pace](https://www.bennorris.org/2019/01/31/at-your-own.html). Yesterday, I took another walk around the rec center track, and wanted to share some additional thoughts.

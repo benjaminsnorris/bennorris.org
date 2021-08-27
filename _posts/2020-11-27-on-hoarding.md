@@ -4,11 +4,10 @@ date: 2020-11-27 17:33:00-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 These clips are a fascinating take on hoarding by [Malcolm Gladwell](http://gladwell.com) and [Randy Frost](https://www.smith.edu/academics/faculty/randy-frost).
-<!--more-->
+
 The first describes perfectly people I know.
 
 <video src="https://www.bennorris.blog/uploads/2020/47c572a12c.mov" controls="controls" playsinline="playsinline" poster="https://www.bennorris.blog/uploads/2020/74fe2ac94d.png" preload="none"></video>

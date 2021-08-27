@@ -4,12 +4,10 @@ date: 2019-08-23 16:30:00-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 While there are cases in which the output of an activity matters a great deal, in much of life the infinitesimal changes that occur in you matter even more.
 
-<!--more-->
 ***
 
 My therapist suggested a few weeks that I adopt a daily practice of writing [Morning Pages](https://juliacameronlive.com/basic-tools/morning-pages/) to help clear my mind and get in touch with the emotions I am holding in my body. As I was talking about it with my wife, she suggested that I use loose-leaf lined pages, mostly because I hate lined paper. That would help transform the act of writing my morning pages to be more of an [exposure](https://en.m.wikipedia.org/wiki/Exposure_therapy), which is always helpful in my ongoing struggles with OCD. To increase the effectiveness of the exposure, I further decided that I would throw the pages away each day.

@@ -5,12 +5,10 @@ tags:
 - mental health
 - favorites
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 **tl;dr** Hi, I’m Ben, and I have OCD. 👋
 
-<!--more-->
 ***
 
 I am not gay. I am happily married to the woman of my dreams, and we have six wonderful children. My coming out is of an entirely different nature. Hopefully no one who is gay is offended at my co-opting the phrase “coming out”—it felt the most appropriate for the emotional struggle I have found in coming to terms with this huge part of my life and my identity.
