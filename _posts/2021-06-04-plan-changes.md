@@ -4,12 +4,11 @@ date: 2021-06-04 15:32:19-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this week’s update, I share about a change in plans, and the challenge that comes from dealing with the associated emotions.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

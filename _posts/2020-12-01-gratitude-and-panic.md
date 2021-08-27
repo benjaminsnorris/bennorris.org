@@ -2,12 +2,13 @@
 title: "#14: Gratitude and panic"
 date: 2020-12-01 04:11:00-0000
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week, I share about **nailing the holiday**, **recognizing panic attacks**, and **expressing gratitude**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 One thing I am grateful for is this outlet for my thoughts and feelings. It has been helpful for me to regularly take stock and to be honest with myself about where things are at. Many of you reading this have reached out to express support or solidarity or to comment on how nice it is to know that you are not alone in your struggles. I hope this blog can continue to help you as it is helping me.
 

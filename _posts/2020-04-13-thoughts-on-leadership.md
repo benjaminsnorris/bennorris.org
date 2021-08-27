@@ -5,14 +5,13 @@ tags:
 - favorites
 - leadership
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 ![People following a leader](https://www.bennorris.blog/uploads/2020/b30d51625a.jpg)
 
 In my job as a software engineering manager, I was recently asked to speak about leadership. As I prepared the presentation, I realized that this topic is a passion of mine, even rivaling my passion for mental health awareness. I will share my thoughts over a series of articles.
 
-<!--more-->***
+***
 
 Leadership is a complex idea that means different things to different people. Often, we are thrust into roles in which we are expected or required to lead others. Many of us find these situations uncomfortable and find ourselves unprepared to take up the mantle laid upon us.
 

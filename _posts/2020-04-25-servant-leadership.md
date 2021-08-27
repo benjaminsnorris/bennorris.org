@@ -7,7 +7,7 @@ excerpt_separator: "<!--more-->"
 
 One of the most impactful roles in the workplace is the direct manager. This person has a huge effect on our mental and emotional well-being at work. However, this is not the only person who can be a leader. All of us can rise us to be leaders, regardless of positional authority. It is important to consider what kind of leader we are and want to be.
 
-<!--more-->***
+***
 
 I plan to continue my ongoing series on [my story discovering mental health]({% post_url 2019-11-10-my-story %}), but I wanted to interrupt it to share a series that I wrote on my personal blog, [bennorris.org](https://bennorris.org). In my day job, I am an engineering manager, and spend a great deal of time thinking about how to improve and be a better leader. In my mind, this is intricately connected with mental health, especially in the workplace.
 

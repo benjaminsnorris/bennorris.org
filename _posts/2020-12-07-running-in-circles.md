@@ -4,12 +4,13 @@ date: 2020-12-07 22:30:59-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 Following a difficult week, I share about another **dissociative panic attack**, the healing that comes through **facing uncertainty**, and **frantic website work**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 These weekly updates are proving therapeutic for me during tough times. They are essentially public journal entries where I process my experiences, particularly in the intersection of mental health and the workplace. I hope that in your journey, you are finding helpful ways to process your own struggles.
 

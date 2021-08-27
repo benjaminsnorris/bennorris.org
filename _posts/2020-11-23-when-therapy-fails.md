@@ -4,12 +4,13 @@ date: 2020-11-23 01:54:32-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week felt like one of the longest years of my life. I discuss **layoffs**, **coping**, and **therapy failures**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 The events of [last week](https://www.mentalworkhealth.org/2020/11/16/a-slight-breakdown.html) set me up for this week in some unusual ways. This was my conclusion:
 

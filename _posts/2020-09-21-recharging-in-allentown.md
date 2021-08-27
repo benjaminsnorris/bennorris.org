@@ -4,12 +4,13 @@ date: 2020-09-21 23:47:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my regular weekly update, I share about **disappointing others**, **traveling with my brother**, and **sketching my surroundings**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Following a difficult week, I was pleasantly surprised to enjoy a lovely week largely free from stress and anxiety. It was a great reminder that emotions are always transitory.
 

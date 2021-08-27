@@ -4,12 +4,11 @@ date: 2021-07-09 17:05:48-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this update, I share **details of the new app** I have been creating, and the **deep irony** of become obsessed with making it.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

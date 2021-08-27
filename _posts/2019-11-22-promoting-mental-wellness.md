@@ -4,12 +4,11 @@ date: 2019-11-22 03:22:01-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 One of my most satisfying accomplishments lately was participating in a department meeting yesterday where we were able to spend half an hour discussing mental health. I wanted to pause and reflect on the journey to make that happen.
 
-<!--more-->***
+***
 
 As I have [written about before](https://www.bennorris.org/categories/mental-health/), the last year and a half has been significant in my own mental health journey. As I returned back to to work full-time at the beginning of this summer, following intensive treatment for my OCD, I found myself having many conversations around mental health. At the beginning of September, I sent the following email to my manager and our CIO:
 

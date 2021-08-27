@@ -4,12 +4,13 @@ date: 2021-02-17 21:10:35-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my update this week, I share about **difficulty returning to work**, the **emotional impact of a TV show**, and the **results of my short device fast**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Happy Valentine’s Day! I hope that regardless of your situation, you have found loved ones to be grateful for and have expressed how you feel.
 

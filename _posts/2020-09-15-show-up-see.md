@@ -4,12 +4,13 @@ date: 2020-09-15 02:22:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 After a difficult week, I share about **taking days off**, **presenting to executives**, and **thoughts on suffering**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 This past week was a roller coaster for me. There were a number of small moments that contributed to the struggle, and there were also a number of high points. In my experience, one of the most difficult aspects of dealing with mental health is the reality of life being good and hard at the same time. That was a truth that my mind was unable to compute for a long time, and still often remains a challenge.
 

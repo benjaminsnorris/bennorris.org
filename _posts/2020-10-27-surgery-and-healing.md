@@ -4,12 +4,13 @@ date: 2020-10-27 03:37:09-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this past week, I dealt with the **pain** and **upside of surgery**, and wrestled with **an existential question**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 As happens so often, I have been anticipating this past weekend for a while, and built up expectations that turned out to be inaccurate. At some point, one might think that I would come to expect that, but it has not happened yet.
 

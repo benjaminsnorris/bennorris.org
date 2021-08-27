@@ -4,14 +4,13 @@ date: 2020-04-17 19:10:39-0000
 tags:
 - leadership
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 ![Provide](https://www.bennorris.blog/uploads/2020/4b4fadf9a0.jpg)
 
 I believe that the most important roles a leader must serve are to **protect** and **provide**. I want to explore this further by considering how a leader can provide **support**, **clarity**, and **results**.
 
-<!--more-->*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
+*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
 
 ***
 

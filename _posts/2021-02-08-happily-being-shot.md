@@ -4,12 +4,13 @@ date: 2021-02-08 17:19:42-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In a quick update this week, I discuss **taking a week off**, a **date with my son**, and a **device fast**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 I vacillated on whether to write an update this week, and in the end decided to write something quick. My hope is that this can still be helpful for you.
 

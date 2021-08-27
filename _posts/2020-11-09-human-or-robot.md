@@ -4,12 +4,13 @@ date: 2020-11-09 22:01:57-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my weekly update, I discuss **saying goodbye**, **progress on a goal**, and a **healthy reminder of my fallibility**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Here in Utah, we enjoyed a surprisingly warm week for November (before the snow!), which led to a couple nice walks. With everything that has been going on, it was nice to get some fresh air and exercise again. Life can get so hectic that we neglect some of the simple choices that make a big difference to our mental well-being.
 

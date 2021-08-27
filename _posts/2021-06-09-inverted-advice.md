@@ -4,12 +4,11 @@ date: 2021-06-09 14:33:29-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week, I share about a conversation that took an unexpected turn, and the reminders of my mental health journey up until now.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

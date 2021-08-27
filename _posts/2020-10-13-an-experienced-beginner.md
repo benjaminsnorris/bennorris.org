@@ -4,12 +4,13 @@ date: 2020-10-13 02:40:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week brings some thoughts on  a **surprise struggle**, a **parenting win**, and **pragmatic sketching**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 I heard from a friend who had a difficult time this weekend that the season changing and family frustration and some self-pity all combined to bring her down a bit. We all have those times. I hope we are watching out for each other and noticing when someone is struggling and doing what we can to lift each other up. I know I have been the beneficiary of such support and it makes a huge difference.
 
