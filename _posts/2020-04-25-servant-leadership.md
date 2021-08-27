@@ -2,7 +2,6 @@
 title: "Servant leadership"
 date: 2020-04-25 17:12:00-0000
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 One of the most impactful roles in the workplace is the direct manager. This person has a huge effect on our mental and emotional well-being at work. However, this is not the only person who can be a leader. All of us can rise us to be leaders, regardless of positional authority. It is important to consider what kind of leader we are and want to be.

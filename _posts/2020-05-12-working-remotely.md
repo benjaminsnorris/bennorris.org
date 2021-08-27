@@ -2,7 +2,6 @@
 title: "Working remotely"
 date: 2020-05-12 20:14:00-0000
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 Many of us have been thrust into coping with a global crisis by working from home, if we are lucky. For some, this is a welcome reprieve from the stresses of office life; for all, there are additional challenges. This leads to the question: should we support or pursue remote work when we have a choice?

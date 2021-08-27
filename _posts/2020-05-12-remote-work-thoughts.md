@@ -5,7 +5,6 @@ tags:
 - favorites
 - leadership
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 My manager asked us to write up our thoughts on remote work, as we have all experienced a form of it in this pandemic. I decided I wanted to share my thoughts more broadly. With some edits for a more general audience, the text below is what I sent out.
