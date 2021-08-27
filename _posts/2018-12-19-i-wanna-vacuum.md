@@ -12,6 +12,7 @@ _Lessons in motivation from a six-year-old_
 I had an interesting experience with my son last night that reminded me of an important lesson.
 
 <!--more-->
+
 ## The context
 In our church, [The Church of Jesus Christ of Latter-Day Saints](https://lds.org), we have no paid ministry but accept voluntary assignments to serve. As part of that, we all take turns cleaning our church building on a regular basis. Last night was our family’s turn.
 
