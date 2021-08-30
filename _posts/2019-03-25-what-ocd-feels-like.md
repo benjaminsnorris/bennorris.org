@@ -4,14 +4,12 @@ date: 2019-03-25 16:26:44-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/5d997d840f.jpg" alt="Drums" />
 
 Dealing with OCD is similar to how I imagine the Master’s experience in Dr. Who. The sound of drums is always present, although they may be soft at times and deafening at others.
 
-<!--more-->
 *Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
 
 ***

@@ -4,12 +4,10 @@ date: 2019-02-09 20:02:45-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 Giving myself permission to get a few nice things has resulted in a desire to clean house and be more minimalistic. Also, spending time researching Patagonia products had a surprisingly uplifting effect on me.
 
-<!--more-->
 ***
 
 I have always loved small things. And things that collapse. And things that fold in on themselves. And expensive things. It can be a problem at times.

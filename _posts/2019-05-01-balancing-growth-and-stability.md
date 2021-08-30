@@ -4,7 +4,7 @@ date: 2019-05-01 06:18:00-0000
 tags:
 - links
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 <img src="https://content.artofmanliness.com/uploads/2019/04/Dopamine-Header-1.jpg" alt="Your life explained through dopamine" />
@@ -15,4 +15,3 @@ I loved this article from the Art of Manliness: [Your Life Explained Through Dop
 
 Understanding the function of brain chemistry has been a huge part of the last few months for me. This precarious balance is crucial to master in order to find true happiness in life. One thing that I especially appreciate is the normalization of the ebb and flow. When we understand that force, we can work with it instead of fighting against it.
 
-<!--more-->

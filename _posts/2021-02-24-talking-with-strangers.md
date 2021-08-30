@@ -4,12 +4,13 @@ date: 2021-02-24 19:22:58-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this week’s update, I discuss a **more difficult therapy session**, a **delightful group of sisters**, and an **inspiring TV show**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 ## Something hard
 

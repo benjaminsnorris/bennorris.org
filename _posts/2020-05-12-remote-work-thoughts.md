@@ -5,12 +5,11 @@ tags:
 - favorites
 - leadership
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 My manager asked us to write up our thoughts on remote work, as we have all experienced a form of it in this pandemic. I decided I wanted to share my thoughts more broadly. With some edits for a more general audience, the text below is what I sent out.
 
-<!--more-->***
+***
 
 I have worked remotely either full-time or part-time for the last eight years. Prior to [O.C. Tanner](https://www.octanner.com/), I worked for [Balsamiq](https://balsamiq.com/), a software company based out of Italy, which was entirely remote. I have strong feelings about this topic and the implications it has.
 

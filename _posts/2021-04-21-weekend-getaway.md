@@ -4,12 +4,10 @@ date: 2021-04-21 03:21:22-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 After a delightful weekend away, I share about **getting sick**, **taking time**, and a **fun new show**.
 
-<!--more-->
 _These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 ***
 

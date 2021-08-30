@@ -2,7 +2,7 @@
 date: 2021-06-11 23:58:34-0000
 title: "Color matching game"
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 My wife made up a color matching game which our 3yo loved.
@@ -14,4 +14,3 @@ The 3yo got right up in her face. “No. You are not doing well.”
 Then she got mad and trashed the game.
  
 😂
-<!--more-->

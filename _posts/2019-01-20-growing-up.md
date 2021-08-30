@@ -4,7 +4,7 @@ date: 2019-01-20 17:02:56-0000
 tags:
 - links
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 I loved this article this morning: [Sunday Firesides: Dependence to Independence - The Art of Manliness](https://www.artofmanliness.com/articles/sunday-firesides-dependence-to-independence/)
@@ -15,4 +15,3 @@ I loved this article this morning: [Sunday Firesides: Dependence to Independence
 
 I hope to improve this in my own life, and also to equip my children with these skills as they grow up.
 
-<!--more-->

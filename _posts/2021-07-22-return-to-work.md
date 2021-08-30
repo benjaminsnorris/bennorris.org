@@ -4,12 +4,11 @@ date: 2021-07-22 15:33:36-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week’s update includes a **delightful visit**, my experience with a **remote office space**, and **apprehensions about working in our corporate office**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

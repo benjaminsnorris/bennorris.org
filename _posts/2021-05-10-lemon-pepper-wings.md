@@ -4,12 +4,11 @@ date: 2021-05-10 14:40:23-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my update this week, I try something new, and share the **story of a panic attack**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

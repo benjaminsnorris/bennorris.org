@@ -4,12 +4,13 @@ date: 2021-01-12 20:19:23-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This weekly update shares about **the fear of fear**, **building Legos**, and **the importance of support groups**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 This has been a stressful week for so many people that I know, and might have been for you as well. Coming back after the holidays can feel like a slap in the face as we have to confront our many responsibilities. As I will discuss in this update, hopefully we can remember curiosity and compassion as we navigate our daily lives.
 

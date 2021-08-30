@@ -2,7 +2,7 @@
 date: 2020-05-15 05:19:27-0000
 title: "Rock yourself"
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 Our 6yo was sitting in one of our recliners and the 2yo was rocking her.
@@ -14,4 +14,3 @@ Our 6yo was sitting in one of our recliners and the 2yo was rocking her.
 Me: “Come rock me, bud.”
 
 2yo: “Rock youself.”
-<!--more-->

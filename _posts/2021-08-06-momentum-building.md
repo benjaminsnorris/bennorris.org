@@ -4,12 +4,11 @@ date: 2021-08-06 14:46:49-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

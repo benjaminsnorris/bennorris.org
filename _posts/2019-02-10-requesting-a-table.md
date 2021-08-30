@@ -4,12 +4,10 @@ date: 2019-02-10 18:16:26-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 Our fears and doubts often prevent us from asking for seemingly small changes in our lives that have a disproportionate impact.
 
-<!--more-->
 ***
 
 I checked in to an Airbnb recently where I would be staying for a couple weeks. One of the first things that I noticed was that the table that was in the room seemed to be a patio table.

@@ -4,12 +4,11 @@ date: 2020-03-06 04:19:58-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 One of the surprising inspirations I have found in traveling to India is the traffic. At first glance, it seems scary and chaotic, but a subtle beauty emerged as I better understood life with almost no traffic lights.
 
-<!--more-->***
+***
 
 India is a fascinating place. I visited Mumbai in 2008 for work and loved the experience. This past week I have spent in Hyderabad working with our Android and API teams. There are a number of things that have struck me in my time here, and I wanted to reflect more on the traffic.
 

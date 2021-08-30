@@ -5,12 +5,10 @@ tags:
 - mental health
 - musings
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 Life can quickly get overwhelming, and if you allow yourself to be paralyzed by waiting for perfection, you will miss out on many opportunities.
 
-<!--more-->
 ***
 
 As I have finished my OCD treatment and returned back to normal everyday living, I have found myself writing less and less. Part of the issue is the natural hustle and bustle of life. But as I step back for some introspection, the brutal truth is that I have been avoiding it. I have been waiting to have something truly meaningful to say.

@@ -4,12 +4,10 @@ date: 2019-03-06 15:51:48-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 This never works as a parent. We can’t tell someone to do the action that represents the feeling we want them to develop.
 
-<!--more-->
 ***
 
 I went out on a walk a few days ago, and overhead a scuffle between a couple small children. One of them started crying, and then the dad noticed. He yelled out, “Tell him sorry right now!” I had to chuckle to myself as I continued walking. I completely understood the dad, and how easy it is to say something so unhelpful and asinine.

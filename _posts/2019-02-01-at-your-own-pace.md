@@ -4,7 +4,7 @@ date: 2019-02-01 00:43:25-0000
 tags:
 - podcast
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 I share my thoughts from time spent at the rec center, and how those can be applied to life more generally.
@@ -15,4 +15,3 @@ I share my thoughts from time spent at the rec center, and how those can be appl
 
 <audio controls="controls" src="https://www.bennorris.blog/uploads/2019/79aff62720.mp3" />
 
-<!--more-->

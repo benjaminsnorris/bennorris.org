@@ -11,7 +11,9 @@ A huge part of seeing and treating others as people, as well as increasing effic
 
 We often default to ways of communicating that reduce others to objects and decrease their and our ability to work well. We are inundated with information, and yet spend little time considering different modes of communication and deliberately deciding which to employ.
 
-<!--more-->***
+<!--more-->
+
+***
 
 ## tl;dr
 

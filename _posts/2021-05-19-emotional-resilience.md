@@ -4,12 +4,11 @@ date: 2021-05-19 13:35:53-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week, I share about **sitting with emotions**, a **link between creativity and mental health**, and **respect**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

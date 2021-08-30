@@ -4,12 +4,10 @@ date: 2019-02-11 21:05:53-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 The oft-lauded sports cliché to play through injuries can apply to life more generally with a broader view of “injuries.”
 
-<!--more-->
 ***
 
 I was listening to my new favorite podcast, [The Hilarious World of Depression](http://hilariousworld.org), while driving the other day and had a realization. There is a strong myth of the tortured creative. People believe that those who are creative do better when they are depressed or anxious. This is a seductive myth, because those who do not consider themselves creative can dismiss it by saying they don’t want all the baggage that comes with it. However, there is a big problem with this myth.

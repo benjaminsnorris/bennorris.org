@@ -2,7 +2,7 @@
 title: "😂 Cold Dr. Pepper"
 date: 2020-08-24 00:54:40-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 My 2yo was drinking out of his cup as I got him ready for bed, and as he finished it, I asked, “Would you like more water?”
@@ -20,4 +20,3 @@ As he started drinking, he said, “Oh, I love Dr. Pepper.”
 Me: “Yeah, it’s so good.”
 
 2yo: “This cold Dr. Pepper ‘minds me. I love cold Dr. Pepper.”
-<!--more-->

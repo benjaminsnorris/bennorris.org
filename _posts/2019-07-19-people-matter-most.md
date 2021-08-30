@@ -4,12 +4,10 @@ date: 2019-07-19 01:27:00-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 As is often the case, seeing a diverse group of people come together helped me remember what is truly important.
 
-<!--more-->
 ***
 
 At my company, [O.C. Tanner](https://www.octanner.com), we celebrate select work anniversaries with a small ceremony involving multiple speakers who highlight achievements or qualities of the employee. Today was the one-year anniversary of a man who is about to become my new product manager, and I was touched.

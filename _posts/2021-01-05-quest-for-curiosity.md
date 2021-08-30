@@ -4,12 +4,13 @@ date: 2021-01-05 04:38:32-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my first weekly update of the new year, I discuss the **difficulty of the holidays**, the **joy of a new project**, and **missing a week**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Happy New Year! I have always enjoyed this time of year with its feeling of renewal and fresh start. I am less obsessive than I used to be about creating all manner of goals and resolutions, and so I have reduced much of the stress. I hope that the new year brings you and me improvements to our mental health and capacity for compassion.
 

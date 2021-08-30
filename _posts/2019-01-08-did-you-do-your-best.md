@@ -13,6 +13,7 @@ I [posted recently](https://bennorris.org/2019/01/06/at-church-today.html) an ex
 >  At church today, my six-year-old handed me a piece of his toy and asked me to fix it. After trying for just a bit, I handed it back to him. He looked at it and asked, “Daddy, did you do your best?” Then he looked up at me intently and asked again, “Did you *do your best*?”
 
 <!--more-->
+
 At the time, I laughed a bit at his intensity, but his two questions have continued to play in my mind. The second question communicates a level of challenge. It forces me to self evaluate and decide whether I really did give my best effort. It pushes me to keep going if I have the nagging suspicion that I could do more.
 
 This question, by itself, is something of a double-edged sword. We all need motivation to keep going when our enthusiasm is flagging. In today’s world however, there never seems to be a lack of this kind of motivation. Everywhere we turn, there is something telling us to give 110% or to dig deep and push through. The problem comes when this starts to resonate with the voice of self-doubt and self-criticism that all of us have inside. If instead of hearing, “You should give your best effort,” we hear, “You are failing to give your best,” we are going to end up in a cycle of self-loathing and despair.

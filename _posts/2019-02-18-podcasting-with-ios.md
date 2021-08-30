@@ -4,7 +4,7 @@ date: 2019-02-18 21:32:00-0000
 tags:
 - podcast
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 A discussion of the tools I have tried and the system I am using now to record, edit, and publish my podcast.
@@ -23,4 +23,3 @@ A discussion of the tools I have tried and the system I am using now to record, 
 
 <audio controls="controls" src="https://www.bennorris.blog/uploads/2019/cfc9892f7e.mp3" />
 
-<!--more-->

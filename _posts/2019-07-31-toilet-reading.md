@@ -4,12 +4,10 @@ date: 2019-07-31 03:22:00-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 Switching from playing a game to reading on my phone as the default behavior on the toilet has made a world of difference.
 
-<!--more-->
 ***
 
 A couple weeks ago, I realized that I was spending way too much time playing a game on my phone. At the beginning of June, I had been introduced to the game and started playing in some of my spare time. As the month went on, I found myself looking for more and more opportunities to play. Every trip to the toilet, I pulled out the game, and I even started going to the bathroom when I didn’t really need to. It was getting out of control.

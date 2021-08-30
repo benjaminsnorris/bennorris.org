@@ -4,12 +4,10 @@ date: 2019-06-03 21:20:00-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 My impressions and reactions from the announcements this morning.
 
-<!--more-->
 ***
 
 This was an exciting morning. I have the opportunity this week to be in San Jose with my team from work. Along with two other guys, I did not get WWDC tickets, so we are enjoying AltConf and Layers instead.

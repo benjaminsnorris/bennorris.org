@@ -4,12 +4,10 @@ date: 2019-01-30 16:24:45-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 I have come to hate this phrase as a greeting. 😡
 
-<!--more-->
 ***
 
 As I [wrote about recently](https://bennorris.org/2019/01/26/coming-out.html), I have been struggling lately with mental health challenges. This has made me more aware than ever of how often people ask a deep and probing personal question as a greeting with no thought or consideration behind it. It is an easy question to throw out, and at times an impossible one to answer.

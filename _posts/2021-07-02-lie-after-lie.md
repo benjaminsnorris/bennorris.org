@@ -4,12 +4,11 @@ date: 2021-07-02 20:29:57-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This update describes a **week of obsession** as well an illustration of **making progress**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

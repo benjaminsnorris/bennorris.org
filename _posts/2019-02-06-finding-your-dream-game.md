@@ -4,12 +4,10 @@ date: 2019-02-06 14:58:05-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 We often embark on a journey in life expecting to do or find something specific, and come back having discovered the unexpected.
 
-<!--more-->
 ***
 
 I went alone to see *Ralph Breaks the Internet* recently. I enjoy the digs on Disney princesses just needing a random man to save them, the portrayal of Twitter as a tree where birds chirp the same cat picture at each other, and highlighting the toxicity of Internet comments. I especially love Ralph’s journey of self-discovery that allows him to become a better friend. One of my favorite lines comes near the end as Ralph comes to grips with Vanellope’s decision to stay in Slaughter Race.

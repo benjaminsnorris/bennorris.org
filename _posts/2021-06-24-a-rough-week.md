@@ -4,12 +4,11 @@ date: 2021-06-24 14:49:43-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week was a struggle. This update shares **what that looked like**, and a possible cause. I also share about **another craft project**, and a **teaser of a new app**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

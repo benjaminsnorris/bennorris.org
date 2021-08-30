@@ -6,12 +6,10 @@ tags:
 - favorites
 - mental health
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 It is important to acknowledge and validate your own suffering irrespective of its intensity relative to the suffering of someone else. You don’t have to suffer the most in order to have suffered.
 
-<!--more-->
 ***
 
 It can be a real challenge to allow yourself to have a hard time. All too often, even in the midst of struggling, you say to yourself, “I know someone else has it worse.” While that may be true, it is not usually helpful or healthy.

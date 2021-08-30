@@ -4,12 +4,11 @@ date: 2020-03-13 22:24:22-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 One of the ways I was profoundly affected by my recent trip to our India office was in observing the manner in which the people worked. I am still considering how to apply what I saw and learned.
 
-<!--more-->***
+***
 
 As I [wrote about recently](https://www.bennorris.org/2020/03/06/driving-without-lights.html), I had the opportunity to travel to India last week. We were able to visit some amazing historical sites, and to work with our colleagues in our office there. I had previously visited India, but never before with my current company. So this was my first opportunity to meet some of my colleagues in that office.
 

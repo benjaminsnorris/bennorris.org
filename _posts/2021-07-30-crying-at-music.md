@@ -4,12 +4,11 @@ date: 2021-07-30 22:28:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 This week’s update shares an **emotional experience with music**, and then **wrestling with those emotions**.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

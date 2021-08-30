@@ -4,12 +4,11 @@ date: 2021-05-27 05:41:11-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this week, I discuss **feeling emotions**, a **relaxing project**, and **sketchnoting**. 
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

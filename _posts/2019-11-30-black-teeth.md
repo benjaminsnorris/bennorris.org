@@ -2,7 +2,7 @@
 title: "😂 Black teeth"
 date: 2019-11-30 17:17:00-0000
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 Micah (7yo): “Do I need braces? My brother said I do because my bottom teeth are getting brown.”
@@ -34,4 +34,3 @@ Me: “No, I never saw them fall out.”
 Micah: “Does the tooth fairy take black teeth?”
 
 Me and my wife: “NO! Definitely not.”
-<!--more-->

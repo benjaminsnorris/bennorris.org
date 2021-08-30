@@ -4,12 +4,13 @@ date: 2020-10-06 04:23:00-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In my update this week, I discuss **parenting**, **sketchnoting**, and **self-compassion**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 Another roller coaster of a week has come and gone. Let’s get right into it.
 

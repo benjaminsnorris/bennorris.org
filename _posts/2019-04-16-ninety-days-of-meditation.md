@@ -5,14 +5,12 @@ tags:
 - mindfulness
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/5c6d29bf1d.jpg" alt="90 day streak" />
 
 A reflection on my daily meditation habit over the last three months.
 
-<!--more-->
 ***
 
 ## My journey

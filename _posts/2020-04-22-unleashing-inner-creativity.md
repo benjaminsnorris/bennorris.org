@@ -4,12 +4,10 @@ date: 2020-04-22 14:25:11-0000
 tags:
 - musings
 category: General
-excerpt_separator: "<!--more-->"
 ---
 
 My friend [Jo Schaeffer](https://www.linkedin.com/in/joschaeffercrabb/) is participating in a podcast interview on creativity and posted the question, “What challenges do you have unleashing your inner creative?” I thought about this quite a bit, and decided I wanted to share my response.
 
-<!--more-->
 ***
 
 The biggest thing that helps me unlock my creativity is similar to what helps me have compassion for myself—just think of how I would treat others. My favorite thing to see from an artist is not the polished final product. Much more interesting is the rough work in progress. So even when I feel like my final product looks like a work in progress, and especially when it really is, I try to remind myself this is what I love to see from others.

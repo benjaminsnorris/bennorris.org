@@ -4,14 +4,12 @@ date: 2019-03-23 16:58:24-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 <img src="https://www.bennorris.blog/uploads/2019/a1a8c95ff6.jpg" alt="ESPN Multicast" />
 
 Mental panic attacks are the scarier version for me because they seem to come from nowhere. Often, my mind starts buzzing and filling up, even resembling the ESPN app multicast feature.  Multiple streams are playing simultaneously, but only one has audio.
 
-<!--more-->
 *Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
 
 ***

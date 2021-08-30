@@ -4,12 +4,11 @@ date: 2021-07-15 16:36:54-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this update, I share a positive application of my OCD in my efforts to become a villain.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

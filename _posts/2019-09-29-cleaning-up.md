@@ -2,7 +2,7 @@
 date: 2019-09-29 14:26:16-0000
 title: "Cleaning up"
 category: Kid Quotes
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 😂
@@ -20,4 +20,3 @@ Wife: “You’re cleaning up the Clue game.”
 14yo: “Do I have to?”
 
 Wife: “Yes! It will be a lesson in listening.”
-<!--more-->

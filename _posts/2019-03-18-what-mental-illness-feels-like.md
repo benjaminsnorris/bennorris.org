@@ -5,12 +5,10 @@ tags:
 - mental health
 - favorites
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 A series with an inside look at the effects of mental illness and the way that I have made sense of it in my life.
 
-<!--more-->
 ***
 
 ## Introduction/disclaimers

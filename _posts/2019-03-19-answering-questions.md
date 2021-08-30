@@ -4,7 +4,7 @@ date: 2019-03-19 16:48:24-0000
 tags:
 - podcast
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 An exploration of the phenomenon of considering a topic for the purpose of answering someone else’s question instead of just learning for yourself.
@@ -23,4 +23,3 @@ An exploration of the phenomenon of considering a topic for the purpose of answe
 
 <audio controls="controls" src="https://www.bennorris.blog/uploads/2019/94ee45458f.mp3" />
 
-<!--more-->

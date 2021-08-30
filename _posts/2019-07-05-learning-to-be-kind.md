@@ -5,12 +5,10 @@ tags:
 - mental health
 - musings
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 As much as I learn the skill of self-compassion, it is so far outside of my natural response that I still feel like an awkward novice.
 
-<!--more-->
 ***
 
 I had a rough morning. In many ways, it wasn’t all that bad, but it rocked me a bit. I got up and rushed away from the family on my holiday for a therapy appointment, trying to be on time. When I arrived, I found that I had received a text from my therapist ten minutes before leaving asking if we could reschedule. She commented, “I know you hate unexpected changes, can this be an exposure to reschedule? 😂😬”

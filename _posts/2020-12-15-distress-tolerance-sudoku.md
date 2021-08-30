@@ -4,12 +4,13 @@ date: 2020-12-15 05:21:50-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 In this edition of my weekly update, I write about the skill of **distress tolerance**, a lovely **sudoku app**, and **authenticity**.
 
-<!--more-->***
+{% include weekly-update.md %}
+
+***
 
 There is so much to celebrate and be grateful at this time of year. It is also a difficult time for many of us. Wherever your experience falls on that spectrum, I hope you can extend yourself compassion and be mindful of those struggling around you.
 

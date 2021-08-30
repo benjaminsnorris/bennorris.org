@@ -4,12 +4,10 @@ date: 2019-02-04 15:05:29-0000
 tags:
 - mental health
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 The tale of an epic battle between the incumbent champion and the untested underdog. Good versus evil. Right versus ~~wrong~~ left.
 
-<!--more-->
 ***
 
 Actually, the story is not nearly as exciting as I made it out to be. I went to the rec center again on Saturday and played racquetball by myself. Years ago, I played in college enough to get pretty good. But, like I said, that was years ago. I played a bit on Monday, and my right arm was so sore (I am right-handed) that I thought I would try using my left arm a bit on Wednesday. I discovered I was almost just as good with my left as I was with my right. Neither was very impressive.

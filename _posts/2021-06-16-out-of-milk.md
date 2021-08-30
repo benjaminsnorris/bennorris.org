@@ -4,12 +4,11 @@ date: 2021-06-16 19:59:15-0000
 tags:
 - weekly update
 category: Mental Work Health
-excerpt_separator: "<!--more-->"
 ---
 
 The [Holistic Psychologist](https://theholisticpsychologist.com/) said recently, “Wise people have known suffering + transformed it into grace.” Here’s my attempt to become more wise.
 
-<!--more-->{% include weekly-update.md %}
+{% include weekly-update.md %}
 
 ***
 

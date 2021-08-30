@@ -4,7 +4,7 @@ date: 2019-05-07 18:26:00-0000
 tags:
 - links
 category: General
-excerpt_separator: "<!--more-->"
+short: true
 ---
 
 ![Marriage](https://content.artofmanliness.com/uploads/2019/05/Russian-Roulette-Header-2.jpg)
@@ -15,4 +15,3 @@ I loved this article from the Art of Manliness: [Sunday Firesides: Marriage Isnâ
 
 We can allow risk to inhibit us, or we can allow it to help us. When we notice that something feels risky, instead of shutting down, we should recognize that this is something that is more important to us. We need to step up and engage fully and make sure that we meet the risk head on.
 
-<!--more-->
