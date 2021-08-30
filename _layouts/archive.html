@@ -23,6 +23,15 @@ layout: page
       {% for month in postsInMonth %}
         <ul class="taxonomy-index">
           <li>
+            <a href="#{{ year.name }}-{{ month.name }}">
+              <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
+            </a>
+          </li>
+        </ul>         
+      {% endfor %}
+      {% for month in postsInMonth %}
+        <ul class="taxonomy-index">
+          <li>
             <h5>
               <a href="#{{ year.name }}-{{ month.name }}">
                 <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
