@@ -19,32 +19,33 @@ layout: page
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
     <h3 class="taxonomy-title">{{ year.name }}</h3>
-      {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
-      {% for month in postsInMonth %}
-        <ul class="taxonomy-index">
-          <li>
+    {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
+    {% for month in postsInMonth %}
+      <ul class="taxonomy-index">
+        <li>
+          <a href="#{{ year.name }}-{{ month.name }}">
+            <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
+          </a>
+        </li>
+      </ul>         
+    {% endfor %}
+    {% for month in postsInMonth %}
+      <ul class="taxonomy-index">
+        <li>
+          <h5>
             <a href="#{{ year.name }}-{{ month.name }}">
               <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
             </a>
-          </li>
-        </ul>         
-      {% endfor %}
-      {% for month in postsInMonth %}
-        <ul class="taxonomy-index">
-          <li>
-            <h5>
-              <a href="#{{ year.name }}-{{ month.name }}">
-                <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
-              </a>
-            </h5>
-          </li>
-        </ul>
-        <div id="{{ year.name }}-{{ month.name }}">
-          {% for post in month.items %}
-            {% include archive-entry.html %}
-          {% endfor %}
-        </div>
-      {% endfor %}
+          </h5>
+        </li>
+      </ul>
+      <div id="{{ year.name }}-{{ month.name }}">
+        {% for post in month.items %}
+          {% include archive-entry.html %}
+        {% endfor %}
+      </div>
+      <a href="#{{ year.name }}" class="back-to-top">Back to {{ year.name }} &uarr;</a>
+    {% endfor %}
     <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
