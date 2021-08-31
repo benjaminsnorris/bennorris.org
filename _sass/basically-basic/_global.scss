@@ -12,15 +12,15 @@
   font-family: $base-font-family;
   font-weight: bold;
   line-height: 1;
-
+  
   @include breakpoint($medium) {
     padding-left: 2rem;
   }
-
+  
   @include breakpoint($large) {
     padding-left: 5vw;
   }
-
+  
   a {
     display: -ms-flexbox;
     display: -webkit-box;
@@ -31,6 +31,7 @@
     min-height: $site-image-height;
     color: $text-color;
     text-decoration: none;
+    border-bottom: none;
   }
 }
 
@@ -44,6 +45,7 @@
 .more-link {
   font-weight: bold;
   text-decoration: none;
+  border-bottom: none;
 }
 
 .back-to-top {
@@ -53,6 +55,7 @@
   text-transform: uppercase;
   text-align: right;
   text-decoration: none;
+  border-bottom: none;
 }
 
 .taxonomy-section {

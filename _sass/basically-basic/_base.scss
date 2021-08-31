@@ -103,6 +103,7 @@ figcaption {
 
 a {
   color: $accent-color;
+  border-bottom: 1px dotted $accent-color;
 
   &:hover {
     color: shade($accent-color, 25%);

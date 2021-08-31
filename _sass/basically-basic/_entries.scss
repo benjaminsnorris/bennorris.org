@@ -67,6 +67,12 @@
     margin-right: 0.5em;
     fill: $accent-color;
   }
+
+  .meta-item {
+    &:not(:last-child) {
+      margin-right: 0.5rem;
+    }
+  }
 }
 
 /*
