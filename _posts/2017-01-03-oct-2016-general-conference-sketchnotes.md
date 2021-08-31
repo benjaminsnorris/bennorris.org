@@ -17,14 +17,14 @@ I had a wonderful time sketchnoting a talk a day for my personal studies from th
 
 ![General Conference Sketchnotes 00](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg){:loading="lazy"}
 
-[Women’s Session]({% post_url 2017-01-01-oct-2016-general-conference-womens-session-sketchnotes %})
+[Women’s Session](https://bennorris.org/2017/01/01/oct-2016-general-conference-womens-session-sketchnotes/)
 
-[Saturday Morning Session]({% post_url 2016-11-28-oct-2016-general-conference-saturday-morning-session-sketchnotes %})
+[Saturday Morning Session](https://bennorris.org/2016/11/28/oct-2016-general-conference-saturday-morning-session-sketchnotes/)
 
-[Saturday Afternoon Session]({% post_url 2016-12-05-oct-2016-general-conference-saturday-afternoon-session-sketchnotes %})
+[Saturday Afternoon Session](https://bennorris.org/2016/12/05/oct-2016-general-conference-saturday-afternoon-session-sketchnotes/)
 
-[Priesthood Session]({% post_url 2016-12-10-oct-2016-general-conference-priesthood-session-sketchnotes %})
+[Priesthood Session](https://bennorris.org/2016/12/10/oct-2016-general-conference-priesthood-session-sketchnotes/)
 
-[Sunday Morning Session]({% post_url 2016-12-19-oct-2016-general-conference-sunday-morning-session-sketchnotes %})
+[Sunday Morning Session](https://bennorris.org/2016/12/19/oct-2016-general-conference-sunday-morning-session-sketchnotes/)
 
-[Sunday Afternoon Session]({% post_url 2016-12-27-oct-2016-general-conference-sunday-afternoon-session-sketchnotes %})
+[Sunday Afternoon Session](https://bennorris.org/2016/12/27/oct-2016-general-conference-sunday-afternoon-session-sketchnotes/)

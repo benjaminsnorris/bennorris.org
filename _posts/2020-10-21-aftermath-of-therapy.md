@@ -17,7 +17,7 @@ One of these weeks will surely come and go as a boring series of terrestrial rot
 
 ## Something hard
 
-I was a little surprised after the weekend I had [last week]({% post_url 2020-10-13-an-experienced-beginner %}) that things got pretty rough for me again this past weekend. I will write more later about the therapy session I had on Friday that I suspect led to some of my struggles. The odd thing was that I was fine for most of Friday, until the evening. Saturday morning, I woke up extremely agitated. I decided to go on a walk to try and burn off some of the excess adrenaline and cortisol.
+I was a little surprised after the weekend I had [last week](https://bennorris.org/2020/10/13/an-experienced-beginner/) that things got pretty rough for me again this past weekend. I will write more later about the therapy session I had on Friday that I suspect led to some of my struggles. The odd thing was that I was fine for most of Friday, until the evening. Saturday morning, I woke up extremely agitated. I decided to go on a walk to try and burn off some of the excess adrenaline and cortisol.
 
 Throughout the summer, I had been walking almost every day. I decided to take my usual route, and walked from my house along a nearby river for a couple miles and then turned around. Everything was fine until I got close to mile four. I hit a proverbial wall, and slowed way down. I messaged my wife and let her know that I was not doing well, and then had her come pick me up. By the time I made it to her, I was barely shuffling my feet to move forward. It was an odd sensation.
 

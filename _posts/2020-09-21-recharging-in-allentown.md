@@ -17,7 +17,7 @@ Following a difficult week, I was pleasantly surprised to enjoy a lovely week la
 
 ## Something hard
 
-One of the challenges I did face resulted from the [hard time I had the previous week]({% post_url 2020-09-15-show-up-see %}). I volunteered a little while ago to take on a project for one of my mentors at the company, and while there was no set deadline, I was hoping to deliver a first draft last week. As I was struggling, I sent him a text to say that I had not made the progress I wanted and asked for another week.
+One of the challenges I did face resulted from the [hard time I had the previous week](https://bennorris.org/2020/09/15/show-up-see/). I volunteered a little while ago to take on a project for one of my mentors at the company, and while there was no set deadline, I was hoping to deliver a first draft last week. As I was struggling, I sent him a text to say that I had not made the progress I wanted and asked for another week.
 
 That week passed fast. As I chatted with my friend and collaborator on the project, she challenged me to consider the possibility that I would not be able to provide anything. As she said that, a shockwave went through my body and I started to feel physically ill. It was clear to me that I was not prepared for such an outcome.
 

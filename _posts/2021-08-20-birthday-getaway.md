@@ -14,7 +14,7 @@ This week I share about delightful last-minute plans for **my birthday** and one
 
 ***
 
-I felt extremely blessed that last week was such a turnaround from the previous week. A big help was [writing about it]({% post_url 2021-08-12-angrily-pounding-metal %}) and allowing myself to feel the big emotions. That’s often a challenge for me.
+I felt extremely blessed that last week was such a turnaround from the previous week. A big help was [writing about it](https://bennorris.org/2021/08/12/angrily-pounding-metal/) and allowing myself to feel the big emotions. That’s often a challenge for me.
 
 My birthday was last weekend. (Thank you for the reflexive mental well wishes. You don’t need to say anything. 😊) It snuck up on us, and we didn’t have anything planned. As I wrapped up the work week, I thought about what I would like to do, and decided on a short getaway. Ideally, my wife and I would have gone together, but with seven kids, impromptu trips are nearly impossible. We discussed a number of options, and my wife sent me this:
 

@@ -18,7 +18,7 @@ Changes fascinate me. They can occur abruptly, or slowly over time. Last week wa
 
 ## Story
 
-I had such a pleasant week following my [birthday getaway]({% post_url 2021-08-20-birthday-getaway %}). I typically see my therapist on Fridays, but she was out of town. We will often do a phone session in that situation, but I told her I was doing well enough that we could just skip. She was a little surprised, given how tumultuous the [previous week]({% post_url 2021-08-12-angrily-pounding-metal %}) had been. I was feeling pretty good about life.
+I had such a pleasant week following my [birthday getaway](https://bennorris.org/2021/08/20/birthday-getaway/). I typically see my therapist on Fridays, but she was out of town. We will often do a phone session in that situation, but I told her I was doing well enough that we could just skip. She was a little surprised, given how tumultuous the [previous week](https://bennorris.org/2021/08/12/angrily-pounding-metal/) had been. I was feeling pretty good about life.
 
 At the beginning of the following week, I got some unexpected news. I was surprised at how well I was able to handle it. The people I was with commented on that as well. It was nice to have a clear reminder of just how far I’ve come in the past few years.
 
