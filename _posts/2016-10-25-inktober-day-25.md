@@ -10,4 +10,4 @@ short:          true
 
 How on earth do those tiny legs move so fast?
 
-![Chasing]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-25.jpg){:loading="lazy"}
+![Chasing](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-25.jpg){:loading="lazy"}

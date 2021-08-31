@@ -10,4 +10,4 @@ Fast.
 
 [#inktober]({{ site.url }}/tags/inktober) day 1
 
-![Fast]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-01.jpg){:loading="lazy"}
+![Fast](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-01.jpg){:loading="lazy"}

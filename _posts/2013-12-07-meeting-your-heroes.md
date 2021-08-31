@@ -11,11 +11,11 @@ I work for [Balsamiq](https://balsamiq.com), and every summer we all get togethe
 ## Rising Action
 For me, a specific turning point was the [RWD Summit 2012](https://environmentsforhumans.com/2012/responsive-web-design-summit/), a web conference all about Responsive Web Design. I was a UX Designer on a team without front-end web developer, and was struggling to find a way to help get my designs implemented. I had no experience coding HTML or CSS to that point, and had heard the buzzwords “Responsive Web Design” thrown out, but they always seemed to mean something different each time I heard them.
 
-![Zoe Gillenwater Sketchnote]({{ site.media_url }}/images/rwd-summit-2012/zoe-sketchnotes.jpg){:loading="lazy"}
+![Zoe Gillenwater Sketchnote](https://media.bennorris.org/images/rwd-summit-2012/zoe-sketchnotes.jpg){:loading="lazy"}
 
 There were two specific talks at that conference that seemed to open a door for me. The first was “Building a Responsive Layout” by [Zoe Gillenwater](https://twitter.com/zomigi). She showed how simple it was to build layouts that were not based on fixed widths, but rather on fluid percentages that could even be nested. She introduced concepts to me such as “mobile first” and “progressive enhancement” in a practical way that I could immediately see how to apply them. Because she combined solid theory with live examples, I felt like I truly understood what the foundations of responsive web design meant, and felt ready to apply them immediately in my own work.
 
-![Ben Callahan Sketchnote]({{ site.media_url }}/rwd-summit-2012/ben-sketchnotes.jpg){:loading="lazy"}
+![Ben Callahan Sketchnote](https://media.bennorris.org/rwd-summit-2012/ben-sketchnotes.jpg){:loading="lazy"}
 
 The second talk that struck me was “Retrofitting Sites for Responsive Web Design” by [Ben Callahan](https://twitter.com/bencallahan). He walked through the practical example of making the Twitter site responsive as we watched, using the Chrome Dev Tools. That showed me even more some of the basic properties involved in making a site responsive. I also realized that I could start playing with those tools right away to learn different CSS properties, and understand what they meant by seeing what they did when changed.
 

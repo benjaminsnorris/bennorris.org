@@ -19,7 +19,6 @@ email: info@bennorris.org
 description: Sharing mental health, parenting, leadership, and other thoughts
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://bennorris.org
-media_url: https://media.bennorris.org
 plausible: bennorris.org
 author:
    name: Ben Norris

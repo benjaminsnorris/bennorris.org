@@ -10,4 +10,4 @@ short:          true
 
 Some days, even the rain is not enough.
 
-![Rain storm]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-05.jpg){:loading="lazy"}
+![Rain storm](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-05.jpg){:loading="lazy"}

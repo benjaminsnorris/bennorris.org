@@ -10,4 +10,4 @@ short:          true
 
 Somehow this always comes as a surprise to the kids.
 
-![Toothpaste]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-20.jpg){:loading="lazy"}
+![Toothpaste](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-20.jpg){:loading="lazy"}

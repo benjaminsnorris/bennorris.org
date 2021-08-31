@@ -10,4 +10,4 @@ short:          true
 
 “So big!”
 
-![So big baby]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-21.jpg){:loading="lazy"}
+![So big baby](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-21.jpg){:loading="lazy"}

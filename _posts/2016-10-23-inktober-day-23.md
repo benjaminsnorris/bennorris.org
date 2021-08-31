@@ -10,4 +10,4 @@ short:          true
 
 Often the best things in life just take time.
 
-![Reading book]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-23.jpg){:loading="lazy"}
+![Reading book](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-23.jpg){:loading="lazy"}

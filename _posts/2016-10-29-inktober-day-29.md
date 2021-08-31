@@ -10,4 +10,4 @@ short:          true
 
 Boo! 👻
 
-![Ghost surprise]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-29.jpg){:loading="lazy"}
+![Ghost surprise](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-29.jpg){:loading="lazy"}

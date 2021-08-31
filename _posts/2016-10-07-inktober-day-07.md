@@ -10,4 +10,4 @@ short:          true
 
 What do you do when you find yourself in the jungle?
 
-![Jungle]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-07.jpg){:loading="lazy"}
+![Jungle](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-07.jpg){:loading="lazy"}

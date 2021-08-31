@@ -10,4 +10,4 @@ short:          true
 
 Saturday afternoon college football. Or so I’ve heard.
 
-![Watching football]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-15.jpg){:loading="lazy"}
+![Watching football](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-15.jpg){:loading="lazy"}

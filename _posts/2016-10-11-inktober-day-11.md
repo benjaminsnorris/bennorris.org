@@ -10,4 +10,4 @@ short:          true
 
 Sometimes a box on wheels is the best way to get stuff around.
 
-![Truck]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-11.jpg){:loading="lazy"}
+![Truck](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-11.jpg){:loading="lazy"}

@@ -10,4 +10,4 @@ short:          true
 
 Once you get past four or so, it stops mattering how many there are.
 
-![Dozen kids]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-24.jpg){:loading="lazy"}
+![Dozen kids](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-24.jpg){:loading="lazy"}

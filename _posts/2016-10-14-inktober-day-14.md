@@ -10,4 +10,4 @@ short:          true
 
 The best playgrounds are natural.
 
-![Playing in tree]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-14.jpg){:loading="lazy"}
+![Playing in tree](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-14.jpg){:loading="lazy"}

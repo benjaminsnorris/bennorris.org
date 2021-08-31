@@ -10,4 +10,4 @@ short:          true
 
 Sometimes only a bowl of cereal can satisfy.
 
-![Bowl of cereal]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-04.jpg){:loading="lazy"}
+![Bowl of cereal](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-04.jpg){:loading="lazy"}

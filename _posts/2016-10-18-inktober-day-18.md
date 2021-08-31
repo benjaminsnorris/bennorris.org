@@ -10,4 +10,4 @@ short:          true
 
 Getting dressed: the daily ritual that transforms a parent into a warden.
 
-![Escaping child]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-18.jpg){:loading="lazy"}
+![Escaping child](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-18.jpg){:loading="lazy"}

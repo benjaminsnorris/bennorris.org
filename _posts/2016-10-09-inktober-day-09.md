@@ -10,4 +10,4 @@ short:          true
 
 Records and dreams.
 
-![Finishing race]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-09.jpg){:loading="lazy"}
+![Finishing race](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-09.jpg){:loading="lazy"}

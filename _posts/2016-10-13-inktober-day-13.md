@@ -10,4 +10,4 @@ short:          true
 
 “Dad, can’t I take you anywhere!?”
 
-![Scared dad]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-13.jpg){:loading="lazy"}
+![Scared dad](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-13.jpg){:loading="lazy"}

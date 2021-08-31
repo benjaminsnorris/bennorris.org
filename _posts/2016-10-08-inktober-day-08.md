@@ -10,4 +10,4 @@ short:          true
 
 Back and forth and back and forth.
 
-![Rocking chair]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-08.jpg){:loading="lazy"}
+![Rocking chair](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-08.jpg){:loading="lazy"}

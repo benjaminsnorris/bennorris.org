@@ -10,4 +10,4 @@ short:          true
 
 Everyone needs a friend who thinks the world of you.
 
-![Piggy back ride]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-22.jpg){:loading="lazy"}
+![Piggy back ride](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-22.jpg){:loading="lazy"}

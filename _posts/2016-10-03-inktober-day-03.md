@@ -10,4 +10,4 @@ short:          true
 
 Collect all the things!
 
-![Collect everything]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-03.jpg){:loading="lazy"}
+![Collect everything](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-03.jpg){:loading="lazy"}

@@ -10,4 +10,4 @@ short:          true
 
 Surprise! 🎉
 
-![Surprise]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-26.jpg){:loading="lazy"}
+![Surprise](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-26.jpg){:loading="lazy"}

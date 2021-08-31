@@ -10,4 +10,4 @@ short:          true
 
 Earn your wings!
 
-![Parachuting]({{ site.media_url }}/images/sketchnotable/inktober-2016/inktober-day-10.jpg){:loading="lazy"}
+![Parachuting](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-10.jpg){:loading="lazy"}
