@@ -7,7 +7,6 @@
 
   a {
     color: inherit;
-    text-decoration: none;
     border-bottom: none;
   }
 }
@@ -56,19 +55,34 @@
     border-radius: $border-radius;
     color: $text-color;
     font-weight: bold;
-    text-decoration: none;
     border-bottom: none;
 
     &:hover {
       color: $accent-color;
+
+      .link-text {
+        border-bottom-color: $accent-color;
+      }
+    }
+
+    .link-text {
+      border-bottom: 1px dotted $text-color;
     }
   }
 
   .previous {
     text-align: left;
+
+    .icon {
+      margin-right: 0.25em;
+    }
   }
 
   .next {
     text-align: right;
+
+    .icon {
+      margin-left: 0.25em;
+    }
   }
 }
