@@ -3,6 +3,7 @@ title: "Apr 2016 General Conference Women's Session Sketchnotes"
 date: 2017-02-03 13:30:01-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Gospel Sketcher
 ---
 

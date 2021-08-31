@@ -6,6 +6,7 @@ read_time:      false
 category:       Sketchnotable
 tags:
 - sketchnotes
+- sketchnote collection
 ---
 
 [Úll](https://2016.ull.ie) has been wonderful so far. I had the pleasure of sketchnoting the first day of the conference, and wanted to post them to have them all together.

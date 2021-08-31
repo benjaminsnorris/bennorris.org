@@ -6,6 +6,7 @@ category:
 - Gospel Sketcher
 tags:
 - sketchnotes
+- sketchnote collection
 read_time:      false
 ---
 

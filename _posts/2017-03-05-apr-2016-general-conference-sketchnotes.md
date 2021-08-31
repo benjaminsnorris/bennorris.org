@@ -3,6 +3,7 @@ title: "Apr 2016 General Conference Sketchnotes"
 date: 2017-03-05 02:28:10-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Gospel Sketcher
 ---
 

@@ -5,6 +5,7 @@ category: Sketchnotable
 tags:
 - sketchnotes
 - book
+- sketchnote collection
 read_time: false
 date: 2018-03-29 10:58:18-0600
 ---

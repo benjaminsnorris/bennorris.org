@@ -3,6 +3,7 @@ title: "Úll 2017 Sketchnotes"
 date: 2017-04-12 16:30:36-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Sketchnotable
 ---
 

@@ -3,6 +3,7 @@ title: "WWDC 2017 Sketchnotes"
 date: 2017-06-07 19:18:18-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Sketchnotable
 ---
 

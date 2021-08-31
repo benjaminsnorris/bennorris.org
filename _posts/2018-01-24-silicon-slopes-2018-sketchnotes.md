@@ -5,6 +5,7 @@ read_time:      false
 category: Sketchnotable
 tags:
 - sketchnotes
+- sketchnote collection
 date: 2018-01-24 10:39:50-0700
 ---
 

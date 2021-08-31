@@ -3,6 +3,7 @@ title: "Peers 2018 Sketchnotes"
 excerpt: Sketchnotes from the 2018 Peers Conference
 tags:
 - sketchnotes
+- sketchnote collection
 category: Sketchnotable
 read_time: false
 date: 2018-04-30 11:38:55-0600

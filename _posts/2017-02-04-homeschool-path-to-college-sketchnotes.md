@@ -5,6 +5,7 @@ read_time:      false
 category: Gospel Sketcher
 tags:
 - sketchnotes
+- sketchnote collection
 date: 2017-02-04 07:18:02-0700
 ---
 

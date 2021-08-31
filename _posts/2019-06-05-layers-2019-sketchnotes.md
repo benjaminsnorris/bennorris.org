@@ -3,6 +3,7 @@ title: "Layers 2019 Sketchnotes"
 date: 2019-06-05 21:33:35-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Sketchnotable
 ---
 

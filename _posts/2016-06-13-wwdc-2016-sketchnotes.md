@@ -5,6 +5,7 @@ excerpt:        A summary of my sketchnotes from the keynote and state of the un
 category:       Sketchnotable
 tags:
 - sketchnotes
+- sketchnote collection
 read_time:      false
 ---
 

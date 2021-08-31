@@ -7,6 +7,7 @@ category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference
+- sketchnote collection
 ---
 
 

@@ -7,6 +7,7 @@ category:       Gospel Sketcher
 tags:
 - sketchnotes
 - general conference
+- sketchnote collection
 ---
 
 [PDF of entire collection (2 MB)]({{ site.media_url }}/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-03-sat-afternoon-sketchnotes.pdf)

@@ -3,6 +3,7 @@ title: "WWDC 2019 Sketchnotes"
 date: 2019-06-06 20:33:06-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Sketchnotable
 ---
 

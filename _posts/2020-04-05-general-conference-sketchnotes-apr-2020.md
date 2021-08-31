@@ -3,6 +3,7 @@ title: "General Conference Sketchnotes Apr 2020"
 date: 2020-04-05 22:43:11-0000
 tags:
 - sketchnotes
+- sketchnote collection
 category: Gospel Sketcher
 ---
 
