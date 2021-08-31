@@ -27,6 +27,7 @@
     font-weight: bold;
     line-height: normal;
     text-decoration: none;
+    border-bottom: none;
     box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
     z-index: 100000;
   }
@@ -38,6 +39,7 @@
   height: auto;
   clip: auto !important;
   text-decoration: none;
+  border-bottom: none;
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
   z-index: 100000;
 }
