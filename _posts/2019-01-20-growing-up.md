@@ -2,7 +2,7 @@
 title: "🔗 Growing up"
 date: 2019-01-20 17:02:56-0000
 tags:
-- links
+- link
 category: General
 short: true
 ---

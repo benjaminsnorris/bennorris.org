@@ -2,7 +2,7 @@
 title: "🔗 Real self-care"
 date: 2018-12-28 17:01:26-0000
 tags:
-- links
+- link
 category: General
 short: true
 ---

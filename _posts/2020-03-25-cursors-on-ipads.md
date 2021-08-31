@@ -2,7 +2,7 @@
 title: "🔗 Cursors on iPads"
 date: 2020-03-25 22:59:08-0000
 tags:
-- links
+- link
 category: General
 excerpt_separator: "<!--more-->"
 ---

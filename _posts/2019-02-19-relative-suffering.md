@@ -3,7 +3,7 @@ title: "🌀 Relative suffering"
 date: 2019-02-19 19:16:10-0000
 tags:
 - musings
-- favorites
+- favorite
 - mental health
 category: General
 ---

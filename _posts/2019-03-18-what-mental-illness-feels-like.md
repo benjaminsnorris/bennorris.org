@@ -3,7 +3,7 @@ title: "💮 What mental illness feels like"
 date: 2019-03-18 22:39:00-0000
 tags:
 - mental health
-- favorites
+- favorite
 category: Mental Work Health
 ---
 

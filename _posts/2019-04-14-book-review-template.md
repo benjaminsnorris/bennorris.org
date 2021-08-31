@@ -2,7 +2,7 @@
 title: "🗒 Book review template"
 date: 2019-04-14 22:48:46-0000
 tags:
-- reviews
+- review
 category: General
 ---
 

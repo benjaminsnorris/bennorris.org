@@ -2,7 +2,7 @@
 title: "🔗 Great retrospective format"
 date: 2019-11-25 15:59:00-0000
 tags:
-- links
+- link
 category: General
 excerpt_separator: "<!--more-->"
 ---

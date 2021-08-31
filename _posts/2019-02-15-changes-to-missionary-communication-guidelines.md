@@ -2,7 +2,7 @@
 title: "🔗 Changes to Missionary Communication Guidelines"
 date: 2019-02-15 18:40:10-0000
 tags:
-- links
+- link
 category: General
 excerpt_separator: "<!--more-->"
 ---

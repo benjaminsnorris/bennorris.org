@@ -2,7 +2,7 @@
 title: "🔗 Not responsible"
 date: 2019-04-08 03:18:41-0000
 tags:
-- links
+- link
 category: General
 short: true
 ---

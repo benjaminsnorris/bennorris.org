@@ -2,7 +2,7 @@
 title: "🔗 Working with resistance"
 date: 2019-11-24 16:49:16-0000
 tags:
-- links
+- link
 category: General
 short: true
 ---
