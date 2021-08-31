@@ -9,18 +9,18 @@ layout: default
     <article class="entry-wrap">
       <div class="entry-content">
         {{ content }}
+        <nav class="pager">
+          <ul>
+            <!-- Previous: {{ page.previous.url }} Next: {{ page.next.url }} -->
+            {% if page.previous.url %}
+              <li><a href="{{ page.previous.url | relative_url }}" class="previous"><span class="icon icon--arrow-right">{% include icon-arrow-left.svg %}</span> {{ page.previous.title }}</a></li>
+            {% endif %}
+            {% if page.next.url %}
+              <li><a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.title }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></li>
+            {% endif %}
+          </ul>
+        </nav>
       </div>
     </article>
-    <nav class="pager">
-      <ul>
-        <!-- Previous: {{ page.previous.url }} Next: {{ page.next.url }} -->
-        {% if page.previous.url %}
-          <li><a href="{{ page.previous.url | relative_url }}" class="previous"><span class="icon icon--arrow-right">{% include icon-arrow-left.svg %}</span> {{ page.previous.title }}</a></li>
-        {% endif %}
-        {% if page.next.url %}
-          <li><a href="{{ page.next.url | relative_url }}" class="next">{{ page.next.title }} <span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></li>
-        {% endif %}
-      </ul>
-    </nav>
   </div>
 </main>
