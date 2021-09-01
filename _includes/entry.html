@@ -32,7 +32,7 @@
               <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
             </a>
           {% endunless %}
-          </li>
+        </li>
       {% endif %}
       {% unless post.short or post.micro %}
         {% if post.read_time %}

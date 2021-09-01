@@ -8,9 +8,13 @@
 
   <div class="inner">
     <div class="intro-text">
-      {% unless page.micro %}
-        <h1 id="page-title" class="intro-title">{{ page.alt_title | default: page.title | default: site.title | markdownify | strip_html }}</h1>
-      {% endunless %}
+      <h1 id="page-title" class="intro-title">
+          {% if page.micro %}
+            Microblog post
+          {% else %}
+            {{ page.alt_title | default: page.title | default: site.title | markdownify | strip_html }}
+          {% endif %}
+        </h1>
       {% if page.sub_title %}
         <p class="intro-subtitle">{{ page.sub_title | markdownify | strip_html }}</p>
       {% endif %}

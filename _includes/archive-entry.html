@@ -6,11 +6,15 @@
 
 <article class="entry">
   <header class="entry-header">
-    {% unless post.micro %}
-      <h3 class="entry-title">
-        <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
-      </h3>
-    {% endunless %}
+    <h3 class="entry-title">
+      <a href="{{ post.url | relative_url }}" rel="bookmark">
+        {% if post.micro %}
+          Microblog post
+        {% else %}
+          {{ title }}
+        {% endif %}
+      </a>
+    </h3>
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail %}
       {% unless entry_image contains '://' %}
@@ -24,13 +28,9 @@
     {% if post.date %}
       <span class="byline-item">
         <span class="icon">{% include icon-calendar.svg %}</span>
-        {% unless post.micro %}
+        <a href="{{ post.url | relative_url }}" rel="bookmark">
           <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-        {% else %}
-          <a href="{{ post.url | relative_url }}" rel="bookmark">
-            <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-          </a>
-        {% endunless %}
+        </a>
       </span>
     {% endif %}
     {% unless post.short or post.micro %}

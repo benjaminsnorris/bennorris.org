@@ -17,13 +17,27 @@ layout: page
 
 {% assign postsByYear = site.categories[page.taxonomy] | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy-section">
-    <h2 class="taxonomy-title">{{ year.name }}</h2>
-    <div class="entries-{{ page.entries_layout | default: 'list' }}">
-      {% for post in year.items %}
-        {% include entry.html %}
+  <section id="{{ year.name }}" class="taxonomy-section archive">
+    <h2>{{ year.name }}</h3>
+    {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
+    <ul class="taxonomy-index">
+      {% for month in postsInMonth %}
+        <li>
+          <a href="#{{ year.name }}-{{ month.name }}">
+            <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
+          </a>
+        </li>
       {% endfor %}
-    </div>
+    </ul>         
+    {% for month in postsInMonth %}
+      <div class="taxonomy-section" id="{{ year.name }}-{{ month.name }}">
+        <h3 class="taxonomy-title">{{ month.name }}</h3>
+        {% for post in month.items %}
+          {% include archive-entry.html %}
+        {% endfor %}
+        <a href="#{{ year.name }}" class="back-to-top">Back to {{ year.name }} &uarr;</a>
+      </div>
+    {% endfor %}
     <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
