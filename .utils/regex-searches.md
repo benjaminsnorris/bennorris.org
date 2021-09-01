@@ -7,10 +7,10 @@
 
 ### Regex
 #### Find
-`\{\{< glightbox src="(.*)" alt="(.*)" .*>\}\}`
+\{\{< glightbox src="(.+?)".+?alt="(.+?)".+?>\}\}
 
 #### Replace
-`![$2]($1){:loading="lazy"}`
+![$2]($1){:loading="lazy"}
 
 
 ## MWH Links
