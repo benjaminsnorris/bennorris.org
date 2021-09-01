@@ -1,6 +1,6 @@
 ---
 title: "🌀 Relative suffering"
-date: 2019-02-19 19:16:10-0000
+date: 2019-02-19 12:16:10-0700
 tags:
 - musings
 - favorite

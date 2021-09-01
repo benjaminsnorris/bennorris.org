@@ -1,6 +1,6 @@
 ---
 title: "Apr 2016 General Conference Women's Session Sketchnotes"
-date: 2017-02-03 13:30:01-0000
+date: 2017-02-03 06:30:01-0700
 tags:
 - sketchnotes
 - sketchnote collection

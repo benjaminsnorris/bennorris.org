@@ -1,6 +1,6 @@
 ---
 title: "My Process for Post-Event Sketchnoting"
-date: 2013-03-01 13:48:47-0000
+date: 2013-03-01 06:48:47-0700
 category: General
 ---
 

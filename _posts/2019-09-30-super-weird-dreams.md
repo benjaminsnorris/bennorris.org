@@ -1,5 +1,5 @@
 ---
-date: 2019-09-30 13:13:11-0000
+date: 2019-09-30 07:13:11-0600
 title: "Super-weird dream"
 category: Kid Quotes
 short: true

@@ -1,6 +1,6 @@
 ---
 title: "Digital Learning Day 2012"
-date: 2012-02-02 13:22:20-0000
+date: 2012-02-02 06:22:20-0700
 category: General
 ---
 

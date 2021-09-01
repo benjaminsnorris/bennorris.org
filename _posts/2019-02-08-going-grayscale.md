@@ -1,6 +1,6 @@
 ---
 title: "🌀 Going grayscale"
-date: 2019-02-08 18:56:53-0000
+date: 2019-02-08 11:56:53-0700
 tags:
 - musings
 category: General

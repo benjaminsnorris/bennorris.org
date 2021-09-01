@@ -1,6 +1,6 @@
 ---
 title: "LDS General Conference Oct 2012 Part 2"
-date: 2012-11-06 12:56:19-0000
+date: 2012-11-06 05:56:19-0700
 category: General
 ---
 

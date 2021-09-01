@@ -1,6 +1,6 @@
 ---
 title: "💮 What anxiety feels like"
-date: 2019-03-20 19:06:44-0000
+date: 2019-03-20 13:06:44-0600
 tags:
 - mental health
 category: Mental Work Health

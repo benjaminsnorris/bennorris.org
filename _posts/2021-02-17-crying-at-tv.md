@@ -1,6 +1,6 @@
 ---
 title: "#24: Crying at TV"
-date: 2021-02-17 21:10:35-0000
+date: 2021-02-17 14:10:35-0700
 tags:
 - weekly update
 category: Mental Work Health

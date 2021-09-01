@@ -1,6 +1,6 @@
 ---
 title: "🎙 5: First Impressions of Mexico"
-date: 2019-02-13 21:43:00-0000
+date: 2019-02-13 14:43:00-0700
 tags:
 - podcast
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "🧘🏻‍♂️ Ninety days of meditation"
-date: 2019-04-16 14:41:06-0000
+date: 2019-04-16 08:41:06-0600
 tags:
 - mindfulness
 - mental health

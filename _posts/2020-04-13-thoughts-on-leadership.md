@@ -1,6 +1,6 @@
 ---
 title: "🛡 Thoughts on leadership"
-date: 2020-04-13 21:22:00-0000
+date: 2020-04-13 15:22:00-0600
 tags:
 - favorite
 - leadership

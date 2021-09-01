@@ -1,6 +1,6 @@
 ---
 title: "#29: Enamored with notebooks"
-date: 2021-03-22 13:49:00-0000
+date: 2021-03-22 07:49:00-0600
 tags:
 - weekly update
 category: Mental Work Health

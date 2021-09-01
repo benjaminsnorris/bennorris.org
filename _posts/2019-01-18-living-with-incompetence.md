@@ -1,6 +1,6 @@
 ---
 title: "🌀 Living with incompetence"
-date: 2019-01-18 22:19:41-0000
+date: 2019-01-18 15:19:41-0700
 tags:
 - musings
 category: General

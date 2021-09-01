@@ -1,6 +1,6 @@
 ---
 title: "Apr 2017 General Conference Sketchnotes"
-date: 2017-09-14 12:29:19-0000
+date: 2017-09-14 06:29:19-0600
 tags:
 - sketchnotes
 - sketchnote collection

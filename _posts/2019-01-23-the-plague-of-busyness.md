@@ -1,6 +1,6 @@
 ---
 title: "🌀 The plague of busyness"
-date: 2019-01-23 15:46:20-0000
+date: 2019-01-23 08:46:20-0700
 tags:
 - musings
 category: General

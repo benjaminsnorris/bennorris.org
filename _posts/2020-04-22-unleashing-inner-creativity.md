@@ -1,6 +1,6 @@
 ---
 title: "🌀 Unleashing inner creativity"
-date: 2020-04-22 14:25:11-0000
+date: 2020-04-22 08:25:11-0600
 tags:
 - musings
 category: General

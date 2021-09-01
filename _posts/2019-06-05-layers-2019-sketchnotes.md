@@ -1,6 +1,6 @@
 ---
 title: "Layers 2019 Sketchnotes"
-date: 2019-06-05 21:33:35-0000
+date: 2019-06-05 15:33:35-0600
 tags:
 - sketchnotes
 - sketchnote collection

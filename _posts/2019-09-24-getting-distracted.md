@@ -1,6 +1,6 @@
 ---
 title: "🌀 Getting distracted"
-date: 2019-09-24 15:47:53-0000
+date: 2019-09-24 09:47:53-0600
 tags:
 - musings
 category: General

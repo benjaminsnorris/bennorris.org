@@ -1,6 +1,6 @@
 ---
 title: "🌀 Beware positive stereotyping"
-date: 2020-06-06 14:48:28-0000
+date: 2020-06-06 08:48:28-0600
 tags:
 - musings
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "Responsive Web Design Summit Aug 2012"
-date: 2012-08-29 16:32:13-0000
+date: 2012-08-29 10:32:13-0600
 category: General
 ---
 

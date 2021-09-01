@@ -1,6 +1,6 @@
 ---
 title: "Swift by Northwest 2018 Sketchnotes"
-date: 2018-10-20 23:14:41-0000
+date: 2018-10-20 17:14:41-0600
 tags:
 - sketchnotes
 - sketchnote collection

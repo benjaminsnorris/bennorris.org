@@ -1,6 +1,6 @@
 ---
 title: "🔗 Growing up"
-date: 2019-01-20 17:02:56-0000
+date: 2019-01-20 10:02:56-0700
 tags:
 - link
 category: General

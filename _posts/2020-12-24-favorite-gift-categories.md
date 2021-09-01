@@ -1,5 +1,5 @@
 ---
-date: 2020-12-24 18:56:46-0000
+date: 2020-12-24 11:56:46-0700
 title: "Favorite gift categories"
 category: Kid Quotes
 short: true

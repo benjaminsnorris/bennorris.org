@@ -1,6 +1,6 @@
 ---
 title: "Basic and Enhanced Mockups"
-date: 2011-12-19 14:08:15-0000
+date: 2011-12-19 07:08:15-0700
 category: General
 ---
 

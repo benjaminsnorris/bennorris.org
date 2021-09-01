@@ -1,6 +1,6 @@
 ---
 title: "🌀 Puppy parenting"
-date: 2018-12-30 20:23:50-0000
+date: 2018-12-30 13:23:50-0700
 tags:
 - musings
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "eLearning Guild Webinar: Breaking Down the Walls of the Physical Classroom"
-date: 2011-10-27 18:44:02-0000
+date: 2011-10-27 12:44:02-0600
 tags:
 - sketchnotes
 category: Sketchnotable

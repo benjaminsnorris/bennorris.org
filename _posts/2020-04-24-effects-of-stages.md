@@ -1,6 +1,6 @@
 ---
 title: "🛡 Effects of stages"
-date: 2020-04-24 16:09:25-0000
+date: 2020-04-24 10:09:25-0600
 tags:
 - leadership
 category: General

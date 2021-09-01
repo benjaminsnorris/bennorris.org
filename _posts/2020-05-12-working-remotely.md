@@ -1,6 +1,6 @@
 ---
 title: "Working remotely"
-date: 2020-05-12 20:14:00-0000
+date: 2020-05-12 14:14:00-0600
 category: Mental Work Health
 ---
 

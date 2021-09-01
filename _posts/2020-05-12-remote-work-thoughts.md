@@ -1,6 +1,6 @@
 ---
 title: "🛡 Remote work thoughts"
-date: 2020-05-12 19:09:00-0000
+date: 2020-05-12 13:09:00-0600
 tags:
 - favorite
 - leadership

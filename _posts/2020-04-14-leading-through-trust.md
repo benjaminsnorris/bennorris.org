@@ -1,6 +1,6 @@
 ---
 title: "🛡 Leading through trust"
-date: 2020-04-14 22:01:00-0000
+date: 2020-04-14 16:01:00-0600
 tags:
 - leadership
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "🌀 Working in quiet"
-date: 2020-03-13 22:24:22-0000
+date: 2020-03-13 16:24:22-0600
 tags:
 - musings
 category: General

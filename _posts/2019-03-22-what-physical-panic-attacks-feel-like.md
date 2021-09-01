@@ -1,6 +1,6 @@
 ---
 title: "💮 What physical panic attacks feel like"
-date: 2019-03-22 17:07:57-0000
+date: 2019-03-22 11:07:57-0600
 tags:
 - mental health
 category: Mental Work Health

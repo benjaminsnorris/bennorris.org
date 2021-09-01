@@ -1,6 +1,6 @@
 ---
 title: "💮 Right vs left"
-date: 2019-02-04 15:05:29-0000
+date: 2019-02-04 08:05:29-0700
 tags:
 - mental health
 category: Mental Work Health

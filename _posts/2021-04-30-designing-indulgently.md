@@ -1,6 +1,6 @@
 ---
 title: "#32: Designing indulgently"
-date: 2021-04-30 19:25:48-0000
+date: 2021-04-30 13:25:48-0600
 tags:
 - weekly update
 category: Mental Work Health

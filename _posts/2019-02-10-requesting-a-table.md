@@ -1,6 +1,6 @@
 ---
 title: "🌀 Requesting a table"
-date: 2019-02-10 18:16:26-0000
+date: 2019-02-10 11:16:26-0700
 tags:
 - musings
 category: General

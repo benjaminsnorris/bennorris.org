@@ -1,5 +1,5 @@
 ---
-date: 2021-08-08 21:44:28-0000
+date: 2021-08-08 15:44:28-0600
 title: "Drawing of a frog"
 category: Kid Quotes
 short: true

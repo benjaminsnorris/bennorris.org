@@ -1,6 +1,6 @@
 ---
 title: "🎙 6: Podcasting with iOS"
-date: 2019-02-18 21:32:00-0000
+date: 2019-02-18 14:32:00-0700
 tags:
 - podcast
 category: General

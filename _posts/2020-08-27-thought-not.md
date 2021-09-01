@@ -1,6 +1,6 @@
 ---
 title: "😂 Thought not"
-date: 2020-08-27 15:27:00-0000
+date: 2020-08-27 09:27:00-0600
 category: Kid Quotes
 short: true
 ---

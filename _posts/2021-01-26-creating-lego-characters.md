@@ -1,6 +1,6 @@
 ---
 title: "#21: Creating Lego characters"
-date: 2021-01-26 18:31:13-0000
+date: 2021-01-26 11:31:13-0700
 tags:
 - weekly update
 category: Mental Work Health

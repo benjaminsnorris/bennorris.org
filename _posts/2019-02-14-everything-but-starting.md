@@ -1,6 +1,6 @@
 ---
 title: "🌀 Everything but starting"
-date: 2019-02-14 17:38:58-0000
+date: 2019-02-14 10:38:58-0700
 tags:
 - musings
 category: General

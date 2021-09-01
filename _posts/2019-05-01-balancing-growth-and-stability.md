@@ -1,6 +1,6 @@
 ---
 title: "🔗 Balancing growth and stability"
-date: 2019-05-01 06:18:00-0000
+date: 2019-05-01 00:18:00-0600
 tags:
 - link
 category: General

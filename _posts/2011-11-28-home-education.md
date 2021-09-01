@@ -1,6 +1,6 @@
 ---
 title: "Home Education"
-date: 2011-11-28 20:02:40-0000
+date: 2011-11-28 13:02:40-0700
 category: General
 ---
 

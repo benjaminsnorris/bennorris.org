@@ -1,6 +1,6 @@
 ---
 title: "🎙 Answering Questions"
-date: 2019-03-19 16:48:24-0000
+date: 2019-03-19 10:48:24-0600
 tags:
 - podcast
 category: General

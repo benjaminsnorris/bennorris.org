@@ -1,6 +1,6 @@
 ---
 title: "🔗 Great retrospective format"
-date: 2019-11-25 15:59:00-0000
+date: 2019-11-25 08:59:00-0700
 tags:
 - link
 category: General

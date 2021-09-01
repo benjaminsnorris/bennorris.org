@@ -1,5 +1,5 @@
 ---
-date: 2019-11-26 22:40:00-0000
+date: 2019-11-26 15:40:00-0700
 title: "Diaper reward"
 category: Kid Quotes
 short: true

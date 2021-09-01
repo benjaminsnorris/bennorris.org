@@ -1,6 +1,6 @@
 ---
 title: "🎙 On Editing"
-date: 2019-04-09 14:28:00-0000
+date: 2019-04-09 08:28:00-0600
 tags:
 - podcast
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "🧪 UI-TDD with Xcode"
-date: 2018-08-14 14:46:00-0000
+date: 2018-08-14 08:46:00-0600
 tags:
 - testing
 - video

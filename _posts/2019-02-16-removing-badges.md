@@ -1,6 +1,6 @@
 ---
 title: "🌀 Removing badges"
-date: 2019-02-16 15:42:57-0000
+date: 2019-02-16 08:42:57-0700
 tags:
 - musings
 category: General

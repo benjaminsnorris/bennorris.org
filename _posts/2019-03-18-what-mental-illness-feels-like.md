@@ -1,6 +1,6 @@
 ---
 title: "💮 What mental illness feels like"
-date: 2019-03-18 22:39:00-0000
+date: 2019-03-18 16:39:00-0600
 tags:
 - mental health
 - favorite

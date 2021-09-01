@@ -1,5 +1,5 @@
 ---
-date: 2021-06-11 23:58:34-0000
+date: 2021-06-11 17:58:34-0600
 title: "Color matching game"
 category: Kid Quotes
 short: true

@@ -1,6 +1,6 @@
 ---
 title: "Apr 2016 General Conference Saturday Morning Session Sketchnotes"
-date: 2017-02-28 12:45:45-0000
+date: 2017-02-28 05:45:45-0700
 tags:
 - sketchnotes
 - sketchnote collection

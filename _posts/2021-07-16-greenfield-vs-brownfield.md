@@ -1,6 +1,6 @@
 ---
 title: "Greenfield vs. Brownfield"
-date: 2021-07-16 15:25:24-0000
+date: 2021-07-16 09:25:24-0600
 category: General
 ---
 

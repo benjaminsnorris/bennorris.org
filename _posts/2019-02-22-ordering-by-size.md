@@ -1,6 +1,6 @@
 ---
 title: "🌀 Ordering by size"
-date: 2019-02-22 18:12:50-0000
+date: 2019-02-22 11:12:50-0700
 tags:
 - musings
 - favorite

@@ -1,6 +1,6 @@
 ---
 title: "🌀 Thanksgiving carving"
-date: 2018-11-26 16:29:26-0000
+date: 2018-11-26 09:29:26-0700
 tags:
 - musings
 category: General

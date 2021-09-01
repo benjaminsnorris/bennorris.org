@@ -1,6 +1,6 @@
 ---
 title: "#37: Plan changes"
-date: 2021-06-04 15:32:19-0000
+date: 2021-06-04 09:32:19-0600
 tags:
 - weekly update
 category: Mental Work Health

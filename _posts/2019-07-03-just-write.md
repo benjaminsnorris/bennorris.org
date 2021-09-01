@@ -1,6 +1,6 @@
 ---
 title: "🌀 Just write"
-date: 2019-07-03 14:56:46-0000
+date: 2019-07-03 08:56:46-0600
 tags:
 - mental health
 - musings

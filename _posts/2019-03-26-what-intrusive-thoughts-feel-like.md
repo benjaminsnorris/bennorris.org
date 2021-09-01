@@ -1,6 +1,6 @@
 ---
 title: "💮 What intrusive thoughts feel like"
-date: 2019-03-26 14:51:46-0000
+date: 2019-03-26 08:51:46-0600
 tags:
 - mental health
 category: Mental Work Health

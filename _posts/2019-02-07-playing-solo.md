@@ -1,6 +1,6 @@
 ---
 title: "🎙 4: Playing Solo"
-date: 2019-02-07 19:07:25-0000
+date: 2019-02-07 12:07:25-0700
 tags:
 - podcast
 category: General

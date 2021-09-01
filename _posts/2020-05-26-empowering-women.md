@@ -1,6 +1,6 @@
 ---
 title: "🔗 Empowering women"
-date: 2020-05-26 13:48:51-0000
+date: 2020-05-26 07:48:51-0600
 tags:
 - link
 category: General

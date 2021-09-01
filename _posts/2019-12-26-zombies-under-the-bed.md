@@ -1,6 +1,6 @@
 ---
 title: "😂 Zombies under the bed"
-date: 2019-12-26 18:45:00-0000
+date: 2019-12-26 11:45:00-0700
 category: Kid Quotes
 short: true
 ---

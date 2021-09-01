@@ -1,6 +1,6 @@
 ---
 title: "🌀 More inspiring than the Olympics"
-date: 2019-02-02 18:04:43-0000
+date: 2019-02-02 11:04:43-0700
 tags:
 - musings
 category: General

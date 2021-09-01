@@ -1,6 +1,6 @@
 ---
 title: "Hand-Drawn Presentation"
-date: 2011-12-22 13:53:06-0000
+date: 2011-12-22 06:53:06-0700
 category: General
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "#2: Rebecoming a novice"
-date: 2020-09-08 16:46:00-0000
+date: 2020-09-08 10:46:00-0600
 tags:
 - weekly update
 category: Mental Work Health

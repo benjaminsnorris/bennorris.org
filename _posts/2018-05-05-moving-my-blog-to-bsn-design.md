@@ -1,6 +1,6 @@
 ---
 title: "Moving my blog to bsn.design"
-date: 2018-05-05 20:16:54-0000
+date: 2018-05-05 14:16:54-0600
 category: General
 ---
 

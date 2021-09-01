@@ -1,6 +1,6 @@
 ---
 title: "🛡 A leader’s role: protect"
-date: 2020-04-15 21:54:18-0000
+date: 2020-04-15 15:54:18-0600
 tags:
 - leadership
 category: General

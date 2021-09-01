@@ -1,6 +1,6 @@
 ---
 title: "🌀 Not a comedian"
-date: 2019-04-01 13:44:32-0000
+date: 2019-04-01 07:44:32-0600
 tags:
 - musings
 category: General

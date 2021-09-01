@@ -1,6 +1,6 @@
 ---
 title: "🎙 1: Hello World"
-date: 2019-01-29 20:36:27-0000
+date: 2019-01-29 13:36:27-0700
 tags:
 - podcast
 category: General

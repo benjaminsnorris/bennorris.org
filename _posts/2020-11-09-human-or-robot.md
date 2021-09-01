@@ -1,6 +1,6 @@
 ---
 title: "#11: Human or robot?"
-date: 2020-11-09 22:01:57-0000
+date: 2020-11-09 15:01:57-0700
 tags:
 - weekly update
 category: Mental Work Health

@@ -1,6 +1,6 @@
 ---
 title: "😂 Having a moment"
-date: 2020-08-27 15:29:00-0000
+date: 2020-08-27 09:29:00-0600
 category: Kid Quotes
 excerpt_separator: "<!--more-->"
 ---

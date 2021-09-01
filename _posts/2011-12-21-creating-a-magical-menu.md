@@ -1,6 +1,6 @@
 ---
 title: "Creating a magical menu"
-date: 2011-12-21 14:07:54-0000
+date: 2011-12-21 07:07:54-0700
 category: General
 ---
 

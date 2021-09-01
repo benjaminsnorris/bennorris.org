@@ -1,6 +1,6 @@
 ---
 title: "🛡 Stages of leadership"
-date: 2020-04-21 18:18:59-0000
+date: 2020-04-21 12:18:59-0600
 tags:
 - leadership
 category: General

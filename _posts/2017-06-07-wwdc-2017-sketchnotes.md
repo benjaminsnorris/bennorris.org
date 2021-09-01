@@ -1,6 +1,6 @@
 ---
 title: "WWDC 2017 Sketchnotes"
-date: 2017-06-07 19:18:18-0000
+date: 2017-06-07 13:18:18-0600
 tags:
 - sketchnotes
 - sketchnote collection

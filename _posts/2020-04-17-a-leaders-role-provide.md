@@ -1,6 +1,6 @@
 ---
 title: "🛡 A leader’s role: provide"
-date: 2020-04-17 19:10:39-0000
+date: 2020-04-17 13:10:39-0600
 tags:
 - leadership
 category: General

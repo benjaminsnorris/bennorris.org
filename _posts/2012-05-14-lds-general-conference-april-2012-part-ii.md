@@ -1,6 +1,6 @@
 ---
 title: "LDS General Conference April 2012 Part II"
-date: 2012-05-14 22:42:35-0000
+date: 2012-05-14 16:42:35-0600
 category: General
 ---
 

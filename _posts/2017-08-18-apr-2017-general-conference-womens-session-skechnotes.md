@@ -1,6 +1,6 @@
 ---
 title: "Apr 2017 General Conference Women's Session Skechnotes"
-date: 2017-08-18 12:12:58-0000
+date: 2017-08-18 06:12:58-0600
 tags:
 - sketchnotes
 - sketchnote collection

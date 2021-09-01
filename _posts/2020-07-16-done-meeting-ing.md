@@ -1,5 +1,5 @@
 ---
-date: 2020-07-16 23:08:00-0000
+date: 2020-07-16 17:08:00-0600
 title: "Done meeting-ing"
 category: Kid Quotes
 short: true

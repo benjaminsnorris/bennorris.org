@@ -1,6 +1,6 @@
 ---
 title: "🌀 Writing a series"
-date: 2019-03-28 16:31:32-0000
+date: 2019-03-28 10:31:32-0600
 tags:
 - mental health
 - musings

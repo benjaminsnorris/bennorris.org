@@ -1,6 +1,6 @@
 ---
 title: "🛡 Communication synchronicity"
-date: 2021-01-21 22:28:28-0000
+date: 2021-01-21 15:28:28-0700
 tags:
 - leadership
 category: General

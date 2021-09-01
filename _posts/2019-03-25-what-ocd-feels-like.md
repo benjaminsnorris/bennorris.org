@@ -1,6 +1,6 @@
 ---
 title: "💮 What OCD feels like"
-date: 2019-03-25 16:26:44-0000
+date: 2019-03-25 10:26:44-0600
 tags:
 - mental health
 category: Mental Work Health

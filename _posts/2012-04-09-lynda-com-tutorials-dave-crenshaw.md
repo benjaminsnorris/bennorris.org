@@ -1,6 +1,6 @@
 ---
 title: "Lynda.com Tutorials: Dave Crenshaw"
-date: 2012-04-09 18:56:38-0000
+date: 2012-04-09 12:56:38-0600
 category: General
 ---
 

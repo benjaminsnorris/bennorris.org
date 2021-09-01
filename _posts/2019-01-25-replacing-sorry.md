@@ -1,6 +1,6 @@
 ---
 title: "🌀 Replacing sorry"
-date: 2019-01-25 20:21:22-0000
+date: 2019-01-25 13:21:22-0700
 tags:
 - musings
 category: General

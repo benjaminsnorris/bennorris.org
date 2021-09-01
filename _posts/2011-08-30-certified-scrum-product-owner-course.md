@@ -1,6 +1,6 @@
 ---
 title: "Certified Scrum Product Owner Course"
-date: 2011-08-30 18:57:48-0000
+date: 2011-08-30 12:57:48-0600
 tags:
 - sketchnotes
 category: Sketchnotable

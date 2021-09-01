@@ -1,6 +1,6 @@
 ---
 title: "#43: OCD in action"
-date: 2021-07-15 16:36:54-0000
+date: 2021-07-15 10:36:54-0600
 tags:
 - weekly update
 category: Mental Work Health

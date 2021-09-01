@@ -1,6 +1,6 @@
 ---
 title: "Gratitude challenge"
-date: 2020-11-27 17:26:00-0000
+date: 2020-11-27 10:26:00-0700
 category: General
 ---
 

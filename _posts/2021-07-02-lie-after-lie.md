@@ -1,6 +1,6 @@
 ---
 title: "#41: Lie after lie"
-date: 2021-07-02 20:29:57-0000
+date: 2021-07-02 14:29:57-0600
 tags:
 - weekly update
 category: Mental Work Health

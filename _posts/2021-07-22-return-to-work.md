@@ -1,6 +1,6 @@
 ---
 title: "#44: Return to work"
-date: 2021-07-22 15:33:36-0000
+date: 2021-07-22 09:33:36-0600
 tags:
 - weekly update
 category: Mental Work Health

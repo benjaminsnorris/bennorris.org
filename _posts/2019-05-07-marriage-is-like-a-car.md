@@ -1,6 +1,6 @@
 ---
 title: "🔗 Marriage is like a car"
-date: 2019-05-07 18:26:00-0000
+date: 2019-05-07 12:26:00-0600
 tags:
 - link
 category: General

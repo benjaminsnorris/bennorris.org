@@ -1,5 +1,5 @@
 ---
-date: 2021-08-27 19:25:28-0000
+date: 2021-08-27 13:25:28-0600
 title: "😂 Jumpy Pants"
 category: Kid Quotes
 short: true

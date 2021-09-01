@@ -1,5 +1,5 @@
 ---
-date: 2020-03-18 14:31:00-0000
+date: 2020-03-18 08:31:00-0600
 title: "Poopy underwear"
 category: Kid Quotes
 short: true

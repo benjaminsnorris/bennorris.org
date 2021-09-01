@@ -1,6 +1,6 @@
 ---
 title: "🌀 Instantaneous mindset change"
-date: 2020-02-26 20:34:10-0000
+date: 2020-02-26 13:34:10-0700
 tags:
 - musings
 category: General

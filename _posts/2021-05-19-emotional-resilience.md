@@ -1,6 +1,6 @@
 ---
 title: "#35: Emotional resilience"
-date: 2021-05-19 13:35:53-0000
+date: 2021-05-19 07:35:53-0600
 tags:
 - weekly update
 category: Mental Work Health

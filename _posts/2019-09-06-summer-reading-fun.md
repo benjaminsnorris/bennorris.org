@@ -1,6 +1,6 @@
 ---
 title: "💮 Summer reading fun"
-date: 2019-09-06 13:09:00-0000
+date: 2019-09-06 07:09:00-0600
 tags:
 - mental health
 - favorite

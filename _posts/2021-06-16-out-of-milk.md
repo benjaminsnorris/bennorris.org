@@ -1,6 +1,6 @@
 ---
 title: "#39: Out of milk"
-date: 2021-06-16 19:59:15-0000
+date: 2021-06-16 13:59:15-0600
 tags:
 - weekly update
 category: Mental Work Health

@@ -1,6 +1,6 @@
 ---
 title: "Human-Computer Interaction (Part 1)"
-date: 2012-02-08 13:26:16-0000
+date: 2012-02-08 06:26:16-0700
 category: General
 ---
 

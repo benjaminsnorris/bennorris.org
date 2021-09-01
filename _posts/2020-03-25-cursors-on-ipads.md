@@ -1,6 +1,6 @@
 ---
 title: "🔗 Cursors on iPads"
-date: 2020-03-25 22:59:08-0000
+date: 2020-03-25 16:59:08-0600
 tags:
 - link
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "😂 Early proposal"
-date: 2019-12-14 23:44:00-0000
+date: 2019-12-14 16:44:00-0700
 category: Kid Quotes
 short: true
 ---

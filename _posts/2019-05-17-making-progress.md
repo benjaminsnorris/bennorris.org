@@ -1,6 +1,6 @@
 ---
 title: "🎙 Making progress"
-date: 2019-05-17 15:08:00-0000
+date: 2019-05-17 09:08:00-0600
 tags:
 - podcast
 category: General

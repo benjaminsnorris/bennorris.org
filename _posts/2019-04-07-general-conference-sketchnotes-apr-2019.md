@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Apr 2019"
-date: 2019-04-07 22:43:12-0000
+date: 2019-04-07 16:43:12-0600
 tags:
 - sketchnotes
 - sketchnote collection

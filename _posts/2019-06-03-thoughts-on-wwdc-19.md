@@ -1,6 +1,6 @@
 ---
 title: "🌀 Thoughts on WWDC 19"
-date: 2019-06-03 21:20:00-0000
+date: 2019-06-03 15:20:00-0600
 tags:
 - musings
 category: General

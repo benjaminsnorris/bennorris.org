@@ -1,6 +1,6 @@
 ---
 title: "Parenting Class Jan 2012"
-date: 2012-01-30 20:16:10-0000
+date: 2012-01-30 13:16:10-0700
 category: General
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "🌀 Trivializing gratitude"
-date: 2019-02-21 20:56:45-0000
+date: 2019-02-21 13:56:45-0700
 tags:
 - musings
 category: General

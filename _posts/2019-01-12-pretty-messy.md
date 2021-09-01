@@ -1,5 +1,5 @@
 ---
-date: 2019-01-12 20:30:25-0000
+date: 2019-01-12 13:30:25-0700
 title: "Pretty messy"
 category: Kid Quotes
 short: true

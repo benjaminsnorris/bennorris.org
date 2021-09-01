@@ -1,6 +1,6 @@
 ---
 title: "🌀 Splurging on Patagonia gear"
-date: 2019-02-09 20:02:45-0000
+date: 2019-02-09 13:02:45-0700
 tags:
 - musings
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "🗒 Book review template"
-date: 2019-04-14 22:48:46-0000
+date: 2019-04-14 16:48:46-0600
 tags:
 - review
 category: General

@@ -1,6 +1,6 @@
 ---
 title: "💮 Balancing realities"
-date: 2019-04-19 18:30:46-0000
+date: 2019-04-19 12:30:46-0600
 tags:
 - mental health
 category: Mental Work Health

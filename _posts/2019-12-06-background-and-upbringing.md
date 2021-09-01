@@ -1,6 +1,6 @@
 ---
 title: "Background and upbringing"
-date: 2019-12-06 22:32:00-0000
+date: 2019-12-06 15:32:00-0700
 tags:
 - my story
 category: Mental Work Health

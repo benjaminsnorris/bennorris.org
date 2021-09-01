@@ -1,6 +1,6 @@
 ---
 title: "Looking for distraction"
-date: 2021-03-14 21:10:04-0000
+date: 2021-03-14 15:10:04-0600
 category: General
 ---
 

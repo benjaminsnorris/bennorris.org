@@ -1,6 +1,6 @@
 ---
 title: "#25: Talking with strangers"
-date: 2021-02-24 19:22:58-0000
+date: 2021-02-24 12:22:58-0700
 tags:
 - weekly update
 category: Mental Work Health

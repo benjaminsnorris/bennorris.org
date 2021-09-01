@@ -1,6 +1,6 @@
 ---
 title: "#20: Purple Monkey Party"
-date: 2021-01-19 15:29:55-0000
+date: 2021-01-19 08:29:55-0700
 tags:
 - weekly update
 category: Mental Work Health

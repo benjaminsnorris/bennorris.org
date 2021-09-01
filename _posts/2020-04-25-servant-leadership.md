@@ -1,6 +1,6 @@
 ---
 title: "Servant leadership"
-date: 2020-04-25 17:12:00-0000
+date: 2020-04-25 11:12:00-0600
 category: Mental Work Health
 ---
 

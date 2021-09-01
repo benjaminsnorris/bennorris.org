@@ -1,6 +1,6 @@
 ---
 title: "🌀 Learning to be kind"
-date: 2019-07-05 17:25:00-0000
+date: 2019-07-05 11:25:00-0600
 tags:
 - mental health
 - musings

@@ -1,6 +1,6 @@
 ---
 title: "🔗 How to be kind"
-date: 2019-11-15 20:33:10-0000
+date: 2019-11-15 13:33:10-0700
 tags:
 - link
 category: General

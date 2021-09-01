@@ -1,6 +1,6 @@
 ---
 title: "Úll 2016 Sketchnotes"
-date: 2016-11-02 14:45:00-0000
+date: 2016-11-02 08:45:00-0600
 tags:
 - sketchnotes
 - sketchnote collection
