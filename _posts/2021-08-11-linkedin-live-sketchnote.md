@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-11 12:50:00-700
+date: 2021-08-11 12:50:00-0700
 title: "LinkedIn Live Event Sketchnote"
 categories:
 - Sketchnotable
