@@ -6,9 +6,11 @@
 
 <article class="entry">
   <header class="entry-header">
+    {% unless post.micro %}
     <h3 class="entry-title">
       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
     </h3>
+    {% endunless %}
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail %}
       {% unless entry_image contains '://' %}
@@ -21,9 +23,18 @@
   <footer class="entry-meta">
     <ul>
       {% if post.date %}
-        <li><span class="icon">{% include icon-calendar.svg %}</span><time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></li>
+        <span class="byline-item">
+          <span class="icon">{% include icon-calendar.svg %}</span>
+          {% unless post.micro %}
+            <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+          {% else %}
+            <a href="{{ post.url | relative_url }}" rel="bookmark">
+              <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            </a>
+          {% endunless %}
+        </span>
       {% endif %}
-      {% unless post.short %}
+      {% unless post.short or post.micro %}
         {% if post.read_time %}
           <li><span class="icon">{% include icon-stopwatch.svg %}</span>{% capture read_time %}{% include read-time.html %}{% endcapture %}{{ read_time | strip }}</li>
         {% endif %}
@@ -43,7 +54,7 @@
     </ul>
   </footer>
   <div class="entry-excerpt">
-    {% if post.short %}
+    {% if post.short or post.micro %}
       {{ post.content | markdownify }}
     {% else %}
       {{ post.excerpt | markdownify }}
