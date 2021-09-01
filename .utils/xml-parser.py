@@ -1,6 +1,8 @@
 import xml.etree.ElementTree as ET
 import urllib.parse
 import re
+import datetime
+import pytz
 
 def parseXML(xmlfile, config):
     tree = ET.parse(xmlfile)
@@ -8,6 +10,7 @@ def parseXML(xmlfile, config):
     posts = []
     wp = '{http://wordpress.org/export/1.2/}'
     allTags = {}
+
 
     postType = 'all'
     if 'postType' in config:
@@ -26,13 +29,19 @@ def parseXML(xmlfile, config):
         removeTags = ''
         if 'removeTags' in config:
             removeTags = config['removeTags']
+        onlyTags = ''
+        if 'onlyTags' in config:
+            onlyTags = config['onlyTags']
 
         for child in item:
             if child.tag == wp+'post_type' and child.text == 'attachment':
                 shouldInclude = False
             elif child.tag == wp+'post_date':
-                post['date'] = child.text+'-0000'
-                post['filedate'] = child.text.split(' ')[0]
+                gmt_date = datetime.datetime.strptime(child.text, '%Y-%m-%d %H:%M:%S')
+                mtn = pytz.timezone('US/Mountain')
+                date = mtn.fromutc(gmt_date)
+                post['date'] = date.strftime('%Y-%m-%d %H:%M:%S%z')
+                post['filedate'] = date.strftime('%Y-%m-%d')
             elif child.tag == 'title' and child.text:
                 post['title'] = child.text
             elif child.tag == '{http://purl.org/rss/1.0/modules/content/}encoded':
@@ -41,7 +50,15 @@ def parseXML(xmlfile, config):
             elif child.tag == 'category':
                 tag = child.text.lower()
                 allTags[tag] = True
-                if tag in excludeTags:
+                if onlyTags:
+                    if tag in onlyTags or tags:
+                        if tags:
+                            tags += ',' + tag
+                        else:
+                            tags = tag
+                    else:
+                        shouldInclude = False
+                elif tag in excludeTags:
                     shouldInclude = False
                 elif tag not in removeTags:
                     if tags:
@@ -137,14 +154,15 @@ def createPostFile(post, config):
 def main():
     # postTypes: post, micro, all
     config = {
-        'postType':'all', 
-        'category':'General', 
-        'requireTag': False, 
-        'dir': 'bennorris', 
-        'excludeTags': 'books,movies',
-        'removeTags': 'articles'
+        # 'dir': 'kid-quotes', 
+        # 'requireTag': True, 
+        # 'onlyTags': 'kid quotes',
+        # 'excludeTags': 'books,movies',
+        'removeTags': 'articles',
+        'category': 'Gospel Sketcher', 
+        'postType': 'micro',
         }
-    posts = parseXML('bennorris_wordpress.xml',  config)
+    posts = parseXML('gospelsketcher_wordpress.xml',  config)
     filenames = createPostFiles(posts,  config)
     for filename in filenames:
         print('created file=' + filename)

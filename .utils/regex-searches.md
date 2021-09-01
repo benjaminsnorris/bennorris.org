@@ -37,3 +37,20 @@
 
 #### Replace
 https://bennorris.org/$1/$2/$3/$4/
+
+
+## Wrong date
+
+(Have to then manually look at each one and replace the date and hour)
+
+### Example
+date:       2020-05-05 03:02:47-0000
+date: 2020-05-06 03:02:47-0700
+date: 2020-05-06 03:02:47-0000
+
+### Regex
+#### Find
+(date:\s*\d{4}-\d{2}-)(\d{2})\s(\d{2})(:\d{2}:\d{2})-0000
+
+#### Replace
+$1XX XX$4-0700
