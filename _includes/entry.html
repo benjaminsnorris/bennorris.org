@@ -23,7 +23,7 @@
   <footer class="entry-meta">
     <ul>
       {% if post.date %}
-        <span class="byline-item">
+        <li>
           <span class="icon">{% include icon-calendar.svg %}</span>
           {% unless post.micro %}
             <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
@@ -32,7 +32,7 @@
               <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
             </a>
           {% endunless %}
-        </span>
+          </li>
       {% endif %}
       {% unless post.short or post.micro %}
         {% if post.read_time %}
