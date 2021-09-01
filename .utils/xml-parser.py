@@ -154,15 +154,15 @@ def createPostFile(post, config):
 def main():
     # postTypes: post, micro, all
     config = {
-        # 'dir': 'kid-quotes', 
         # 'requireTag': True, 
         # 'onlyTags': 'kid quotes',
-        # 'excludeTags': 'books,movies',
+        'excludeTags': 'books,movies,kid quotes',
+        'dir': 'bennorris', 
         'removeTags': 'articles',
-        'category': 'Gospel Sketcher', 
+        'category': 'General', 
         'postType': 'micro',
         }
-    posts = parseXML('gospelsketcher_wordpress.xml',  config)
+    posts = parseXML('bennorris_wordpress.xml',  config)
     filenames = createPostFiles(posts,  config)
     for filename in filenames:
         print('created file=' + filename)
