@@ -7,4 +7,6 @@ layout: page
 {% assign category_posts = site.categories[page.taxonomy] %}
 {% include posts-short-list.html posts=category_posts %}
 
-<a href="all" class="btn">View all {{ page.taxonomy }} posts</a>
+{% if category_posts.size > 10 %}
+  <a href="all" class="btn">View all {{ page.taxonomy }} posts</a>
+{% endif %}
