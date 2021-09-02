@@ -1,0 +1,8 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% assign category_posts = site.categories[page.taxonomy] %}
+{% include posts-list-by-date.html posts=category_posts %}
