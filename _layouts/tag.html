@@ -4,40 +4,5 @@ layout: page
 
 {{ content }}
 
-<ul class="taxonomy-index">
-  {% assign postsInYear = site.tags[page.taxonomy] | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy-count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-
-{% assign postsByYear = site.tags[page.taxonomy] | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear %}
-  <section id="{{ year.name }}" class="taxonomy-section archive">
-    <h2>{{ year.name }}</h3>
-    {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
-    <ul class="taxonomy-index">
-      {% for month in postsInMonth %}
-        <li>
-          <a href="#{{ year.name }}-{{ month.name }}">
-            <strong>{{ month.name }}</strong> <span class="taxonomy-count">{{ month.items | size }}</span>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>         
-    {% for month in postsInMonth %}
-      <div class="taxonomy-section" id="{{ year.name }}-{{ month.name }}">
-        <h3 class="taxonomy-title">{{ month.name }}</h3>
-        {% for post in month.items %}
-          {% include archive-entry.html %}
-        {% endfor %}
-        <a href="#{{ year.name }}" class="back-to-top">Back to {{ year.name }} &uarr;</a>
-      </div>
-    {% endfor %}
-    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
-{% endfor %}
+{% assign tag_posts = site.tags[page.taxonomy] %}
+{% include posts-short-list.html posts=tag_posts %}
