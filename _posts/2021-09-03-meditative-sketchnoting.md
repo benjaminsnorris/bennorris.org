@@ -1,11 +1,14 @@
 ---
 title: "#51: Meditative sketchnoting"
 date: 2021-09-03 09:13:30-0600
-image: https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg
+image: 
+  path: https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg
 category: Mental Work Health
 tags:
 - mental health
 - weekly health
+- sketchnotes
 ---
 
 In a return to my original format of these updates, I share about **getting stuck**, **sketchnoting as mindfulness**, and **finding new music**.
