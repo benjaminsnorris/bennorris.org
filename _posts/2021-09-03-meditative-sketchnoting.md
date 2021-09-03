@@ -7,7 +7,7 @@ image:
 category: Mental Work Health
 tags:
 - mental health
-- weekly health
+- weekly update
 - sketchnotes
 ---
 
