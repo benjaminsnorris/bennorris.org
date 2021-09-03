@@ -15,14 +15,6 @@
         {% endif %}
       </a>
     </h3>
-    {% if post.image.thumbnail %}
-      {% assign entry_image = post.image.thumbnail %}
-      {% unless entry_image contains '://' %}
-        {% assign entry_image = entry_image | relative_url %}
-      {% endunless %}
-      {% assign entry_image = entry_image | escape %}
-      <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
-    {% endif %}
   </header>
   <footer class="entry-meta">
     {% if post.date %}
