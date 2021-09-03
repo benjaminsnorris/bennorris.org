@@ -49,14 +49,14 @@ That conversation came to my mind, and I pulled out my notebook and started sket
 
 Someone close to me introduced me to [Lewis Capaldi](https://en.wikipedia.org/wiki/Lewis_Capaldi) this past week, particularly the song [“Before You Go”](https://en.wikipedia.org/wiki/Before_You_Go_(Lewis_Capaldi_song)). That song was inspired by the suicide of his aunt when he was young, and he tried to understand the effects on the people left behind.
 
-> So, before you go
-> Was there something I could've said
-> To make your heart beat better?
+> So, before you go  
+> Was there something I could've said  
+> To make your heart beat better?  
 > If only I'd have known you had a storm to weather
 > 
-> So, before you go
-> Was there something I could've said
-> To make it all stop hurting?
+> So, before you go  
+> Was there something I could've said  
+> To make it all stop hurting?  
 > It kills me how your mind can make you feel so worthless
 > 
 > So, before you go
