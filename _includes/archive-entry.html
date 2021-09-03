@@ -20,9 +20,7 @@
     {% if post.date %}
       <span class="byline-item">
         <span class="icon">{% include icon-calendar.svg %}</span>
-        <a href="{{ post.url | relative_url }}" rel="bookmark">
-          <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-        </a>
+        <time class="entry-time" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
       </span>
     {% endif %}
     {% unless post.short or post.micro %}
