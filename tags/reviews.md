@@ -2,5 +2,5 @@
 layout: tag
 title: Reviews
 taxonomy: review
-permalink: /tags/reviews/
+permalink: /tags/review/
 ---

@@ -2,5 +2,5 @@
 layout: tag
 title: Favorites
 taxonomy: favorite
-permalink: /tags/favorites/
+permalink: /tags/favorite/
 ---

@@ -2,5 +2,5 @@
 layout: tag
 title: Books
 taxonomy: book
-permalink: /tags/books/
+permalink: /tags/book/
 ---
