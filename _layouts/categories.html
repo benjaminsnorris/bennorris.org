@@ -36,11 +36,9 @@ layout: page
     {% if category[1].size == i %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy-section">
         <h2 class="taxonomy-title">{{ category[0] }}</h2>
-        <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for post in category.last %}
-            {% include archive-entry.html %}
-          {% endfor %}
-        </div>
+        {% for post in category.last %}
+          {% include archive-entry.html %}
+        {% endfor %}
         <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
       </section>
     {% endif %}
