@@ -15,6 +15,7 @@
     <section id="{{ year.name }}" class="taxonomy-section archive">
       <h2>{{ year.name }}</h3>
       {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
+      {% if year.size > 10 %}
       <ul class="taxonomy-index">
         {% for month in postsInMonth %}
           <li>
@@ -23,7 +24,8 @@
             </a>
           </li>
         {% endfor %}
-      </ul>         
+      </ul>
+      {% endif %}        
       {% for month in postsInMonth %}
         <div class="taxonomy-section" id="{{ year.name }}-{{ month.name }}">
           <h3 class="taxonomy-title">{{ month.name }}</h3>
