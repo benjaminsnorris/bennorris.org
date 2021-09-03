@@ -37,7 +37,7 @@ First is a scene from the excellent show [Ted Lasso](https://en.wikipedia.org/wi
 > 
 > Ted: I said that?
 > 
-> Beard: <Nods head>
+> Beard: \<Nods head>
 > 
 > Ted: That’s pretty good.
 > 
