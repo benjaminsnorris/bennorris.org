@@ -3,7 +3,7 @@ title: "#51: Meditative sketchnoting"
 date: 2021-09-03 09:13:30-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/thumbs/meditative-sketchnotes.jpg
 category: Mental Work Health
 tags:
 - mental health
