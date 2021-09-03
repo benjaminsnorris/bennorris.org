@@ -32,7 +32,7 @@
           {% for post in month.items %}
             {% include archive-entry.html %}
           {% endfor %}
-          {% if month.items > 1 %}
+          {% if month.items.size > 1 %}
           <a href="#{{ year.name }}" class="back-to-top">Back to {{ year.name }} &uarr;</a>
           {% endif %}
         </div>
