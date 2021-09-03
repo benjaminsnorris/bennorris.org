@@ -7,11 +7,14 @@ tags:
 - mental health
 - weekly update
 - sketchnotes
+excerpt_separator: "<!--more-->"
 ---
 
 In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
 
-![Sketchnote](https://media.bennorris.org/images/mentalworkhealth/angrily-pounding-metal-sketchnote.jpg)
+![Sketchnote](https://media.bennorris.org/images/mentalworkhealth/angrily-pounding-metal-sketchnote.jpg){:loading="lazy"}
+
+<!--more-->
 
 {% include weekly-update.md %}
 

@@ -5,11 +5,15 @@ category: Mental Work Health
 tags:
 - mental health
 - weekly health
+- sketchnotes
+excerpt_separator: "<!--more-->"
 ---
 
 In a return to my original format of these updates, I share about **getting stuck**, **sketchnoting as mindfulness**, and **finding new music**.
 
-![Sketchnote](https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg)
+![Sketchnote](https://media.bennorris.org/images/mentalworkhealth/meditative-sketchnotes.jpg){:loading="lazy"}
+
+<!--more-->
 
 _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
