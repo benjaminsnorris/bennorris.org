@@ -31,7 +31,7 @@ Sometimes the best way to counter obsessive thoughts is to realize that they are
 
 ![Sand Hollow Sketch](https://www.mentalworkhealth.org/uploads/2021/0d101e7f2e.jpg)
 
-One of my favorite activities on our camping trip was sketching the scenery in a few places. A treasured hobby of mine is sketchnoting both [business](https://sketchnotable.com/) and [religious](https://gospelsketcher.org/) events. My style of drawing is not hyper-realistic—I lack the natural skill for that, and have not been willing to put in the time to practice it enough. I do draw excellent stick figures though.
+One of my favorite activities on our camping trip was sketching the scenery in a few places. A treasured hobby of mine is sketchnoting both [business](https://bennorris.org/sketchnotable/) and [religious](https://bennorris.org/gospelsketcher/) events. My style of drawing is not hyper-realistic—I lack the natural skill for that, and have not been willing to put in the time to practice it enough. I do draw excellent stick figures though.
 
 The act of drawing the landscape was a form of meditation for me. It helped me to be present in the moment, and discard any judgment of what I was seeing or feeling. I sat by my son as he fished for hours and tried to capture what I was seeing. I started by outlining the horizon and some of the main contours, and then filled in the different sections according to what I was seeing. The thought crossed my mind as I added individual dots for the sagebrush that an OCD mind is almost necessary for the approach I took. Without that drive to compulsively finish a repetitive and lengthy task, I couldn’t have done this sketch.
 

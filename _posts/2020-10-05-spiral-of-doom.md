@@ -28,9 +28,9 @@ In so many ways, this spiral is similar to many thought loops that I experience 
 
 This past weekend was [General Conference](https://newsroom.churchofjesuschrist.org/article/general-conference) for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/general-conference?lang=eng). This is always a time that we look forward to as a family. It gives us the chance to pause and think about our lives differently, as well as how we can better follow Jesus Christ and treat others as He would.
 
-It worked out this time for me to capture some sketchnotes which is always something I enjoy. You can see them on [gospelsketcher.org](https://www.gospelsketcher.org/2020/10/04/pdf-of-all.html).
+It worked out this time for me to capture some sketchnotes which is always something I enjoy. You can see them on [Gospel Sketcher](https://bennorris.org/2020/10/04/general-conference-sketchnotes-oct-2020).
 
-[![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/f36f6f439c.jpg)](https://www.gospelsketcher.org/2020/10/04/pdf-of-all.html)
+[![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/f36f6f439c.jpg)](https://bennorris.org/2020/10/04/general-conference-sketchnotes-oct-2020)
 
 
 ## Something else
