@@ -37,7 +37,7 @@ One tradition I have with these conferences is to try to sketchnote the talks we
 
 ![General Conference sketchnotes](https://www.mentalworkhealth.org/uploads/2021/4fa792221b.jpg)
 
-Each time that I am able to take sketchnotes, I am reminded of how much I enjoy it. I share the religious sketchnotes I capture at [GospelSketcher.org](https://gospelsketcher.org), and the business-y sketchnotes at [sketchnotable.com](https://sketchnotable.com). It feels good to put something out into the world that brought me joy in the creative process without any expectation of something in return. There have been times when I have considered trying to monetize them somehow, but I am much happier just sharing them for free and avoiding the pressure that would come with such an endeavor.
+Each time that I am able to take sketchnotes, I am reminded of how much I enjoy it. I share the religious sketchnotes I capture at [Gospel Sketcher](https://bennorris.org/gospelsketcher/), and the business-y sketchnotes at [Sketchnotable](https://bennorris.org/sketchnotable/). It feels good to put something out into the world that brought me joy in the creative process without any expectation of something in return. There have been times when I have considered trying to monetize them somehow, but I am much happier just sharing them for free and avoiding the pressure that would come with such an endeavor.
 
 
 ## Something else

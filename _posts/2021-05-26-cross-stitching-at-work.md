@@ -34,7 +34,7 @@ This week I tackled a craft project. It had been years since I cross stitched. M
 
 While I made some progress at home in the evenings, where I really dug in was during work meetings. It started with two full days of meetings, and continued throughout the week in meetings where I primarily needed to listen. I worried that people would think it was unprofessional or rude, but it was fine.
 
-I have found that I can listen so much better when my hands are occupied. This is why I [sketchnote](https://www.sketchnotable.com) many events when I want to learn or remember what I am hearing.
+I have found that I can listen so much better when my hands are occupied. This is why I [sketchnote](https://bennorris.org/sketchnotable/) many events when I want to learn or remember what I am hearing.
 
 ![Mandolorian cross stitch](http://www.mentalworkhealth.org/uploads/2021/d261c53491.jpg)
 
