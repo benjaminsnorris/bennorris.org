@@ -3,7 +3,7 @@
 ## glightbox
 
 ### Example
-{{< glightbox src="https://www.gospelsketcher.org/uploads/2020/7eda015c96.jpg" alt="Conference sketchnotes" gallery="apr-2020">}}
+{{< glightbox src="https://media.bennorris.org/images/gospelsketcher/uploads/2020/7eda015c96.jpg" alt="Conference sketchnotes" gallery="apr-2020">}}
 
 ### Regex
 #### Find

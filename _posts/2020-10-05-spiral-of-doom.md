@@ -30,7 +30,7 @@ This past weekend was [General Conference](https://newsroom.churchofjesuschrist.
 
 It worked out this time for me to capture some sketchnotes which is always something I enjoy. You can see them on [gospelsketcher.org](https://www.gospelsketcher.org/2020/10/04/pdf-of-all.html).
 
-[![General Conference Sketchnotes](https://www.gospelsketcher.org/uploads/2020/f36f6f439c.jpg)](https://www.gospelsketcher.org/2020/10/04/pdf-of-all.html)
+[![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/f36f6f439c.jpg)](https://www.gospelsketcher.org/2020/10/04/pdf-of-all.html)
 
 
 ## Something else

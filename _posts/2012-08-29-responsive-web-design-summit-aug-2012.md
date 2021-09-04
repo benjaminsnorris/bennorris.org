@@ -8,6 +8,6 @@ I had the fantastic opportunity to participate in a wonderful virtual conference
 
 Here are my sketchnotes from the event:
 
-<img src="https://www.sketchnotable.com/uploads/2021/8086e40a71.jpg" alt="E4H RWD Summit sketchnotes set 1" gallery="rwd2012">}}
+<img src="https://media.bennorris.org/images/sketchnotable/uploads/2021/8086e40a71.jpg" alt="E4H RWD Summit sketchnotes set 1" gallery="rwd2012">}}
 
-<img src="https://www.sketchnotable.com/uploads/2021/1031f7e09a.jpg" alt="E4H RWD Summit sketchnotes set 2" gallery="rwd2012">}}
+<img src="https://media.bennorris.org/images/sketchnotable/uploads/2021/1031f7e09a.jpg" alt="E4H RWD Summit sketchnotes set 2" gallery="rwd2012">}}

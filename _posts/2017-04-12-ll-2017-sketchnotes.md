@@ -9,7 +9,7 @@ category: Sketchnotable
 
 I had a fantastic time at Úll this year. I had the privilege of speaking on sketchnotes, which was a blast. It also meant that I felt a lot of pressure to product quality sketchnotes of the other speakers! In the end, Úll is all about the experience, and mine was warm and welcoming. I look forward to being back with this community again.
 
-[PDF of entire collection (13 MB)](https://www.sketchnotable.com/uploads/2019/665b05e4dd.pdf)
+[PDF of entire collection (13 MB)](https://media.bennorris.org/images/sketchnotable/uploads/2019/665b05e4dd.pdf)
 
 [![Ull Sketchnotes](/uploads/2018/9c97aeaf75.jpg)](/uploads/2018/9c97aeaf75.jpg)
 

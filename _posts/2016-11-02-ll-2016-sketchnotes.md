@@ -9,7 +9,7 @@ category: Sketchnotable
 
 [Úll](http://2016.ull.ie) was wonderful. This was my first time attending the conference, and it was unforgettable.
 
-[PDF of entire collection (8 MB)](https://www.sketchnotable.com/uploads/2019/97c4f7ec9e.pdf)
+[PDF of entire collection (8 MB)](https://media.bennorris.org/images/sketchnotable/uploads/2019/97c4f7ec9e.pdf)
 
 [![Ull 2016 sketchnotes 00](/uploads/2018/23904c19a1.jpg)](/uploads/2018/23904c19a1.jpg)
 
