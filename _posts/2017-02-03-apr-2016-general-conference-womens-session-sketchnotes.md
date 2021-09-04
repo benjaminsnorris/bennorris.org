@@ -7,14 +7,14 @@ tags:
 category: Gospel Sketcher
 ---
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/17d5f57abe.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/17d5f57abe.jpg){:loading="lazy"}
 _Cheryl A. Esplin—He Asks Us to Be His Hands_
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/55fb77486f.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/55fb77486f.jpg){:loading="lazy"}
 _Neill F. Marriott—What Shall We Do?_
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/f48d7bfa9a.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/f48d7bfa9a.jpg){:loading="lazy"}
 _Linda K. Burton—“I Was a Stranger”
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/0424119b6c.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/0424119b6c.jpg){:loading="lazy"}
 _Henry B. Eyring—Trust in That Spirit Which Leadeth to Do Good_

@@ -13,7 +13,7 @@ Thoughts on the book *On Writing*, by Stephen King, and how it has affected my w
 
 [On Writing](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)
 
-<a href="https://www.bennorris.blog/uploads/2019/9bf3c08475.jpg"><img src="https://www.bennorris.blog/uploads/2019/9bf3c08475.jpg" alt="Editing page" /></a>
+<a href="https://www.bennorris.blog/uploads/2019/9bf3c08475.jpg">![Editing page](https://www.bennorris.blog/uploads/2019/9bf3c08475.jpg){:loading="lazy"}</a>
 
 Final post from editing example image: [🌀 Not a comedian](https://www.bennorris.org/2019/04/01/not-a-comedian.html)
 

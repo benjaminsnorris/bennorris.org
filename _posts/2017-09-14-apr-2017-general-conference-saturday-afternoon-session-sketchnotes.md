@@ -7,14 +7,14 @@ tags:
 category: Gospel Sketcher
 ---
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/780ba199cf.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/780ba199cf.jpg){:loading="lazy"}
 _Robert D. Hales—Becoming a Disciple of Our Lord Jesus Christ_
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/68909da602.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/68909da602.jpg){:loading="lazy"}
 _Jeffrey R. Holland—Songs Sung and Unsung_
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/cf99e9d826.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/cf99e9d826.jpg){:loading="lazy"}
 _Gary B. Sabin—Stand Up Inside and Be All In_
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/889e8dd5e9.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/889e8dd5e9.jpg){:loading="lazy"}
 _Valeri V. Cordón—The Language of the Gospel_

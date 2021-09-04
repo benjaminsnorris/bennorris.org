@@ -7,7 +7,7 @@ category: General
 short: true
 ---
 
-<img src="https://content.artofmanliness.com/uploads/2019/04/Dopamine-Header-1.jpg" alt="Your life explained through dopamine" />
+![Your life explained through dopamine](https://content.artofmanliness.com/uploads/2019/04/Dopamine-Header-1.jpg){:loading="lazy"}
 
 I loved this article from the Art of Manliness: [Your Life Explained Through Dopamine](https://www.artofmanliness.com/articles/your-life-explained-through-dopamine/).
 

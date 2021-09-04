@@ -10,4 +10,4 @@ The event was hosted by former West Virginia governor, Bob Wise, and began with 
 
 Here are my sketchnotes of the event.
 
-<a href="http://benjaminsnorris.com/sketchnotes/sketchnotes-gallery/digital-learning-day-2/" rel="attachment wp-att-647"><img src="http://benjaminsnorris.files.wordpress.com/2012/02/digital-learning-day.png?w=188" alt="Digital Learning Day 2012 Sketchnotes" title="Digital Learning Day 2012 Sketchnotes" width="188" height="300" class="alignleft size-medium wp-image-647" /></a>
+<a href="http://benjaminsnorris.com/sketchnotes/sketchnotes-gallery/digital-learning-day-2/" rel="attachment wp-att-647">![Digital Learning Day 2012 Sketchnotes](http://benjaminsnorris.files.wordpress.com/2012/02/digital-learning-day.png?w=188){:loading="lazy"}</a>

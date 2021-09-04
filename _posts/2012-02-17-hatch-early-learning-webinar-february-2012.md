@@ -14,4 +14,4 @@ Driving all of these examples was a concerted effort with dedicated planning to 
 
 Included here are my sketchnotes.
 
-<img src="https://www.bennorris.blog/uploads/2021/d4b28438d5.png" alt="Hatch Webinar Sketchnotes Feb 12"/>
+![Hatch Webinar Sketchnotes Feb 12](https://www.bennorris.blog/uploads/2021/d4b28438d5.png){:loading="lazy"}

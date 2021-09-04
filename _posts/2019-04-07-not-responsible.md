@@ -7,7 +7,7 @@ category: General
 short: true
 ---
 
-<img src="https://content.artofmanliness.com/uploads/2019/04/Other-Peoples-Feelings-Header-2.jpg" alt="You are not responsible for other people’s feelings" />
+![You are not responsible for other people’s feelings](https://content.artofmanliness.com/uploads/2019/04/Other-Peoples-Feelings-Header-2.jpg){:loading="lazy"}
 
 I loved this article from the Art of Manliness: [Sunday Firesides: You Are Not Responsible for Other People’s Feelings](https://www.artofmanliness.com/articles/sunday-firesides-you-are-not-responsible-for-other-peoples-feelings/)
 

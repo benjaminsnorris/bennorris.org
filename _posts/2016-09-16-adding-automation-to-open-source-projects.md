@@ -28,14 +28,14 @@ _All examples are using my [TextMagic](https://github.com/benjaminsnorris/TextMa
 1. Include build and coverage information in your README.md file
 
 <div class="badges">
-  <a href="https://travis-ci.org/benjaminsnorris/TextMagic"><img src="https://img.shields.io/travis/benjaminsnorris/TextMagic.svg" alt="Build Status"></a>
+  <a href="https://travis-ci.org/benjaminsnorris/TextMagic">![Build Status](https://img.shields.io/travis/benjaminsnorris/TextMagic.svg){:loading="lazy"}
   <br/>
   <code class="highlighter-rouge">
     [![Build Status](https://img.shields.io/travis/benjaminsnorris/TextMagic.svg)](https://travis-ci.org/benjaminsnorris/TextMagic){:loading="lazy"}
   </code>
   <br/>
   <br/>
-  <a href="https://codecov.io/gh/benjaminsnorris/TextMagic"><img src="https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg" alt="Code Coverage"></a>
+  <a href="https://codecov.io/gh/benjaminsnorris/TextMagic">![Code Coverage](https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg){:loading="lazy"}
   <br/>
   <code class="highlighter-rouge">
     [![codecov](https://img.shields.io/codecov/c/github/benjaminsnorris/TextMagic.svg)](https://codecov.io/gh/benjaminsnorris/TextMagic){:loading="lazy"}  </code>

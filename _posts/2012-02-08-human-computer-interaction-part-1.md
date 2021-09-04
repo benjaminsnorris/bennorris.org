@@ -20,4 +20,4 @@ The great challenge for designers now is to explore ways to help users move from
 
 Take a minute to look through my sketchnotes for more detail.
 
-<img src="https://www.bennorris.blog/uploads/2021/6c17ca55fe.png" alt="Stanford HCI Sketchnotes"/>
+![Stanford HCI Sketchnotes](https://www.bennorris.blog/uploads/2021/6c17ca55fe.png){:loading="lazy"}

@@ -8,6 +8,6 @@ The third installment of the series for The Company Corporation (<a href="http:/
 
 I had noticed that my sketchnotes had all been in the same basic layout: top to bottom and left to right in something of a "Z" pattern. So this time I tried a completely different layout, and I loved it! Doing something different pushed me a bit out of my comfort zone, and I was pleased the with end result. Hopefully you enjoy it too!
 
-<a href="http://benjaminsnorris.files.wordpress.com/2013/02/how-to-raise-capital-sketchnotes.jpg"><img src="http://benjaminsnorris.files.wordpress.com/2013/02/how-to-raise-capital-sketchnotes.jpg?w=580" alt="Sketchnotes for webinar on raising capital by Incorporate.com" width="580" height="463" class="alignnone size-large wp-image-966" /></a>
+<a href="http://benjaminsnorris.files.wordpress.com/2013/02/how-to-raise-capital-sketchnotes.jpg">![Sketchnotes for webinar on raising capital by Incorporate.com](http://benjaminsnorris.files.wordpress.com/2013/02/how-to-raise-capital-sketchnotes.jpg?w=580){:loading="lazy"}</a>
 
 <a href="#top">Back to top</a> | <a title="Sketchnotes Gallery" href="http://benjaminsnorris.wordpress.com/sketchnotes/sketchnotes-gallery/">View entire gallery»</a>

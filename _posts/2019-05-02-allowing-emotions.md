@@ -6,7 +6,7 @@ tags:
 category: General
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/725a4a482a.png" alt="Angry" />
+![Angry](https://www.bennorris.blog/uploads/2019/725a4a482a.png){:loading="lazy"}
 
 Acknowledging and welcoming emotions, even painful ones, makes it possible to process and digest them in a healthy way.
 

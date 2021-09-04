@@ -27,4 +27,4 @@ Hopefully one day I can meet you, give you a hug, and thank you in person for ho
 
 Your new (but unknown) friend,
 
-<img src="https://www.bennorris.blog/uploads/2019/29fa5d6acd.png" alt="Ben Norris signature" style="height: 100px;" />
+![Ben Norris signature](https://www.bennorris.blog/uploads/2019/29fa5d6acd.png){:loading="lazy"}

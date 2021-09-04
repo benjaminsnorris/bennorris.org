@@ -6,5 +6,5 @@ tags:
 category: Gospel Sketcher
 ---
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2018/64ffc7e33b.jpg" alt="General Conference sketchnotes" />
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/64ffc7e33b.jpg){:loading="lazy"}
 _Ronald A. Rasband—Standing with the Leaders of the Church_

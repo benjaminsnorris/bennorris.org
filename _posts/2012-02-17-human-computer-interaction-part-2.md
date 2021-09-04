@@ -10,4 +10,4 @@ The main point that I took away from this lecture is that the phenomenon of comm
 
 Here are my sketchnotes.
 
-<img src="https://www.bennorris.blog/uploads/2021/db57eec383.png" alt="Stanford HCI Sketchnotes"/>
+![Stanford HCI Sketchnotes](https://www.bennorris.blog/uploads/2021/db57eec383.png){:loading="lazy"}

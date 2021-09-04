@@ -16,12 +16,12 @@ Here is a fantastic infographic from the official <a href="http://www.lds.org/ge
 <p style="text-align:center;"><a href="http://www.lds.org/bc/content/ldsorg/content/images/GCinfographicsa-1200px-wide.jpg?lang=eng" target="_blank"><img class="aligncenter" title="LDS General Conference Infographic" src="http://www.lds.org/bc/content/ldsorg/content/images/GC-infographics-crop.jpg" alt="LDS General Conference Infographic" width="480" height="350" /></a></p>
 And here are my sketchnotes.
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2021/759d59e622.png" alt="General Conference Apr 2012 Sketchnotes 1" gallery="apr12">}}
+![General Conference Apr 2012 Sketchnotes 1](https://media.bennorris.org/images/gospelsketcher/uploads/2021/759d59e622.png){:loading="lazy"}}}
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2021/b15c481fd9.png" alt="General Conference Apr 2012 Sketchnotes 2" gallery="apr12">}}
+![General Conference Apr 2012 Sketchnotes 2](https://media.bennorris.org/images/gospelsketcher/uploads/2021/b15c481fd9.png){:loading="lazy"}}}
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2021/96cd1f9f9f.png" alt="General Conference Apr 2012 Sketchnotes 3" gallery="apr12">}}
+![General Conference Apr 2012 Sketchnotes 3](https://media.bennorris.org/images/gospelsketcher/uploads/2021/96cd1f9f9f.png){:loading="lazy"}}}
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2021/fa3770a2ba.png" alt="General Conference Apr 2012 Sketchnotes 4" gallery="apr12">}}
+![General Conference Apr 2012 Sketchnotes 4](https://media.bennorris.org/images/gospelsketcher/uploads/2021/fa3770a2ba.png){:loading="lazy"}}}
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2021/1229b2b08b.png" alt="General Conference Apr 2012 Sketchnotes 5" gallery="apr12">}}
+![General Conference Apr 2012 Sketchnotes 5](https://media.bennorris.org/images/gospelsketcher/uploads/2021/1229b2b08b.png){:loading="lazy"}}}

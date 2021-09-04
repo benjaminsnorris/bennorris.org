@@ -23,7 +23,7 @@ Finally, I decided to take a different tack. I realized that we were halfway don
 
 We continued through the rest of the room like that, with him jumping at each opportunity to smooth the way. As we neared completion, he asked again, “Dad, could I try to vacuum?” I realized that he mattered more than a perfect vacuuming job.
 
-<img src="https://www.bennorris.blog/uploads/2018/83f68964b8.jpg" alt="Six-year-old vacuuming the church" />
+![Six-year-old vacuuming the church](https://www.bennorris.blog/uploads/2018/83f68964b8.jpg){:loading="lazy"}
 *A six-year-old husband-in-training*
 
 ## The lesson

@@ -6,7 +6,7 @@ tags:
 category: Mental Work Health
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/9695a8a2ff.jpg" alt="Obscurus" />
+![Obscurus](https://www.bennorris.blog/uploads/2019/9695a8a2ff.jpg){:loading="lazy"}
 
 The best analogy I have found for physical panic attacks is the Obscurus discovered by Newt Scamander. It sits dormant inside of me, ready to burst out and wreak havoc and destruction at any time.
 

@@ -6,11 +6,11 @@ category: General
 
 This post wraps up my series of sketchnotes created for The Company Corporation (<a href="http://www.incorporate.com" title="The Company Corporation">Incorporate.com</a>). The event was a Q &amp; A session with Brandon Steiner of <a href="http://www.steinersports.com/" title="Steiner Sports" target="_blank">steinersports.com</a> and went through lessons he learned as an entrepreneur. The session contained tons of great information for small business owners, but was a challenge to sketchnote. All of the other sessions in this series were prepared presentations, so they had a structure, and a natural flow. But this one was more organic, with stories illustrating unconnected points. So the process that I took was different from what I have used with most events, and I thought it would be interesting to share.
 
-<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-basic.jpg"><img src="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-basic.jpg?w=300" alt="Growing Smart sketchnotes basic" width="300" height="242" class="alignright size-medium wp-image-974" /></a>
+<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-basic.jpg">![Growing Smart sketchnotes basic](http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-basic.jpg?w=300){:loading="lazy"}</a>
 
 I watched the broadcast once in its entirety without capturing any sketchnotes just to get a feel for the content. That helped me realize the approach I wanted to take. Similar to my <a href="http://../2013/02/28/sketchnotes-for-webinar-on-raising-capital/" title="Sketchnotes for Webinar on Raising&nbsp;Capital" target="_blank">sketchnotes for the Raising Capital webinar</a>, I wanted to try a different layout than what I have typically used. So when it came time to actually sketchnote the event, I left lots of white space and captured main ideas from the stories presented as usual, but I worked in more of a popcorn layout. As new ideas came up, they just popped onto the page without following a set order or pattern. For a linear presentation where the ideas build on each other, a sketchnote using this structure would be harder for someone reading it to follow, but since the ideas were loosely connected if at all, this worked well.
 
-<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-colored.jpg"><img src="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-colored.jpg?w=300" alt="Growing Smart Sketchnotes colored" width="300" height="242" class="alignright size-medium wp-image-975" /></a>
+<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-colored.jpg">![Growing Smart Sketchnotes colored](http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes-colored.jpg?w=300){:loading="lazy"}</a>
 
 Once I was finished with the event, I went back and added some color and some emphasis to the title. With a non-standard layout, the title needed to pop a bit more than normal. Usually, this will be the final step for me. I prefer to do as much as possible live during the event, and will often add color highlights as I go if I'm going to use them in a sketchnote. Since these sketchnotes were for a paying client, I wanted to take a bit more time on each of the stages so that the end result would be the best that it could be.
 
@@ -18,6 +18,6 @@ Finally, I decided to try something else new and add some embellishments. There 
 
 Hopefully this glimpse into my creative process was interesting for you and sparks ideas for things you could try!
 
-<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes.jpg"><img src="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes.jpg?w=580" alt="Sketchnotes for webinar on Growing Smart" width="580" height="468" class="alignnone size-large wp-image-973" /></a>
+<a href="http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes.jpg">![Sketchnotes for webinar on Growing Smart](http://benjaminsnorris.files.wordpress.com/2013/02/steiner-sketchnotes.jpg?w=580){:loading="lazy"}</a>
 
 <a href="#top">Back to top</a>&nbsp;|&nbsp;<a title="Sketchnotes&nbsp;Gallery" href="http://benjaminsnorris.wordpress.com/sketchnotes/sketchnotes-gallery/">View entire gallery»</a>

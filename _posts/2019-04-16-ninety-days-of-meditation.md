@@ -7,7 +7,7 @@ tags:
 category: Mental Work Health
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/5c6d29bf1d.jpg" alt="90 day streak" />
+![90 day streak](https://www.bennorris.blog/uploads/2019/5c6d29bf1d.jpg){:loading="lazy"}
 
 A reflection on my daily meditation habit over the last three months.
 

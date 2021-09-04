@@ -6,7 +6,7 @@ tags:
 category: Mental Work Health
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/a9579719ca.jpg" alt="Arc reactor" />
+![Arc reactor](https://www.bennorris.blog/uploads/2019/a9579719ca.jpg){:loading="lazy"}
 
 Anxiety for me is like the [arc reactor](https://marvel.fandom.com/wiki/Arc_Reactor), as shown in Iron Man 2. At times, it pulses and the energy it emits ebbs and flows. But it is always spreading poison throughout my body.
 

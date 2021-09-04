@@ -13,6 +13,19 @@
 ![$2]($1){:loading="lazy"}
 
 
+## Image links
+
+### Example
+<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2020/7eda015c96.jpg" alt="Conference sketchnotes" />
+
+### Regex
+#### Find
+<img src="(.+?)".+?alt="(.+?)".+?>
+
+#### Replace
+![$2]($1){:loading="lazy"}
+
+
 ## MWH Links
 
 ### Example

@@ -7,7 +7,7 @@ tags:
 category: Mental Work Health
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/4ee82c481a.jpg" alt="4 weeks, 13 books, 9000+ pages" />
+![4 weeks, 13 books, 9000+ pages](https://www.bennorris.blog/uploads/2019/4ee82c481a.jpg){:loading="lazy"}
 
 A month of intense reading led to rediscovered relationships with a number of old friends.
 

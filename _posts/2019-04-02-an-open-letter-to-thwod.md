@@ -36,4 +36,4 @@ Here are some of my favorite moments:
 
 Thank you again, and I wish you all the best as you continue your own mental health journey.
 
-<img src="https://www.bennorris.blog/uploads/2019/29fa5d6acd.png" alt="Ben Norris signature" style="height: 100px;" />
+![Ben Norris signature](https://www.bennorris.blog/uploads/2019/29fa5d6acd.png){:loading="lazy"}

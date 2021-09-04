@@ -21,5 +21,5 @@ Micah: “It looks more like a spear than a sword.”
 
 After it was done cooking, Annie went over to my son. “Dad made you a pancake for your birthday. He did the best he could.”
 
-<img src="https://www.bennorris.blog/uploads/2020/209bc56f70.jpg" alt="Pancake meant to look like a sword" />
+![Pancake meant to look like a sword](https://www.bennorris.blog/uploads/2020/209bc56f70.jpg){:loading="lazy"}
 

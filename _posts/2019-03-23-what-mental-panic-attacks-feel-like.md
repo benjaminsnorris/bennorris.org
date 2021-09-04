@@ -6,7 +6,7 @@ tags:
 category: Mental Work Health
 ---
 
-<img src="https://www.bennorris.blog/uploads/2019/a1a8c95ff6.jpg" alt="ESPN Multicast" />
+![ESPN Multicast](https://www.bennorris.blog/uploads/2019/a1a8c95ff6.jpg){:loading="lazy"}
 
 Mental panic attacks are the scarier version for me because they seem to come from nowhere. Often, my mind starts buzzing and filling up, even resembling the ESPN app multicast feature.  Multiple streams are playing simultaneously, but only one has audio.
 
