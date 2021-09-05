@@ -1,7 +1,9 @@
 ---
 title: "Digital Learning Day 2012"
 date: 2012-02-02 06:22:20-0700
-category: General
+category: Sketchnotable
+tags:
+- sketchnotes
 ---
 
 I am a nerd. I take notes in a <a title="Star Wars Moleskine for sketchnotes" href="http://www.moleskineus.com/star-wars-limited-edition-notebooks.html" target="_blank">Star Wars Moleskine notebook</a> and can't wait for the <a title="Lego Moleskine for sketchnotes" href="http://www.moleskineus.com/moleskine-lego-limited-edition.html" target="_blank">Lego Moleskines</a> to come out. I also have a decent collection of gadgets—I currently use an iPhone, an iPad, a Macbook Air, a Macbook Pro and an iMac. So a national Digital Learning Day is a great thing in my eyes. My department at work all tuned in for the broadcast of the national town hall.
@@ -10,4 +12,4 @@ The event was hosted by former West Virginia governor, Bob Wise, and began with 
 
 Here are my sketchnotes of the event.
 
-<a href="http://benjaminsnorris.com/sketchnotes/sketchnotes-gallery/digital-learning-day-2/" rel="attachment wp-att-647">![Digital Learning Day 2012 Sketchnotes](http://benjaminsnorris.files.wordpress.com/2012/02/digital-learning-day.png?w=188){:loading="lazy"}</a>
+![Digital Learning Day 2012 Sketchnotes](https://media.bennorris.org/images/sketchnotable/general/digital-learning-day-sketchnotes.jpg){:loading="lazy"}
