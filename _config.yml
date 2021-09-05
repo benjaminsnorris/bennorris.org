@@ -50,6 +50,14 @@ include:
 paginate: 10
 paginate_path: /page:num/
 
+# Feed
+feed:
+  categories:
+    - Mental Work Health
+    - Gospel Sketcher
+    - Sketchnotable
+    - Kid Quotes
+
 # Exclude from processing.
 exclude:
   - .asset-cache
