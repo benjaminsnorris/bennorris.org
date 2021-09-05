@@ -10,4 +10,4 @@ I attended my third Certified Scrum Product Owner course 29-30 Aug 2011 in Seatt
 
 Here are my sketchnotes from the course:
 
-![Certified Scrum Product Owner Course Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2021/346823161f.png){:loading="lazy"}
+![Certified Scrum Product Owner Course Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2021/346823161f.jpg){:loading="lazy"}

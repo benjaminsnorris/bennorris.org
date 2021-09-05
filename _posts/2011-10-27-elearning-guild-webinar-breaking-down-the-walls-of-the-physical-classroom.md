@@ -10,4 +10,4 @@ This was an event that I participated in through the eLearning Guild, and it was
 
 Here are my sketchnotes from the event:
 
-![eLearning Guild Webinar Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2021/c6c1033490.png){:loading="lazy"}
+![eLearning Guild Webinar Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2021/c6c1033490.jpg){:loading="lazy"}
