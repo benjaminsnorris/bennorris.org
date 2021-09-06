@@ -34,7 +34,7 @@ In therapy a few weeks ago, I discussed working from home. I have long been a st
 
 As we talked more, she suggested that I consider renting an office space and getting some additional separation from the family as I work. The thought had never occurred to me before, but the more that I considered it, the more excited I got. My wife and I looked at a number of places and found an office that seemed perfect. The owner of an accounting firm had recently bought an old tattoo parlor and was renovating it and renting out the back rooms as offices, and I was able to snatch one up.
 
-![New office](https://www.mentalworkhealth.org/uploads/2020/800c41398c.jpg)
+![New office](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/800c41398c.jpg)
 
 After waiting what felt to me like forever (it was about two and a half weeks), the office was ready this past week, and I was able to move in. There are still some adjustments that I want to make, such as getting a whiteboard, but overall I feel pretty well settled.
 

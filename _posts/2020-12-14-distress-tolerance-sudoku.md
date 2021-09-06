@@ -28,7 +28,7 @@ One of the keys for me over the past week was being able to sit with the emotion
 
 ## Something good
 
-![Good Sudoku app](https://www.mentalworkhealth.org/uploads/2020/faaf295ecf.png)
+![Good Sudoku app](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/faaf295ecf.png)
 
 There is a fine line for me between distracting my brain as part of distress tolerance, and numbing or seeking escape. Whether it was the right thing or not, I found great relief this past week in discovering the [Good Sudoku app](https://www.playgoodsudoku.com).
 
@@ -45,7 +45,7 @@ Something that has been on my mind lately is the balance between vulnerability a
 
 The reality is that this is an unanswerable question. There is no certainty to be had, which is always difficult for me. I often feel like Calvin in these first couple frames, courtesy of [GoComics](https://www.gocomics.com/calvinandhobbes/1993/04/13):
 
-![Calvin and Hobbes](https://www.mentalworkhealth.org/uploads/2020/6f223434ee.png)
+![Calvin and Hobbes](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/6f223434ee.png)
 
 I keep coming back to authenticity. It is important for me to not continually second-guess myself, and instead allow myself to do my best each week and keep moving forward. Rather than get frustrated that there is no *right* answer, I want to enjoy the fact that there is also no real *wrong* answer. Whatever I write each week is what is done, and I can look forward to the future. In the end, that is all any of us can do.
 

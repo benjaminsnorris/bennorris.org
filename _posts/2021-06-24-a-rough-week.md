@@ -44,7 +44,7 @@ I share details of the hierarchy partly for some public accountability. It can b
 
 A few weeks ago, I [shared about a cross-stitch project](https://www.mentalworkhealth.org/2021/05/26/cross-stitching-at.html) that I had done in a week. Soon after finishing, I started a new project. I planned to make a gift for my nine-year-old’s birthday. When I showed him the pattern I was going to make for him, he didn’t know what it was. Even though [Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) is his favorite video game right now, the [pattern I had chosen](https://www.etsy.com/listing/699493190/link-legend-cross-stitch-pattern-retro) didn’t make sense to him. Sadly, this classic reference was totally lost on him: “It’s dangerous to go alone! Take this.”
 
-![Hylian shield and master sword cross-stitch](https://www.mentalworkhealth.org/uploads/2021/c9f85716f9.jpg)
+![Hylian shield and master sword cross-stitch](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/c9f85716f9.jpg)
 
 So I changed my plans (which is [notoriously difficult](https://www.mentalworkhealth.org/2021/06/04/plan-changes.html) for me) and made a different project that he would recognize. The change in design was supposed to be a surprise, but when I gave it to him, his first comment was that he had seen it while I was working on it. Regardless, he was happy to receive it, and I enjoyed making it.
 

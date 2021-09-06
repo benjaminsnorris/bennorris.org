@@ -43,7 +43,7 @@ Being a blacksmith has given me the opportunity to be a novice again. Even thoug
 
 One approach that I have taken this year is to repeat the same project over and over. I asked our master blacksmith for an appropriate learning project, and he assigned me to make leaf keychains. The process exercises a number of the fundamental skills required in any blacksmithing project, and the time required is pretty minimal. This means that I can create a number of them in an evening and focus on a particular skill, and improving that skill.
 
-![Leaf keychains](https://www.mentalworkhealth.org/uploads/2021/3a7099f80f.jpg)
+![Leaf keychains](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/3a7099f80f.jpg)
 
 Here are a few that I made in one evening, in the progression in which I made them. The flaws in each are obvious to me, particularly in the earlier ones, but they definitely get better. Being able to see tangible progress, even just in the course of a single evening, is tremendously satisfying.
 

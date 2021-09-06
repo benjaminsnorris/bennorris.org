@@ -27,7 +27,7 @@ I pulled open my desk drawer and drew out my cheap spiral burn journal. The swee
 
 The smooth cursive strokes gave way to choppy scrawl as I continued to give voice to my emotions. At first, nothing of consequence emerged, but I expected that. Long practice had taught me that continuing to write without purpose or plan would often lead to thoughts and feelings that lived beneath the surface. Agitation began to spread throughout my body, and I turned off my video in the meeting.
 
-![Notebook on desk](https://www.mentalworkhealth.org/uploads/2021/3917a0613a.jpg)
+![Notebook on desk](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/3917a0613a.jpg)
 
 Soon, the scrawl devolved into almost illegible scribbling. The agitation increased, until my arms were clenching and releasing, my head inclined one way and then another, and all the while my chest continued to tighten. I tried to keep writing, hoping it would help me identify and process the strong feelings I was experiencing, but it soon became furious scribbles. No words came out my fingertips, just angry cries.
 

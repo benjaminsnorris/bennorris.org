@@ -49,7 +49,7 @@ It is so easy for me to fall into all-or-nothing thinking. Black and white. Succ
 
 At my wife’s suggestion, I came up into the mountains to be in nature, and do something that I enjoy and that calms me. That is where I am writing this now.
 
-![Writing in the mountains](https://www.mentalworkhealth.org/uploads/2021/b791273df3.jpg)
+![Writing in the mountains](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/b791273df3.jpg)
 
 There’s something almost magical about being in nature, especially by water. While I know that I will continue to struggle and have challenges, I also know that I have skills to face them.
 

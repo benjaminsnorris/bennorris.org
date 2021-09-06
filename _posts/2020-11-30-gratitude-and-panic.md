@@ -35,7 +35,7 @@ When my wife commented on the situation, she mentioned something that shook me a
 
 ## Something else
 
-[![Give Thanks](https://www.mentalworkhealth.org/uploads/2020/ae386aed14.jpg")](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude?lang=eng)
+[![Give Thanks](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/ae386aed14.jpg")](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude?lang=eng)
 
 The leader of my church shared a [blog post and a video message](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude?lang=eng) the Friday before Thanksgiving, in which he invited everyone to make social media their own gratitude journal for seven days. I decided to make a microblog post each day, and found the experience to be uplifting and helpful. I kept wanting to say that I was grateful for my OCD and all that I have learned, but I never felt it. I guess I am not quite there yet.
 

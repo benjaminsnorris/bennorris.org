@@ -29,7 +29,7 @@ Sometimes the best way to counter obsessive thoughts is to realize that they are
 
 ## Something good
 
-![Sand Hollow Sketch](https://www.mentalworkhealth.org/uploads/2021/0d101e7f2e.jpg)
+![Sand Hollow Sketch](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/0d101e7f2e.jpg)
 
 One of my favorite activities on our camping trip was sketching the scenery in a few places. A treasured hobby of mine is sketchnoting both [business](https://bennorris.org/sketchnotable/) and [religious](https://bennorris.org/gospelsketcher/) events. My style of drawing is not hyper-realistic—I lack the natural skill for that, and have not been willing to put in the time to practice it enough. I do draw excellent stick figures though.
 

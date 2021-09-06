@@ -12,7 +12,7 @@ This week’s update includes a **delightful visit**, my experience with a **rem
 
 ***
 
-![Sketch of recliner](https://www.mentalworkhealth.org/uploads/2021/9c7db71a12.jpg)
+![Sketch of recliner](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/9c7db71a12.jpg)
 
 Last week I had a special treat. My boss, [Mel Tingey](https://www.linkedin.com/in/meltingey), came down to see my office space and to have a one-to-one over lunch. I have [mentioned before](https://www.mentalworkhealth.org/2020/11/30/gratitude-and-panic.html) that he is one of the best bosses I have ever worked for. My family loves him, mostly from his personal support during my breakdown and recovery. My kids still talk about the time he sent my wife flowers while I was staying away from home during OCD treatment.
 

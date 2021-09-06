@@ -33,7 +33,7 @@ With many trips I have taken away from the family, I have felt driven to accompl
 
 ## Something else
 
-<img src="https://www.mentalworkhealth.org/uploads/2020/e21e4fdb8c.jpg"/>
+<img src="https://media.bennorris.org/images/mentalworkhealth/uploads/2020/e21e4fdb8c.jpg"/>
 
 One of my favorite activities while I was on my trip was some simple pencil sketching. As I waited for lunch to come out, I took a few minutes to draw the building across the street. It a nice meditative exercise and there were other benefits as well. It was fun to hear my server comment how much she enjoyed watching me draw. I have found that people always like watching someone work to create something in front of them.
 

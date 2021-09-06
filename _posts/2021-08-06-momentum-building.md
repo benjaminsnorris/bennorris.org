@@ -52,7 +52,7 @@ The answer, as quoted back to him by Coach Beard, is to recognize that people ar
 
 ## Simone Biles
 
-![Simone Biles](https://www.mentalworkhealth.org/uploads/2021/4392126ee7.jpg)
+![Simone Biles](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/4392126ee7.jpg)
 *(Photo by Laurence Griffiths/Getty Images) 2021 Getty Images*
 
 Next was the news that [Simone Biles withdrew](https://olympics.com/tokyo-2020/en/news/simone-biles-pulls-out-of-team-event-after-one-event) from competition at the Olympics. The [statement from USA Gymnastics](https://twitter.com/USAGym/status/1420266286441922562) read:

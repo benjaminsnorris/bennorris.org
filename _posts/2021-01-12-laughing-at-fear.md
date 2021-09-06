@@ -30,7 +30,7 @@ The real problem was not the fear, but the secondary fear—the fear of the fear
 
 ## Something good
 
-![Star Wars Legos](https://www.mentalworkhealth.org/uploads/2021/d5b0126bce.jpg)
+![Star Wars Legos](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/d5b0126bce.jpg)
 
 One of my favorite times over the past little while has been lunch. For Christmas, my wife gave me a Star Wars Lego set[^1] and I have eagerly anticipated building it. I decided I would challenge myself to not build it all in one go. Maybe that’s not hard for you, but the thought of it was somewhat excruciating for me.
 

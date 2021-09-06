@@ -14,7 +14,7 @@ _These weekly updates are an ongoing series in which I share what it is like to 
 
 ## Something hard
 
-![Two dots montage](https://www.mentalworkhealth.org/uploads/2021/0d9e4c304d.jpg)
+![Two dots montage](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/0d9e4c304d.jpg)
 
 At the end of last week, I rediscovered [Two Dots](https://www.dots.co/twodots/), a game that I had played a number of years ago, but had forgotten about. In some ways, this game seems designed specifically for people with OCD, or perhaps to exaggerate OCD-like tendencies that exist in all people.
 

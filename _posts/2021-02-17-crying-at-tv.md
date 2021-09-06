@@ -30,7 +30,7 @@ Mindfulness is something that I, and all of us, can work on regardless of our si
 
 ## Something good
 
-![All Creatures Great & Small](https://www.mentalworkhealth.org/uploads/2021/067e52a5dd.jpg)
+![All Creatures Great & Small](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/067e52a5dd.jpg)
 
 My wife found a new TV series for us to watch a few weeks ago, [*All Creatures Great & Small*](https://en.wikipedia.org/wiki/All_Creatures_Great_and_Small_(2020_TV_series)). We have both read many of the books by [James Herriot](https://en.wikipedia.org/wiki/James_Herriot) and thoroughly enjoyed the show. I have always had a soft spot in my heart for animals, although I’ve rarely had a pet for various reasons. Being able to see beautiful countrysides and the interactions of good people and true caring for living creatures was refreshing.
 

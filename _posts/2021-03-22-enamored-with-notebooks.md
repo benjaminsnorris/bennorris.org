@@ -35,7 +35,7 @@ Additionally, I commented in my [update last week](https://www.mentalworkhealth.
 
 This week I combined those two loves. I ordered a leather notebook cover, it was made by hand, and arrived at my house all within a few days.
 
-![Leather covered notebook](https://www.mentalworkhealth.org/uploads/2021/3a9e2cda4e.jpg)
+![Leather covered notebook](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/3a9e2cda4e.jpg)
 
 I am so excited to use this. To touch it. To hold it. To break it in.
 

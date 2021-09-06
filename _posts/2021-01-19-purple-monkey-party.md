@@ -19,7 +19,7 @@ I bring this up partly to encourage myself to decide on my goals for 2021. I thi
 
 ## Something hard
 
-![Purple monkey cake](https://www.mentalworkhealth.org/uploads/2021/e0065aadec.jpg)
+![Purple monkey cake](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/e0065aadec.jpg)
 
 Over the weekend, we celebrated my daughter’s seventh birthday. She decided that the theme was purple monkeys, and asked her aunt to make a cake to fit. The result was truly spectacular, as is often the case with my sister-in-law. We had a small family party with grandma and grandpa, and had a terrific time.
 

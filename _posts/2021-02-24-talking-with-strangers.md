@@ -36,7 +36,7 @@ I was struck by the power of that simple act of recognizing shared humanity. The
 
 ## Something else
 
-![Ted Lasso](https://www.mentalworkhealth.org/uploads/2021/5f1055a535.jpg)
+![Ted Lasso](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/5f1055a535.jpg)
 
 Last week, I [wrote about](https://www.mentalworkhealth.org/2021/02/17/crying-at-tv.html) watching [*All Creatures Great & Small*](https://en.wikipedia.org/wiki/All_Creatures_Great_and_Small_(2020_TV_series)) and the effect it had on me. Well, as we ended that series, I decided to start watching the show [Ted Lasso](https://en.wikipedia.org/wiki/Ted_Lasso_(TV_series)). I had heard good things about it, and was ready for something funny.
 

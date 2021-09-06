@@ -41,7 +41,7 @@ It was almost miraculous what a difference it made to consider the implication o
 
 ## Something else
 
-![Blog illustration](https://www.mentalworkhealth.org/uploads/2020/0e8c93d0ef.jpg)
+![Blog illustration](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/0e8c93d0ef.jpg)
 
 As often happens to me, I had an idea take hold in my mind this week that would not let go. Suddenly it became urgent that my personal blog was moved to the [bennorris.blog](https://bennorris.blog) URL that I already owned, and the [bennorris.org](https://bennorris.org) URL be used more to explain who I am and what I have done and am doing. I had also used [bsn.design](https://bsn.design) for a blog before my current setup, and decided that I need to convert it to a static site.
 

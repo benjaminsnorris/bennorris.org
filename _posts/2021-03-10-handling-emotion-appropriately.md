@@ -36,7 +36,7 @@ On another day, my wife and I had a budget meeting on a date, and then went groc
 
 ## Something else
 
-![HEY World](https://www.mentalworkhealth.org/uploads/2021/1be69fa767.png)
+![HEY World](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/1be69fa767.png)
 
 A product announcement caught my attention this past week. Basecamp released a feature called [HEY World](https://hey.com/world/). I have been moving over my email to use HEY as I agree with their philosophy on privacy, as well as their focus on user experience and changing our relationship with email. HEY World allows anyone who is a paying customer of the email service to send an email to create a blog post.
 
