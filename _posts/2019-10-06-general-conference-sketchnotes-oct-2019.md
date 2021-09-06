@@ -1,22 +1,25 @@
 ---
 title: "General Conference Sketchnotes Oct 2019"
 date: 2019-10-06 16:20:00-0600
+read_time: false
 tags:
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher
 ---
 
+Synopsis sketchnotes from October 2019 General Conference.
+
 Download [PDF of all sessions (3 MB)](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/oct-2019-general-conference-sketchnotes.pdf)
 
 ## Saturday morning session
 
-![Saturday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/762aaf9001.jpg)
+![Saturday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/general-conference-sat-am-sketchnote.jpg){:loading="lazy"}
 
 ## Sunday morning session
 
-![Sunday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/a117a13f64.jpg)
+![Sunday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/general-conference-sun-am-sketchnote.jpg){:loading="lazy"}
 
 ## Sunday afternoon session
 
-![Sunday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/3a790d4096.jpg)
+![Sunday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/general-conference-sun-pm-sketchnote.jpg){:loading="lazy"}
