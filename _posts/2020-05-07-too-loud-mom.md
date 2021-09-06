@@ -1,7 +1,9 @@
 ---
 title: "“Too loud, Mom!” 😂"
 date: 2020-05-07 22:34:00-0600
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

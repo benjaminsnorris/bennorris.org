@@ -1,7 +1,9 @@
 ---
 title: "😂 Infinite reflection"
 date: 2019-12-28 19:17:00-0700
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

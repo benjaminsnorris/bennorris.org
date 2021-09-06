@@ -1,7 +1,9 @@
 ---
 title: "😂 The best he could"
 date: 2020-01-04 14:03:00-0700
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

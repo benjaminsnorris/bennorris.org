@@ -1,7 +1,9 @@
 ---
 date: 2019-01-12 13:30:25-0700
 title: "Pretty messy"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

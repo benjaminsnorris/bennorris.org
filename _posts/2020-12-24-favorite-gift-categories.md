@@ -1,7 +1,9 @@
 ---
 date: 2020-12-24 11:56:46-0700
 title: "Favorite gift categories"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

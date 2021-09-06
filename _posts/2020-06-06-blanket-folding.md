@@ -1,7 +1,9 @@
 ---
 date: 2020-06-06 23:17:25-0600
 title: "Blanket folding"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

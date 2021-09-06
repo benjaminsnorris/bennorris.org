@@ -1,7 +1,9 @@
 ---
 date: 2021-03-12 21:34:34-0700
 title: "Best tasting foods"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

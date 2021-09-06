@@ -1,7 +1,9 @@
 ---
 title: "😂 Stupid bees"
 date: 2020-09-11 08:33:00-0600
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

@@ -1,7 +1,9 @@
 ---
 date: 2019-11-13 20:14:13-0700
 title: "Dryer lint"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

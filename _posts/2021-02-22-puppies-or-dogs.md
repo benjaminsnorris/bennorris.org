@@ -1,7 +1,9 @@
 ---
 date: 2021-02-22 19:30:30-0700
 title: "Puppies or dogs"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

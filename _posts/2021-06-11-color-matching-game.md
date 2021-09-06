@@ -1,7 +1,9 @@
 ---
 date: 2021-06-11 17:58:34-0600
 title: "Color matching game"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

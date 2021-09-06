@@ -1,7 +1,9 @@
 ---
 date: 2020-03-18 08:31:00-0600
 title: "Poopy underwear"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

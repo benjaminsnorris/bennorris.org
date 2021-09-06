@@ -1,7 +1,9 @@
 ---
 date: 2020-05-14 23:19:27-0600
 title: "Rock yourself"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

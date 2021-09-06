@@ -1,7 +1,9 @@
 ---
 date: 2018-12-16 18:58:30-0700
 title: "Licking a lemon"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

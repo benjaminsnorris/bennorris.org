@@ -1,7 +1,9 @@
 ---
 date: 2019-09-29 08:26:16-0600
 title: "Cleaning up"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

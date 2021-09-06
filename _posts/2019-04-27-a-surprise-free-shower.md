@@ -1,7 +1,9 @@
 ---
 title: "😂 A surprise-free shower"
 date: 2019-04-27 11:14:00-0600
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

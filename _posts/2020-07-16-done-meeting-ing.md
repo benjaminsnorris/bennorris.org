@@ -1,7 +1,9 @@
 ---
 date: 2020-07-16 17:08:00-0600
 title: "Done meeting-ing"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

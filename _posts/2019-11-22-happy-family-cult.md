@@ -1,7 +1,9 @@
 ---
 date: 2019-11-22 21:14:43-0700
 title: "Happy family cult"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

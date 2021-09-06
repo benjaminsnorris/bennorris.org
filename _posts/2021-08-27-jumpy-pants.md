@@ -1,7 +1,9 @@
 ---
 date: 2021-08-27 13:25:28-0600
 title: "😂 Jumpy Pants"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

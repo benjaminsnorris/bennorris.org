@@ -1,7 +1,9 @@
 ---
 date: 2019-09-30 07:13:11-0600
 title: "Super-weird dream"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

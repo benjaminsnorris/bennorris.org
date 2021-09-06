@@ -1,7 +1,9 @@
 ---
 date: 2019-01-10 18:30:48-0700
 title: "Same plate"
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 short: true
 ---
 

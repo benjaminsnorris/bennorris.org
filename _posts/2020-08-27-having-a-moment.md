@@ -1,7 +1,9 @@
 ---
 title: "😂 Having a moment"
 date: 2020-08-27 09:29:00-0600
-category: Kid Quotes
+category: General
+tags:
+- kid quotes
 excerpt_separator: "<!--more-->"
 ---
 
