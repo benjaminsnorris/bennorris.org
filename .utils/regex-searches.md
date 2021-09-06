@@ -67,3 +67,19 @@ date: 2020-05-06 03:02:47-0000
 
 #### Replace
 $1XX XX$4-0700
+
+
+## Blog links
+
+### Example
+<a href="http://www.bennorris.blog/2012/02/08/humancomputer-interaction-part.html">
+href="https://www.bennorris.blog/2012/04/05/lds-general-conference.html"
+[Day one](https://www.bennorris.blog/2020/11/20/today-i-am.html)
+The start of a new year has traditionally been a time I look forward to and enjoy greatly. In the past, I used to set all manner of detailed goals for the new year. For the past couple of years, I have taken an entirely new approach. My [2019 goals](https://www.bennorris.blog/2019/01/01/my-goals.html) were to **be intentional**, **be present** and **be curious**. My [2020 goals](https://www.bennorris.blog/2020/01/01/my-goals.html) were to **make more mistakes**, and **carry less to give more**.
+
+### Regex
+#### Find
+(http|https)://www\.bennorris\.blog(.+?)\.html
+
+#### Replace
+https://bennorris.org$2
