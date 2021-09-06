@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the Saturday afternoon session of General Conference. Feel the peace that can only come from the Prince of Peace.
 
-![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-2-sat-pm-sketchnote.jpg){:loading="lazy"}
+![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-sat-pm-sketchnote.jpg){:loading="lazy"}

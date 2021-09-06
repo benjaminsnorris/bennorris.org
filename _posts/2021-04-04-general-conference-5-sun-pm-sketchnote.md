@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the final Sunday afternoon session of General Conference. God is eager to bless us, His children.
 
-![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-5-sun-pm-sketchnote.jpg){:loading="lazy"}
+![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-sun-pm-sketchnote.jpg){:loading="lazy"}

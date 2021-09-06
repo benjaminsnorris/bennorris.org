@@ -9,7 +9,7 @@ category: Gospel Sketcher
 
 ![Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/7eda015c96.jpg){:loading="lazy"}
 
-[PDF of all sessions (6 MB)](https://media.bennorris.org/images/gospelsketcher/uploads/2020/c1688f0e86.pdf)
+[PDF of all sessions (6 MB)](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/apr-2020-general-conference-sketchnotes.pdf)
 
 ## Saturday morning session
 

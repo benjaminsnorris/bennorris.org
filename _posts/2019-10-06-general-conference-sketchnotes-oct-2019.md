@@ -7,7 +7,7 @@ tags:
 category: Gospel Sketcher
 ---
 
-Download [PDF of all sessions (3 MB)](https://media.bennorris.org/images/gospelsketcher/uploads/2020/5cae2ed60d.pdf)
+Download [PDF of all sessions (3 MB)](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/oct-2019-general-conference-sketchnotes.pdf)
 
 ## Saturday morning session
 

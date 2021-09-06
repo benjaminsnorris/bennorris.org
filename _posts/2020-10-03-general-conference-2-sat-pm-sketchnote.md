@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Oct 2020 Sat PM General Conference Sketchnote"
 date: 2020-10-03 16:01:35-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the Saturday afternoon session of General Conference. God is truly in charge, and nothing comes as a surprise to Him.
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/5710f6e4a1.jpg){:loading="lazy"}
+![Saturday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2020/general-conference-sat-pm-sketchnote.jpg){:loading="lazy"}

@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the Easter Sunday morning session of General Conference. An international celebration of the Savior and His resurrection which blesses us all.
 
-![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-4-sun-am-sketchnote.jpg){:loading="lazy"}
+![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-sun-am-sketchnote.jpg){:loading="lazy"}
