@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Russell M. Nelson sketchnote"
 date: 2017-08-30 05:57:12-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 We need to come to know the Savior better to have His power in our lives. #Sketchnotes from Russell M. Nelson in Apr 17 #LDSConf ✍🏼⛪️
 
-![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2018/a5e3fc4adf.jpg){:loading="lazy"}
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-nelson-sketchnote.jpg){:loading="lazy"}
