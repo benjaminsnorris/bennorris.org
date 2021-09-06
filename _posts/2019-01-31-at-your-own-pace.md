@@ -13,5 +13,5 @@ I share my thoughts from time spent at the rec center, and how those can be appl
 
 [Being the worst](https://www.bennorris.org/2019/01/31/being-the-worst.html)
 
-<audio controls="controls" src="https://www.bennorris.blog/uploads/2019/79aff62720.mp3" />
+<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/79aff62720.mp3" />
 

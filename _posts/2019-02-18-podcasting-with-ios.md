@@ -21,5 +21,5 @@ A discussion of the tools I have tried and the system I am using now to record, 
 
 [🎙 3: Intro Music microcast episode](https://www.bennorris.org/2019/02/04/intro-music.html)
 
-<audio controls="controls" src="https://www.bennorris.blog/uploads/2019/cfc9892f7e.mp3" />
+<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/cfc9892f7e.mp3" />
 

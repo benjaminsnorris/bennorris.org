@@ -15,4 +15,4 @@ Wife: “Well, it was going to be a frog.”
 
 😂
 
-<img src="https://www.bennorris.blog/uploads/2021/809d49b59f.jpg"/>
+<img src="https://media.bennorris.org/images/bennorris/uploads/2021/809d49b59f.jpg"/>

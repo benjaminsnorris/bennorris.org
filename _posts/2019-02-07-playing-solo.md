@@ -15,5 +15,5 @@ My experience playing racquetball by myself, and the surprising effect that I fo
 
 [Rematch](https://www.bennorris.org/2019/02/04/rematch.html)
 
-<audio controls="controls" src="https://www.bennorris.blog/uploads/2019/c47487fa5e.mp3" />
+<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/c47487fa5e.mp3" />
 

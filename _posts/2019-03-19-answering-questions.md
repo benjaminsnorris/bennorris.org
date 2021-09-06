@@ -21,5 +21,5 @@ An exploration of the phenomenon of considering a topic for the purpose of answe
 
 [Black and white thinking (Splitting)](https://en.m.wikipedia.org/wiki/Splitting_(psychology))
 
-<audio controls="controls" src="https://www.bennorris.blog/uploads/2019/94ee45458f.mp3" />
+<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/94ee45458f.mp3" />
 

@@ -6,7 +6,7 @@ category: General
 
 This last week has been a great experience to take the challenge to [#GiveThanks](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude) every day leading up to Thanksgiving. Gratitude lifts and heals.
 
-![How to feel the healing power of gratitude](https://www.bennorris.blog/uploads/2020/31ea165a7c.jpg){:loading="lazy"}
+![How to feel the healing power of gratitude](https://media.bennorris.org/images/bennorris/uploads/2020/31ea165a7c.jpg){:loading="lazy"}
 ### [Day one](https://www.bennorris.org/2020/11/20/today-i-am.html)
 
 > Today, I am grateful to have found a therapist that is the right fit. It makes all the difference. [#GiveThanks](https://www.churchofjesuschrist.org/inspiration/the-story-behind-my-global-prayer-of-gratitude)

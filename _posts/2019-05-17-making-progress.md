@@ -17,5 +17,5 @@ A special episode recorded as part of my OCD treatment. Thoughts on my experienc
 
 [Who is Fernando](https://www.bennorris.org/2019/03/26/what-intrusive-thoughts.html)
 
-<audio controls="controls" src="https://www.bennorris.blog/uploads/2019/15ef6837ed.mp3" />
+<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/15ef6837ed.mp3" />
 

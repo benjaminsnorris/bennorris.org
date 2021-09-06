@@ -12,11 +12,11 @@ Watching our new puppy sleep has helped me remember that sometimes people don’
 
 Our puppy seems to alternate between two modes—unbridled energy or complete lethargy. My daughter has been doing a great job of taking him out regularly and making sure that he gets the exercise that he needs, as well as ample opportunity to do his business outside. I have often come upstairs and found him asleep on the hardwood floor.
 
-![Sleeping on the floor](https://www.bennorris.blog/uploads/2019/2e9622d447.jpg){:loading="lazy"}
+![Sleeping on the floor](https://media.bennorris.org/images/bennorris/uploads/2019/2e9622d447.jpg){:loading="lazy"}
 
 At first, this would bother me somewhat. I would feel some amount of guilt that I was making the dog sleep on something so uncomfortable when I had better options available. However, we got him a bed and put it right in the spot where he usually rests. A wider version of the same picture shows how close he is to the bed, even as he is sleeping on the floor.
 
-![Sleeping next to the bed](https://www.bennorris.blog/uploads/2019/7797eea4cd.jpg){:loading="lazy"}
+![Sleeping next to the bed](https://media.bennorris.org/images/bennorris/uploads/2019/7797eea4cd.jpg){:loading="lazy"}
 
 I realized that I can’t force him to be more comfortable, and don’t need to take that on. If I have provided the environment, I need to step back and allow him to make his own decision. Not only does he not need the help I want to give, he doesn’t even want it. He has made his choice and I need to respect that.
 

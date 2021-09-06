@@ -6,7 +6,7 @@ tags:
 category: General
 ---
 
-![Spending trust](https://www.bennorris.blog/uploads/2020/3ef59003d5.jpg)
+![Spending trust](https://media.bennorris.org/images/bennorris/uploads/2020/3ef59003d5.jpg)
 
 As a leader, your most important commodity is **trust**. Every action you take, every word you say, every success you notice or ignore affects the trust others have in you.
 

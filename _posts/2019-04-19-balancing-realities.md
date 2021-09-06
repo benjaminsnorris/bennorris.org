@@ -6,7 +6,7 @@ tags:
 category: Mental Work Health
 ---
 
-![Opposing thoughts](https://www.bennorris.blog/uploads/2019/0c722b06c1.png){:loading="lazy"}
+![Opposing thoughts](https://media.bennorris.org/images/bennorris/uploads/2019/0c722b06c1.png){:loading="lazy"}
 
 A central tenet of dialectical behavioral therapy became my reality recently; I was able to embrace two apparently contradictory realities.
 

@@ -7,7 +7,7 @@ tags:
 category: General
 ---
 
-![Mindful days](https://www.bennorris.blog/uploads/2019/cd385d0bc1.jpg){:loading="lazy"}
+![Mindful days](https://media.bennorris.org/images/bennorris/uploads/2019/cd385d0bc1.jpg){:loading="lazy"}
 
 The Calm app impressed me this weekend when I broke my streak.
 

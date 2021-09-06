@@ -7,7 +7,7 @@ tags:
 category: General
 ---
 
-![Writing](https://www.bennorris.blog/uploads/2019/ad48119cbb.png){:loading="lazy"}
+![Writing](https://media.bennorris.org/images/bennorris/uploads/2019/ad48119cbb.png){:loading="lazy"}
 
 A few thoughts on the process and effects of writing my first series, [“What mental illness feels like.”](https://www.bennorris.org/2019/03/18/what-mental-illness.html)
 

@@ -6,7 +6,7 @@ tags:
 category: General
 ---
 
-![Book review](https://www.bennorris.blog/uploads/2019/51b8bcd80b.png){:loading="lazy"}
+![Book review](https://media.bennorris.org/images/bennorris/uploads/2019/51b8bcd80b.png){:loading="lazy"}
 
 An exploration of a template I am creating for reviews of books I read.
 

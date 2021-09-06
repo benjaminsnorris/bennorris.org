@@ -10,4 +10,4 @@ I attended a parenting class taught by Kathy Andrizzi on January 27, 2012, and h
 
 I captured the event with sketchnotes and am including them here.
 
-[![Parenting Class Sketchnotes](https://www.bennorris.blog/uploads/2019/b9ed543fb9.jpg "Parenting Class Sketchnotes")](https://www.bennorris.blog/uploads/2019/b9ed543fb9.jpg)
+[![Parenting Class Sketchnotes](https://media.bennorris.org/images/bennorris/uploads/2019/b9ed543fb9.jpg "Parenting Class Sketchnotes")](https://media.bennorris.org/images/bennorris/uploads/2019/b9ed543fb9.jpg)

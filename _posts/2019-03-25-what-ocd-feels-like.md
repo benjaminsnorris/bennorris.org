@@ -6,7 +6,7 @@ tags:
 category: Mental Work Health
 ---
 
-![Drums](https://www.bennorris.blog/uploads/2019/5d997d840f.jpg){:loading="lazy"}
+![Drums](https://media.bennorris.org/images/bennorris/uploads/2019/5d997d840f.jpg){:loading="lazy"}
 
 Dealing with OCD is similar to how I imagine the Master’s experience in Dr. Who. The sound of drums is always present, although they may be soft at times and deafening at others.
 
@@ -20,7 +20,7 @@ In many ways, [obsessive-compulsive disorder](https://iocdf.org/about-ocd/) is t
 
 A recent example serves as a good illustration of how I view my OCD, and the effect it has on me. A couple months ago, I wrote [“Splurging on Patagonia gear”](https://www.bennorris.org/2019/02/09/splurging-on-patagonia.html), in which I described my experience revamping my wardrobe. Part of the impetus of that change was considering traveling and wanting to be able to travel even lighter. I took a trip with my brother down to Mexico, and packed everything in a [21L backpack from Minaal](https://www.minaal.com/products/daily-bag), which I loved. But while I was there, I wished at times to have a larger bag to just throw things in as I changed rooms, or to transport without packing everything carefully. I found a bag online that looked like the ideal fit for me: the [Patagonia Lightweight Black Hole® Duffel 30L](https://www.patagonia.com/product/lightweight-black-hole-duffel-bag-30-liters/49070.html).
 
-![Patagonia duffel bag](https://www.bennorris.blog/uploads/2019/debe6dc5cb.jpg){:loading="lazy"}
+![Patagonia duffel bag](https://media.bennorris.org/images/bennorris/uploads/2019/debe6dc5cb.jpg){:loading="lazy"}
 
 I have a real weakness for bags in general, and especially bags that can become small and pack in on themselves. This seemed perfect because it could be extremely small, even to where I thought I could fit it in my backpack when it was collapsed.
 

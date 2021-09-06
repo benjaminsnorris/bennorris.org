@@ -14,7 +14,7 @@ I had created a sample project for my presentation last month, but lost the proj
 
 And just in case you would like to download the slides for reference, here is a link to the PDF:
 
-[UI TDD Presentation (5 MB)](https://www.bennorris.blog/uploads/2019/7140e68aef.pdf)
+[UI TDD Presentation (5 MB)](https://media.bennorris.org/images/bennorris/uploads/2019/7140e68aef.pdf)
 
 And you can view a recording of the presentation here:
 
