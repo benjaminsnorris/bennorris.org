@@ -4,6 +4,7 @@ excerpt: Sketchnotes from the keynote of WWDC 2017
 read_time:      false
 category: Sketchnotable
 tags:
+- wwdc
 - sketchnotes
 - sketchnote collection
 date: 2017-06-05 13:18:02-0800

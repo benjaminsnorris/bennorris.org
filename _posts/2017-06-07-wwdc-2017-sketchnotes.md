@@ -2,6 +2,7 @@
 title: "WWDC 2017 Sketchnotes"
 date: 2017-06-07 13:18:18-0600
 tags:
+- wwdc
 - sketchnotes
 - sketchnote collection
 category: Sketchnotable
@@ -11,20 +12,20 @@ This year, I had the opportunity to attend WWDC in person. I went for the first 
 
 ### Keynote
 
-[![Wwdc 2017 keynote sketchnotes 01](/uploads/2018/e58097dc80.jpg)](/uploads/2018/e58097dc80.jpg)
+[![Wwdc 2017 keynote sketchnotes 01](https://media.bennorris.org/images/sketchnotable/uploads/2018/e58097dc80.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/e58097dc80.jpg)
 
-[![Wwdc 2017 keynote sketchnotes 02](/uploads/2018/9fadb9503a.jpg)](/uploads/2018/9fadb9503a.jpg)
+[![Wwdc 2017 keynote sketchnotes 02](https://media.bennorris.org/images/sketchnotable/uploads/2018/9fadb9503a.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/9fadb9503a.jpg)
 
-[![Wwdc 2017 keynote sketchnotes 03](/uploads/2018/2fb70b1474.jpg)](/uploads/2018/2fb70b1474.jpg)
+[![Wwdc 2017 keynote sketchnotes 03](https://media.bennorris.org/images/sketchnotable/uploads/2018/2fb70b1474.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/2fb70b1474.jpg)
 
-[![Wwdc 2017 keynote sketchnotes 04](/uploads/2018/eb9f49987b.jpg)](/uploads/2018/eb9f49987b.jpg)
+[![Wwdc 2017 keynote sketchnotes 04](https://media.bennorris.org/images/sketchnotable/uploads/2018/eb9f49987b.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/eb9f49987b.jpg)
 
 
 ### Michelle Obama Event
 
-[![Wwdc 2017 michelle obama sketchnotes](/uploads/2018/562296867c.jpg)](/uploads/2018/562296867c.jpg)
+[![Wwdc 2017 michelle obama sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/562296867c.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/562296867c.jpg)
 
 
 ### The Talk Show Live
 
-[![Wwdc 2017 talk show sketchnotes](/uploads/2018/790abf0c6c.jpg)](/uploads/2018/790abf0c6c.jpg)
+[![Wwdc 2017 talk show sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/790abf0c6c.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/790abf0c6c.jpg)
