@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Gary B Sabin sketchnote"
 date: 2017-09-13 05:43:20-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 We must stand up inside and be all in to make it. #Sketchnotes from Gary B. Sabin at Apr 17 #LDSConf ✍🏼⛪️
 
-![General Conference sketchnotes](https://mormonsketcher.com/uploads/2018/cf99e9d826.jpg){:loading="lazy"}
+![General Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-sabin-sketchnote.jpg){:loading="lazy"}

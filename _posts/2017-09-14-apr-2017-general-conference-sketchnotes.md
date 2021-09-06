@@ -1,7 +1,9 @@
 ---
 title: "Apr 2017 General Conference Sketchnotes"
+read_time: false
 date: 2017-09-14 06:29:19-0600
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher
