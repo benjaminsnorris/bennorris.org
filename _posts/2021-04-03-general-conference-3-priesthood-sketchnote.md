@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the Priesthood session of General Conference. Among the losses, think of what you have learned the last two years you want to never forget.
 
-![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/uploads/2021/3556e2cc18.jpg)
+![General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-3-priesthood-sketchnote.jpg){:loading="lazy"}
