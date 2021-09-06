@@ -12,7 +12,7 @@ In this week’s update, I discuss a **purple monkey birthday party**, a **magic
 
 ***
 
-The start of a new year has traditionally been a time I look forward to and enjoy greatly. In the past, I used to set all manner of detailed goals for the new year. For the past couple of years, I have taken an entirely new approach. My [2019 goals](https://www.bennorris.blog/2019/01/01/my-goals.html) were to **be intentional**, **be present** and **be curious**. My [2020 goals](https://www.bennorris.blog/2020/01/01/my-goals.html) were to **make more mistakes**, and **carry less to give more**.
+The start of a new year has traditionally been a time I look forward to and enjoy greatly. In the past, I used to set all manner of detailed goals for the new year. For the past couple of years, I have taken an entirely new approach. My [2019 goals](https://bennorris.org/2019/01/01/my-goals) were to **be intentional**, **be present** and **be curious**. My [2020 goals](https://bennorris.org/2020/01/01/my-goals) were to **make more mistakes**, and **carry less to give more**.
 
 I bring this up partly to encourage myself to decide on my goals for 2021. I think it is a useful activity, and can be an exercise in self compassion. Whatever your goals might be, and whether you set new ones at the beginning of the year, I send you encouragement. May we be kind with ourselves as we strive to become better.
 

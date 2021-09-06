@@ -55,7 +55,7 @@ But I have since learned that there is great truth in that statement. The OCD th
 
 ## Something else
 
-We’ve been discussing meetings lately at work, and what we can do to make them more infrequent and better uses of time when they do occur. This is something I feel strongly about, as I [wrote about recently](https://www.bennorris.blog/2021/03/18/holding-fewer-meetings.html).
+We’ve been discussing meetings lately at work, and what we can do to make them more infrequent and better uses of time when they do occur. This is something I feel strongly about, as I [wrote about recently](https://bennorris.org/2021/03/18/holding-fewer-meetings).
 
 One of the principles we were discussing was to keep anything personal or political out of our meetings. I understood the intent behind this, but disagreed with the phrasing. I think we do ourselves a huge disservice to try to separate our personal and business lives completely, to be someone else at work. We will do our best work if we bring our full selves and share that with others. If we drive out humanity and vulnerability from our work, or from our meetings, everything will suffer. We will operate in a shallow pool, never able to make meaningful connections with those around us.
 
