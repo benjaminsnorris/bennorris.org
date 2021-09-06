@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Sharon G. Eubank sketchnote"
 date: 2019-04-07 15:00:00-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 Sketchnotes from Sharon G. Eubank at General Conference. This came like a love note from God to me today.
 
-![Sharon G. Eubank sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/699d99e967.jpg){:loading="lazy"}
+![Sharon G. Eubank sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-eubank-sketchnote.jpg){:loading="lazy"}

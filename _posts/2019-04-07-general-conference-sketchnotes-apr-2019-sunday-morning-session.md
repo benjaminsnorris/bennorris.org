@@ -1,27 +1,27 @@
 ---
 title: "General Conference Sketchnotes Apr 2019 Sunday Morning Session"
 date: 2019-04-07 15:41:28-0600
+read_time: false
 tags:
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher
 ---
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/dab482e5cb.jpg)
+![Dale G. Renlund sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-renlund-sketchnote.jpg){:loading="lazy"}
 _Dale G. Renlund—Abound with Blessings_
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/699d99e967.jpg)
+![Sharon G. Eubank sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-eubank-sketchnote.jpg){:loading="lazy"}
 _Sharon Eubank—Christ: The Light That Shines in Darkness_
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/63e58a7348.jpg)
+![Quentin L. Cook sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-cook-sketchnote.jpg){:loading="lazy"}
 _Quentin L. Cook—Great Love for Our Father’s Children_
 
-![General Conference Sketchnotes](
-https://media.bennorris.org/images/gospelsketcher/uploads/2019/3aafb6d677.jpg)
-_D. TLodd Christofferson—Preparing for the Lord’s Return_
+![D. Todd Christofferson sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-christofferson-sketchnote.jpg){:loading="lazy"}
+_D. Todd Christofferson—Preparing for the Lord’s Return_
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/adacc71def.jpg)
+![Tad R. Callister sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-callister-sketchnotes.jpg){:loading="lazy"}
 _Tad R. Callister—The Atonement of Jesus Christ_
 
-![General Conference Sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2019/0a5fd1de93.jpg)
+![Russell M. Nelson sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-nelson-sketchnote.jpg){:loading="lazy"}
 _Russell M. Nelson—“Come, Follow Me”_
