@@ -12,4 +12,4 @@ In a continued break from my ongoing series on [my story discovering mental heal
 
 I have strong opinions on the merits of supporting remote work. It is certainly not for everyone. But I believe it can provide some of the best benefits for our psychological safety and mental health. The heart of the issue is trust, and when we feel trusted, we are able to relax and just work instead of experiencing fear and uncertainty.
 
-I hope you enjoy: [Remote work thoughts](https://www.bennorris.org/2020/05/12/remote-work-thoughts.html).
+I hope you enjoy: [Remote work thoughts](https://www.bennorris.org/2020/05/12/remote-work-thoughts).

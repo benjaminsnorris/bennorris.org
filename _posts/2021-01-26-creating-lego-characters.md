@@ -34,7 +34,7 @@ One of my favorite things to do is public speaking. Part of what I love so much 
 
 Over the past week, I was asked to prepare a presentation with my thoughts on communication. I wanted to explore the process of creating the presentation.
 
-I have written previously on my personal blog ([bennorris.blog/remote](https://bennorris.blog/remote)) about my perspective on remote working. In that post, I explored a lot of my thoughts on communication, but that wasn’t the focus of the article. As I approached this presentation, I thought I would start by writing out my thoughts. I have found that writing has a way of crystallizing what I am thinking.
+I have written previously on my [personal blog](https://www.bennorris.org/2020/05/12/remote-work-thoughts) about my perspective on remote working. In that post, I explored a lot of my thoughts on communication, but that wasn’t the focus of the article. As I approached this presentation, I thought I would start by writing out my thoughts. I have found that writing has a way of crystallizing what I am thinking.
 
 After writing out my thoughts, I dove into creating the actual presentation. Part of the reason I decided to discuss this in my update this week was the level of work I engaged in. It certainly bordered on obsession. What I have found though, is that OCD truly is a gift and a curse. There are so many parts that make life difficult and painful, but there are also beautiful golden moments when I am able to harness an ability to focus deeply on something to create something of which I can be really proud.
 
@@ -45,7 +45,7 @@ As I started the actual presentation, I decided that I wanted to use LEGO figure
 
 ## Something else
 
-Finally, I wanted to share just a bit about my thoughts on communication, and especially how it relates to mental health in the workplace. If you are interested, you can read the entire essay I wrote on communication at [bennorris.blog/communication](https://bennorris.blog/communication).
+Finally, I wanted to share just a bit about my thoughts on communication, and especially how it relates to mental health in the workplace. If you are interested, you can read the entire essay I wrote on communication at [bennorris.org/communication](https://bennorris.org/2021/01/21/communication-synchronicity).
 
 > **tl;dr**  
 > Default to asynchronous communication to honor others as people, improve critical thinking, and increase productivity.
