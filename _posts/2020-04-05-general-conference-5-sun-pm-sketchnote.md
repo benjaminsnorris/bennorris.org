@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Apr 2020 Sun PM General Conference Sketchnote"
 date: 2020-04-05 16:09:05-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 Synopsis sketchnotes from the Sunday afternoon session of [General Conference](http://www.churchofjesuschrist.org/general-conference?lang=eng). As we work to remember the Savior and HEAR HIM, we can be guided by continuing revelation.
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2020/9db3ac10af.jpg" width="600" height="600" alt="" />
+![Sunday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sun-pm-sketchnote.jpg){:loading="lazy"}

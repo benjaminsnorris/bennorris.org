@@ -1,32 +1,38 @@
 ---
 title: "General Conference Sketchnotes Apr 2020"
 date: 2020-04-05 16:43:11-0600
+image:
+  path: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sketchnotes-header.jpg
+  thumbnail: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sketchnotes-header.jpg
+read_time: false
 tags:
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher
 ---
 
-![Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/7eda015c96.jpg){:loading="lazy"}
+Synopsis sketchnotes from all sessions of April 2020 General Conference.
+
+![Conference sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sketchnote.jpg){:loading="lazy"}
 
 [PDF of all sessions (6 MB)](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/apr-2020-general-conference-sketchnotes.pdf)
 
 ## Saturday morning session
 
-![Saturday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/b91c9c98fa.jpg){:loading="lazy"}
+![Saturday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sat-am-sketchnote.jpg){:loading="lazy"}
 
 ## Saturday afternoon session
 
-![Saturday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/4df60df9d8.jpg){:loading="lazy"}
+![Saturday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sat-pm-sketchnote.jpg){:loading="lazy"}
 
 ## Saturday evening session
 
-![Saturday evening sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/1d9d59406f.jpg){:loading="lazy"}
+![Saturday evening sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sat-eve-sketchnote.jpg){:loading="lazy"}
 
 ## Sunday morning session
 
-![Sunday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/4e88271de5.jpg){:loading="lazy"}
+![Sunday morning sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sun-am-sketchnote.jpg){:loading="lazy"}
 
 ## Sunday afternoon session
 
-![Sunday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/uploads/2020/9db3ac10af.jpg){:loading="lazy"}
+![Sunday afternoon sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sun-pm-sketchnote.jpg){:loading="lazy"}

@@ -1,5 +1,6 @@
 ---
-micro: true
+short: true
+title: "Apr 2020 Sat Evening General Conference Sketchnote"
 date: 2020-04-04 19:55:00-0600
 tags:
 - general conference
@@ -9,4 +10,4 @@ category: Gospel Sketcher
 
 Session synopsis sketchnotes of Saturday evening from [General Conference](http://www.churchofjesuschrist.org/general-conference?lang=eng). Priesthood authority from God is critical to returning back to Him.
 
-<img src="https://media.bennorris.org/images/gospelsketcher/uploads/2020/1d9d59406f.jpg" width="600" height="600" alt="" />
+![Saturday evening sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sat-eve-sketchnote.jpg){:loading="lazy"}
