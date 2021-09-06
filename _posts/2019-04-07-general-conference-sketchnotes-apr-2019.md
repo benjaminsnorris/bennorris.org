@@ -3,6 +3,7 @@ title: "General Conference Sketchnotes Apr 2019"
 read_time: false
 date: 2019-04-07 16:43:12-0600
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher

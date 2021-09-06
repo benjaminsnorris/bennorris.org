@@ -2,6 +2,7 @@
 title: "Apr 2017 General Conference Priesthood Session Sketchnotes"
 date: 2017-04-01 18:54:23-0600
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher

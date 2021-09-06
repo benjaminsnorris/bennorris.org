@@ -3,6 +3,7 @@ title: "Oct 2017 General Conference Sketchnotes"
 read_time: false
 date: 2017-10-01 19:18:41-0600
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher

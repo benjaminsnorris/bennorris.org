@@ -3,6 +3,7 @@ title: "General Conference Sketchnotes Oct 2019"
 date: 2019-10-06 16:20:00-0600
 read_time: false
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher

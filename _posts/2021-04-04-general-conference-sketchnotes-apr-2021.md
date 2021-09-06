@@ -3,6 +3,7 @@ title: "General Conference Sketchnotes Apr 2021"
 date: 2021-04-04 17:26:33-0600
 read_time: false
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher

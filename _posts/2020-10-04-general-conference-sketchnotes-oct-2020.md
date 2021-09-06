@@ -3,6 +3,7 @@ title: "General Conference Sketchnotes Oct 2020"
 date: 2020-10-04 20:06:07-0600
 read_time: false
 tags:
+- general conference
 - sketchnotes
 - sketchnote collection
 category: Gospel Sketcher
