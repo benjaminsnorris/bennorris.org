@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% include page-intro.html %}
+
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner full">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        {{ content }}
+
+        {% assign category_posts = site.categories[page.taxonomy] %}
+        {% include posts-image-gallery.html posts=category_posts %}
+      </div>
+    </article>
+  </div>
+</main>

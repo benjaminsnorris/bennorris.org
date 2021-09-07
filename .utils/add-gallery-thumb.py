@@ -4,7 +4,7 @@ import re
 def adjustFiles(directory):
     counter = 0
     for file in os.scandir(directory):
-        if counter > 10:
+        if counter > 25:
             return
         if file.is_file():
             adjustFile(file)

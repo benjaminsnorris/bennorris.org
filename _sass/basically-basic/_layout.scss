@@ -58,6 +58,10 @@ main {
 
 .inner {
   max-width: $large;
+
+  &.full {
+    max-width: 100%;
+  }
 }
 
 .gallery-grid {
