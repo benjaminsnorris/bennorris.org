@@ -56,7 +56,7 @@ _Sarah Hatter: How to improve at support as a developer_
 ![Release Notes 10](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-10.jpg){:loading="lazy"}
 _Jaimee Newberry: The art of the sell_
 
-![Release Notes 11](https://media.bennorris.org/images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-11.jpg){:loading="lazy"}
+![Release Notes 11](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-11.jpg){:loading="lazy"}
 _Litha Soyizwapi: A long walk to app development_
 
 ![Release Notes 12](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-12.jpg){:loading="lazy"}
