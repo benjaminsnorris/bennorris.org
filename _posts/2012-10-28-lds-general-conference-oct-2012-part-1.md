@@ -1,6 +1,8 @@
 ---
 title: "LDS General Conference Oct 2012 Part 1"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2021/d0df9c98c7.jpg
+gallery_thumb:
+- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am-00.jpg
+- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am.jpg
 date: 2012-10-28 21:08:38-0600
 read_time: false
 category: Gospel Sketcher
@@ -16,6 +18,6 @@ The answer to my dilemma also came from my experience last conference. Because I
 
 So this is the Saturday morning session; the first in a five-part series as I capture each session and post it here. Hope you enjoy it!
 
-![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/d0df9c98c7.jpg){:loading="lazy"}
+![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am-00.jpg){:loading="lazy"}
 
-![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/06555d8352.jpg){:loading="lazy"}
+![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am.jpg){:loading="lazy"}

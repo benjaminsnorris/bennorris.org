@@ -1,9 +1,9 @@
 ---
 title: "LDS Tech Conference 2012"
 gallery_thumb: 
-- https://media.bennorris.org/images/gospelsketcher/uploads/2021/821c15abc0.jpg
-- https://media.bennorris.org/images/gospelsketcher/uploads/2021/6bd0bafdda.jpg
-- https://media.bennorris.org/images/gospelsketcher/uploads/2021/d83c705676.jpg
+- https://media.bennorris.org/images/gospelsketcher/general/lds-tech-01.jpg
+- https://media.bennorris.org/images/gospelsketcher/general/lds-tech-02.jpg
+- https://media.bennorris.org/images/gospelsketcher/general/lds-tech-03.jpg
 date: 2012-05-30 21:14:43-0600
 read_time: false
 category: Gospel Sketcher
@@ -18,8 +18,8 @@ I attended this year for the first time and was richly rewarded. The conference 
 
 Included here are my sketchnotes from the event.
 
-![LDS Tech 2012 Sketchnotes 1](https://media.bennorris.org/images/gospelsketcher/uploads/2021/821c15abc0.jpg){:loading="lazy"}
+![LDS Tech 2012 Sketchnotes 1](https://media.bennorris.org/images/gospelsketcher/general/lds-tech-01.jpg){:loading="lazy"}
 
-![LDS Tech 2012 Sketchnotes 2](https://media.bennorris.org/images/gospelsketcher/uploads/2021/6bd0bafdda.jpg){:loading="lazy"}
+![LDS Tech 2012 Sketchnotes 2](https://media.bennorris.org/images/gospelsketcher/general/lds-tech-02.jpg){:loading="lazy"}
 
-![LDS Tech 2012 Sketchnotes 3](https://media.bennorris.org/images/gospelsketcher/uploads/2021/d83c705676.jpg){:loading="lazy"}
+![LDS Tech 2012 Sketchnotes 3](https://media.bennorris.org/images/gospelsketcher/general/lds-tech-03.jpg){:loading="lazy"}
