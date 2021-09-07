@@ -2,6 +2,7 @@
 title: "Redesign of Teacher Management Interface"
 date: 2011-12-09 16:02:15-0700
 category: General
+read_time: false
 ---
 
 In my day job, I am a Product Owner and UX Designer for a non-profit educational software company, [Waterford Institute](https://www.waterford.org). In 2010, we tackled an ambitious release of our core educational product. I led a complete redesign of the teacher management interface. Our previous interface had been built over the course of many years, with new features being tacked on wherever possible. We started from the ground up, analyzing the primary jobs that educators needed to perform, and then designing an application to make those jobs quick and simple.

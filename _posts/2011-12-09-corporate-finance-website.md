@@ -2,6 +2,7 @@
 title: "Corporate Finance Website"
 date: 2011-12-09 15:22:00-0700
 category: General
+read_time: false
 ---
 
 A friend of mine wanted to create a website for corporate finance professionals. His idea is revolutionary, and he wanted help creating a design that he could use in pitching his ideas. Included here are some of the screens that I created as part of two options for his evaluation.

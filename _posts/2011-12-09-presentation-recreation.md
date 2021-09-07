@@ -2,6 +2,7 @@
 title: "Presentation Recreation"
 date: 2011-12-09 16:39:10-0700
 category: General
+read_time: false
 ---
 
 ## University of Utah Economics Course

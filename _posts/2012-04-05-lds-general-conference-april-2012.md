@@ -1,7 +1,11 @@
 ---
 title: "LDS General Conference April 2012"
 date: 2012-04-05 20:14:51-0600
-category: General
+category: Gospel Sketcher
+tags:
+- general conference
+- sketchnotes
+- sketchnote collection
 ---
 
 I'm a <a href="http://mormon.org" target="_blank">Mormon</a>. That means so many things, but this last weekend, it meant that I was able to participate in a semi-annual world-wide General Conference. Every April and October, <a href="http://www.lds.org" target="_blank">The Church of Jesus Christ of Latter-Day Saints</a> (the official name of the Mormon church) has five two-hour sessions, spread over Saturday and Sunday. It is a fantastic opportunity for us to come and be instructed further about the doctrine that we believe in, and to take a moment to pause from our hectic lives to concentrate on things that really matter most.

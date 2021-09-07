@@ -4,6 +4,7 @@ date:           2016-06-13 17:30:00-0700
 excerpt:        A summary of my sketchnotes from the keynote and state of the union.
 category:       Sketchnotable
 tags:
+- wwdc
 - sketchnotes
 - sketchnote collection
 read_time:      false

@@ -1,7 +1,12 @@
 ---
 title: "LDS General Conference Oct 2012 Part 1"
 date: 2012-10-28 21:08:38-0600
-category: General
+read_time: false
+category: Gospel Sketcher
+tags:
+- general conference
+- sketchnotes
+- sketchnote collection
 ---
 
 Last April, I <a href="https://bennorris.org/2012/04/05/lds-general-conference" title="LDS General Conference April 2012">posted</a> my sketchnotes from <a href="http://www.lds.org/general-conference/about-general-conference" title="LDS General Conference" target="_blank">LDS General Conference</a> for the first time. This time around, I decided to not sketchnote during the actual conference. I decided that it had the tendency to make me irritable when one of our four young kids would talk to me or interrupt me in some way. I was too stressed about capturing the talks.

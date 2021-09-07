@@ -1,6 +1,7 @@
 ---
 title: "Home Education Convention Sketchnotes"
 date: 2011-11-28 13:02:40-0700
+read_time: false
 category: Gospel Sketcher
 tags:
 - sketchnotes

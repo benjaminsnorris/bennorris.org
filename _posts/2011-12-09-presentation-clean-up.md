@@ -2,6 +2,7 @@
 title: "Presentation Clean Up"
 date: 2011-12-09 16:26:19-0700
 category: General
+read_time: false
 ---
 
 ## University of Utah Economics Course

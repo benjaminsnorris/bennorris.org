@@ -1,7 +1,11 @@
 ---
 title: "LDS Tech Conference 2012"
 date: 2012-05-30 21:14:43-0600
-category: General
+read_time: false
+category: Gospel Sketcher
+tags:
+- sketchnotes
+- sketchnote collection
 ---
 
 Last week, I <a title="LDS General Conference Sketchnotes April 2012" href="https://bennorris.org/2012/04/05/lds-general-conference">posted</a> about how being a <a href="http://mormon.org" target="_blank">Mormon</a> meant that I was able to participate in a semi-annual General Conference. This week, I am posting about how being a Mormon means that I had the chance to participate in a very different conference. Every year for the past three years, <a href="http://www.lds.org/" target="_blank">The Church of Jesus Christ of Latter-Day Saints</a> (the official name of the Mormon church) has held an <a href="http://tech.lds.org/wiki/LDSTech_Conference" target="_blank">LDS Tech Conference</a>. This is a gathering of volunteers who come together to meet with employees to learn about the technology efforts of the LDS Church as well as to contribute to ongoing projects.

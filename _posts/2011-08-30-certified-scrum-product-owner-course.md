@@ -4,6 +4,7 @@ date: 2011-08-30 12:57:48-0600
 tags:
 - sketchnotes
 category: Sketchnotable
+short: true
 ---
 
 I attended my third Certified Scrum Product Owner course 29-30 Aug 2011 in Seattle, Washington. It was actually quite fantastic, and I am extremely glad that I was able to attend.

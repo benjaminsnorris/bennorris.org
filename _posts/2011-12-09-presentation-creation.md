@@ -2,6 +2,7 @@
 title: "Presentation Creation"
 date: 2011-12-09 16:46:29-0700
 category: General
+read_time: false
 ---
 
 ## Neighborhood House Presentation

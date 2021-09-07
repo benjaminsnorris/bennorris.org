@@ -1,6 +1,7 @@
 ---
 title: "Digital Learning Day 2012"
 date: 2012-02-02 06:22:20-0700
+read_time: false
 category: Sketchnotable
 tags:
 - sketchnotes

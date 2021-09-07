@@ -2,6 +2,7 @@
 title: "Hand-Drawn Presentation"
 date: 2011-12-22 06:53:06-0700
 category: General
+read_time: false
 ---
 
 A few months ago, we started adding to our Product Management group at my day job. Previously, I was the only Product Owner, and I was swamped. Many people were confused about how we were going to structure our group and how they would work together with us. I created a presentation to explain how things were before our change, and how we expected them to become with the additions to our group.
