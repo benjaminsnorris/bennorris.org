@@ -8,6 +8,17 @@ tags:
 - sketchnotes
 - sketchnote collection
 read_time:      false
+gallery_thumb:
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-1.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-01.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-02.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-03.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-04.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-05.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-01.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-02.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-03.JPG
+- https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-04.JPG
 ---
 
 WWDC is here again! I was thrilled to have the chance to watch and sketchnote the main events today, and wanted to gather all of my sketchnotes together. Hope you enjoy!
