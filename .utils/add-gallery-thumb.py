@@ -2,14 +2,9 @@ import os
 import re
 
 def adjustFiles(directory):
-    counter = 0
     for file in os.scandir(directory):
-        # if counter > 25:
-            # return
         if file.is_file():
             adjustFile(file)
-            counter = counter + 1
-    print('adjusted',counter,'files', sep=' ')
 
 def adjustFile(file):
     if file.path.__contains__('.DS_Store'):
@@ -23,7 +18,7 @@ def adjustFile(file):
     file_read.close()
 
     # If the post does not contain an image, no need to continue
-    if not search or not contents.__contains__('- sketchnotes'):
+    if not search or not contents.__contains__('inktober'):
         return
 
     image_url = search.group(0)

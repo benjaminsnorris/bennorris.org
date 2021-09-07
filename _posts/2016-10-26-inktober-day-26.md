@@ -1,5 +1,6 @@
 ---
 title:          "Inktober day 26"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-26.jpg
 date:           2016-10-26 19:31:00-0700
 category:       Sketchnotable
 tags:           inktober

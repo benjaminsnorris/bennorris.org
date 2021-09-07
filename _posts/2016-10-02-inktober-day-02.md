@@ -1,4 +1,5 @@
 ---
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-02.jpg
 date:           2016-10-02 13:05:00-0700
 title:          "Inktober day 2"
 category:       Sketchnotable

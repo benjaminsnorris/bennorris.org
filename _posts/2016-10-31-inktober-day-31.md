@@ -1,5 +1,6 @@
 ---
 title:          "Inktober day 31"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-31.jpg
 date:           2016-10-31 20:37:00-0700
 category:       Sketchnotable
 tags:           inktober

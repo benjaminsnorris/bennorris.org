@@ -1,5 +1,6 @@
 ---
 title:          "Inktober day 4"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-04.jpg
 date:           2016-10-04 23:10:00-0700
 category:       Sketchnotable
 tags:           inktober
