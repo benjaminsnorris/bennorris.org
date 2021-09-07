@@ -1,6 +1,19 @@
 ---
 title:          "Release Notes 2016 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-01.jpg
+gallery_thumb: 
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-01.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-02.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-03.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-04.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-05.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-06.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-07.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-08.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-09.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-10.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-11.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-12.jpg
+- https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-13.jpg
 date:           2016-09-29 17:30:00-0700
 excerpt:        A collection of my sketchnotes from the Release Notes 2016 conference
 read_time:      false
@@ -37,13 +50,13 @@ _Matthew Bischoff: Write your way out_
 ![Release Notes 08](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-08.jpg){:loading="lazy"}
 _Ariel Michaeli: Is your app ready to make money?_
 
-![Release Notes 09](https://media.bennorris.orgimages/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-09.jpg){:loading="lazy"}
+![Release Notes 09](https://media.bennorris.org/images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-09.jpg){:loading="lazy"}
 _Sarah Hatter: How to improve at support as a developer_
 
 ![Release Notes 10](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-10.jpg){:loading="lazy"}
 _Jaimee Newberry: The art of the sell_
 
-![Release Notes 11](https://media.bennorris.orgimages/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-11.jpg){:loading="lazy"}
+![Release Notes 11](https://media.bennorris.org/images/sketchnotes/release-notes-2016/release-notes-2016-sketchnote-11.jpg){:loading="lazy"}
 _Litha Soyizwapi: A long walk to app development_
 
 ![Release Notes 12](https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-12.jpg){:loading="lazy"}

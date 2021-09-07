@@ -1,6 +1,9 @@
 ---
 title:          "UHEA 2016 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-science.jpg
+gallery_thumb: 
+- https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-science.jpg
+- https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-motivation.jpg
+- https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-passion.jpg
 date:           2016-06-11 17:30:00-0700
 excerpt:        Sketchnotes from a few talks at the Utah Home Education Association convention.
 category:
@@ -15,6 +18,6 @@ For the second time, I was invited to present on sketchnotes at the [UHEA Conven
 
 ![Science](https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-science.jpg){:loading="lazy"}
 
-![Science](https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-motivation.jpg){:loading="lazy"}
+![Motivation](https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-motivation.jpg){:loading="lazy"}
 
-![Science](https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-passion.jpg){:loading="lazy"}
+![Passion](https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-passion.jpg){:loading="lazy"}
