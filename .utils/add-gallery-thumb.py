@@ -18,7 +18,7 @@ def adjustFile(file):
     file_read.close()
 
     # If the post does not contain an image, no need to continue
-    if not search or not contents.__contains__('inktober'):
+    if not search or not contents.__contains__('- sketchnotes'):
         return
 
     image_url = search.group(0)
