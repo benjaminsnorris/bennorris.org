@@ -17,4 +17,4 @@ I was not able to complete all of the sketchnotes for this conference before the
 
 [Saturday Afternoon Session](https://bennorris.org/2017/09/14/apr-2017-general-conference-saturday-afternoon-session-sketchnotes/)
 
-[Priesthood Session](https://bennorris.org/2017/04/02/apr-2017-general-conference-priesthood-session-sketchnotes/)
+[Priesthood Session](https://bennorris.org/2017/04/01/apr-2017-general-conference-priesthood-session-sketchnotes/)
