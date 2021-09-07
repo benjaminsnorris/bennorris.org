@@ -1,6 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Saturday Afternoon Session Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-16-2-cook.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-16-2-cook.jpg
 date:           2016-12-05 07:15:00-0700
 excerpt:        Sketchnotes of all talks in the Saturday afternoon session from Oct 2016 LDS General Conference
 read_time:      false

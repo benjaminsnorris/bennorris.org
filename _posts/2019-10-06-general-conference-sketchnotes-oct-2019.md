@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Oct 2019"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2019/oct-19-1-sat-am.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-19-1-sat-am.jpg
 date: 2019-10-06 16:20:00-0600
 read_time: false
 tags:

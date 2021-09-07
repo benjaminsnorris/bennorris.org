@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Oct 2020"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2020/oct-20-intro.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-20-intro.jpg
 date: 2020-10-04 20:06:07-0600
 read_time: false
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Apr 2016 General Conference Women's Session Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2016/apr-16-0-esplin.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-16-0-esplin.jpg
 date: 2017-02-03 06:30:01-0700
 tags:
 - general conference

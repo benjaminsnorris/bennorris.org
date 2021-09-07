@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Apr 2021"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/apr-21-1-sat-am.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-21-1-sat-am.jpg
 date: 2021-04-04 17:26:33-0600
 read_time: false
 tags:

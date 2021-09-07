@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Dieter F. Uchtdorf Sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2017/oct-17-1-uchtdorf.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-17-1-uchtdorf.jpg
 date: 2017-09-30 10:36:26-0600
 tags:
 - general conference

@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Apr 2019 Sunday Morning Session"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/apr-19-4-renlund.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-19-4-renlund.jpg
 date: 2019-04-07 15:41:28-0600
 read_time: false
 tags:

@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Russell M. Nelson sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/apr-17-1-nelson.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-17-1-nelson.jpg
 date: 2017-08-30 05:57:12-0600
 tags:
 - general conference

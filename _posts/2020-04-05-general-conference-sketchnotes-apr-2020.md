@@ -1,6 +1,6 @@
 ---
 title: "General Conference Sketchnotes Apr 2020"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/apr-20-intro.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-20-intro.jpg
 date: 2020-04-05 16:43:11-0600
 image:
   path: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/apr-20-header.jpg

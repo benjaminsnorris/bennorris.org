@@ -83,3 +83,21 @@ The start of a new year has traditionally been a time I look forward to and enjo
 
 #### Replace
 https://bennorris.org$2
+
+
+## Gallery Thumbs
+
+### Example
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general/feb-19-organ-window.png
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/apr-21-1-sat-am.jpg
+gallery_thumb:
+- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am-00.jpg
+- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-1-sat-am.jpg
+---
+
+### Regex
+#### Find
+(gallery_thumb: https://media\.bennorris\.org/images/gospelsketcher/).*/(.*)
+
+#### Replace
+$1thumbs/$2

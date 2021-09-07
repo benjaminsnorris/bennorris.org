@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Oct 2020 Sun AM General Conference Sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2020/oct-20-4-sun-am.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-20-4-sun-am.jpg
 date: 2020-10-04 11:48:59-0600
 tags:
 - general conference

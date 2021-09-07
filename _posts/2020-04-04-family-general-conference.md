@@ -1,7 +1,7 @@
 ---
 short: true
 title: "General Conference with the family"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/apr-20-family.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-20-family.jpg
 date: 2020-04-04 10:29:21-0600
 tags:
 - general conference

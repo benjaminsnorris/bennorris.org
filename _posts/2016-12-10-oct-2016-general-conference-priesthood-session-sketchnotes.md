@@ -1,6 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Priesthood Session Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-16-3-holland.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-16-3-holland.jpg
 date:           2016-12-10 07:15:00-0700
 excerpt:        Sketchnotes of all talks in the Priesthood session from Oct 2016 LDS General Conference
 read_time:      false

@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Oct 2017 Sat PM General Conference Sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2017/oct-17-2-sat-pm.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/oct-17-2-sat-pm.jpg
 date: 2017-09-30 15:31:39-0600
 tags:
 - general conference

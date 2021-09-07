@@ -1,7 +1,7 @@
 ---
 short: true
 title: "LDSHE Elijah Stanfield Sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general/may-21-ldshe-stanfield.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/may-21-ldshe-stanfield.jpg
 date: 2021-05-27 11:36:10-0600
 tags:
 - sketchnotes

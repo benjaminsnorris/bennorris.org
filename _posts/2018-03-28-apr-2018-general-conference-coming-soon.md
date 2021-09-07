@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Apr 2018 General Conference sketchnotes coming soon"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2018-coming-soon.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2018-coming-soon.jpg
 date: 2018-03-28 10:19:51-0600
 tags:
 - general conference

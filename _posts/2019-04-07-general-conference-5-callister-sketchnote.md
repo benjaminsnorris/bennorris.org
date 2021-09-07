@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Tad R. Callister sketchnote"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/apr-19-4-callister.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-19-4-callister.jpg
 date: 2019-04-07 15:09:00-0600
 tags:
 - general conference
