@@ -1,8 +1,8 @@
 ---
 title: "LDS General Conference Oct 2012 Part 2"
 gallery_thumb:
-- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-2-sat-pm.jpg
-- https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2012/oct-12-andersen.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/oct-12-2-sat-pm.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/oct-12-andersen.jpg
 date: 2012-11-06 05:56:19-0700
 read_time: false
 category: Gospel Sketcher

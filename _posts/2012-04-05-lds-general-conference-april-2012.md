@@ -1,11 +1,11 @@
 ---
 title: "LDS General Conference April 2012"
 gallery_thumb:
-- https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2012/apr-2012-01-sat-am.jpg
-- https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2012/apr-2012-02-sat-pm.jpg
-- https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2012/apr-2012-03-priesthood-02.jpg
-- https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2012/apr-2012-05-sun-pm.jpg
-- https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2012/apr-2012-04-sun-am-02.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2012-01-sat-am.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2012-02-sat-pm.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2012-03-priesthood-02.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2012-05-sun-pm.jpg
+- https://media.bennorris.org/images/gospelsketcher/thumbs/apr-2012-04-sun-am-02.jpg
 date: 2012-04-05 20:14:51-0600
 category: Gospel Sketcher
 tags:
