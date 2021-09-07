@@ -1,11 +1,11 @@
 ---
-title: "#50: Panic on the freeway"
+title: "#49: Panic on the freeway"
 date: 2021-08-27 14:17:00-0700
 categories:     
 - Mental Work Health
 tags:           
-- mental health
 - weekly update
+- mental health
 ---
 
 This update is about a different kind of **panic attack** and illustrates the **uncertainty** inherent in mental illness.

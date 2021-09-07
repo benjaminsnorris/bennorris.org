@@ -3,6 +3,7 @@ title: "#10: Loss and uncertainty"
 date: 2020-11-02 21:49:07-0700
 tags:
 - weekly update
+- mental health
 category: Mental Work Health
 ---
 
