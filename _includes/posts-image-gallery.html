@@ -2,7 +2,9 @@
   <div class="gallery-grid">
     {% for post in include.posts %}
       {% if post.gallery_thumb %}
-        <a class="clean" href="{{ post.url | relative_url }}" rel="bookmark"><img src="{{ post.gallery_thumb }}" loading="lazy"/></a>
+        {% for thumb in post.gallery_thumb %}
+          <a class="clean" href="{{ post.url | relative_url }}" rel="bookmark"><img src="{{ thumb }}" loading="lazy"/></a>
+        {% endfor %}
       {% endif %}
     {% endfor %}
   </div>

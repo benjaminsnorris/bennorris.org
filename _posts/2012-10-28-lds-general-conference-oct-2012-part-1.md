@@ -16,6 +16,6 @@ The answer to my dilemma also came from my experience last conference. Because I
 
 So this is the Saturday morning session; the first in a five-part series as I capture each session and post it here. Hope you enjoy it!
 
-![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/d0df9c98c7.jpg){:loading="lazy"}}}
+![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/d0df9c98c7.jpg){:loading="lazy"}
 
-![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/06555d8352.jpg){:loading="lazy"}}}
+![Sketchnotes General Conference Oct 2012](https://media.bennorris.org/images/gospelsketcher/uploads/2021/06555d8352.jpg){:loading="lazy"}
