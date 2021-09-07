@@ -9,41 +9,41 @@ tags:
 - sketchnote collection
 read_time:      false
 gallery_thumb:
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-1.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-01.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-02.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-03.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-04.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-05.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-01.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-02.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-03.JPG
-- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-04.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-1.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-01.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-02.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-03.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-04.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-keynote-05.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-01.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-02.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-03.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/wwdc16-sketchnotes-state-of-the-union-04.jpg
 ---
 
 WWDC is here again! I was thrilled to have the chance to watch and sketchnote the main events today, and wanted to gather all of my sketchnotes together. Hope you enjoy!
 
 
-![Intro](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-1.JPG){:loading="lazy"}
+![Intro](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-state-of-the-union-04.jpg){:loading="lazy"}
 
 ## Keynote
 
-_![Keynote 01](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-01.JPG){:loading="lazy"}_
+![Keynote 01](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-keynote-01.jpg){:loading="lazy"}
 
-_![Keynote 02](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-02.JPG){:loading="lazy"}_
+![Keynote 02](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-keynote-02.jpg){:loading="lazy"}
 
-_![Keynote 03](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-03.JPG){:loading="lazy"}_
+![Keynote 03](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-keynote-03.jpg){:loading="lazy"}
 
-_![Keynote 04](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-04.JPG){:loading="lazy"}_
+![Keynote 04](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-keynote-04.jpg){:loading="lazy"}
 
-_![Keynote 05](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-keynote-05.JPG){:loading="lazy"}_
+![Keynote 05](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-keynote-05.jpg){:loading="lazy"}
 
 ## State of the Union
 
-_![State of the Union 01](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-01.JPG){:loading="lazy"}_
+![State of the Union 01](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-state-of-the-union-01.jpg){:loading="lazy"}
 
-_![State of the Union 02](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-02.JPG){:loading="lazy"}_
+![State of the Union 02](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-state-of-the-union-02.jpg){:loading="lazy"}
 
-_![State of the Union 03](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-03.JPG){:loading="lazy"}_
+![State of the Union 03](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-state-of-the-union-03.jpg){:loading="lazy"}
 
-_![State of the Union 04](https://media.bennorris.org/images/sketchnotable/wwdc16/wwdc16-sketchnotes-state-of-the-union-04.JPG){:loading="lazy"}_
+![State of the Union 04](https://media.bennorris.org/images/sketchnotable/wwdc-2016/wwdc16-sketchnotes-state-of-the-union-04.jpg){:loading="lazy"}
