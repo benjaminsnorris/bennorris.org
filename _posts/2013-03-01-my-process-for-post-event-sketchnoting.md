@@ -1,6 +1,9 @@
 ---
 title: "My Process for Post-Event Sketchnoting"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/company-corporation/growing-smart-sketchnote-basic.jpg
+gallery_thumb:
+- https://media.bennorris.org/images/sketchnotable/company-corporation/growing-smart-sketchnote.jpg
+- https://media.bennorris.org/images/sketchnotable/company-corporation/growing-smart-sketchnote-colored.jpg
+- https://media.bennorris.org/images/sketchnotable/company-corporation/growing-smart-sketchnote-basic.jpg
 date: 2013-03-01 06:48:47-0700
 category: Sketchnotable
 tags:
