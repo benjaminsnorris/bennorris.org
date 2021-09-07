@@ -1,6 +1,6 @@
 ---
 title: "Úll 2017 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2018/9c97aeaf75.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-00.jpg
 date: 2017-04-12 10:30:36-0600
 tags:
 - sketchnotes
@@ -12,46 +12,46 @@ I had a fantastic time at Úll this year. I had the privilege of speaking on ske
 
 [PDF of entire collection (13 MB)](https://media.bennorris.org/images/sketchnotable/uploads/2019/665b05e4dd.pdf)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/9c97aeaf75.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/9c97aeaf75.jpg)
+[![Ull Sketchnotes 00](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-00.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-00.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/36e2cffaea.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/36e2cffaea.jpg)
+[![Ull Sketchnotes 01](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-01.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-01.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/31ee9b5432.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/31ee9b5432.jpg)
+[![Ull Sketchnotes 02](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-02.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-02.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/c537a69aa7.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/c537a69aa7.jpg)
+[![Ull Sketchnotes 03](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-03.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-03.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/48ea571e41.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/48ea571e41.jpg)
+[![Ull Sketchnotes 04](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-04.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-04.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/bbddc080c0.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/bbddc080c0.jpg)
+[![Ull Sketchnotes 05](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-05.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-05.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/efbd75da8f.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/efbd75da8f.jpg)
+[![Ull Sketchnotes 06](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-06.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-06.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/67db6cc76d.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/67db6cc76d.jpg)
+[![Ull Sketchnotes 07](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-07.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-07.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/064ba5f767.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/064ba5f767.jpg)
+[![Ull Sketchnotes 08](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-08.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-08.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/f65294c8e5.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/f65294c8e5.jpg)
+[![Ull Sketchnotes 09](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-09.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-09.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/05e76f753e.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/05e76f753e.jpg)
+[![Ull Sketchnotes 10](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-10.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-10.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/632483441d.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/632483441d.jpg)
+[![Ull Sketchnotes 11](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-11.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-11.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/58db384969.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/58db384969.jpg)
+[![Ull Sketchnotes 12](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-12.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-12.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/fc218bf3ce.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/fc218bf3ce.jpg)
+[![Ull Sketchnotes 13](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-13.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-13.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/f1125e6d3d.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/f1125e6d3d.jpg)
+[![Ull Sketchnotes 14](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-14.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-14.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/b827275a2b.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/b827275a2b.jpg)
+[![Ull Sketchnotes 15](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-15.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-15.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/038da63e7f.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/038da63e7f.jpg)
+[![Ull Sketchnotes 16](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-16.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-16.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/0d00052944.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/0d00052944.jpg)
+[![Ull Sketchnotes 17](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-17.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-17.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/ad20838612.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/ad20838612.jpg)
+[![Ull Sketchnotes 18](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-18.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-18.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/8f229d44cf.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/8f229d44cf.jpg)
+[![Ull Sketchnotes 19](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-19.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-19.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/953c0a89d0.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/953c0a89d0.jpg)
+[![Ull Sketchnotes 20](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-20.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-20.jpg)
 
-[![Ull Sketchnotes](https://media.bennorris.org/images/sketchnotable/uploads/2018/2f9cea3a47.jpg)](https://media.bennorris.org/images/sketchnotable/uploads/2018/2f9cea3a47.jpg)
+[![Ull Sketchnotes 21](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-21.jpg)](https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-21.jpg)
