@@ -1,6 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-16-intro.jpg
 date:           2017-01-03 07:00:00-0700
 excerpt:        Sketchnotes of all talks from Oct 2016 LDS General Conference
 read_time:      false
@@ -16,7 +16,7 @@ I had a wonderful time sketchnoting a talk a day for my personal studies from th
 
 [PDF of entire collection (18 MB)](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/october-2016-general-conference-sketchnotes.pdf)
 
-![General Conference Sketchnotes 00](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg){:loading="lazy"}
+![General Conference Sketchnotes 00](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-16-intro.jpg){:loading="lazy"}
 
 [Women’s Session](https://bennorris.org/2017/01/01/oct-2016-general-conference-womens-session-sketchnotes)
 
