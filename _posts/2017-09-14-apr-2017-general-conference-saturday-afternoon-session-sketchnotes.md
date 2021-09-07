@@ -1,6 +1,7 @@
 ---
 title: "Apr 2017 General Conference Saturday Afternoon Session Sketchnotes"
 read_time: false
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-hales-sketchnote.jpg
 date: 2017-09-14 06:02:35-0600
 tags:
 - general conference

@@ -1,5 +1,6 @@
 ---
 title:          "UHEA 2016 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uhea2016/uhea-2016-sketchnotes-science.jpg
 date:           2016-06-11 17:30:00-0700
 excerpt:        Sketchnotes from a few talks at the Utah Home Education Association convention.
 category:

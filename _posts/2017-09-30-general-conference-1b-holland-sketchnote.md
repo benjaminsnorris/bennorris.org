@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Jeffrey R. Holland Sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2017/general-conference-sat-am-holland-sketchnote.jpg
 date: 2017-09-30 11:09:33-0600
 tags:
 - general conference

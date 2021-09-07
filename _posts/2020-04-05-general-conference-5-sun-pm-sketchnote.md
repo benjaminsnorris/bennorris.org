@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Apr 2020 Sun PM General Conference Sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sun-pm-sketchnote.jpg
 date: 2020-04-05 16:09:05-0600
 tags:
 - general conference

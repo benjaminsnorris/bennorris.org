@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Weatherford T. Clayton sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-clayton-sketchnote.jpg
 date: 2017-08-23 06:15:00-0600
 tags:
 - general conference

@@ -1,6 +1,7 @@
 ---
 title: "Oct 2017 General Conference Sketchnotes"
 read_time: false
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2017/general-conference-sat-am-uchtdorf-sketchnote.jpg
 date: 2017-10-01 19:18:41-0600
 tags:
 - general conference

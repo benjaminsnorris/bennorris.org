@@ -1,5 +1,6 @@
 ---
 title: "Apr 2017 General Conference Women's Session Skechnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-womens-cordon-sketchnote.jpg
 date: 2017-08-18 06:12:58-0600
 tags:
 - general conference

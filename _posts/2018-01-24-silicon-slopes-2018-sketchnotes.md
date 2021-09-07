@@ -6,6 +6,7 @@ category: Sketchnotable
 tags:
 - sketchnotes
 - sketchnote collection
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/silicon-slopes-2018/silicon-slopes-2018-sketchnote-01.jpg
 date: 2018-01-24 10:39:50-0700
 ---
 

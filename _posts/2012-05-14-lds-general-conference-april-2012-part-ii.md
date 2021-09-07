@@ -1,5 +1,6 @@
 ---
 title: "LDS General Conference April 2012 Part II"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2021/872745979a.png
 date: 2012-05-14 16:42:35-0600
 read_time: false
 category: Gospel Sketcher

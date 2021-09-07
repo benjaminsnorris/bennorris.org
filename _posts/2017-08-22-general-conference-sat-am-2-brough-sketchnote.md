@@ -1,6 +1,7 @@
 ---
 short: true
 title: "M. Joseph Brough sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-brough-sketchnote.jpg
 date: 2017-08-22 06:30:42-0600
 tags:
 - general conference

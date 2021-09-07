@@ -1,5 +1,6 @@
 ---
 title: "Úll 2017 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2018/9c97aeaf75.jpg
 date: 2017-04-12 10:30:36-0600
 tags:
 - sketchnotes

@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Bonnie H. Cordon sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-womens-cordon-sketchnote.jpg
 date: 2017-08-08 06:49:42-0600
 tags:
 - general conference

@@ -1,5 +1,6 @@
 ---
 title: "Home Education Convention Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/bennorris/uploads/2018/b684314291.jpg
 date: 2011-11-28 13:02:40-0700
 read_time: false
 category: Gospel Sketcher

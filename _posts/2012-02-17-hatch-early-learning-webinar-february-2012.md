@@ -1,5 +1,6 @@
 ---
 title: "Hatch Early Learning Webinar February 2012"
+gallery_thumb: https://media.bennorris.org/images/bennorris/uploads/2021/d4b28438d5.png
 date: 2012-02-17 20:04:25-0700
 category: Sketchnotable
 tags:

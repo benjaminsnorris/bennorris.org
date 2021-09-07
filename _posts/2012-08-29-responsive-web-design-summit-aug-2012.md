@@ -1,5 +1,6 @@
 ---
 title: "Responsive Web Design Summit Aug 2012"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/8086e40a71.jpg
 date: 2012-08-29 10:32:13-0600
 read_time: false
 category: Sketchnotable

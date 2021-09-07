@@ -1,5 +1,6 @@
 ---
 title: "Sketchnotes for Next Thing Now Jan 2013"
+gallery_thumb: https://media.bennorris.org/images/bennorris/uploads/2018/983d0516c6.jpg
 date: 2013-01-17 23:03:48-0700
 category: Sketchnotable
 tags:

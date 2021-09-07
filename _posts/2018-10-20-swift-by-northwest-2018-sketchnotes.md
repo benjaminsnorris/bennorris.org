@@ -1,5 +1,6 @@
 ---
 title: "Swift by Northwest 2018 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2018/8dfa204caa.jpg
 date: 2018-10-20 17:14:41-0600
 tags:
 - sketchnotes

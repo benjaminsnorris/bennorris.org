@@ -1,5 +1,6 @@
 ---
 title: "UX/Product Management Webinar"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/f9d779950d.jpg
 date: 2012-04-17 13:54:02-0600
 category: Sketchnotable
 tags:

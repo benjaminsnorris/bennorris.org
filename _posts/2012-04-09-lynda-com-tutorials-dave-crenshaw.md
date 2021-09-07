@@ -1,5 +1,6 @@
 ---
 title: "Lynda.com Tutorials: Dave Crenshaw"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/1812ff1474.jpg
 date: 2012-04-09 12:56:38-0600
 category: Sketchnotable
 tags:

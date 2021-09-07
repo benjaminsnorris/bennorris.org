@@ -1,5 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-00.jpg
 date:           2017-01-03 07:00:00-0700
 excerpt:        Sketchnotes of all talks from Oct 2016 LDS General Conference
 read_time:      false

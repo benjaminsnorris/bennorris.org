@@ -1,5 +1,6 @@
 ---
 title: "LDS General Conference April 2012"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2021/759d59e622.png
 date: 2012-04-05 20:14:51-0600
 category: Gospel Sketcher
 tags:

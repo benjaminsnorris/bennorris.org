@@ -1,6 +1,7 @@
 ---
 short: true
 title: "April 2021 Sun AM General Conference Sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2021/general-conference-sun-am-sketchnote.jpg
 date: 2021-04-04 11:57:41-0600
 tags:
 - general conference

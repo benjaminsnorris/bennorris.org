@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Apr 2020 Sat Evening General Conference Sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2020/general-conference-sat-eve-sketchnote.jpg
 date: 2020-04-04 19:55:00-0600
 tags:
 - general conference

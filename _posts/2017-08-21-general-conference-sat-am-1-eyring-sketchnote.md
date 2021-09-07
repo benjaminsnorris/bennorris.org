@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Henry B. Eyring sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-eyring-sketchnote.jpg
 date: 2017-08-21 06:47:24-0600
 tags:
 - general conference

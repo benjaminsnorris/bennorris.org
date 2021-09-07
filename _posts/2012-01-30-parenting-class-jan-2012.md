@@ -1,5 +1,6 @@
 ---
 title: "Parenting Class Jan 2012"
+gallery_thumb: https://media.bennorris.org/images/bennorris/uploads/2019/b9ed543fb9.jpg
 date: 2012-01-30 13:16:10-0700
 read_time: false
 category: Gospel Sketcher

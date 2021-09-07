@@ -1,5 +1,6 @@
 ---
 title: "eLearning Guild Webinar: Breaking Down the Walls of the Physical Classroom"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/c6c1033490.jpg
 date: 2011-10-27 12:44:02-0600
 tags:
 - sketchnotes

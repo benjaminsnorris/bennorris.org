@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Carol F. McConkie sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-womens-mcconkie-sketchnote.jpg
 date: 2017-08-10 08:48:34-0600
 tags:
 - general conference

@@ -1,5 +1,6 @@
 ---
 title:          "Úll 2016 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-00.jpg
 date:           2016-11-02 08:45:00-0700
 excerpt:        A collection of my sketchnotes from the Úll 2016 conference
 read_time:      false

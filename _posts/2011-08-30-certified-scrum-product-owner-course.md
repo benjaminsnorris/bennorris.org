@@ -1,5 +1,6 @@
 ---
 title: "Certified Scrum Product Owner Course"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/346823161f.jpg
 date: 2011-08-30 12:57:48-0600
 tags:
 - sketchnotes

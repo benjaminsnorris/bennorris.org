@@ -1,5 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Women’s Session Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-01.jpg
 date:           2017-01-01 07:45:00-0700
 excerpt:        Sketchnotes of all talks in the Women’s session from Oct 2016 LDS General Conference
 read_time:      false

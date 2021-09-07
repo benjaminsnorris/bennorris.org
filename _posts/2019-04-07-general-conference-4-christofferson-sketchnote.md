@@ -1,6 +1,7 @@
 ---
 short: true
 title: "D. Todd Christofferson sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2019/sun-am-christofferson-sketchnote.jpg
 date: 2019-04-07 15:07:00-0600
 tags:
 - general conference

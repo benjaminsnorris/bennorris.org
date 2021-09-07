@@ -1,5 +1,6 @@
 ---
 title: "Apr 2017 General Conference Priesthood Session Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2018/6dc3709058.jpg
 date: 2017-04-01 18:54:23-0600
 tags:
 - general conference

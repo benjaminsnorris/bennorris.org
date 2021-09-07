@@ -1,5 +1,6 @@
 ---
 title: "LDS Tech Conference 2012"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2021/821c15abc0.png
 date: 2012-05-30 21:14:43-0600
 read_time: false
 category: Gospel Sketcher

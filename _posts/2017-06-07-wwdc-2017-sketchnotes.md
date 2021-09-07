@@ -1,5 +1,6 @@
 ---
 title: "WWDC 2017 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2018/e58097dc80.jpg
 date: 2017-06-07 13:18:18-0600
 tags:
 - wwdc

@@ -1,5 +1,6 @@
 ---
 title:          "Release Notes 2016 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/release-notes-2016/release-notes-2016-sketchnote-01.jpg
 date:           2016-09-29 17:30:00-0700
 excerpt:        A collection of my sketchnotes from the Release Notes 2016 conference
 read_time:      false

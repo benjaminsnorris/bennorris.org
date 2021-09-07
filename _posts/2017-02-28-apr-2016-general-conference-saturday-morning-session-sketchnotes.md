@@ -1,5 +1,6 @@
 ---
 title: "Apr 2016 General Conference Saturday Morning Session Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/uploads/2018/1bbfa104d3.jpg
 date: 2017-02-28 05:45:45-0700
 tags:
 - general conference

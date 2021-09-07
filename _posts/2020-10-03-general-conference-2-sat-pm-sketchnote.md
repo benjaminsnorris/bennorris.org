@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Oct 2020 Sat PM General Conference Sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2020/general-conference-sat-pm-sketchnote.jpg
 date: 2020-10-03 16:01:35-0600
 tags:
 - general conference

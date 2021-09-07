@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Linda K. Burton sketchnote"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-womens-burton-sketchnote.jpg
 date: 2017-08-15 06:42:35-0600
 tags:
 - general conference

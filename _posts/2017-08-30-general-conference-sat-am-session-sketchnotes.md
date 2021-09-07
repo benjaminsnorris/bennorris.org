@@ -1,5 +1,6 @@
 ---
 title: "Apr 2017 General Conference Saturday Morning Session Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2017/general-conference-eyring-sketchnote.jpg
 date: 2017-08-30 06:12:12-0600
 tags:
 - general conference

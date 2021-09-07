@@ -1,5 +1,6 @@
 ---
 title:          "Oct 2016 General Conference Sunday Morning Session Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2016/oct-2016-general-conference-sketchnote-23.jpg
 date:           2016-12-19 07:15:00-0700
 excerpt:        Sketchnotes of all talks in the Sunday morning session from Oct 2016 LDS General Conference
 read_time:      false

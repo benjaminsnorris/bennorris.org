@@ -1,5 +1,6 @@
 ---
 title: "#48: Angrily pounding metal"
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/angrily-pounding-metal-sketchnote.jpg
 date: 2021-08-12 09:54:00-0700
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/angrily-pounding-metal-sketchnote.jpg

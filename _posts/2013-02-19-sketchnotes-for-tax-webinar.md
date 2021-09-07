@@ -1,5 +1,6 @@
 ---
 title: "Sketchnotes for Tax Webinar"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/company-corporation/income-tax-into-tax-income-sketchnotes.jpg
 date: 2013-02-19 07:26:03-0700
 category: Sketchnotable
 tags:

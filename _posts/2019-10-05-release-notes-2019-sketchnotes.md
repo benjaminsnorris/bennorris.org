@@ -1,5 +1,6 @@
 ---
 title: "Release Notes 2019 Sketchnotes"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2019/5190726729.jpg
 date: 2019-10-05 18:15:56-0600
 tags:
 - sketchnotes

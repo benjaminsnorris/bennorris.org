@@ -1,5 +1,6 @@
 ---
 title: "Sketchnotes for Webinar on Raising Capital"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/company-corporation/raise-capital-sketchnote.jpg
 date: 2013-02-28 20:58:18-0700
 category: Sketchnotable
 tags:

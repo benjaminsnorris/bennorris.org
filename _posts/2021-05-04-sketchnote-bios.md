@@ -1,6 +1,7 @@
 ---
 short: true
 title: "Sketchnote bios"
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/uploads/2021/967bebec97.jpg
 date: 2021-05-04 09:03:43-0600
 tags:
 - sketchnotes
