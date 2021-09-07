@@ -40,15 +40,10 @@ markdown: kramdown
 plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-feed
 permalink:    /:year/:month/:day/:title
 include:
   - /.well-known
-
-# Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
 
 # Feed
 feed:
