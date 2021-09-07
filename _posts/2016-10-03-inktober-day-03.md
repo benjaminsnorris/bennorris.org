@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 3"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-03.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-03.jpg
 date:           2016-10-03 17:35:00-0700
 category:       Sketchnotable
 tags:           inktober

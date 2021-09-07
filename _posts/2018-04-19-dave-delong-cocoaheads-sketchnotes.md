@@ -1,7 +1,7 @@
 ---
 short: true
 title: "Dave DeLong Cocoaheads Sketchnote"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/general/cocoaheads-2018.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/cocoaheads-2018.jpg
 date: 2018-04-19 20:42:57-0600
 tags:
 - sketchnotes

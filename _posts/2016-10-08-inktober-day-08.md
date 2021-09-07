@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 8"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-08.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-08.jpg
 date:           2016-10-08 18:31:00-0700
 category:       Sketchnotable
 tags:           inktober

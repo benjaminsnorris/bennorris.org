@@ -2,11 +2,11 @@
 title:          "Apple Special Event Sep 2016 Sketchnotes"
 date:           2016-09-07 17:30:00-0700
 gallery_thumb:
-- https://media.bennorris.org/images/sketchnotable/appleEvent2016/apple-event-2016-sketchnote-01.JPG
-- https://media.bennorris.org/images/sketchnotable/appleEvent2016/apple-event-2016-sketchnote-02.JPG
-- https://media.bennorris.org/images/sketchnotable/appleEvent2016/apple-event-2016-sketchnote-03.JPG
-- https://media.bennorris.org/images/sketchnotable/appleEvent2016/apple-event-2016-sketchnote-04.JPG
-- https://media.bennorris.org/images/sketchnotable/appleEvent2016/apple-event-2016-sketchnote-05.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/apple-event-2016-sketchnote-01.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/apple-event-2016-sketchnote-02.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/apple-event-2016-sketchnote-03.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/apple-event-2016-sketchnote-04.JPG
+- https://media.bennorris.org/images/sketchnotable/thumbs/apple-event-2016-sketchnote-05.JPG
 excerpt:        A summary of my sketchnotes from the iPhone 7 launch
 read_time:      false
 category:       Sketchnotable

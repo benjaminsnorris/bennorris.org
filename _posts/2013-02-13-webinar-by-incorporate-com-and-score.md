@@ -1,6 +1,6 @@
 ---
 title: "Webinar by Incorporate.com and SCORE"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/company-corporation/start-your-own-business-sketchnote.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/start-your-own-business-sketchnote.jpg
 date: 2013-02-13 21:31:36-0700
 category: Sketchnotable
 tags:

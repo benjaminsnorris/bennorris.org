@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 28"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-28.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-28.jpg
 date:           2016-10-28 21:17:00-0700
 category:       Sketchnotable
 tags:           inktober

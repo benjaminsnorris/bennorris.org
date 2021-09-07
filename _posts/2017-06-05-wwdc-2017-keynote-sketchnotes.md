@@ -7,7 +7,7 @@ tags:
 - wwdc
 - sketchnotes
 - sketchnote collection
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/wwdc-2017/wwdc-2017-keynote-sketchnotes-01.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/wwdc-2017-keynote-sketchnotes-01.jpg
 date: 2017-06-05 13:18:02-0800
 ---
 

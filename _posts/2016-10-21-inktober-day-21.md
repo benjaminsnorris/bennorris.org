@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 21"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-21.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-21.jpg
 date:           2016-10-21 23:58:00-0700
 category:       Sketchnotable
 tags:           inktober

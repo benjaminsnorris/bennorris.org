@@ -5,7 +5,7 @@ tags:
 - sketchnotes
 - wwdc
 category: Sketchnotable
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/wwdc-2017/wwdc-2017-michelle-obama-sketchnotes.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/wwdc-2017-michelle-obama-sketchnotes.jpg
 date: 2017-06-06 10:45:02-0800
 short: true
 ---

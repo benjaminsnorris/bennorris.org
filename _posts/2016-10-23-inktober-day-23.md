@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 23"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-23.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-23.jpg
 date:           2016-10-23 22:33:00-0700
 category:       Sketchnotable
 tags:           inktober

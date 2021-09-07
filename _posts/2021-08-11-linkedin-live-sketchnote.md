@@ -1,6 +1,6 @@
 ---
 layout: post
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/general/linkedin-live-aug-2021-sketchnote.jpeg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/linkedin-live-aug-2021-sketchnote.jpeg
 date: 2021-08-11 12:50:00-0700
 title: "LinkedIn Live Event Sketchnote"
 categories:

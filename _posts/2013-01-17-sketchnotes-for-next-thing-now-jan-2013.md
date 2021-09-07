@@ -1,6 +1,6 @@
 ---
 title: "Sketchnotes for Next Thing Now Jan 2013"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/company-corporation/next-thing-now-sketchnotes.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/next-thing-now-sketchnotes.jpg
 date: 2013-01-17 23:03:48-0700
 category: Sketchnotable
 tags:

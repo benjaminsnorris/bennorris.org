@@ -8,22 +8,22 @@ tags:
 - sketchnotes
 - sketchnote collection
 gallery_thumb:
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-00.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-01.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-02.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-03.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-04.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-05.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-06.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-07.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-08.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-09.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-10.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-11.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-12.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-13.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-14.jpg
-- https://media.bennorris.org/images/sketchnotable/ull-2016/ull-2016-sketchnotes-15.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-00.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-01.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-02.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-03.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-04.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-05.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-06.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-07.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-08.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-09.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-10.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-11.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-12.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-13.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-14.jpg
+- https://media.bennorris.org/images/sketchnotable/thumbs/ull-2016-sketchnotes-15.jpg
 ---
 
 [Úll](https://2016.ull.ie) has been wonderful so far. I had the pleasure of sketchnoting the first day of the conference, and wanted to post them to have them all together.

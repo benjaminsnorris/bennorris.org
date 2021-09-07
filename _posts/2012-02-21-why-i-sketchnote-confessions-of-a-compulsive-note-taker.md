@@ -1,6 +1,6 @@
 ---
 title: "Why I Sketchnote: Confessions of a Compulsive Note-Taker"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/why-i-sketchnote/sketchnote-early-notebook.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/sketchnote-early-notebook.jpg
 date: 2012-02-21 20:05:55-0700
 tags:
 - sketchnotes

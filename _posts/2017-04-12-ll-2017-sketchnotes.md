@@ -1,6 +1,6 @@
 ---
 title: "Úll 2017 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/ull-2017/ull-2017-sketchnotes-00.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/ull-2017-sketchnotes-00.jpg
 date: 2017-04-12 10:30:36-0600
 tags:
 - sketchnotes

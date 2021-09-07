@@ -6,7 +6,7 @@ tags:
 - sketchnote collection
 category: Sketchnotable
 read_time: false
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/peers-2018/peers-2018-sketchnote-01.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/peers-2018-sketchnote-01.jpg
 date: 2018-04-30 11:38:55-0600
 ---
 

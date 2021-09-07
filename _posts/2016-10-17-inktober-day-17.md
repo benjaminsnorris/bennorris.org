@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 17"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-17.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-17.jpg
 date:           2016-10-17 22:08:00-0700
 category:       Sketchnotable
 tags:           inktober

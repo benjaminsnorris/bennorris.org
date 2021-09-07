@@ -1,6 +1,6 @@
 ---
 title: "WWDC 2019 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/wwdc-2019/wwdc-2019-into.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/wwdc-2019-into.jpg
 date: 2019-06-06 14:33:06-0600
 tags:
 - sketchnotes

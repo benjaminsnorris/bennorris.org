@@ -1,6 +1,6 @@
 ---
 title:          "Inktober day 16"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-16.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-16.jpg
 date:           2016-10-16 20:13:00-0700
 category:       Sketchnotable
 tags:           inktober

@@ -1,6 +1,6 @@
 ---
 title: "Layers 2019 Sketchnotes"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/layers-2019/layers-2019-king.jpg
+gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/layers-2019-king.jpg
 date: 2019-06-05 15:33:35-0600
 tags:
 - sketchnotes
