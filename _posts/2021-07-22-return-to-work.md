@@ -1,9 +1,14 @@
 ---
 title: "#44: Return to work"
 date: 2021-07-22 09:33:36-0600
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/panic-attack-recovery-zone.jpg
+image:
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/panic-attack-recovery-zone.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/panic-attack-recovery-zone.jpg
 tags:
 - weekly update
 - mental health
+- sketchnotes
 category: Mental Work Health
 ---
 
@@ -12,8 +17,6 @@ This week’s update includes a **delightful visit**, my experience with a **rem
 {% include weekly-update.md %}
 
 ***
-
-![Sketch of recliner](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/9c7db71a12.jpg)
 
 Last week I had a special treat. My boss, [Mel Tingey](https://www.linkedin.com/in/meltingey), came down to see my office space and to have a one-to-one over lunch. I have [mentioned before](https://www.mentalworkhealth.org/2020/11/30/gratitude-and-panic.html) that he is one of the best bosses I have ever worked for. My family loves him, mostly from his personal support during my breakdown and recovery. My kids still talk about the time he sent my wife flowers while I was staying away from home during OCD treatment.
 
