@@ -4,7 +4,7 @@ gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/angril
 date: 2021-08-12 09:54:00-0700
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/angrily-pounding-metal-sketchnote.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/angrily-pounding-metal-sketchnote.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/angrily-pounding-metal-sketchnote.jpg
 categories:     
 - Mental Work Health
 tags:           

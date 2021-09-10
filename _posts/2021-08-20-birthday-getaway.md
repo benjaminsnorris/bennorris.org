@@ -4,7 +4,7 @@ date: 2021-08-20 11:30:00-0700
 gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/weight-of-responsibility.jpg
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/weight-of-responsibility.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/weight-of-responsibility.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/weight-of-responsibility.jpg
 categories:     
 - Mental Work Health
 tags:           

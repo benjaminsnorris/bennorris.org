@@ -4,7 +4,7 @@ date: 2021-07-22 09:33:36-0600
 gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/panic-attack-recovery-zone.jpg
 image:
   path: https://media.bennorris.org/images/mentalworkhealth/posts/panic-attack-recovery-zone.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/panic-attack-recovery-zone.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/panic-attack-recovery-zone.jpg
 tags:
 - weekly update
 - mental health

@@ -4,7 +4,7 @@ gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/medita
 date: 2021-09-03 09:13:30-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/meditative-sketchnotes.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/meditative-sketchnotes.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/meditative-sketchnotes.jpg
 category: Mental Work Health
 tags:
 - weekly update
