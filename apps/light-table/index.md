@@ -6,6 +6,7 @@ release_date:   2016-09-13
 store_link:     https://bsn.design/download/light-table
 sub_title:      Trace and draw anywhere
 app_image:      https://media.bsn.design/images/light-table/Light-Table.png
+app_id:         1097012932
 ---
 
 ## Backstory

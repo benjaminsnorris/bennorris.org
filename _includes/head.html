@@ -14,6 +14,9 @@
       <link rel="canonical" href="{{ page.url | replace:'index.html', '' | absolute_url }}">
     {% endif %}
   
+    {% if page.app_id %}
+      <meta name="apple-itunes-app" content="app-id={{ page.app_id }}">
+    {% endif %}
     <script>
       /* Cut the mustard */
       if ( 'querySelector' in document && 'addEventListener' in window ) {
