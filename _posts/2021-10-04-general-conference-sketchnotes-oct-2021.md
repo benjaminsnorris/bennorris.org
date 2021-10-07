@@ -31,7 +31,7 @@ Synopsis sketchnotes from all sessions of the October 2021 General Conference.
 
 ## Saturday Evening Session
 
-![Priesthood sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2021/oct-21-3-eve.jpg){:loading="lazy"}
+![Saturday evening sketchnotes](https://media.bennorris.org/images/gospelsketcher/general-conference/oct-2021/oct-21-3-sat-eve.jpg){:loading="lazy"}
 
 ## Sunday Morning Session
 
