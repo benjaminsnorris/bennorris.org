@@ -2,7 +2,7 @@
 layout: category
 title: Mental Work Health
 taxonomy: Mental Work Health
-permalink: /mentalworkhealth/
+permalink: /mental-work-health/
 ---
 
 [View image gallery](gallery){:class="btn"}

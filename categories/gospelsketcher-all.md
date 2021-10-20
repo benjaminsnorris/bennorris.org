@@ -2,7 +2,7 @@
 layout: category-all
 title: Gospel Sketcher
 taxonomy: Gospel Sketcher
-permalink: /gospelsketcher/all/
+permalink: /gospel-sketcher/all/
 ---
 
 [View image gallery](../gallery){:class="btn"}
