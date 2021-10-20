@@ -1,8 +1,40 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
-
 {% assign category_posts = site.categories[page.taxonomy] %}
-{% include posts-list-by-date.html posts=category_posts %}
+<header class="intro">
+    <div class="inner">
+        <div class="intro-text">
+            <h1 id="page-title" class="intro-title">{{ page.alt_title | default: page.title | default: site.title | markdownify | strip_html }}</h1>
+            <p class="entry-meta">
+                <span class="meta-item">
+                    <span class="icon">{% include icon-bookmark.svg %}</span>
+                    <span>{{ category_posts.size }} {% if category_posts.size == 1 %}post{% else %}posts{% endif %}</span>
+                </span>
+            </p>
+            <p class="entry-meta">
+                <span class="meta-item">
+                    <span class="icon">{% include icon-calendar.svg %}</span>
+                    {% if category_posts.size == 1 %}
+                        <time datetime="{{ category_posts.first.date | date_to_xmlschema }}">{{ category_posts.first.date | date: "%B %-d, %Y" }}</time>
+                    {% else %}
+                        <time datetime="{{ category_posts.first.date | date_to_xmlschema }}">{{ category_posts.last.date | date: "%B %-d, %Y" }} - {{ category_posts.first.date | date: "%B %-d, %Y" }}</time>
+                    {% endif %}
+                </span>
+            </p>
+        </div>
+    </div>
+</header>
+
+<main id="main" class="page-content" aria-label="Content">
+    <div class="inner">
+        <article class="entry-wrap">
+        <div class="entry-content">
+            {{ content }}
+
+            {% include posts-list-by-date.html posts=category_posts %}
+        </div>
+        </article>
+    </div>
+</main>

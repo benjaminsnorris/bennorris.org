@@ -34,8 +34,8 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
-  - categories/mental-work-health.md
-  - categories/gospel-sketcher.md
+  - categories/mentalworkhealth.md
+  - categories/gospelsketcher.md
   - categories/sketchnotable.md
   - archive.md
   - speaking/index.md
