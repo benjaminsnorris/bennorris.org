@@ -18,7 +18,7 @@ Here in Utah, we enjoyed a surprisingly warm week for November (before the snow!
 
 ## Something hard
 
-Since becoming an engineering manager, no direct reports had left for a different company until this week. As I mentioned [last week](https://www.mentalworkhealth.org/2020/11/02/loss-and-uncertainty.html), it was a cause for celebration that the apprentice I hired earlier this year found a full-time role. What I did not anticipate was the emotional toll of dealing with her departure.
+Since becoming an engineering manager, no direct reports had left for a different company until this week. As I mentioned [last week](https://bennorris.org/2020/11/02/loss-and-uncertainty), it was a cause for celebration that the apprentice I hired earlier this year found a full-time role. What I did not anticipate was the emotional toll of dealing with her departure.
 
 My daughter has participated in a couple summer programs, and often comes home grieving the end of a special experience. Trying to validate her pain, I told her that it was natural and healthy for her for feel sad because that exact group would never exist again. They could get together again, but it would never be the same. My daughter and my wife both turned and looked at me, a little incredulous. “Wow, thanks Dad!” Apparently I wasn’t helping.
 
@@ -31,7 +31,7 @@ The final one-on-one with my departing employee was an emotional experience. One
 
 ![Carry less to give more goal](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/6729957227.jpg){:loading="lazy"}
 
-As I wrote about [last week](https://www.mentalworkhealth.org/2020/11/02/loss-and-uncertainty.html), one of my best friends at work is moving on to a new role at a different company. I had an experience with him that highlighted one of my two big goals for 2020. I wrote about these on my [personal blog](https://www.bennorris.org/2020/01/01/my-goals.html) at the beginning of the year, and have kept them as the wallpaper on my phone and iPad to help me remember. The goals were simple:
+As I wrote about [last week](https://bennorris.org/2020/11/02/loss-and-uncertainty), one of my best friends at work is moving on to a new role at a different company. I had an experience with him that highlighted one of my two big goals for 2020. I wrote about these on my [personal blog](https://www.bennorris.org/2020/01/01/my-goals.html) at the beginning of the year, and have kept them as the wallpaper on my phone and iPad to help me remember. The goals were simple:
 
 - Make more mistakes
 - Carry less to give more
@@ -57,7 +57,7 @@ We went in to the grocery store and did our shopping, and as we went back out to
 
 > It’s nice to see that you’re human, and not a robot.
 
-I just sat frozen in my seat for a couple minutes. To be honest, there was a little part of me rebelling against being called “only human.” This is something that I have wrestled with in the past, and thought I had overcome. Obviously not. I just sat with the emotions swirling around inside me, and tried to recognize what I was feeling. Something that came to mind was a skill that I [wrote about](https://www.mentalworkhealth.org/2020/10/05/spiral-of-doom.html#something-else) around a month ago—self-compassion. There are three aspects to self-compassion, as defined by [Kristin Neff](https://en.wikipedia.org/wiki/Self-compassion):
+I just sat frozen in my seat for a couple minutes. To be honest, there was a little part of me rebelling against being called “only human.” This is something that I have wrestled with in the past, and thought I had overcome. Obviously not. I just sat with the emotions swirling around inside me, and tried to recognize what I was feeling. Something that came to mind was a skill that I [wrote about](https://bennorris.org/2020/10/05/spiral-of-doom) around a month ago—self-compassion. There are three aspects to self-compassion, as defined by [Kristin Neff](https://en.wikipedia.org/wiki/Self-compassion):
 
 - Self-kindness
 - Common humanity
@@ -77,4 +77,4 @@ This week included a lot of growth for me. Living with OCD poses real challenges
 
 [^1]: I had to look and see just how long we had been inside, and used the [Today feature](https://help.dayoneapp.com/en/articles/4303406-today-view) of the excellent journal app [Day One](https://dayoneapp.com) to find out. A bit of OCD showing through? Perhaps.
 
-[^2]: Learn more in [my story](https://www.mentalworkhealth.org/2019/11/09/my-story.html) if you are interested.
+[^2]: Learn more in [my story](https://bennorris.org/2019/11/09/my-story) if you are interested.

@@ -23,7 +23,7 @@ Over the weekend, I decided to try out dairy. I had already reintroduced gluten 
 
 We were out of milk.
 
-Now, back when I was having milk, I tried to make sure we had three or four gallons on hand. With nine people, we go through milk pretty fast. But I hadn't been paying close attention recently. For a few minutes, I was frozen. [Plan changes](https://www.mentalworkhealth.org/2021/06/04/plan-changes.html), particularly in the morning, are rough on me. I
+Now, back when I was having milk, I tried to make sure we had three or four gallons on hand. With nine people, we go through milk pretty fast. But I hadn't been paying close attention recently. For a few minutes, I was frozen. [Plan changes](https://bennorris.org/2021/06/04/plan-changes), particularly in the morning, are rough on me. I
 told my wife that I was struggling, and she had some good ideas. There was a little bit of milk left that I could drink, I could have a yogurt, or
 there were green smoothies left over that had milk.
 

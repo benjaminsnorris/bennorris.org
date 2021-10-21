@@ -8,7 +8,7 @@ category: Mental Work Health
 
 As someone who grew up largely ignorant of mental health, and the situations and resources connected with it, I was completely taken aback when someone suggested that I consider counseling.
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._
 
 ***
 
@@ -63,4 +63,4 @@ When we have had no personal experience with mental health, it can be difficult 
 
 I look forward to continuing my story in my next article on [back pain and panic attacks](https://bennorris.org/2020/02/16/back-pain-and-panic-attacks/).
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._

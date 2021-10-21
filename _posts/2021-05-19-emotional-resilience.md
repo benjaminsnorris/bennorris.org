@@ -31,7 +31,7 @@ As we are able to be more mindful of our situation and ourselves, we become able
 
 ## Something good
 
-Over the past few weeks, I’ve been listening to some audiobooks. I tend to bounce back and forth between books and podcasts in my driving around. On the camping trip I discussed [recently](https://www.mentalworkhealth.org/2021/05/05/camping-and-sketching.html), I finished [The Dichotomy of Leadership](https://echelonfront.com/dichotomy-of-leadership/).
+Over the past few weeks, I’ve been listening to some audiobooks. I tend to bounce back and forth between books and podcasts in my driving around. On the camping trip I discussed [recently](https://bennorris.org/2021/05/05/camping-and-sketching), I finished [The Dichotomy of Leadership](https://echelonfront.com/dichotomy-of-leadership/).
 
 Side note: listening to [Jocko](https://en.wikipedia.org/wiki/Jocko_Willink) is some of my most frequently assigned homework from my therapist.
 

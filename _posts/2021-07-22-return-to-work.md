@@ -18,9 +18,9 @@ This week’s update includes a **delightful visit**, my experience with a **rem
 
 ***
 
-Last week I had a special treat. My boss, [Mel Tingey](https://www.linkedin.com/in/meltingey), came down to see my office space and to have a one-to-one over lunch. I have [mentioned before](https://www.mentalworkhealth.org/2020/11/30/gratitude-and-panic.html) that he is one of the best bosses I have ever worked for. My family loves him, mostly from his personal support during my breakdown and recovery. My kids still talk about the time he sent my wife flowers while I was staying away from home during OCD treatment.
+Last week I had a special treat. My boss, [Mel Tingey](https://www.linkedin.com/in/meltingey), came down to see my office space and to have a one-to-one over lunch. I have [mentioned before](https://bennorris.org/2020/11/30/gratitude-and-panic) that he is one of the best bosses I have ever worked for. My family loves him, mostly from his personal support during my breakdown and recovery. My kids still talk about the time he sent my wife flowers while I was staying away from home during OCD treatment.
 
-I have also [mentioned my office space before](https://www.mentalworkhealth.org/2020/12/20/like-yourself-again.html#something-good). It has been a huge help and blessing to have this space. A large part of my mental struggles with my OCD are around my family and feeling that I have to be a perfect husband and father.
+I have also [mentioned my office space before](https://bennorris.org/2020/12/20/like-yourself-again). It has been a huge help and blessing to have this space. A large part of my mental struggles with my OCD are around my family and feeling that I have to be a perfect husband and father.
 
 When my company mandated that we work from home, I was excited in many ways. Prior to working for [0.C. Tanner](https://www.octanner.com), I worked fully remote for [Balsamiq](https://balsamiq.com/). With a growing family and young children, I appreciated the flexibility.
 

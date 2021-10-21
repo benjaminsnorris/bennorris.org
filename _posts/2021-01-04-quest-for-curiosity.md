@@ -18,7 +18,7 @@ Happy New Year! I have always enjoyed this time of year with its feeling of rene
 
 ## Something hard
 
-In some ways, it feels natural that both the hard and the good of this time would be the holidays themselves. As I [wrote about following Thanksgiving](https://www.mentalworkhealth.org/2020/11/30/gratitude-and-panic.html), often the best approach we can take is one of curiosity. Instead of predetermining how things will go, we can wait and see what experiences come our way.
+In some ways, it feels natural that both the hard and the good of this time would be the holidays themselves. As I [wrote about following Thanksgiving](https://bennorris.org/2020/11/30/gratitude-and-panic), often the best approach we can take is one of curiosity. Instead of predetermining how things will go, we can wait and see what experiences come our way.
 
 For the most part, I was successful in this quest for curiosity. There were some definite rough patches to be sure. One of my secret weapons is wearing noise-canceling headphones. I usually don’t even put any music or podcasts on—I just take advantage of the dampening effect of wearing the headphones so that the noise of a busy household doesn’t get so overwhelming.
 

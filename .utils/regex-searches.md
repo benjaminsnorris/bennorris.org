@@ -26,7 +26,7 @@
 ![$2]($1){:loading="lazy"}
 
 
-## MWH Links
+## Old MWH Links
 
 ### Example
 (https://www.mentalworkhealth.org/2020/11/02/loss-and-uncertainty.html) and more things with (testing.html)
@@ -37,6 +37,19 @@
 
 #### Replace
 ({% post_url $1-$2-$3-$4 %})
+
+
+## New MWH Links
+
+### Example
+(https://www.mentalworkhealth.org/2020/11/02/loss-and-uncertainty.html) and more things with (testing.html)
+
+### Regex
+#### Find
+\(https://www\.mentalworkhealth\.org/(\d{4}/\d{2}/\d{2}/[^.]+?)\.html[^)]*\)
+
+#### Replace
+(https://bennorris.org/$1)
 
 
 ## Post URL Links

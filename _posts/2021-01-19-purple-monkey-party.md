@@ -78,6 +78,6 @@ I think that we all have moments to mourn in our lives when we are not able to d
 
 [^1]: The [AirPods Pro](https://en.wikipedia.org/wiki/AirPods_Pro) have been a lifesaver for me. They fit right in my pocket, so I can have them with me all the time. I just pop them in with the active noise cancelling enabled, and enjoy a muted version of everything around me. For times when I need even more relief, I can put on some quiet music.
 
-[^2]: I [wrote a few weeks ago](https://www.mentalworkhealth.org/2020/12/14/distress-tolerance-sudoku.html) about the wonderful sudoku app [Good Sudoku](https://www.playgoodsudoku.com/) that I discovered. It is just the right amount of mental engagement without frustration to allow me to zone out for a bit.
+[^2]: I [wrote a few weeks ago](https://bennorris.org/2020/12/14/distress-tolerance-sudoku) about the wonderful sudoku app [Good Sudoku](https://www.playgoodsudoku.com/) that I discovered. It is just the right amount of mental engagement without frustration to allow me to zone out for a bit.
 
 [^3]: My OCD dictates that I clarify here. I have certainly not been perfect at this. It has not been “each time” that I get frustrated that I am able to use my phrase. But it has been often.

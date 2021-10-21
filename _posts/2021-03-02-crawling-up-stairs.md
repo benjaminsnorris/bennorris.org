@@ -21,7 +21,7 @@ Panic attacks are a bitch.
 
 This is not a surprise to anyone who has experienced them before, but it was certainly emphasized again this last week.
 
-To back up a bit, I [wrote last week](https://www.mentalworkhealth.org/2021/02/24/talking-with-strangers.html) about having a harder therapy session than usual. I had already started to feel a bit more down before that, and the session helped to make sure that I was grounded, and maybe pushed me even a little further down.
+To back up a bit, I [wrote last week](https://bennorris.org/2021/02/24/talking-with-strangers) about having a harder therapy session than usual. I had already started to feel a bit more down before that, and the session helped to make sure that I was grounded, and maybe pushed me even a little further down.
 
 Throughout this past week, I found myself looking for an escape. As I’ll write about later, I poured myself into a game that I found. Other than that, nothing was really sticking. As I went in to therapy at the end of last week, we talked about just being down. That is nothing to worry about, and everyone is going to have times like that. As someone with OCD, it can be easy to fixate on something, and often when I don’t have a fixation, there is an urge to find the next thing. We discussed trying to let go of that urge, and just sit in the down-ness and not try to force a change.
 

@@ -81,4 +81,4 @@ So many of us with mental health challenges struggle even more during the holida
 ***
 {% include subscribe-weekly.md %}
 
-[^1]: I wrote about one of these types of panic attacks [a few weeks ago](https://www.mentalworkhealth.org/2020/11/16/a-slight-breakdown.html).
+[^1]: I wrote about one of these types of panic attacks [a few weeks ago](https://bennorris.org/2020/11/16/a-slight-breakdown).

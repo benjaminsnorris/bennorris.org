@@ -42,7 +42,7 @@ One of my favorite parts of the app is that it makes you feel that you are level
 
 ## Something else
 
-Something that has been on my mind lately is the balance between vulnerability and oversharing. My goal with this blog is to help reduce the stigma of mental health, particularly in the workplace. Part of that work involves normalizing episodes that may seem uncomfortable to discuss or consider. By nature, I am very open and willing to share details of my life and experiences. So the question is, how much to share in these [weekly updates](https://mentalworkhealth.org/categories/weekly-update/)?
+Something that has been on my mind lately is the balance between vulnerability and oversharing. My goal with this blog is to help reduce the stigma of mental health, particularly in the workplace. Part of that work involves normalizing episodes that may seem uncomfortable to discuss or consider. By nature, I am very open and willing to share details of my life and experiences. So the question is, how much to share in these [weekly updates](https://bennorris.org/tags/weekly-update/)?
 
 The reality is that this is an unanswerable question. There is no certainty to be had, which is always difficult for me. I often feel like Calvin in these first couple frames, courtesy of [GoComics](https://www.gocomics.com/calvinandhobbes/1993/04/13):
 

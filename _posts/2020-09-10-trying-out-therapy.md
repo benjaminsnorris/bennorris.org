@@ -8,7 +8,7 @@ category: Mental Work Health
 
 My first experience with talk therapy was uncomfortable, awkward, and unfulfilling. I have since had fantastic experiences, but the beginning was anything but.
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._
 
 ***
 
@@ -59,4 +59,4 @@ In so many ways, therapy seems like a ridiculous setup. Let me walk in to a tota
 
 Fortunately for me and my family, my story did not stop there. In the next installment of my story, I look forward to sharing the life-changing experience of finding the right fit with a different therapist, and getting diagnosed with OCD.
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._

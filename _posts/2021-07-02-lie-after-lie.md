@@ -36,7 +36,7 @@ Luckily, this is a pretty mild obsession to get lost in. I didn’t spend a lot 
 
 ## Something good
 
-I am volunteering again this summer at the [Provo Pioneer Village](http://www.provopioneervillage.org/), something that I wrote about in my [second weekly update](https://www.mentalworkhealth.org/2020/09/08/rebecoming-a-novice.html). It is a hidden gem with preserved cabins, authentic period artifacts, and volunteer artisans. Guests can have a guided tour through the village and visit an old schoolhouse, a number of pioneer houses, and different kinds of workshops.
+I am volunteering again this summer at the [Provo Pioneer Village](http://www.provopioneervillage.org/), something that I wrote about in my [second weekly update](https://bennorris.org/2020/09/08/rebecoming-a-novice). It is a hidden gem with preserved cabins, authentic period artifacts, and volunteer artisans. Guests can have a guided tour through the village and visit an old schoolhouse, a number of pioneer houses, and different kinds of workshops.
 
 This is my third year as an apprentice blacksmith. One of the guests asked if I am going to be on [Forged in Fire](https://en.wikipedia.org/wiki/Forged_in_Fire_(TV_series)). I wanted to laugh, except he was just trying to be nice, or interested, or something. But no, I am nowhere near that skilled. I have not done any forge work outside of my one night a week volunteering.
 

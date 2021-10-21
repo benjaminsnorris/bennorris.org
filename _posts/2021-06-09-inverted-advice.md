@@ -39,7 +39,7 @@ There are still many times that I relapse and find myself succumbing to the rule
 
 The conversation took such a different turn that I was expecting before we started. The interesting thing to me was that by the end, I no longer felt that I needed the advice I was planning to seek. In many ways, I had already given myself the answers that I needed.
 
-There were a couple major takeaways for me. One of the first was my own flexibility. As I discussed [last week](https://www.mentalworkhealth.org/2021/06/04/plan-changes.html), plans changes are often extremely difficult for me. To engage in a conversation that was the opposite of what I was expecting is a situation that would have been distressing to the point of being almost impossible just a couple years ago.
+There were a couple major takeaways for me. One of the first was my own flexibility. As I discussed [last week](https://bennorris.org/2021/06/04/plan-changes), plans changes are often extremely difficult for me. To engage in a conversation that was the opposite of what I was expecting is a situation that would have been distressing to the point of being almost impossible just a couple years ago.
 
 The second takeaway builds on the first, and that was a perspective of how far I have come. Two years ago, I had just graduated from the intensive outpatient program. A year before that, I was oblivious to the fact that my mental health was about to explode, and I would become nearly crippled for a time. For me to be able to look back on my situation with some detachment and identify the pieces of my recovery that were crucial is a major win.
 

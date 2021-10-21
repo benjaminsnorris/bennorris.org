@@ -28,7 +28,7 @@ I have found that the advice I am most comfortable giving is not what the other 
 
 ## Something good
 
-In my [update last week](https://www.mentalworkhealth.org/2021/03/02/crawling-up-stairs.html), I shared about a weekend of panic attacks. In my therapy session last week, we discussed those, and realized that one of the events that set it off was some unprocessed emotion. I received a difficult email at work on the Friday before the weekend, and carried that emotion home with me, and never really sat with it or processed it in a healthy way.
+In my [update last week](https://bennorris.org/2021/03/02/crawling-up-stairs), I shared about a weekend of panic attacks. In my therapy session last week, we discussed those, and realized that one of the events that set it off was some unprocessed emotion. I received a difficult email at work on the Friday before the weekend, and carried that emotion home with me, and never really sat with it or processed it in a healthy way.
 
 In contrast, over this past week, there were a couple instances where I took responsibility for my emotions and handled them appropriately. There was a day that I was getting in my car to drive home from work and realized that the stress of the day was weighing heavily on me. I didn’t want to take that home and dump it on my family. I called my wife to check in on how she was doing, and then went back in my office and just wrote for a bit to get out my negative feelings. Then I was able to go home and engage with the family.
 

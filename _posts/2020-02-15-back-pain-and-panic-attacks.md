@@ -8,7 +8,7 @@ category: Mental Work Health
 
 Mental health and physical health can be intimately connected, as I found out when I had my first personal exposure to a mental health crisis.
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._
 
 ***
 
@@ -48,4 +48,4 @@ Over the next little while, I continued to have occasional panic attacks. I stil
 
 In the next installment of my story, I look forward to continuing with my early attempts at [trying out therapy](https://bennorris.org/2020/09/11/trying-out-therapy/).
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._

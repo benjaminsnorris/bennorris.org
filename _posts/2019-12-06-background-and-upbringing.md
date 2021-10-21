@@ -8,7 +8,7 @@ category: Mental Work Health
 
 One of the first things that I discovered when beginning therapy was to appreciate the impact that my previous life experiences have on my current situation. As I have talked with others, it seems clear that my experience is not unique. We all pass through moments that shape us into who we are today, and in order to understand ourselves, it is helpful to look back on our own history.
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._
 
 ***
 
@@ -61,4 +61,4 @@ As I have learned more about OCD, I have discovered that a common symptom is int
 
 Mental health can be affected by a number of factors. My journey began early in my life, and only recently have I come to realize the impact that it had on me. I will continue to explore my story in my next article on the [suggestion of counseling](https://bennorris.org/2019/12/23/suggestion-of-counseling/).
 
-_Note: This is part of a series describing [my story](https://mentalworkhealth.org/2019/11/09/my-story.html) discovering mental health._
+_Note: This is part of a series describing [my story](https://bennorris.org/2019/11/09/my-story) discovering mental health._

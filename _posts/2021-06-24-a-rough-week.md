@@ -18,7 +18,7 @@ This week was a struggle. This update shares **what that looked like**, and a po
 
 This past week was a little rough for me. Frankly, I was surprised at the struggle, but my therapist wasn’t. When I met with her last Friday, she told me she was expecting things to be hard.
 
-Here’s what a rough week looked like for me. I wrote last week about what started it for me: [running out of milk](https://www.mentalworkhealth.org/2021/06/16/out-of-milk.html). On Monday, I made it through work just fine, but by the time I went home in the evening, I was feeling some anxiety and agitation. We had a surprise birthday party for my father-in-law that evening, and I told my wife that I was willing to come, but there was a good chance that I would have to leave or sit in the car. We decided it would be better to just stay home.
+Here’s what a rough week looked like for me. I wrote last week about what started it for me: [running out of milk](https://bennorris.org/2021/06/16/out-of-milk). On Monday, I made it through work just fine, but by the time I went home in the evening, I was feeling some anxiety and agitation. We had a surprise birthday party for my father-in-law that evening, and I told my wife that I was willing to come, but there was a good chance that I would have to leave or sit in the car. We decided it would be better to just stay home.
 
 The next day, I tried to work, but things were not going well. I took the day off, and tried to cope. It is unusual for me to struggle alone in my quiet office—usually it is overstimulation that knocks me out. I stayed late, and told my wife:
 
@@ -43,11 +43,11 @@ I share details of the hierarchy partly for some public accountability. It can b
 
 ## Something good
 
-A few weeks ago, I [shared about a cross-stitch project](https://www.mentalworkhealth.org/2021/05/26/cross-stitching-at.html) that I had done in a week. Soon after finishing, I started a new project. I planned to make a gift for my nine-year-old’s birthday. When I showed him the pattern I was going to make for him, he didn’t know what it was. Even though [Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) is his favorite video game right now, the [pattern I had chosen](https://www.etsy.com/listing/699493190/link-legend-cross-stitch-pattern-retro) didn’t make sense to him. Sadly, this classic reference was totally lost on him: “It’s dangerous to go alone! Take this.”
+A few weeks ago, I [shared about a cross-stitch project](https://bennorris.org/2021/05/26/cross-stitching-at) that I had done in a week. Soon after finishing, I started a new project. I planned to make a gift for my nine-year-old’s birthday. When I showed him the pattern I was going to make for him, he didn’t know what it was. Even though [Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild) is his favorite video game right now, the [pattern I had chosen](https://www.etsy.com/listing/699493190/link-legend-cross-stitch-pattern-retro) didn’t make sense to him. Sadly, this classic reference was totally lost on him: “It’s dangerous to go alone! Take this.”
 
 ![Hylian shield and master sword cross-stitch](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/c9f85716f9.jpg)
 
-So I changed my plans (which is [notoriously difficult](https://www.mentalworkhealth.org/2021/06/04/plan-changes.html) for me) and made a different project that he would recognize. The change in design was supposed to be a surprise, but when I gave it to him, his first comment was that he had seen it while I was working on it. Regardless, he was happy to receive it, and I enjoyed making it.
+So I changed my plans (which is [notoriously difficult](https://bennorris.org/2021/06/04/plan-changes) for me) and made a different project that he would recognize. The change in design was supposed to be a surprise, but when I gave it to him, his first comment was that he had seen it while I was working on it. Regardless, he was happy to receive it, and I enjoyed making it.
 
 
 ## Something else

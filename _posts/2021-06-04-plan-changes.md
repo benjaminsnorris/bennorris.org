@@ -37,7 +37,7 @@ Overall, the classes were some of the most effective sessions I have ever led in
 
 ## Lesson
 
-One constant I can plan on is that plans will change. Even though I know this, every time it happens I still feel some distress. There is no way to predict how much distress will come, but the coping mechanism is the same in all cases. For me, the key is to sit with the emotions, as I wrote about [last week](https://www.mentalworkhealth.org/2021/05/26/cross-stitching-at.html).
+One constant I can plan on is that plans will change. Even though I know this, every time it happens I still feel some distress. There is no way to predict how much distress will come, but the coping mechanism is the same in all cases. For me, the key is to sit with the emotions, as I wrote about [last week](https://bennorris.org/2021/05/26/cross-stitching-at).
 
 The skill that makes the most difference is [mindfulness](https://en.wikipedia.org/wiki/Mindfulness). It can be easy to fall into fear that the emotion is going to be overwhelmingly painful. The fear of the fear is usually worse than the fear itself. If I can resist the urge to avoid the emotions, and just let them be, I can mindfully digest them.
 
