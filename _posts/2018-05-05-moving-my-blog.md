@@ -12,8 +12,8 @@ I have instead gone all in on [Micro.blog](https://micro.blog). I have long post
 
 **My new sites:**
 - [bsn.design](https://bsn.design): my home for blogging and microblogging
-- [sketchnotable.com](https://sketchnotable.com): dedicated to business-related sketchnotes
-- [gospelsketcher.org](https://gospelsketcher.org): dedicated to religious sketchnotes
+- [sketchnotable.com](http://sketchnotable.com): dedicated to business-related sketchnotes
+- [gospelsketcher.org](http://gospelsketcher.org): dedicated to religious sketchnotes
 
 **Micro.blog handles:**
 - [@bennorris](https://micro.blog/bennorris): my main social network account
