@@ -30,7 +30,7 @@ I finally remembered to take one of my rescue meds, which is effective at slowin
 
 Serendipitously, my brother called to chat soon after I took the rescue med, and I realized that was my opportunity to dart home. Talking with him would keep me awake enough to be safe to drive, and then I could just go to bed.
 
-Wednesday, I was exhausted, as is often the case after a a series of panic attacks. I took the day off work again and rested. By Thursday, I was pretty well recovered and able to engage with life again.
+Wednesday, I was exhausted, as is often the case after a series of panic attacks. I took the day off work again and rested. By Thursday, I was pretty well recovered and able to engage with life again.
 
 What threw me off so much? I’m sure it was a number of factors. But in the previous therapy session, we were talking about a new [hierarchy](https://en.wikipedia.org/wiki/Exposure_therapy) to work on for my OCD. Part of establishing a hierarchy is identifying the rule that my brain has made as well as the threat. We need to know the fear my brain is trying to protect me from.
 
