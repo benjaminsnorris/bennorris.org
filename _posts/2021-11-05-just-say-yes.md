@@ -55,7 +55,8 @@ In my more healthy moments, I can recognize and sit in that shame instead of pus
 As Albus Dumbledore wisely said:
 
 > It is our choices, Harry, that show what we truly are, far more than our abilities.
-￼
+
+
 ## Something good
 
 A few months ago, while discussing mess in the house, my therapist challenged me to say yes to the dishes. And keep saying yes. I thought about it a bit before committing, but then told my wife and kids that I was taking over the dishes.
