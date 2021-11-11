@@ -10,7 +10,7 @@ tags:
 
 This update is about a different kind of **panic attack** and illustrates the **uncertainty** inherent in mental illness.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -65,6 +65,8 @@ The challenge for me in this coming week, and for you, is to practice utter acce
 
 ***
 
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: One of the most helpful books I have read was [Hope and Help for Your Nerves](https://amzn.to/3yrCPTG). The audiobook version is not actually a narration of the book, but rather an audio series by Dr. Weekes on the same subject as the book. Highly recommended.

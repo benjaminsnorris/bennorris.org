@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this update, I share **details of the new app** I have been creating, and the **deep irony** of become obsessed with making it.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -42,4 +42,5 @@ I am even more excited to work on the app. This kind of treatment is so meaningf
 My hope is to be able to help in someone's journey of healing as well as staying committed to my own. I just have to take care to not exacerbate my OCD in the process.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

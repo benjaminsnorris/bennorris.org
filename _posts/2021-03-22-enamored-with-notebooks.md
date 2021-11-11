@@ -60,4 +60,5 @@ It is a little scary to be back in the chemical experimentation phase, and not k
 My mood is up this week, and it feels good. Wherever you might be, and however your mood might be, I hope you can find joy and compassion, both for yourself and for others. 
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

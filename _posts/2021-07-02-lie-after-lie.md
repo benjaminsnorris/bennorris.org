@@ -9,7 +9,7 @@ category: Mental Work Health
 
 This update describes a **week of obsession** as well an illustration of **making progress**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -61,4 +61,5 @@ Flexibility has been extremely difficult for me. We all struggle at times to adj
 We are coming up on a holiday weekend here in the U.S., which often brings lots of family time. That can be great and hard for so many of us. We just need to get up in the morning, and accept the day that is before us. We get to choose what to do with it. And we could all use some kindness with ourselves, whatever we choose.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this update, I share a positive application of my OCD in my efforts to become a villain.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -38,4 +38,5 @@ I’m still not sure exactly what happened there. Did he like my idea and went w
 One of the keys in my OCD recovery is recognizing the strengths that are associated with the way my brain operates, as well as the weaknesses. That is true for all of us. Often our weaknesses are just strengths that are misapplied or taken too far. Having that perspective can help us be kind to ourselves, and to those around us whose weaknesses are often more visible than their underlying strengths.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

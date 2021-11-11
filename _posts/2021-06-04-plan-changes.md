@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this week’s update, I share about a change in plans, and the challenge that comes from dealing with the associated emotions.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -51,4 +51,5 @@ Dealing with plan changes is all about expectations. The more I live in the futu
 So during this next week, the challenge is to identify a plan change that comes up, and sit with it. Instead of fighting against it and resisting the distress, use it as an opportunity to practice. Learn how it feels to have the distress course through our body. Come to recognize the texture of the distress. And finally, remember that at any moment, anyone around us could be dealing with the same struggle. Extend compassion to them, and to ourselves as well.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this past week, I dealt with the **pain** and **upside of surgery**, and wrestled with **an existential question**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -58,7 +58,9 @@ After more consideration, my answer is no. I would not ask to be healed of my OC
 I mentioned [last week](https://bennorris.org/2020/10/21/aftermath-of-therapy/) that I keep hoping to have a boring week, and keep not doing so. My surgery went well and recovery is progressing. The reminder that I am coming to peace with my OCD was a welcome surprise. I hope that whatever struggles you are facing, you are able to find the gold nuggets and come to peace with your situation.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: [Forged in Fire](https://en.wikipedia.org/wiki/Forged_in_Fire_(TV_series)) and football
 [^2]: That was the diagnosis of my psychiatrist when I described my reactions to him after the surgery last year.

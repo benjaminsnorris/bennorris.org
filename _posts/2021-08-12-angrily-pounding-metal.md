@@ -15,7 +15,7 @@ tags:
 
 In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -46,4 +46,6 @@ At any time, I can drop into that moment and just be present. And so can you.
 
 ***
 
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+

@@ -9,7 +9,7 @@ category: Mental Work Health
 
 This week was a struggle. This update shares **what that looked like**, and a possible cause. I also share about **another craft project**, and a **teaser of a new app**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -62,4 +62,5 @@ For the past couple years, I have been trying to think of an app idea around men
 We all have bad days, or bad weeks (or even bad months or years!). A key to getting through them is self-compassion. This is a good reminder for me, and hopefully for you too. Be kind, especially to yourself.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

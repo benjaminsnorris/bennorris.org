@@ -9,7 +9,7 @@ category: Mental Work Health
 
 This week, I share about **sitting with emotions**, a **link between creativity and mental health**, and **respect**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -68,4 +68,5 @@ Instead, the principle I think was behind the intent, and should be the main mes
 Whatever life is throwing at us right now, we would be well served to pause and notice how we are reacting to it. Find ways to be creative and look past ourselves and improve the lives of others. Practice respect and show up fully where you are. There is so much good in our lives amidst the challenges.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

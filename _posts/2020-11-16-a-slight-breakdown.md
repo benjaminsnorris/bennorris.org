@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this week’s update, I discuss **moving**, **playing games**, and **losing time**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -68,7 +68,9 @@ This slight breakdown was an exception to my usual pattern, and highlighted for 
 In some ways, I feel like things can only go up from here. Of course, that is not completely accurate. But I know that when I have these down moments, I just need to hold on and make it through and better times will come. These emotions will pass, as all do.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: We’ve heard that is a thing. Apparently museums and other places that need to regularly build temporary rooms use them as walls. We’ll see…
 [^2]: I had never heard of it before we got it. In case that’s you as well, it’s similar to the [card game Golf](https://en.wikipedia.org/wiki/Golf_(card_game)) but with 12 cards. Check it out [on Amazon](https://www.amazon.com/Magilano-Ultimate-Adults-Entertaining-exciting/dp/B06XZ9K244).

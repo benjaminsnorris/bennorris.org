@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -99,6 +99,8 @@ While these situations were public, and reached millions of people, the effect i
 It’s OK to not be OK.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: I wrote about Ted Lasso and the impact the show had on me [back in February](https://bennorris.org/2021/02/24/talking-with-strangers).

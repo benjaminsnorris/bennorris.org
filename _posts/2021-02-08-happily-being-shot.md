@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In a quick update this week, I discuss **taking a week off**, a **date with my son**, and a **device fast**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -54,7 +54,9 @@ Part of my goal is to be bored a bit more as an exposure[^2]. There are many fac
 That’s it for this week. I hope that you are happy and healthy and finding ways to care for yourself. Remember to be kind and compassionate, with yourself and others.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: Again, not the epic one of my dream, but the [smaller one](https://www.lego.com/en-us/product/millennium-falcon-75257).
 

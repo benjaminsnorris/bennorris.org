@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In my regular weekly update, I discuss **feeling like myself again**, renting a **private office**, and supporting my wife in taking a **sick day**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -56,4 +56,5 @@ With my mental health condition, I often experience increased amounts of shame a
 Mental health is such an important part of all of our lives, and affects both personal and professional relationships. My hope is that as we become more comfortable acknowledging the impact that mental health challenges have on us, we can discuss them more openly and handle them together more successfully.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

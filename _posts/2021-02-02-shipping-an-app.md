@@ -9,7 +9,7 @@ category: Mental Work Health
 
 My update from this week includes a **grossly overdue vehicle registration**, finally **releasing a major app update**, and **continued Lego-building success**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -64,7 +64,9 @@ That kind of activity was simply not realistic in the past. If I engaged with on
 My sincere hope is that you are finding areas of your life where you have progressed as well. It is important for us to take stock of where we are at, and try to improve for sure. But even more important, in my opinion, is to celebrate the wins we have had. This will give us the confidence and motivation to keep going and make even more changes.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: A good example is “Make Orwell fiction again” among many others. We have often received comments in parking lots from people who enjoy or resonate with them.
 

@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In my update this week, I try something new, and share the **story of a panic attack**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -59,4 +59,5 @@ Don’t chase the feeling away. Just try to sit with it. No judgment. Simply not
 That’s enough for this week. If you can do that, if I can do that, let’s celebrate. It may be a small victory, but it is still a meaningful win. Give yourself a smile and some kind words. You deserve it.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._

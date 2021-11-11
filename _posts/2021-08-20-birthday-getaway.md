@@ -14,7 +14,7 @@ tags:
 
 This week I share about delightful last-minute plans for **my birthday** and one of my heroes, **[John Moe](https://www.johnmoe.website/)**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -45,6 +45,8 @@ One of the things I love about John Moe and his work is that we are basically on
 We all have a chance in our own sphere to make a difference for the people around us. It could be one person that needs a smile, a kind word, or empowering vulnerability. That’s enough. I’m enough. You’re enough. Just as we are.
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: And I won the "Staff Pick" award! 🥳

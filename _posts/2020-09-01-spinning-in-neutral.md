@@ -9,7 +9,7 @@ category: Mental Work Health
 
 In the hopes of publishing more regularly, I am trying out a new format. I want to share some thoughts on **decisions**, **milestones**, and **exercise**.
 
-{% include weekly-update.md %}
+_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -40,6 +40,8 @@ There is always so much going on that it is easy to dismiss exercise as aspirati
 This felt good. I hope it did for you as well. There is so much going on in the world right now, and it can seem overwhelming. Be kind to yourself, and look for opportunities to reach out to others. 
 
 ***
-{% include subscribe-weekly.md %}
+
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+
 
 [^1]: [Ranger’s Apprentice](https://en.wikipedia.org/wiki/Ranger%27s_Apprentice) by John Flanagan
