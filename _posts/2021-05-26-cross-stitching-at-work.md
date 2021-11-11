@@ -37,7 +37,7 @@ While I made some progress at home in the evenings, where I really dug in was du
 
 I have found that I can listen so much better when my hands are occupied. This is why I [sketchnote](https://bennorris.org/sketchnotable/) many events when I want to learn or remember what I am hearing.
 
-![Mandolorian cross stitch](http://www.mentalworkhealth.org/uploads/2021/d261c53491.jpg)
+![Mandolorian cross stitch](https://media.bennorris.org/images/mentalworkhealth/uploads/2021/d261c53491.jpg)
 
 Exactly a week after I started, I finished the project. I still don’t know what I am going to do with the finished piece—probably frame it and give it to one of my kids. The process of creating it mattered much more to me than having an artifact at the end.
 

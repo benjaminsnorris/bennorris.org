@@ -48,7 +48,7 @@ Many of the points raised were running through my mind over the weekend. I have 
 
 After trying for a few minutes, I finally abandoned the attempt as unhelpful. However, a couple days later, I decided to try again. I think it significant that I first tried typing on my iPad, which did not work, and later moved to pen and paper, which proved more helpful. I intentionally chose a loose sheet of paper, and also wrote on top of my own words to further cement the impermanent nature of the writing.
 
-<img src="http://www.mentalworkhealth.org/uploads/2020/ecf9ee5ca5.jpg"/>
+![Journaling](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/ecf9ee5ca5.jpg)
 
 Through this act of tactile journaling, I realized some important points about my weekend of agitation. One of the biggest lessons was that my agitation came from fear, which is unsurprising. The insight was this:
 
