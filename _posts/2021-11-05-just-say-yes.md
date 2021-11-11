@@ -80,8 +80,6 @@ Earlier this week, my interview with Mike was released as an episode of the [Ske
 
 We are [opening registration today](https://www.eventbrite.com/e/meditative-sketchnoting-workshop-tickets-204255221867) for a free event on November 18 to discuss and practice sketchnotes as a meditative practice.
 
-[Sign up now!](https://www.eventbrite.com/e/meditative-sketchnoting-workshop-tickets-204255221867){:class="btn"}
-
 I am really excited about this and hope that it can be helpful for others as it has been for me.
 
 
