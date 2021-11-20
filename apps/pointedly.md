@@ -8,6 +8,7 @@ store_link:     https://bsn.design/download/pointedly
 sub_title:      Keep score
 app_image:      https://media.bsn.design/images/pointedly/pointedly.png
 app_id:         933257819
+permalink:      /apps/pointedly/
 ---
 
 ## Backstory

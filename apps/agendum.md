@@ -6,6 +6,7 @@ store_link:     https://bsn.design/download/agendum
 sub_title:      Outline & present text agenda
 app_image:      https://media.bsn.design/images/agendum/Agendum.png
 app_id:         1437361485
+permalink:      /apps/agendum/
 ---
 
 ## Backstory
