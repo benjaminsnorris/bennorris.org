@@ -7,6 +7,7 @@ image:
 gallery_thumb: https://media.bennorris.org/images/posts/gallery/mark-as-unread.jpg
 category: General
 tags:
+- software
 - sketchnotes
 ---
 
