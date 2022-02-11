@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mindful Sketch Template
-permalink: /mindfulsketch/
+permalink: /mindful-sketch-template/
 image: https://media.bennorris.org/images/bennorris/mindful-sketch-template.jpg
 ---
 
