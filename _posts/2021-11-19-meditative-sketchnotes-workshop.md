@@ -8,7 +8,7 @@ tags:
 short: true
 ---
 
-[Mike Rohde](https://rohdesign.com) and I conducted a workshop yesterday to share about meditative sketchnotes. This was our first time running this workshop, and while we learned a few things to improve for the next run, we were happy with howbit turned out.
+[Mike Rohde](https://rohdesign.com) and I conducted a workshop yesterday to share about meditative sketchnotes. This was our first time running this workshop, and while we learned a few things to improve for the next run, we were happy with how it turned out.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F9gUNLwOfOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
