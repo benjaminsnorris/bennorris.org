@@ -13,8 +13,24 @@
   {% assign postsByYear = include.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsByYear %}
     <section id="{{ year.name }}" class="taxonomy-section archive">
-      <h2>{{ year.name }}</h3>
-      {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
+      <h2>{{ year.name }}</h2>
+      <div class="entry-meta">
+        <ul>
+          <li class="meta-item">
+              <span>
+                  <span class="icon">{% include icon-bookmark.svg %}</span>
+                  {% include number-with-commas.html number=year.items.size %} {% if year.items.size == 1 %}post{% else %}posts{% endif %}
+              </span>
+          </li>
+          <li class="meta-item">
+              <span>
+                  <span class="icon text">#</span>
+                  {% include number-of-words.html posts=year.items %}
+              </span>
+          </li>
+        </ul>
+      </div>
+    {% assign postsInMonth = year.items | group_by_exp: 'post', 'post.date | date: "%b"' %}
       {% if year.size > 5 %}
       <ul class="taxonomy-index">
         {% for month in postsInMonth %}
@@ -28,7 +44,25 @@
       {% endif %}        
       {% for month in postsInMonth %}
         <div class="taxonomy-section" id="{{ year.name }}-{{ month.name }}">
-          <h3 class="taxonomy-title">{{ month.name }}</h3>
+          <div class="taxonomy-title">
+            <h3>{{ month.name }}</h3>
+            <div class="entry-meta">
+              <ul>
+                <li class="meta-item">
+                    <span>
+                        <span class="icon">{% include icon-bookmark.svg %}</span>
+                        {% include number-with-commas.html number=month.items.size %} {% if month.items.size == 1 %}post{% else %}posts{% endif %}
+                    </span>
+                </li>
+                <li class="meta-item">
+                    <span>
+                        <span class="icon text">#</span>
+                        {% include number-of-words.html posts=month.items %}
+                    </span>
+                </li>
+              </ul>
+            </div>
+                </div>
           {% for post in month.items %}
             {% include archive-entry.html %}
           {% endfor %}

@@ -23,6 +23,12 @@ layout: default
                     {% endif %}
                 </span>
             </p>
+            <p class="entry-meta">
+                <span class="meta-item">
+                    <span class="icon text">#</span>
+                    {% include number-of-words.html posts=tag_posts %}
+                </span>
+            </p>
         </div>
     </div>
 </header>

@@ -30,6 +30,11 @@
         </span>
       {% endif %}
     {% endunless %}
+    <span class="byline-item">
+      <span class="icon text">#</span>
+      {% assign post_words = post.content | number_of_words %}
+      {% include number-with-commas.html number=post_words %} words
+    </span>
     {% if post.categories.size > 0 %}
       {% for category in post.categories %}
         <span class="byline-item">

@@ -82,6 +82,11 @@
   .icon {
     margin-right: 0.5em;
     fill: $accent-color;
+
+    &.text {
+      color: $accent-color;
+      text-align: center;
+    }
   }
 
   .meta-item {
