@@ -1,7 +1,7 @@
 ---
 title: "Mindful Sketch Day 1"
 date: 2021-11-27 16:53:24-0700
-category: Sketchnotable
+category: Mental Work Health
 tags:
 - sketchnotes
 - mindfulsketch
