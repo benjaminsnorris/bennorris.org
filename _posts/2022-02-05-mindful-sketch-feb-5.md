@@ -1,13 +1,14 @@
 ---
 title: "Mindful Sketch Feb 5"
 date: 2022-02-05 07:30:00-0700
-category: Mental Work Health
+category: Mindful Sketch
 tags:
 - sketchnotes
 - mindfulsketch
 - mental health
 gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-05-0730-mindfulsketch.jpg
 read_time: false
+word_count: false
 ---
 
 ![Mindful sketch](https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-02-05-0730-mindfulsketch.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Mindful Sketch Feb 13"
 date: 2022-02-13 09:10:00-0700
-category: Mental Work Health
+category: Mindful Sketch
 tags:
 - sketchnotes
 - mindfulsketch
@@ -10,6 +10,7 @@ gallery_thumb:
 - https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-13-0740-mindfulsketch.jpg
 - https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-13-0910-mindfulsketch.jpg
 read_time: false
+word_count: false
 ---
 
 ![Mindful sketch](https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-02-13-0740-mindfulsketch.jpg)

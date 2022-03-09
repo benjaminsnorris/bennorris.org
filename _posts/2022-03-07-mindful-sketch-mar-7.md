@@ -1,13 +1,14 @@
 ---
 title: "Mindful Sketch Mar 7"
 date: 2022-03-07 07:30:00-0700
-category: Mental Work Health
+category: Mindful Sketch
 tags:
 - sketchnotes
 - mindfulsketch
 - mental health
 gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-03-07-0730-mindfulsketch.jpg
 read_time: false
+word_count: false
 ---
 
 ![Mindful sketch](https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-03-07-0730-mindfulsketch.jpg)

@@ -87,3 +87,4 @@ defaults:
     values:
       layout: post
       read_time: true
+      word_count: true

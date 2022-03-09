@@ -1,7 +1,7 @@
 ---
 title: "Mindful Sketch Feb 9 Part II"
 date: 2022-02-09 18:00:00-0700
-category: Mental Work Health
+category: Mindful Sketch
 tags:
 - sketchnotes
 - mindfulsketch
@@ -10,6 +10,7 @@ gallery_thumb:
 - https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-09-0750-mindfulsketch.jpg
 - https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-09-1800-mindfulsketch.jpg
 read_time: false
+word_count: false
 ---
 
 ![Mindful sketch](https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-02-09-0750-mindfulsketch.jpg)
