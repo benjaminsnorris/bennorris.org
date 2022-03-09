@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- mindfulsketch
 ---
 
 This week I talk about **navigating the emotions of a big plan change**, announce the **release of an exciting project**, and share my discovery of the **power of virtual whiteboarding**.

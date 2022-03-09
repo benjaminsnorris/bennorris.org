@@ -1,18 +1,16 @@
 ---
-title: "Mindful Sketch Day 1"
-date: 2021-11-27 16:53:24-0700
+title: "Mindful Sketch Jan 19"
+date: 2022-01-19 08:00:00-0700
 category: Mental Work Health
 tags:
 - sketchnotes
 - mindfulsketch
 - mental health
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/2021-11-27-mindfulsketch.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-01-19-0800-mindfulsketch.jpg
 read_time: false
 ---
 
-![Mindful sketch](https://media.bennorris.org/images/sketchnotable/mindfulsketch/2021-11-27-mindfulsketch.jpg)
-
-I started the morning with a helpful exercise. Hoping to make this more of a practice.
+![Mindful sketch](https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-01-19-0800-mindfulsketch.jpg)
 
 ***
 
