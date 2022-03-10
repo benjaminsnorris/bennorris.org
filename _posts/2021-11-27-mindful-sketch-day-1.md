@@ -19,4 +19,4 @@ I started the morning with a helpful exercise. Hoping to make this more of a pra
 
 *Mindful Sketch is an exercise that I developed to practice mindfulness by using sketchnotes. You can [view all mindfulsketch posts](/tags/mindfulsketch), [read more about it](/mindful-sketch-template/), or [buy the template](https://bennorris.shop/l/mindfulsketch) to support me and try the exercise yourself.*
 
-<a href="https://bennorris.shop/l/mindfulsketch" class="btn"><span class="icon">{% include icon-cart.svg %}</span>Buy now</a>
+<a href="https://bennorris.shop/l/mindfulsketch" class="btn"><span class="icon">{% include icon-cart.svg %}</span>Buy template</a>
