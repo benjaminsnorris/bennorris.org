@@ -5,7 +5,7 @@ permalink: /mindful-sketch-template/
 image: https://media.bennorris.org/images/bennorris/mindful-sketch-template.jpg
 ---
 
-<a href="https://bennorris.shop/l/mindfulsketch" class="btn"><span class="icon">{% include icon-cart.svg %}</span>Buy now</a>
+<a href="https://bennorris.shop/l/mindfulsketch" class="btn"><span class="icon">{% include icon-cart.svg %}</span>Buy template</a>
 
 In 2018, I discovered the world of mental health as I started having panic attacks, met with a therapist for the first time, and learned that I have severe OCD. Since then, I have been on a journey of recovery, healing, outreach, and advocacy. Now, I [write regularly](https://bennorris.org/mental-work-health/) about mental health, especially in the context of the workplace.
 
