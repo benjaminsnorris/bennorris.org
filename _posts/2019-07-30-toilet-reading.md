@@ -26,4 +26,4 @@ _A week’s usage of the Kindle app_
 
 Over the course of a couple weeks, I was able to finish the book *Digital Minimalism*, by Cal Newport, which I had been wanting to read for a while. I am currently reading *The Art of Gathering*, by Priya Parker.
 
-One of the biggest lessons that I have taken from this is the importance of analyzing my life and reclaiming time that I feel is being frittered away. This is in line with my [2019 goals](https://www.bennorris.org/2019/01/01/my-goals.html), which include **being intentional**. Small amounts of time consistently spent quickly add up to significant investments that can bring joy and fulfillment.
+One of the biggest lessons that I have taken from this is the importance of analyzing my life and reclaiming time that I feel is being frittered away. This is in line with my [2019 goals](https://www.bennorris.org/2019/01/01/my-2019-goals), which include **being intentional**. Small amounts of time consistently spent quickly add up to significant investments that can bring joy and fulfillment.

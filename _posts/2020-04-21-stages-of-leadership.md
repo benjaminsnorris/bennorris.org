@@ -10,7 +10,7 @@ category: General
 
 Most people transition through three stages of leadership, whether consciously or not. These stages are the **cruel tyrant**, the **benevolent dictator**, and the **servant leader**.
 
-*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
+*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership).*
 
 ***
 
@@ -55,11 +55,11 @@ Again, most of us know what it feels like to work with a leader in this stage. W
 
 ![Servant leader](https://media.bennorris.org/images/bennorris/uploads/2020/6d97c02170.jpg)
 
-The quality that distinguishes a servant leader is that they **unblock and trust** people. They see others as people, and take the time to get to know them and understand their strengths and limitations, and work to shape the environment to foster success. Only when operating this way can a leader truly perform their role to [protect](https://www.bennorris.org/2020/04/15/a-leaders-role.html) and [provide](https://www.bennorris.org/2020/04/17/a-leaders-role.html).
+The quality that distinguishes a servant leader is that they **unblock and trust** people. They see others as people, and take the time to get to know them and understand their strengths and limitations, and work to shape the environment to foster success. Only when operating this way can a leader truly perform their role to [protect](https://www.bennorris.org/2020/04/15/a-leaders-role-protects) and [provide](https://www.bennorris.org/2020/04/17/a-leaders-role-provide).
 
 This final stage is one of the most elusive. Unfortunately, it is not a destination. By its very nature, it is constantly changing and requires continuous work and investment to maintain. It is so easy to slip back into one of the previous stages, and so we must be vigilant and learn what our own warning signs of regression look like.
 
-To be a true servant leader requires someone to be comfortable with themselves enough to know how they can help and lift others, and also comfortable enough with others to get out of their way and let them work. This leader is focused on empowering people, and [leads through trust](https://www.bennorris.org/2020/04/14/leading-through-trust.html).
+To be a true servant leader requires someone to be comfortable with themselves enough to know how they can help and lift others, and also comfortable enough with others to get out of their way and let them work. This leader is focused on empowering people, and [leads through trust](https://www.bennorris.org/2020/04/14/leading-through-trust).
 
 When problems arise, such as performance issues, the servant leader first looks at themselves to question whether they have provided sufficient clarity and training. Often, the first step to resolving issues like this is to better understand the perspective of the person who appears to be struggling. If the leader has done everything necessary, often they will probe into the life of the individual and see if there are challenges or circumstances affecting the person’s ability to perform.
 
@@ -72,4 +72,4 @@ As a servant leader, we recognize that we do not matter any more, or any less, t
 
 As leaders, we need to become acutely aware of the style of leadership that we exhibit. Almost all leaders move through the three stages of **cruel tyrant**, **benevolent dictator**, and **servant leader**. Sometimes the transition between stages is unconscious, but we can work to be more intentional about the kind of leader that we want to be.
 
-_In the final article in my [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html), I will be exploring the effects of the stages of leadership._
+_In the final article in my [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership), I will be exploring the [effects of the stages of leadership](https://www.bennorris.org/2020/04/24/effects-of-stages)._

@@ -14,13 +14,13 @@ After coming to grips with the fact that I have a mental illness, I realized tha
 
 It is sad and ironic that one of the pernicious lies of mental illness is that you are alone and different from everyone else. While there is some truth to being different than most (or maybe just some!) people, you are far from alone. There are so many other people that grapple with the same kinds of issues.
 
-I have been humbled and touched by the response to my post a few weeks ago announcing my own struggles with mental health, [Coming out](https://www.bennorris.org/2019/01/26/coming-out.html). So many people reached out with kind words and compassion. But even more than that, many people responded by sharing some of their own struggles with mental health.
+I have been humbled and touched by the response to my post a few weeks ago announcing my own struggles with mental health, [Coming out](https://www.bennorris.org/2019/01/26/coming-out). So many people reached out with kind words and compassion. But even more than that, many people responded by sharing some of their own struggles with mental health.
 
 I think it is fair to say at this point that *everyone* has been touched by mental health issues, either directly or through a loved one.
 
 ![Mental health symbol](https://media.bennorris.org/images/bennorris/uploads/2019/3524f287db.png){:loading="lazy"}
 
-At times, I almost wish we wore a special emblem like the [Freemasons](https://en.wikipedia.org/wiki/Freemasonry) to be able to easily identify each other. I understand that this is a deeply private part of people’s lives, and many are not willing to share it openly. From my own experience, I have found so much healing in [acknowledging my struggle](https://www.bennorris.org/2019/02/19/relative-suffering.html) and openly sharing with others. I think we often fear stigma or backlash—I certainly did for a long time myself. But I have been met with compassion and love instead, and I relish the chance to extend that to others.
+At times, I almost wish we wore a special emblem like the [Freemasons](https://en.wikipedia.org/wiki/Freemasonry) to be able to easily identify each other. I understand that this is a deeply private part of people’s lives, and many are not willing to share it openly. From my own experience, I have found so much healing in [acknowledging my struggle](https://www.bennorris.org/2019/02/19/relative-suffering) and openly sharing with others. I think we often fear stigma or backlash—I certainly did for a long time myself. But I have been met with compassion and love instead, and I relish the chance to extend that to others.
 
 I want to pause and acknowledge the privilege I enjoy. As a straight white man, I have all of society behind me to fall back on. There are so many people who suffer with mental health struggles that do not have the same resources and privileges. I can only imagine what they go through.
 

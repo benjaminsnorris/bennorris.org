@@ -10,7 +10,7 @@ In our efforts to reassure someone that their transgression was not overly sever
 
 ***
 
-It is not uncommon for our natural instinct to preserve harmony and avoid discomfort to emerge when someone tries to apologize. We become uncomfortable that the other person is regretting what they have done, and seek to assure them that we are not upset. As I wrote about a few weeks ago in [Replacing sorry](https://www.bennorris.org/2019/01/25/replacing-sorry.html), we sometimes do this even when the other person is not apologizing. They say the words, “I’m sorry” and we immediately feel compelled to tell them that it’s fine.
+It is not uncommon for our natural instinct to preserve harmony and avoid discomfort to emerge when someone tries to apologize. We become uncomfortable that the other person is regretting what they have done, and seek to assure them that we are not upset. As I wrote about a few weeks ago in [Replacing sorry](https://www.bennorris.org/2019/01/25/replacing-sorry), we sometimes do this even when the other person is not apologizing. They say the words, “I’m sorry” and we immediately feel compelled to tell them that it’s fine.
 
 This scenario plays out so frequently that it deserves more thought and introspection. I think that part of our instinct comes from a good and natural desire to not let another person take full blame when they are not completely guilty. In his wonderful book *[How to Win Friends and Influence People](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)*, Dale Carnegie tells a story of using that instinct to his benefit, and suggests that we can similar.
 
@@ -33,4 +33,3 @@ That felt like a pretty perfect interaction.
 A true apology is a major moment of vulnerability. When someone is willing to be that honest with themselves to recognize that they feel regret for their actions, and then are willing to put themselves out and tell someone, we should honor that. Respecting their vulnerability doesn’t mean that we have to agree with them. But if our response is dismissive, we trivialize an act that was anything but trivial. We also miss out on an opportunity for a real, human connection.
 
 I hope that I can be better at admitting when I am wrong and truly apologizing, regardless of how it might be received. I also hope that I, and all of us, can be more gentle when someone is willing to be honest and vulnerable enough to apologize. If we can do that, we will encourage that behavior, and make it easier to be vulnerable in the future. And that is a good thing.
-

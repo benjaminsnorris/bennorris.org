@@ -14,7 +14,7 @@ I started reading [Digital Minimalism](http://calnewport.com/books/digital-minim
 
 As I thought more about the way I use my phone, I came to a few more decisions. I have found that as I write and publish more, I have begun caring more about whether people are commenting on my content. My use of Micro.blog has turned into compulsive checking and consumption. Part of the reason is that I value the interactions with real people that I have had, and I want to reply to people quickly. But, I have configured push notifications so that I will know when someone mentions me. There is no real reason for me to keep checking for mentions—it has just become habit.
 
-So I decided to change the apps in my dock again. The last time I did that was at the [beginning of the year](https://www.bennorris.org/2019/01/02/reorganizing-my-dock.html), when I chose to only have apps without badges in my dock. I have found myself opening my phone and mindlessly consuming content, which is a behavior that I want to discourage. My first [goal for this year](https://www.bennorris.org/2019/01/01/my-goals.html) is to be intentional. So I changed my dock again.
+So I decided to change the apps in my dock again. The last time I did that was at the [beginning of the year](https://www.bennorris.org/2019/01/02/reorganizing-my-dock), when I chose to only have apps without badges in my dock. I have found myself opening my phone and mindlessly consuming content, which is a behavior that I want to discourage. My first [goal for this year](https://www.bennorris.org/2019/01/01/my-2019-goals) is to be intentional. So I changed my dock again.
 
 ![Intentional dock](https://media.bennorris.org/images/bennorris/uploads/2019/dba16befef.jpg){:loading="lazy"}
 *Calm, Ferrite, iA Writer, Day One*

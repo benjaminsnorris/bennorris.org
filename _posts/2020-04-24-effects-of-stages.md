@@ -10,15 +10,15 @@ category: General
 
 Leadership permeates our lives. Good leadership has the ability to uplift, just as poor leadership corrodes. We will consider the effects in terms of **team makeup**, **team perspective**, and **team health**.
 
-*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html).*
+*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership).*
 
 ***
 
-In this final article of my series on leadership, I want to tie everything together. So far, I have written about the [importance of trust](https://www.bennorris.org/2020/04/14/leading-through-trust.html), a leader’s role to [protect](https://www.bennorris.org/2020/04/15/a-leaders-role.html) and [provide](https://www.bennorris.org/2020/04/17/a-leaders-role.html) which both require high trust, and the [three stages of leadership](https://www.bennorris.org/2020/04/21/stages-of-leadership.html), the highest of which, servant leader, is the only that actually fulfills the roles completely. I want to conclude with the consequences of all of this.
+In this final article of my series on leadership, I want to tie everything together. So far, I have written about the [importance of trust](https://www.bennorris.org/2020/04/14/leading-through-trust), a leader’s role to [protect](https://www.bennorris.org/2020/04/15/a-leaders-role-protect) and [provide](https://www.bennorris.org/2020/04/17/a-leaders-role-provide) which both require high trust, and the [three stages of leadership](https://www.bennorris.org/2020/04/21/stages-of-leadership), the highest of which, servant leader, is the only that actually fulfills the roles completely. I want to conclude with the consequences of all of this.
 
 As I constantly try and help my seven young children understand, we are free to make our own choices, but we do not get to choose the consequences of those choices. Therefore, it is vitally important that we understand the natural results of different courses of action so that we have the ability to influence them.
 
-There are a number of different effects of leadership that we could consider in evaluating the impacts of the stages of leadership. As a quick review of [my last article](https://www.bennorris.org/2020/04/21/stages-of-leadership.html), those stages are as follows:
+There are a number of different effects of leadership that we could consider in evaluating the impacts of the stages of leadership. As a quick review of [my last article](https://www.bennorris.org/2020/04/21/stages-of-leadership), those stages are as follows:
 
 1. **Cruel tyrant**. Punishes bad behavior.
 2. **Benevolent dictator**. Rewards good behavior.
@@ -40,16 +40,16 @@ A servant leader creates a completely different kind of team. Instead of dispara
 
 ### Cruel tyrant
 
-A cruel tyrant views other people, especially those on their team, as **disposable**. The people themselves don’t matter—as long as they don’t create problems, they are largely ignored. In the parlance of [Arbinger Institute](https://arbinger.com/home.html), these leaders see others as objects, and more specifically, as **irrelevancies**.
+A cruel tyrant views other people, especially those on their team, as **disposable**. The people themselves don’t matter—as long as they don’t create problems, they are largely ignored. In the parlance of [Arbinger Institute](https://arbinger.com/), these leaders see others as objects, and more specifically, as **irrelevancies**.
 
 This has a dramatic effect on the members of the teams led by cruel tyrant. Because they are living and working in fear, other people on the team or in the organization are **enemies**. Each one is a possible informant; someone watching for the slightest mistake in order to report and thus avoid personal punishment.
 
 
 ### Benevolent dictator
 
-Benevolent dictators have a similar, but slightly different view of others. The people still don’t matter, but the results do. Others are viewed as **potential output**. Again, in the [Arbinger Institute](https://arbinger.com/home.html) language, other people are objects, specifically **vehicles**. The leader may be nice, and even act caring, but all in the service of achieving the desired results.
+Benevolent dictators have a similar, but slightly different view of others. The people still don’t matter, but the results do. Others are viewed as **potential output**. Again, in the [Arbinger Institute](https://arbinger.com/) language, other people are objects, specifically **vehicles**. The leader may be nice, and even act caring, but all in the service of achieving the desired results.
 
-On teams with a benevolent dictator as the leader, people see each other as **competitors**. One person’s success means another person’s lost opportunity, so team members are constantly looking to one-up each other. They similarly see others as objects, in the [Arbinger Institute](https://arbinger.com/home.html) sense, but now as **blockers**.
+On teams with a benevolent dictator as the leader, people see each other as **competitors**. One person’s success means another person’s lost opportunity, so team members are constantly looking to one-up each other. They similarly see others as objects, in the [Arbinger Institute](https://arbinger.com/) sense, but now as **blockers**.
 
 
 ### Servant leader
@@ -87,8 +87,8 @@ As leaders, we are often seeking ways to unblock our teams, or to enable greater
 
 ## Conclusion
 
-When I wrote my series on [what mental illness feels like](https://www.bennorris.org/2019/03/18/what-mental-illness.html) last year, I [commented](https://www.bennorris.org/2019/03/27/i-finished-my.html) that it was my best writing so far. I meant that in the context that it was the most impactful and meaningful writing I had done, not necessarily that it exhibited any special skill of mine as a writer.
+When I wrote my series on [what mental illness feels like](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like) last year, I [commented](https://www.bennorris.org/2019/03/27/finishing-my-series) that it was my best writing so far. I meant that in the context that it was the most impactful and meaningful writing I had done, not necessarily that it exhibited any special skill of mine as a writer.
 
-I feel similarly about this [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership.html). These concepts are some of the most important to me. They have been floating around in my mind for a long time, and it was extremely helpful to be asked to present on them and to be forced to take some time to crystallize them. I feel so strongly about the importance of good leadership, and I have ideas and thoughts about what that means that are ultra-specific to a degree not surprising to anyone who knows me.
+I feel similarly about this [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership). These concepts are some of the most important to me. They have been floating around in my mind for a long time, and it was extremely helpful to be asked to present on them and to be forced to take some time to crystallize them. I feel so strongly about the importance of good leadership, and I have ideas and thoughts about what that means that are ultra-specific to a degree not surprising to anyone who knows me.
 
 My sincere hope is that something in this series has been helpful for you. But my primary audience for this is future me. I know that I will need a reminder of these principles that burn so brightly in me right now. Time and life have a way of dulling us, and if we are not intentional, we can lose some of the things that matter most to us now through neglect. Here’s to better leaders everywhere!

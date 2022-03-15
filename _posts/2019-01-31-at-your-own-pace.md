@@ -11,7 +11,7 @@ I share my thoughts from time spent at the rec center, and how those can be appl
 
 *Links:*
 
-[Being the worst](https://www.bennorris.org/2019/01/31/being-the-worst.html)
+[Being the worst](https://www.bennorris.org/2019/01/31/being-the-worst)
 
 <audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/79aff62720.mp3" />
 

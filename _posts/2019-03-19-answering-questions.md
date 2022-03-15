@@ -11,7 +11,7 @@ An exploration of the phenomenon of considering a topic for the purpose of answe
 
 *Links*
 
-[💮 Coming out](https://www.bennorris.org/2019/01/26/coming-out.html) (**tl;dr** Hi, I’m Ben, and I have OCD. 👋)
+[💮 Coming out](https://www.bennorris.org/2019/01/26/coming-out) (**tl;dr** Hi, I’m Ben, and I have OCD. 👋)
 
 [What is OCD?](https://iocdf.org/about-ocd/)
  

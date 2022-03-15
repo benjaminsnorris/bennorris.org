@@ -7,7 +7,7 @@ tags:
 category: General
 ---
 
-As I wrote about [last month](https://bennorris.org/2018/08/14/uitdd-with-xcode.html), I was able to speak at Cocoaheads on some work we have been doing with Xcode UI Testing. I am speaking again tonight at a different Cocoaheads group, which is exciting for me.
+As I wrote about [last month](https://bennorris.org/2018/08/14/ui-tdd-with-xcode), I was able to speak at Cocoaheads on some work we have been doing with Xcode UI Testing. I am speaking again tonight at a different Cocoaheads group, which is exciting for me.
 I had created a sample project for my presentation last month, but lost the project when my computer died and had to get the logic board replaced. I have recreated the sample project, and am happy to share it here:
 
 [UI Testing Example](https://github.com/benjaminsnorris/UITestingExample)

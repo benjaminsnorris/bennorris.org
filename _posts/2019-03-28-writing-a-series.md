@@ -9,13 +9,13 @@ category: General
 
 ![Writing](https://media.bennorris.org/images/bennorris/uploads/2019/ad48119cbb.png){:loading="lazy"}
 
-A few thoughts on the process and effects of writing my first series, [“What mental illness feels like.”](https://www.bennorris.org/2019/03/18/what-mental-illness.html)
+A few thoughts on the process and effects of writing my first series, [“What mental illness feels like.”](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like)
 
 ***
 
-As I shared in the conclusion of my overview of my [series on mental illness](https://www.bennorris.org/2019/03/18/what-mental-illness.html#conclusion), this was a learning exercise for me. This topic had been on my mind for a couple months. Part of the reason was to better understand my own experiences. In that sense, it was a resounding success.
+As I shared in the conclusion of my overview of my [series on mental illness](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like#conclusion), this was a learning exercise for me. This topic had been on my mind for a couple months. Part of the reason was to better understand my own experiences. In that sense, it was a resounding success.
 
-Another big part of me hopes that this series can be helpful to someone. As I wrote a couple weeks ago, I have come to realize that I belong to a [special society of sufferers](https://www.bennorris.org/2019/03/12/the-loneliest-club.html), and our membership numbers at least in the millions. There are so many people who are struggling to cope with crushing despair at learning they have a mental illness. Amidst that despair is also hope. We can learn to live well, even with mental illness as our companion.
+Another big part of me hopes that this series can be helpful to someone. As I wrote a couple weeks ago, I have come to realize that I belong to a [special society of sufferers](https://www.bennorris.org/2019/03/12/the-loneliest-club), and our membership numbers at least in the millions. There are so many people who are struggling to cope with crushing despair at learning they have a mental illness. Amidst that despair is also hope. We can learn to live well, even with mental illness as our companion.
 
 Part of the power of fright is the risk of the unknown. When a topic becomes off-limits to discuss or even consider, it gains influence and momentum in our lives. We need to tear open the shutters and let in some daylight to see what we are actually facing. Mental illness festers and strengthens in darkness. When we reveal it for what it really is, we come to see that, yes, it is scary, but it is also faceable. Just as the prophet-poet Isaiah said of the devil,
 

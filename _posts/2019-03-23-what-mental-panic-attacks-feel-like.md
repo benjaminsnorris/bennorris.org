@@ -10,11 +10,11 @@ category: Mental Work Health
 
 Mental panic attacks are the scarier version for me because they seem to come from nowhere. Often, my mind starts buzzing and filling up, even resembling the ESPN app multicast feature.  Multiple streams are playing simultaneously, but only one has audio.
 
-*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
+*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like).*
 
 ***
 
-As I wrote before, I differentiate mental panic attacks from the more common variety I experience, [physical panic attacks](https://www.bennorris.org/2019/03/22/what-physical-panic.html). In a physical panic attack, I am usually triggered as a result of intense emotions, and I can feel it building to some extent, or at least notice warning signs. Mental panic attacks seem to strike out of the blue, and thus are more uncertain and terrifying to me.
+As I wrote before, I differentiate mental panic attacks from the more common variety I experience, [physical panic attacks](https://www.bennorris.org/2019/03/22/what-physical-panic-attacks-feel-like). In a physical panic attack, I am usually triggered as a result of intense emotions, and I can feel it building to some extent, or at least notice warning signs. Mental panic attacks seem to strike out of the blue, and thus are more uncertain and terrifying to me.
 
 ## First episode
 

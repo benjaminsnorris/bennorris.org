@@ -10,7 +10,7 @@ category: Mental Work Health
 
 When depression is weighing me down, I feel like I am staring down the dark pit Rey faces on the island of [Ahch-To](https://www.starwars.com/databank/ahch-to).
 
-*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
+*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like).*
 
 ***
 

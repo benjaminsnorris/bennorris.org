@@ -12,31 +12,31 @@ I plan to continue my ongoing series on [my story discovering mental health](htt
 
 Included here are links to each of the articles in the series, along with the brief summary. I hope that you find something that is helpful  for your own mental health, or for your co-workers’.
 
-### [Leading through trust](https://www.bennorris.org/2020/04/14/leading-through-trust.html)
+### [Leading through trust](https://www.bennorris.org/2020/04/14/leading-through-trust)
 
 ![Spending trust](https://media.bennorris.org/images/bennorris/uploads/2020/3ef59003d5.jpg)
 
 As a leader, your most important commodity is **trust**. Every action you take, every word you say, every success you notice or ignore affects the trust others have in you.
 
-### [A leader’s role: protect](https://www.bennorris.org/2020/04/15/a-leaders-role.html)
+### [A leader’s role: protect](https://www.bennorris.org/2020/04/15/a-leaders-role-protect)
 
 ![Protect](https://media.bennorris.org/images/bennorris/uploads/2020/6d71210781.jpg)
 
 In my opinion, the most important functions a leader fulfills is to **protect** and **provide**. There are many ways in which a leader can do those, and I will first explore how a leader can protect **people**, the **team**, and the **company**.
 
-### [A leader’s role: provide](https://www.bennorris.org/2020/04/17/a-leaders-role.html)
+### [A leader’s role: provide](https://www.bennorris.org/2020/04/17/a-leaders-role-provide)
 
 ![Provide](https://media.bennorris.org/images/bennorris/uploads/2020/4b4fadf9a0.jpg)
 
 I believe that the most important roles a leader must serve are to **protect** and **provide**. I want to explore this further by considering how a leader can provide **support**, **clarity**, and **results**.
 
-### [Stages of leadership](https://www.bennorris.org/2020/04/21/stages-of-leadership.html)
+### [Stages of leadership](https://www.bennorris.org/2020/04/21/stages-of-leadership)
 
 ![Leadership stages](https://media.bennorris.org/images/bennorris/uploads/2020/66d881cc81.jpg)
 
 Most people transition through three stages of leadership, whether consciously or not. These stages are the **cruel tyrant**, the **benevolent dictator**, and the **servant leader**.
 
-### [Effects of stages](https://www.bennorris.org/2020/04/24/effects-of-stages.html)
+### [Effects of stages](https://www.bennorris.org/2020/04/24/effects-of-stages)
 
 ![Team](https://media.bennorris.org/images/bennorris/uploads/2020/eff11e3cd3.jpg)
 

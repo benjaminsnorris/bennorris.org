@@ -31,7 +31,7 @@ The final one-on-one with my departing employee was an emotional experience. One
 
 ![Carry less to give more goal](https://media.bennorris.org/images/mentalworkhealth/uploads/2020/6729957227.jpg){:loading="lazy"}
 
-As I wrote about [last week](https://bennorris.org/2020/11/02/loss-and-uncertainty), one of my best friends at work is moving on to a new role at a different company. I had an experience with him that highlighted one of my two big goals for 2020. I wrote about these on my [personal blog](https://www.bennorris.org/2020/01/01/my-goals.html) at the beginning of the year, and have kept them as the wallpaper on my phone and iPad to help me remember. The goals were simple:
+As I wrote about [last week](https://bennorris.org/2020/11/02/loss-and-uncertainty), one of my best friends at work is moving on to a new role at a different company. I had an experience with him that highlighted one of my two big goals for 2020. I wrote about these on my [personal blog](https://www.bennorris.org/2020/01/01/my-2020-goals) at the beginning of the year, and have kept them as the wallpaper on my phone and iPad to help me remember. The goals were simple:
 
 - Make more mistakes
 - Carry less to give more

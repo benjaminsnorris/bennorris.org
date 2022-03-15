@@ -10,7 +10,7 @@ category: Mental Work Health
 
 Having intrusive thoughts come in my mind is like having a terrible friend who keeps suggesting that I do ridiculous things. It can be hard at times to know who is speaking, but the more I get to know this friend, the better I can detect his voice.
 
-*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness.html).*
+*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like).*
 
 ***
 
