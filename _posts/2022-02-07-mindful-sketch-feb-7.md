@@ -6,7 +6,7 @@ tags:
 - sketchnotes
 - mindfulsketch
 - mental health
-gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-08-0820-mindfulsketch.jpg
+gallery_thumb: https://media.bennorris.org/images/mindfulsketch/thumbs/2022-02-08-0820-mindfulsketch.jpg
 read_time: false
 word_count: false
 ---

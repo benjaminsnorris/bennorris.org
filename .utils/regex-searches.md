@@ -114,3 +114,29 @@ gallery_thumb:
 
 #### Replace
 $1thumbs/$2
+
+
+## Mindful Sketch Image links
+
+### Example
+![Mindful sketch](https://media.bennorris.org/images/mindfulsketch/posts/2022-03-09-1834-mindfulsketch.jpg)
+
+### Regex
+#### Find
+!\[Mindful sketch\]\(https://media.bennorris.org/images/mindfulsketch/posts/.+?\)
+
+#### Replace
+$0{:loading="lazy"}
+
+
+## Move Mindful Sketch Images
+
+### Example
+https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/2022-03-07-0730-mindfulsketch.jpg
+
+### Regex
+#### Find
+https://media.bennorris.org/images/mentalworkhealth/mindfulsketch/(.+?)-mindfulsketch\.jpg
+
+#### Replace
+https://media.bennorris.org/images/mindfulsketch/posts/$1-mindfulsketch.jpg

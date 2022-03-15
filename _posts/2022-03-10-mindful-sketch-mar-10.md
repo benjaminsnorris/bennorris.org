@@ -11,7 +11,7 @@ read_time: false
 word_count: false
 ---
 
-![Mindful sketch](https://media.bennorris.org/images/mindfulsketch/posts/2022-03-10-0909-mindfulsketch.jpg)
+![Mindful sketch](https://media.bennorris.org/images/mindfulsketch/posts/2022-03-10-0909-mindfulsketch.jpg){:loading="lazy"}
 
 ***
 

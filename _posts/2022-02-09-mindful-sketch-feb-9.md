@@ -7,8 +7,8 @@ tags:
 - mindfulsketch
 - mental health
 gallery_thumb: 
-- https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-09-0750-mindfulsketch.jpg
-- https://media.bennorris.org/images/mentalworkhealth/thumbs/2022-02-09-1800-mindfulsketch.jpg
+- https://media.bennorris.org/images/mindfulsketch/thumbs/2022-02-09-0750-mindfulsketch.jpg
+- https://media.bennorris.org/images/mindfulsketch/thumbs/2022-02-09-1800-mindfulsketch.jpg
 read_time: false
 word_count: false
 ---
