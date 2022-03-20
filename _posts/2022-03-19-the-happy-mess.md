@@ -21,7 +21,7 @@ _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoin
 
 ## Something hard
 
-A few weeks ago, I met with my therapist and things were not going well. I have shared some of the struggles of the past month or two in some of my recent updates.
+A few weeks ago, I met with my therapist and things were not going well. I have shared some of the struggles of the past month or two in some of my [recent](https://bennorris.org/2022/03/05/spiraling-about-spiraling) [updates](https://bennorris.org/2022/03/12/losing-my-routine).
 
 My therapist said that she could tell something was off. I was **more symptomatic** than I had been in many months. My irritation level was high and constant, and I was consistently getting stuck in rigid black-and-white thinking.
 
