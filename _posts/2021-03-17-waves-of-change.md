@@ -4,12 +4,14 @@ date: 2021-03-17 07:24:00-0600
 tags:
 - weekly update
 - mental health
+- free writing
 category: Mental Work Health
 ---
 
 In my update this week, I share about **more departures at work**, **writing by hand**, and looking forward to a **new psychiatrist**.
 
 _These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+
 ***
 
 ## Something hard
