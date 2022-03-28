@@ -78,6 +78,10 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
 
+collections:
+  drafts:
+    output: true
+
 # Front Matter Defaults
 defaults:
   # _posts
@@ -88,3 +92,8 @@ defaults:
       layout: post
       read_time: true
       word_count: true
+  - scope:
+      path: "_drafts"
+      type: drafts
+    values:
+      layout: draft
