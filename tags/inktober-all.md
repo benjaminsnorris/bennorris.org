@@ -3,6 +3,5 @@ layout: tag-all
 title: Inktober
 taxonomy: inktober
 permalink: /tags/inktober/all/
+gallery-link: true
 ---
-
-[View image gallery](../gallery){:class="btn"}
