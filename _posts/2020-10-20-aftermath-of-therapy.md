@@ -4,6 +4,7 @@ date: 2020-10-20 22:59:47-0600
 tags:
 - weekly update
 - mental health
+- free writing
 category: Mental Work Health
 ---
 

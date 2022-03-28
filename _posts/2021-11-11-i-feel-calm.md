@@ -78,6 +78,8 @@ I want to memorize what she said and use it when I want to help and support, but
 
 > This is really hard. I feel calm. You can be by me.
 
+![I feel calm](https://media.bennorris.org/images/mentalworkhealth/posts/i-feel-calm.jpg){:loading="lazy"}
+
 
 ## Something else
 
