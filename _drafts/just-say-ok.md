@@ -1,10 +1,10 @@
 ---
 title: "#75: Just say ok"
-date: 2022-03-28 20:08:03-0600
+date: 2022-03-28 21:31:48-0600
 image: 
-  path: https://media.bennorris.org/images/mentalworkhealth/posts/placeholder.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/placeholder.jpg
-gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/placeholder.jpg
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/just-say-ok.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/just-say-ok.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/just-say-ok.jpg
 category: Mental Work Health
 tags:
 - weekly update
@@ -37,11 +37,11 @@ When I would describe any situation in which I had to adjust, there was so much 
 
 She pulled up a Saturday Night Live clip of the character [**Chad**](https://en.m.wikipedia.org/wiki/Chad_(Saturday_Night_Live)) for me to watch. She said **I needed to get to the point where I cared just as little as he**.
 
-<div class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/fF6gExZu-2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/fF6gExZu-2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Now that I knew the character, she wanted me to watch another clip where he dies and meets his dad. As is stereotypically true, discussing **father issues** is a recurring and **painful** part of my therapy. Again, she wanted me to tap into how unconcerned Chad was about something that could have been monumental.
 
-<div class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/Ivxx_grnL2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/Ivxx_grnL2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 As I left therapy, my therapist said that she needed **a thousand “Ok!”s** from me that week.
 
@@ -77,7 +77,7 @@ My wife was nearby and had witnessed the whole scene. She commented,
 
 I found a video in which someone compiled every time Chad says, “Ok!” and I have been **watching it almost daily**.
 
-<div class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/oJ9AvIIJTrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p class="container" style="position:relative;overflow:hidden;width:100%;padding-top:56.25%;"><iframe style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" src="https://www.youtube-nocookie.com/embed/oJ9AvIIJTrY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 As I shared the success of this practice with my therapist, we took some time to discuss it. I was particularly happy with my wife’s response. My therapist pointed out that most of the things that I had been saying “Ok!” to were **normal changes** that everyone navigates. The fact that my wife was blown away by my “unprecedented response” was more of **an indication of how difficult it has been to live with OCD**.
 
