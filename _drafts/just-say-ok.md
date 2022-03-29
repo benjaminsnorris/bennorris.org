@@ -1,10 +1,10 @@
 ---
 title: "#75: Just say ok"
-date: 2022-03-28 19:03:28-0600
+date: 2022-03-28 20:08:03-0600
 image: 
-  path: https://media.bennorris.org/images/mentalworkhealth/posts/
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/
-gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/placeholder.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/placeholder.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/placeholder.jpg
 category: Mental Work Health
 tags:
 - weekly update
