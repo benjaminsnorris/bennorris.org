@@ -15,6 +15,10 @@ blockquote,
 q {
   color: tint($text-color, 40%);
   font-style: italic;
+  
+  em {
+    font-style: normal;
+  }
 
   cite {
     font-size: 80%;
