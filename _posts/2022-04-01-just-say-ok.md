@@ -1,6 +1,6 @@
 ---
 title: "#75: Just say ok"
-date: 2022-03-28 21:31:48-0600
+date: 2022-04-01 06:51:37-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/just-say-ok.jpg
   thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/just-say-ok.jpg
@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This week’s update shares the story of learning a **magical word** that **unlocks my brain** and allows me to **do more of what I want**.
@@ -92,6 +93,8 @@ The goal is not to stop caring about everything. But if I can push myself to **a
 ## Challenge
 
 Over the coming week, the challenge for me, and for you if you’ll join me, is to **just say “Ok!” more**. If there is a strong and important reason to say no, we won’t do it. But for most everything, let’s go with it. We’ve got this.
+
+![Just say ok](https://media.bennorris.org/images/mentalworkhealth/posts/just-say-ok.jpg)
 
 ***
 

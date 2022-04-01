@@ -5,6 +5,7 @@ tags:
 - weekly update
 - mental health
 - free writing
+- story
 category: Mental Work Health
 ---
 

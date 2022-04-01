@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This week I share the story of realizing how my **beautiful morning routine had mutated**, and what I have to do about it.

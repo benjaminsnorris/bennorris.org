@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This update shares the story of the meditative sketchnoting workshop from last week, and how I tried to turn painful emotions into helpful tools for myself and others.

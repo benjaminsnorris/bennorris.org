@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This week, I share a personal experience that highlights how my OCD gets triggered. Thankfully, the story includes some help from my therapist that provides some hope for the future.

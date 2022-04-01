@@ -10,6 +10,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This week’s update shares the story of **hanging a whiteboard** in my office, and how it will help **challenge my OCD**.
