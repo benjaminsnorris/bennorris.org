@@ -10,4 +10,4 @@ short: true
 
 Synopsis sketchnotes from the Saturday afternoon session of General Conference. We can be healed, supported, and changed through the love of Jesus.
 
-![Apr 22 General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2022/apr-22-2-gen-conf.jpg)
+![Apr 22 General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2022/apr-22-2-gen-conf.jpg){:loading=“lazy”}

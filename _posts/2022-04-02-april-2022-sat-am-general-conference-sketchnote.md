@@ -9,6 +9,6 @@ tags:
 short: true 
 ---
 
-![Apr 22 General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2022/apr-22-1-gen-conf.jpg){:loading="lazy"}
-
 Synopsis sketchnotes from the opening session of General Conference. Peace can be found through our Savior.
+
+![Apr 22 General Conference Sketchnote](https://media.bennorris.org/images/gospelsketcher/general-conference/apr-2022/apr-22-1-gen-conf.jpg){:loading=“lazy”}
