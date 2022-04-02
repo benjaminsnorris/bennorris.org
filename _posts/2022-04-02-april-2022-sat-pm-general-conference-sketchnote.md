@@ -2,6 +2,7 @@
 title: "April 2022 Sat PM General Conference Sketchnote"
 date: 2022-04-02 16:17:41-0600
 category: Gospel Sketcher
+gallery_thumb: https://media.bennorris.org/images/gospelsketcher/thumbs/apr-22-2-gen-conf.jpg
 tags:
 - sketchnotes
 - general conference
