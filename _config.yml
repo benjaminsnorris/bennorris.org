@@ -97,3 +97,16 @@ defaults:
       type: drafts
     values:
       layout: draft
+  - scope:
+      path: "mindful-sketch"
+      type: posts
+    values:
+    layout: mindfulsketch
+      category: Mindful Sketch
+      tags:
+      - sketchnotes
+      - mindfulsketch
+      - mental health
+      read_time: false
+      word_count: false
+      excerpt_separator: "<!--more-->"
