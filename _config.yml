@@ -98,7 +98,7 @@ defaults:
     values:
       layout: draft
   - scope:
-      path: "mindful-sketch"
+      path: "mindful-sketch/_posts"
       type: posts
     values:
     layout: mindfulsketch
