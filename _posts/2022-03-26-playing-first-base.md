@@ -11,6 +11,7 @@ tags:
 - mental health
 - sketchnotes
 - free writing
+layout: mwh
 ---
 
 In this up-and-down week, I share about **needing an extra therapy session**, being **flexible at work**, and the **power of free writing**.
@@ -86,9 +87,3 @@ This is something I have [shared about in the past](https://bennorris.org/2021/0
 What a roller coaster of a week for me. From despondent and suicidal on Tuesday, to dancing around the house singing Friday. This was the perfect illustration of a key principle about emotions that my therapist had on her whiteboard for a long time:
 
 ![Allow emotions to do what emotions do…pass](https://media.bennorris.org/images/mentalworkhealth/uploads/2022/what-emotions-do.jpg)
-
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.org/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>
