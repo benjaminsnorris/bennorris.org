@@ -25,7 +25,7 @@ _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoin
 
 Last week’s therapy session was difficult. But I didn’t know that until a few days had passed—at the time, our discussion last week felt helpful and relevant.
 
-The warning signs that it was too much to handle started Sunday. I did a [mindful sketch exercise](https://bennorris.org/2022/03/20/mindful-sketch-mar-20) and realized that I was carrying some strong emotions.
+The warning signs that it was too much to handle started Sunday. I did a mindful sketch exercise and realized that I was carrying some strong emotions.
 
 ![Mindful Sketch](https://media.bennorris.org/images/mindfulsketch/posts/2022-03-20-0840-mindfulsketch.jpg){:loading="lazy"}
 
@@ -39,7 +39,7 @@ The agitation level was high, and I was on the verge of a panic attack all eveni
 
 Monday morning was more of the same. I got up and went to my office, dressed and ready to work out, but ended up shaking in my chair for a couple hours. I was finally able to get up and do a quick workout and shower and felt better enough to go about my day.
 
-In the afternoon, I did [another mindful sketch exercise](https://bennorris.org/2022/03/21/mindful-sketch-mar-21) and realized that I was feeling a lot of fear.
+In the afternoon, I did another mindful sketch exercise and realized that I was feeling a lot of fear.
 
 ![Mindful Sketch](https://media.bennorris.org/images/mindfulsketch/posts/2022-03-21-1442-mindfulsketch.jpg){:loading="lazy"}
 
