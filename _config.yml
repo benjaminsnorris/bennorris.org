@@ -101,7 +101,7 @@ defaults:
       path: "mindful-sketch/_posts"
       type: posts
     values:
-    layout: mindfulsketch
+      layout: mindfulsketch
       tags:
       - sketchnotes
       - mindfulsketch
