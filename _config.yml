@@ -102,7 +102,6 @@ defaults:
       type: posts
     values:
     layout: mindfulsketch
-      category: Mindful Sketch
       tags:
       - sketchnotes
       - mindfulsketch
