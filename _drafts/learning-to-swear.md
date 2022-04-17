@@ -1,6 +1,6 @@
 ---
-title: "Learning to swear 🅴"
-date: 2022-04-17 14:12:20-0600
+title: "Learning to swear"
+date: 2022-04-17 14:58:29-0600
 
 category: Mental Work Health
 tags:
@@ -25,7 +25,7 @@ As I have become a parent, my understanding of the challenges my parents faced, 
 
 More than once, I was punished by having my mouth washed out with soap for saying something that my parents considered unacceptable. That was not unique—I’d heard of many friends experiencing something similar. The problem came in the specifics. “Darn” was considered acceptable, but “dang” was not.
 
-I remember one particular time having soap in my mouth (I learned that liquid soap was much worse than a bar). The offending word is said was “crap.” My dad said that someone at his work had said something that he agreed with: “It’s just a replacement for another four-letter word.” I thought to myself, “Yeah, that’s the whole point. It’s a replacement!” That kind of logic did not work in those situations, and I wouldn’t have even dared to say that aloud.
+I remember one particular time having soap in my mouth (I learned that liquid soap was much worse than a bar). The offending word I’d said was “crap.” My dad said that someone at his work had said something that he agreed with: “It’s just a replacement for another four-letter word.” I thought to myself, “Yeah, that’s the whole point. It’s a replacement!” That kind of logic did not work in those situations, and I wouldn’t have even dared to say that aloud.
 
 In the sixth grade, we had a substitute teacher that I despised. I took to calling her “The Witch Bitch” to other kids in my class. I explained that I wasn’t swearing—I was just saying she was a female dog. Looking back now, I have a hard time understanding why that reasoning made it ok for me to be so horrible to or about that woman.
 
@@ -48,7 +48,7 @@ One of the real problems with my mental stance on swearing was the way in which 
 
 Most of the issue was that it made me deeply uncomfortable. At the time, I couldn’t process that. I just knew that someone had fallen off a pedestal a bit if I learned that they had ever cursed.
 
-My grandfather served in World War II and in Vietnam in the Army Air Corps, and then the Air Force when it was created. He had printed his journals from the wars into a book for us to be able to read as a family. I remember how shocked I was to learn that he had gone back through and removed all curse words. I couldn’t imagine my grandpa ever swearing. But that seemed to be the way to handle it—eradicate all evidence of it ever occurring.
+My grandfather served in World War II and in Vietnam in the Army Air Corps, and then the Air Force when it was created. He had printed his journals from the wars into a book for us to be able to read as a family. I remember it shocked me to learn that he had gone back through and removed all curse words. I couldn’t imagine my grandpa ever swearing. But that seemed to be the way to handle it—eradicate all evidence of it ever occurring.
 
 When I was engaged to my now-wife, she told me once that she hated crafts, and they made her swear. I honestly paused and talked with a trusted mentor. “I don’t know if I can marry her—she said crafts make her swear.” Fortunately for me, that friend talked some sense into me, and I proceeded with the best decision of my life.
 
@@ -59,19 +59,19 @@ Early in my career, one of my favorite managers shocked me when she mentioned th
 
 Starting in the summer of 2018, and culminating in early 2019, I had my great breakdown. I was having panic attacks multiple times every week, and spending much of my time sequestered away in the basement. I would try to watch movies or anything to get time to pass faster.
 
-One evening I started watching Inside Out. I had watched it before and enjoyed it. This time, it felt too real. When the part came that the islands of personality started crumbling, clear and loud, in my mind, I shouted, “Shit! I can’t take this right now.”
+One evening I started watching [Inside Out](https://en.wikipedia.org/wiki/Inside_Out_(2015_film)). I had watched it before and enjoyed it. This time, it felt too real. When the islands of personality started crumbling, clear and loud, in my mind, I shouted, “Shit! I can’t take this right now.”
 
-When I went to my next therapy session, I told the story to my therapist. My mind was screaming at me to not say it out loud—my therapist would think I was a horrible person. She’s probably stop seeing me. I risked it, and told her what I thought when watching the movie. I held my breath a little after I said it, waiting for the inevitable disappointment and condemnation.
+When I went to my next therapy session, I told the story to my therapist. My mind was screaming at me to not say it out loud—my therapist would think I was a horrible person. She’d probably stop seeing me. I risked it, and told her what I thought when watching the movie. I held my breath a little after I said it, waiting for the inevitable disappointment and condemnation.
 
 It never came.
 
 The rest of the session passed normally. It wasn’t until a few weeks later that I told my therapist how significant that was for me. I shared some of my back story and why swearing felt like such a big deal to me. She told me was a good thing that I said it. I needed to swear to challenge the rule my mind had created. I needed to risk the threat and see that it wasn’t actually a catastrophe.
 
-Swearing started to feel good. It was the forbidden toy that I had never gotten to play with, and now I could. I tried it out with people that I respected. That I worried would think less of me. I told them that I had realized that swearing didn’t make me a terrible person.
+Swearing started to feel good. It was the forbidden toy that I had never gotten to play with, and now I could. I tried it out with people that I respected. People I worried would think less of me. I told them that I had realized that swearing didn’t make me a terrible person.
 
 I told them I now knew it was fucked up what my brain was doing to me.
 
-Each person that I worked up the courage to say that to was a small victory. I still felt each time like my stomach dropped out under me. But there was also a little thrill. I had actually said “fuck.” Out loud. And I didn’t burn on the spot.
+Each person that I worked up the courage to say that to was a small victory. I still felt each time like my stomach dropped out from under me. But there was also a little thrill. I had actually said “fuck.” Out loud. And I didn’t burn on the spot.
 
 As I learned more about OCD, I found it helpful to externalize the thoughts a bit. I started calling my OCD “Fernando”, which I explained more in a post about [how intrusive thoughts feel](https://bennorris.org/2019/03/26/what-intrusive-thoughts-feel-like).
 
@@ -102,16 +102,18 @@ Board games, and even video games, now draw out quite a bit of profanity from me
 
 An interesting phenomenon has developed for me. As I have removed some of the iron-clad restrictions on forbidden thoughts, I have become more authentic. I’m not always perfect, and I’m ok with that.
 
-I was at a friend’s house playing video games, and as his wife came into the room, I was swearing up a storm. He was much better than me, and every mistake on my part was punctuated with profanity. She laughed as she heard me, “I didn’t know you swore. I actually trust you so much more now.”
+I was at a friend’s house playing video games, and as his wife came into the room, I was swearing up a storm. He was much better than I, and every mistake on my part was punctuated with profanity. She laughed as she heard me, “I didn’t know you swore. I actually trust you so much more now.”
 
-Because strong feelings often bring out strong language in me, it has become something of a barometer. If small things are making me swear, it’s typically an indication that OCD is starting to take over. When that happens, I feel a low rumble of anger and anxiety constantly, which erupts frequently and with little provocation. If I hear myself crying out, “Fucking hell!” because my favorite pants aren’t clean, I know it’s time for some emotion processing.
+Because strong feelings often bring out strong language in me, it has become something of a barometer. If small things are making me swear, it’s typically an indication that OCD is starting to take over. When that happens, I feel a low rumble of anger and anxiety constantly, which erupts frequently and with little provocation.
+
+If I hear myself crying out, “Fucking hell!” because my favorite pants aren’t clean, I know it’s time for some emotion processing.
 
 
 ## Conclusion
 
 As I said at the beginning, my goal is to not to speak like a sailor all the time. (Or a pipeline construction worker like I worked with, who were very proud of how foul-mouthed they were.) But as I have let go of most of the judgement around swearing, my life has become easier and more happy.
 
-My brain still gets worked up at times, and tries to convince me that I am going to hell if I say hell outside of a church context. I have to fight off thoughts of being unworthy of love.
+My brain still gets worked up at times, and tries to convince me that I am going to hell if I say “hell” outside of a church context. I still have to fight off thoughts of being unworthy of love.
 
 Some of my best and deepest conversations with friends or with my therapist have included plenty of profanity.
 
