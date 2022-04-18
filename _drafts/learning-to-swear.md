@@ -1,13 +1,13 @@
 ---
 title: "Learning to swear"
-date: 2022-04-17 14:58:29-0600
+date: 2022-04-17 20:39:18-0600
 
 category: Mental Work Health
 tags:
 - 
 ---
 
-One aspect of my OCD recovery has been learning that swearing is ok. While my goal is not to be constantly foul-mouthed, I am not a horrible person if I curse. And neither is anyone else who does.
+One aspect of my OCD recovery has been learning that swearing is ok. While my goal is not to be constantly profane, I am not a horrible person if I curse. And neither is anyone else who does.
 
 ***
 
@@ -111,10 +111,10 @@ If I hear myself crying out, “Fucking hell!” because my favorite pants aren�
 
 ## Conclusion
 
-As I said at the beginning, my goal is to not to speak like a sailor all the time. (Or a pipeline construction worker like I worked with, who were very proud of how foul-mouthed they were.) But as I have let go of most of the judgement around swearing, my life has become easier and more happy.
+As I said at the beginning, my goal is to not to speak like a sailor all the time. (Or a pipeline construction worker like I worked with, who were very proud of how foul-mouthed they were.) But as I have let go of most of the judgement around swearing, my life has become easier and happier.
 
 My brain still gets worked up at times, and tries to convince me that I am going to hell if I say “hell” outside of a church context. I still have to fight off thoughts of being unworthy of love.
 
-Some of my best and deepest conversations with friends or with my therapist have included plenty of profanity.
+But some of my best and deepest conversations with friends or with my therapist have included plenty of profanity.
 
 In the end, there are things that matter much more to me now. And I hope that I can remember that.
