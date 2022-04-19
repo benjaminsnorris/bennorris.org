@@ -1,5 +1,5 @@
 ---
-title: "Learning to swear <sup>🅴</sup>"
+title: "Learning to swear"
 date: 2022-04-17 20:48:48-0600
 
 category: Mental Work Health
