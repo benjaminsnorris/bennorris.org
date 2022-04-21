@@ -1,7 +1,10 @@
 ---
 title: "#78 Painful therapy"
-date: 2022-04-17 20:35:02-0600
-
+date: 2022-04-21 14:46:13-0600
+image: 
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/painful-therapy.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/painful-therapy.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/painful-therapy.jpg
 category: Mental Work Health
 tags:
 - 
