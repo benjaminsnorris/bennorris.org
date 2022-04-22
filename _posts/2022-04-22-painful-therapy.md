@@ -1,13 +1,16 @@
 ---
-title: "#78 Painful therapy"
-date: 2022-04-21 14:46:13-0600
+title: "#78: Painful therapy"
+date: 2022-04-22 07:47:17-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/painful-therapy.jpg
   thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/painful-therapy.jpg
 gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/painful-therapy.jpg
+layout: mwh
 category: Mental Work Health
 tags:
-- 
+- weekly update
+- mental health
+- sketchnotes
 ---
 
 This week, I share about a **difficult therapy session**, the **joys of doing what I love for work**, and **striving to find balance.**
@@ -46,7 +49,7 @@ And I **loved** it!
 
 I had forgotten just how much I enjoy the process of identifying a problem and then crafting a solution.
 
-The engineering work that I am doing right now is to **enable my other team members** to work more effectively. An example is that we store our data in [Airtable](https://airtable.com/invite/r/wlImDzJx), have our website built by [Webflow](https://webflow.com), while managing our customers and accounts in [Outseta](https://www.outseta.com), sending transactional emails from [SendGrid](https://sendgrid.com), and have everything connected with [Make](https://www.make.com/en/register?pc=bennorris). This week, among other tasks, I made it possible to create a record in Airtable, filling it out like you would a spreadsheet, and then it publishes a landing page with a link to a waitlist that we can send out to get people interested in a program we are going to run.
+The engineering work that I am doing right now is to **enable my other team members** to work more effectively. An example is that we store our data in [Airtable](https://airtable.com/invite/r/wlImDzJx), have our website built by [Webflow](https://webflow.com), while managing our customers and accounts in [Outseta](https://www.outseta.com), sending transactional emails from [SendGrid](https://sendgrid.com), and have everything connected with [Make](https://www.make.com/). This week, among other tasks, I made it possible to create a record in Airtable, filling it out like you would a spreadsheet, and then it publishes a landing page with a link to a waitlist that we can send out to get people interested in a program we are going to run.
 
 One of my favorite moments was working together with one of my team members, and watching him try to create a new landing page. The process took just a few minutes, but then there was an error. I jumped in to diagnose and fix it, and he saw the configuration in Make, and commented,
 
