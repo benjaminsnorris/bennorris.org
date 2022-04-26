@@ -1,13 +1,13 @@
 ---
 title: "#79 Need for journaling"
-date: 2022-04-24 21:34:39-0600
+date: 2022-04-25 18:33:53-0600
 
 category: Mental Work Health
 tags:
 - 
 ---
 
-
+This week, I share the realization I had about **what is missing** in my life right now. Ironically, **it’s something I just removed**.
 
 _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
@@ -15,21 +15,21 @@ _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoin
 
 ## Story
 
-At the end of last week, I had a couple demoralizing stints of unproductivity. I had arranged with my wife to stay late Friday evening and work extra to try and get ahead on some of the projects I wanted to tackle. Then again, I took some time Saturday afternoon to go in to the office and work a little extra.
+At the end of last week, I had a couple **demoralizing stints of unproductivity**. I had arranged with my wife to stay late Friday evening and work extra to try and get ahead on some of the projects I wanted to tackle. Then again, I took some time Saturday afternoon to go in to the office and work a little extra.
 
 But I got almost nothing done.
 
-One of the things I realized Saturday evening is that I wanted to do some journaling. I wrote a couple weeks ago about breaking my journaling streak in Day One in update [#77: Breaking streaks](https://bennorris.org/2022/04/15/breaking-streaks). Since then, I had done almost no journaling whatsoever.
+One of the things I realized Saturday evening is that **I wanted to do some journaling**. I wrote a couple weeks ago about breaking my journaling streak in Day One in update [#77: Breaking streaks](https://bennorris.org/2022/04/15/breaking-streaks). Since then, I had done almost no journaling whatsoever.
 
-But it went back further than that. In early March, I wrote about discussing with my therapist how my nice morning routine had become a compulsion in update [#72: Losing my routine](https://bennorris.org/2022/03/12/losing-my-routine).
+But it went back further than that. In early March, I wrote about discussing with my therapist how **my nice morning routine had become a compulsion** in update [#72: Losing my routine](https://bennorris.org/2022/03/12/losing-my-routine).
 
 > We talked for a bit about how things that might be good for most people can become dangerous with OCD. **The issue is not the routine itself.** The problem is in allowing my mind to dictate what I must do in order to be able to function in the day. When that happens, I have to challenge it. I have to lean in to the uncertainty. It’s a great routine, and if I’m able to do those things, that’s fantastic. But they are not a right. If they can’t happen on a particular day, that’s ok. Or at least, it has to become ok.
 
 Since then, I have not been doing much of my morning routine and the activities I enjoyed so much.
 
-As a side note, that exact situation illustrates some of the hardest aspects of my OCD. First off, it attacks things that matter to me. The biggest area of life where I struggle with compulsions is with family relationships—the most important things for me. Second, OCD latches on to the what is significant in my mind and warps it. Activities that I want to be doing become imbued with mystical importance, and missing them becomes an existential threat.
+As a side note, that exact situation illustrates some of the hardest aspects of my OCD. **It attacks things that matter to me.** The biggest area of life where I struggle with compulsions is with family relationships—the most important things for me. Second, OCD latches on to what is significant in my mind and **warps** it. Activities that I want to be doing become imbued with mystical importance, and missing them becomes an existential threat.
 
-Another compounding factor is that I have started doing engineering work lately. As I wrote about a few weeks ago in update [#74: Playing first base](https://bennorris.org/2022/03/26/playing-first-base), I realized that I wanted to be doing more of the work in which I have the most experience.
+Another compounding factor is that **I have started doing engineering work lately**. As I wrote about a few weeks ago in update [#74: Playing first base](https://bennorris.org/2022/03/26/playing-first-base), I realized that I wanted to be doing more of the work in which I have the most experience.
 
 Last week, in update [#78: Painful therapy](https://bennorris.org/2022/04/15/breaking-streaks), I processed some of my lack of balance.
 
@@ -39,7 +39,7 @@ Last week, in update [#78: Painful therapy](https://bennorris.org/2022/04/15/bre
 > 
 > Working like this is also draining and exhausting. Even though I am energized and love the work, if I am not taking time to think and process, I run myself ragged. This is a good moment to take stock and realize the extreme I am swinging to, and take steps to find some middle ground.
 
-As I read back I’ve the words I wrote last week, I was reminded of how I realized that truth from writing it.
+As I read back the words I wrote last week, I was reminded of how I realized that truth from writing it.
 
 Austin Kleon has written a bunch about this as well. One of his recent newsletters shared about how [writing and drawing are a form of thinking on the page](https://austinkleon.com/2022/02/08/thinking-on-the-page/):
 
@@ -56,7 +56,7 @@ Through my writing last week, I was able to realize that I need some more balanc
 
 ## Lesson
 
-One of the comments I made to my wife after realizing what I’ve been missing is that I am so tired of living at 0 or 100. It is exhausting to do everything either completely or not at all. My natural instinct is either to be journaling obsessively every day, or not doing it for days or weeks.
+I commented to my wife that I am so tired of living at 0 or 100. It is exhausting to do everything either completely or not at all. My natural instinct is either to be journaling obsessively every day, or not doing it for days or weeks.
 
 There is a part of me that would like to be more measured. I would like to be able to do some things in my life partway.
 
@@ -73,4 +73,4 @@ Over this coming week, the challenge I extend to myself, and to you if you’ll 
 
 Hopefully as we do this more often, it will become easier and more instinctual.
 
-We are always changing, as are our needs, so this will be a never-ending process. 
+We are always changing, as are our needs, so this will be a never-ending process. We’ve can do this.
