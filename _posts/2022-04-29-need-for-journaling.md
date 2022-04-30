@@ -11,6 +11,7 @@ tags:
 - weekly update
 - mental health
 - sketchnotes
+- story
 ---
 
 This week, I share the realization I had about **what is missing** in my life right now. Ironically, **it’s something I just removed**.
