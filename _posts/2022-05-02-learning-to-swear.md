@@ -2,12 +2,14 @@
 title: "Learning to swear"
 date: 2022-05-02 09:47:18-0600
 category: Mental Work Health
+image: 
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/learning-to-swear.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/learning-to-swear.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/learning-to-swear.jpg
 tags:
 - mental health
 - sketchnotes
 ---
-
-![Learning to swear](https://media.bennorris.org/images/mentalworkhealth/posts/learning-to-swear.jpg)
 
 One aspect of my OCD recovery has been learning that **swearing is ok**. While my goal is not to be constantly profane, **I am not a horrible person** if I curse. And neither is anyone else who does.
 
