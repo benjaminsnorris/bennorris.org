@@ -1,6 +1,6 @@
 ---
-title: "Bees in charge"
-date: 2022-05-10 08:23:03-0600
+title: "#80: Bees in charge"
+date: 2022-05-10 09:51:21-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/bees-in-charge.jpg
   thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/bees-in-charge.jpg
@@ -15,6 +15,11 @@ This week I share about **speaking in church**, **having conversations out loud*
 _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
+
+Last week I wrote an article that resonated with many. Since I posted outside of my regular updates, I thought to mention it here. It is the story of [learning to swear](https://bennorris.org/2022/05/02/learning-to-swear).
+
+[![Learning to swear](https://media.bennorris.org/images/mentalworkhealth/posts/learning-to-swear.jpg)](https://bennorris.org/2022/05/02/learning-to-swear){:loading="lazy"}
+
 
 ## Something hard
 
