@@ -8,7 +8,10 @@ gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/uncert
 layout: mwh
 category: Mental Work Health
 tags:
-
+- weekly update
+- mental health
+- sketchnotes
+- story
 ---
 
 This week I discuss how **years of confronting OCD** have prepared me to **handle change and uncertainty**.
