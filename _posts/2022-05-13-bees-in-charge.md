@@ -51,7 +51,7 @@ How often we do this to ourselves! Even with something that we have done many ti
 
 ## Something good
 
-As I mentioned last week, I am now in a period of uncertainty at work. I am moving into doing **contracting work**, which is something I have never done full-time. I continue to be pleased with the way in which I have been able to approach the uncertainty.
+As I mentioned last week in [update #80: Uncertainty training](https://bennorris.org/2022/05/06/uncertainty-training), I am now in a period of uncertainty at work. I am moving into doing **contracting work**, which is something I have never done full-time. I continue to be pleased with the way in which I have been able to approach the uncertainty.
 
 One of the wins from this past week was to recognize where I had been having extensive conversations in my mind, but not in actuality. I was surprised by my wife commenting about something that we hadn’t discussed together almost at all. I took some time to think about it and realized that **I had only been talking to her in my mind**.
 
