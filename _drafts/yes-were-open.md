@@ -1,7 +1,10 @@
 ---
 title: "#82 Yes, we’re open"
-date: 2022-05-15 10:45:55-0600
-
+date: 2022-05-15 18:57:37-0600
+image: 
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/yes-we’re-open.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/yes-we’re-open.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/yes-we’re-open.jpg
 category: Mental Work Health
 tags:
 - 
@@ -72,7 +75,7 @@ I was struck how often this kind of experience occurs. I have in my mind how som
 
 But most of the time, change happens slowly and imperceptibly. Only when looking back are you able to identify that a shift has occurred.
 
-And that’s where I’m at now with my business. I’m still working on getting the business website polished and ready to share. I want to figure out what some of my processes will be. In the meantime, I’m just moving forward and doing the work.
+Well, that’s where I’m at now with my business. I’m working on getting the business website polished and ready to share. I want to figure out what some of my processes will be. It’s tempting to feel like I have to get all of that done before I can really start. But I am pushing myself to just move forward and do the work.
 
 I’ve decided that I am going to position myself as a mobile consultant. I realized that I now have years of valuable experience and can really help people with their mobile projects. I will lead with being a mobile engineer, but can also do mobile design and product management. As I tell people about work, I’m getting better at asking them if they know people who need help with mobile projects. That’s not something I’ve had to look for before, so it’s new territory for me.
 
@@ -81,4 +84,6 @@ This is an exciting time. I am so grateful for my growth over the past few years
 
 ## Wrap up
 
+Whatever you are wanting to start doing in your life, but waiting until you have things set up perfectly, I encourage you to just start. More than likely, you already have. It can help to talk with someone who can see an outside perspective and help you see things differently.
 
+We all put so many demands on ourselves. Let’s try to recognize and celebrate our wins as well. We are doing more than we realize.
