@@ -81,6 +81,8 @@ exclude:
 collections:
   drafts:
     output: true
+  presentations:
+    output: true
 
 # Front Matter Defaults
 defaults:
@@ -97,3 +99,10 @@ defaults:
       type: drafts
     values:
       layout: draft
+  - scope:
+      path: "_presentations"
+      type: presentations
+    values:
+      layout: post
+      read_time: false
+      word_count: false
