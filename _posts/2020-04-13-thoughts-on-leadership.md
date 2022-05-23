@@ -25,8 +25,6 @@ As I worked on my presentation, I was helped immensely by my good friend [Jessic
 
 ## Articles
 
-*(Each title will be a link when the article is published)*
-
 ### [Leading through trust](https://www.bennorris.org/2020/04/14/leading-through-trust)
 
 ![Spending trust](https://media.bennorris.org/images/bennorris/uploads/2020/3ef59003d5.jpg)
