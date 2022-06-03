@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Loved the keynote address this morning from Elijah Stanfield at the LDSHE West conference. Great thoughts about the law of God and how we can participate in His work.
 
-![LDSHE Sketchnote](https://media.bennorris.org/images/gospelsketcher/general/may-21-ldshe-stanfield.jpg)
+![LDSHE Sketchnote](https://media.bennorris.org/images/gospelsketcher/ldshe/2021/may-21-ldshe-stanfield.jpg)

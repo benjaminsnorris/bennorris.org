@@ -10,4 +10,4 @@ category: Gospel Sketcher
 
 Wonderful opening keynote at the LDSHE West Conference from Ganel-Lyn Condie. Great message about finding peace.
 
-![LDSHE Sketchnote](https://media.bennorris.org/images/gospelsketcher/general/may-21-ldshe-condie.jpg)
+![LDSHE Sketchnote](https://media.bennorris.org/images/gospelsketcher/ldshe/2021/may-21-ldshe-condie.jpg)
