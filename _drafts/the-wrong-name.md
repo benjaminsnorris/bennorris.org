@@ -1,7 +1,10 @@
 ---
 title: "#84 The wrong name"
-date: 2022-06-02 08:09:50-0600
-
+date: 2022-06-03 10:53:29-0600
+image: 
+  path: https://media.bennorris.org/images/mentalworkhealth/posts/the-wrong-name.jpg
+  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/the-wrong-name.jpg
+gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/the-wrong-name.jpg
 category: Mental Work Health
 tags:
 - 
@@ -14,6 +17,10 @@ _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoin
 ***
 
 This past week, my wife, three oldest kids, and I attended the [Latter-Day Saint Home Educators](https://ldshe.org/) conference. I shared about our experience at the same conference a year ago in [update #37: Plan changes](https://bennorris.org/2021/06/04/plan-changes). There are essentially two conferences happening at the same time—the adults attend one, and the Youth Conference Team organizes classes, speakers, games, and activities for the youth to run in parallel. My oldest daughter was the co-chair of the youth team, so she was in charge of a lot of it, and my wife helped organize the vendors and make the conference financially feasible. This year, I was asked again to give a class to the youth, and had a great time. Each of the sections of my update this week come from my experience at the conference.
+
+I also took some sketchnotes of some of the keynote talks, which I [shared](https://bennorris.org/2022/05/25/ldshe-opening-keynote-sketchnotes) on my [website](https://bennorris.org/2022/05/26/ldshe-liz-simmons-sketchnotes). Here’s one of them:
+
+[![LDSHE Liz Simmons Sketchnote](https://media.bennorris.org/images/gospelsketcher/ldshe/2022/ldshe-22-liz-simmons-02.jpg)](https://bennorris.org/2022/05/26/ldshe-liz-simmons-sketchnotes){:loading="lazy"}
 
 
 ## Something hard
