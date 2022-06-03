@@ -12,6 +12,6 @@ tags:
 
 Inspiring closing keynote from Dan Ralphs about identifying and pursuing our dreams.
 
-![LDSHE 2022 Dan Ralphs Sketchnotes](https://media.bennorris.org/images/gospelsketcher/LDSHE/2022/ldshe-22-dan-ralphs-01.jpg)
+![LDSHE 2022 Dan Ralphs Sketchnotes](https://media.bennorris.org/images/gospelsketcher/ldshe/2022/ldshe-22-dan-ralphs-01.jpg)
 
-![LDSHE 2022 Dan Ralphs Sketchnotes](https://media.bennorris.org/images/gospelsketcher/LDSHE/2022/ldshe-22-dan-ralphs-02.jpg)
+![LDSHE 2022 Dan Ralphs Sketchnotes](https://media.bennorris.org/images/gospelsketcher/ldshe/2022/ldshe-22-dan-ralphs-02.jpg)
