@@ -1,6 +1,6 @@
 ---
 title: "#84 The wrong name"
-date: 2022-06-03 10:53:29-0600
+date: 2022-06-03 11:03:24-0600
 image: 
   path: https://media.bennorris.org/images/mentalworkhealth/posts/the-wrong-name.jpg
   thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/the-wrong-name.jpg
@@ -10,7 +10,7 @@ tags:
 - 
 ---
 
-This week, I share the **struggles I had at our annual homeschool conference**, the **joys of teaching a class there**, and **processing it all with my therapist**.
+This week, I share the **struggles I had at our annual homeschool conference**, the **joys of teaching a class**, and **processing it all with my therapist**.
 
 _These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
@@ -37,7 +37,7 @@ As the conference went on, my symptoms became more pronounced. The sounds starte
 
 ![Alto’s Odyssey Score](https://media.bennorris.org/images/mentalworkhealth/posts/altos-odyssey.jpg){:loading="lazy"}
 
-One situation surprised me with how difficult it was. As I mentioned in [update #80: Uncertainty Training](https://bennorris.org/2022/05/06/uncertainty-training), I was let go from Factor, the educational startup I started working for at the beginning of the year. But we had signed up to be a sponsor for the conference. I helped a little bit with the class that we had to explain to people what our company was and how we help teenagers, and we also had a booth for people to come by and ask questions.
+One situation surprised me with how difficult it was. As I mentioned in [update #80: Uncertainty Training](https://bennorris.org/2022/05/06/uncertainty-training), I was let go from Factor, the educational startup I started working for at the beginning of the year. As a company, we had signed up to be a sponsor for the conference a few months ago. I helped a little bit with the class that we had to explain to people what our company was and how we help teenagers, and we also had a booth for people to come by and ask questions.
 
 Unexpectedly, I found it really difficult to be part of promoting and describing Factor. As I reflected on it later, I realized there was a great deal of pain for me in explaining something that I was no longer part of. I still believe very much in the mission of Factor to help prepare teenagers for life after school, and realized in a much deeper way that I am grieving the loss of this part of my life.
 
@@ -46,9 +46,13 @@ Unexpectedly, I found it really difficult to be part of promoting and describing
 
 Last year, I taught the youth about sketchnoting. I shared some of that experience in [update #37: Plan changes](https://bennorris.org/2021/06/04/plan-changes). This year, I was asked to give a class on making comics. I laughed when I got the request, because this is not something that I have any actual experience in. I decided I would call my class “Stick figure comics” and use some of the same principles from sketchnoting, and talk about some of the basics of comics. I drew heavily on [Scott McCloud](https://en.wikipedia.org/wiki/Scott_McCloud)’s excellent books [Understanding Comics](https://en.wikipedia.org/wiki/Understanding_Comics) and [Making Comics](https://en.wikipedia.org/wiki/Making_Comics) for that part.
 
-Since I started working on preparing the class, I tried pushing myself to draw some comics. An example is from [update #57: Impulse control](https://bennorris.org/2021/10/22/impulse-control):
+After I started working on preparing the class, I tried pushing myself to draw some comics. An example is from [update #57: Impulse control](https://bennorris.org/2021/10/22/impulse-control):
 
 [![Impulse Control](https://media.bennorris.org/images/mentalworkhealth/posts/impulse-control.jpg)](https://bennorris.org/2021/10/22/impulse-control){:loading="lazy"}
+
+A different kind of example was from writing about my morning activities in [update #72: Losing my routine](https://bennorris.org/2022/03/12/losing-my-routine):
+
+[![Losing my routine](https://media.bennorris.org/images/mentalworkhealth/posts/losing-my-routine.jpg)](https://bennorris.org/2022/03/12/losing-my-routine){:loading="lazy"}
 
 The class went really well. One girl, Madison, came up at the beginning and told me that she loved my sketchnoting class last year, and showed me her sketchnotes from the conference so far. After my class was over, she told me, “You’re my favorite art teacher.”
 
@@ -59,11 +63,11 @@ Her comment also made me laugh. I have never thought of myself as an art teacher
 
 ## Something else
 
-Because of the conference, I was going to miss my regular Friday therapy session. Luckily, my therapist was able to see me on Saturday. I was anxious to talk about the conference any my struggles and process why it was so hard for me. As is often the case when I have something I really want to talk about, we started with something totally different. She was preparing to teach a class to youth, and asked my opinion on what I would want my daughters to take away from a discussion on experience and pain and suffering.
+Because of the conference, I was going to miss my regular Friday therapy session. Luckily, my therapist was able to see me on Saturday. I was anxious to talk about the conference and my struggles in order to process why it was so hard for me. As is often the case when I have something I want to talk about, we started with something totally different. She was preparing to teach a class to youth, and asked my opinion on what I would want my daughters to take away from a discussion on experience and pain and suffering.
 
-As a side note, I laugh now looking back at the session. I know that my therapist often pushes me by not talking about what I clearly want to discuss. She told me that early in my therapy, I would get so upset when she would interrupt me or go on a tangent, and I would just wait for her to finish so I could resume what I had been saying. Over time, I would get less and less upset and could handle a meandering conversation with much lower distress.
+As a side note, I laugh now looking back at the session. I know that my therapist often pushes me by not talking about what I clearly want to discuss. She has told me that early in my therapy, I would get upset when she would interrupt me or go on a tangent, and I would just wait for her to finish so I could resume what I had been saying. Over time, I would get less and less upset and could handle a meandering conversation with much lower distress.
 
-Part of me was annoyed that we were talking about her class when I was having a hard time and needed to process. But I was practiced enough that I was able to just go with it and enjoy the conversation.
+In last week’s session, part of me was annoyed that we were talking about her class when I was having a hard time and needed to process. But I was practiced enough that I was able to just go with it and enjoy the conversation.
 
 Much of my session was talking about how things are difficult right now, and won’t always be that way. It is important to remember that the kinds of struggles I am having right now are just like emotions—they will pass and change. As I went to leave, I found myself feeling frustrated that I didn’t know what to do now. How was I supposed to handle things?
 
