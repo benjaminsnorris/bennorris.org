@@ -1,13 +1,9 @@
 ---
-layout: collection
-collection: presentations
+layout: page
 title: Speaking
-entries_layout: grid
-sort_by: date
-sort_order: reverse
 ---
 
-Public speaking is a favorite activity of mine. I love creating and delivering presentations on many different topics. Some of the presentations I have frequently given to executive teams or other departments are described below.
+Public speaking is a favorite activity of mine. I love creating and delivering presentations on many different topics.
 
 ## [Speaker bio](bio/)
 
