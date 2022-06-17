@@ -68,11 +68,11 @@ I was still exhausted when we came home, but **it was nice to have so little res
 
 Over the past couple months, [I have shared](https://bennorris.org/2022/05/06/uncertainty-training) some of [my professional journey](https://bennorris.org/2022/05/13/bees-in-charge) to [becoming an independent contractor](https://bennorris.org/2022/05/20/yes-were-open). A few weeks ago, I realized that I had already started and didn’t need to wait anymore.
 
-[![Yes, we’re open](https://media.bennorris.org/images/mentalworkhealth/posts/yes-we’re-open.jpg)](https://bennorris.org/2022/05/20/yes-were-open){:loading="lazy"}
+[![Yes, we’re open](https://media.bennorris.org/images/mentalworkhealth/posts/yes-we’re-open.jpg){:loading="lazy"}](https://bennorris.org/2022/05/20/yes-were-open)
 
 As I have worked on a few different contracts, **it is becoming more and more real to me**. I spent some time improving my business website to explain more of what I can do. Essentially, I needed to create something of a digital billboard that I can send out to hopefully find new business. **I’d love to hear any thoughts you have on my site**, and how it could improve. You can check it out at [bsn.design](https://bsn.design).
 
-[![BSN Design](https://bsn.design/assets/images/banner.png)](https://bsn.design){:loading="lazy"}
+[![BSN Design](https://bsn.design/assets/images/banner.png){:loading="lazy"}](https://bsn.design){:.clean}
 
 One of the difficulties in this process for me has been restraint. Partly due to my OCD and perfectionism, **I am never satisfied** with what I have done. I always know it could be better. But I also know that **I will never find success if I am waiting for perfection**.
 
