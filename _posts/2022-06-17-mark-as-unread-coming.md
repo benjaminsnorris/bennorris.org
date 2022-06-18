@@ -8,7 +8,7 @@ tags:
 
 I was reading [Becky Hansmeyer’s great Reflections on WWDC 2022](https://beckyhansmeyer.com/2022/06/13/reflections-on-wwdc-2022/), and noticed this nugget in what’s coming:
 
-> Other things I’m looking forward to include improved sleep metrics on Apple Watch, new Lock Screen customizations, Messages editing and _mark-as-unread_… (emphasis added)
+> Other things I’m looking forward to include improved sleep metrics on Apple Watch, new Lock Screen customizations, Messages editing and **mark-as-unread**… (emphasis added)
 
 As I mentioned in my [Mental Work Health update #85](https://bennorris.org/2022/06/17/im-a-sailor), I was gone on a sailing trip last week and missed all of WWDC. In the short catching up I’d done, I had not seen anything about this great feature for Messages.
 
