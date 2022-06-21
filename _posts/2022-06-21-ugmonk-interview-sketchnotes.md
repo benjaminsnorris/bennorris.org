@@ -1,5 +1,5 @@
 ---
-date: 2022-06-21 10:45:00-0700
+date: 2022-06-21 11:08:00-0600
 title: "Sketchnotes from Ugmonk Interview"
 categories:
 - Sketchnotable
