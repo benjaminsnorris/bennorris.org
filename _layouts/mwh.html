@@ -4,8 +4,19 @@ layout: post-base
 
 {{ content }}
 
-<hr/>
-
-<p><em>Help reduce the stigma of mental health in the workplace and receive weekly updates in your inbox:</em></p>
-
-<p><a href="https://bennorris.org/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a></p>
+<div id="subscribe-block">
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/mwh"
+      method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/mwh', 'popupwindow')"
+      id="subscribe-form"
+    >
+      <label for="email-input">Subscribe to get future updates in your inbox</label>
+      <div class="email-input-row">
+        <input type="email" name="email" id="email-input" class="email-input" required placeholder="Your email (you@example.com)" />
+        <button class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</button>
+      </div>
+    </form>
+  </div>    
+  
