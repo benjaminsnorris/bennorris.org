@@ -50,7 +50,7 @@ Like most people, **I struggle asking for help**. Through my mental health journ
 
 If you are yourself, or know of, someone who **has or needs a mobile app**, could you [connect with me](mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20know%20of%20a%20mobile%20app%20need)? Or if anything else that I have shared, such as mental health awareness, sketchnoting, leadership, or public speaking, has **resonated** with you, could you [reach out](mailto:BSN%20Design%20%3Cinfo%40bsn.design%3E?subject=I%20resonated%20with%20something%20you%20shared)?
 
-[![BSN Design](https://bsn.design/assets/images/banner.png)](https://bsn.design){:loading="lazy"}
+[![BSN Design](https://bsn.design/assets/images/banner.png){:loading="lazy"}](https://bsn.design){:.clean}
 
 My business website is a great place to go or send people to learn more: [bsn.design](https://bsn.design).
 
