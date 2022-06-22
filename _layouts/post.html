@@ -1,26 +1,21 @@
 ---
-layout: default
+layout: post-base
 ---
 
-{% include page-intro.html %}
+{{ content }}
 
-<main id="main" class="page-content" aria-label="Content">
-  <div class="inner">
-    <article class="entry-wrap">
-      <div class="entry-content">
-        {{ content }}
-        <nav class="pager">
-          <ul>
-            <!-- Previous: {{ page.previous.url }} Next: {{ page.next.url }} -->
-            {% if page.previous.url %}
-              <li><a href="{{ page.previous.url | relative_url }}" class="previous"><span class="icon icon--arrow-right">{% include icon-arrow-left.svg %}</span><span class="link-text">{% if page.previous.micro %}Microblog post{% else %}{{ page.previous.title }}{% endif %}</span></a></li>
-            {% endif %}
-            {% if page.next.url %}
-              <li><a href="{{ page.next.url | relative_url }}" class="next"><span class="link-text">{% if page.next.micro %}Microblog post{% else %}{{ page.next.title }}{% endif %}</span><span class="icon icon--arrow-right">{% include icon-arrow-right.svg %}</span></a></li>
-            {% endif %}
-          </ul>
-        </nav>
-      </div>
-    </article>
-  </div>
-</main>
+<div id="subscribe-block">
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/bennorris"
+    method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/bennorris', 'popupwindow')"
+    id="subscribe-form"
+  >
+    <label for="email-input">Subscribe to get future updates in your inbox</label>
+    <div class="email-input-row">
+      <input type="email" name="email" id="email-input" class="email-input" required placeholder="Your email (you@example.com)" />
+      <button class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</button>
+    </div>
+  </form>
+</div>    
