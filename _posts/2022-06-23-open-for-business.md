@@ -28,7 +28,7 @@ Because I had already wrestled with the risks and tradeoffs of leaving a stable 
 
 One of the most difficult parts of this transition is figuring out who I want to be in this new role. What do I offer? What do I want to do? I still don’t completely know, but I at least have some answers.
 
-First and foremost, **I am a mobile app consultant**. I have been coded off and on my whole life, and have been in software professionally for over fifteen years. About half of that time has been primarily focused on mobile apps. I have experience **leading engineering teams**, contributing individually as a **developer** and **designer** and **architect**, as well as in **product management**. I’ve decided my tagline is:
+First and foremost, **I am a mobile app consultant**. I have been coding off and on my whole life, and have been in software professionally for over fifteen years. About half of that time has been primarily focused on mobile apps. I have experience **leading engineering teams**, contributing individually as a **developer** and **designer** and **architect**, as well as in **product management**. I’ve decided my tagline is:
 
 > If you have or want a mobile app, I can help.
 
