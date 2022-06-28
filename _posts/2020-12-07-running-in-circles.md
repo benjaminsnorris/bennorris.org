@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/12/07/running-in-circles
 date: 2020-12-07 15:30:59-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

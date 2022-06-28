@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/03/22/enamored-with-notebooks
 date: 2021-03-22 07:49:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

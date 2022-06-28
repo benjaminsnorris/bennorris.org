@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/02/17/crying-at-tv
 date: 2021-02-17 14:10:35-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/09/14/show-up-see
 date: 2020-09-14 20:22:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

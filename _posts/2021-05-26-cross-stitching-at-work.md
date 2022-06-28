@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/05/26/cross-stitching-at-work
 date: 2021-05-26 23:41:11-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

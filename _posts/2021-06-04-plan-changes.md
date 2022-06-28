@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/06/04/plan-changes
 date: 2021-06-04 09:32:19-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

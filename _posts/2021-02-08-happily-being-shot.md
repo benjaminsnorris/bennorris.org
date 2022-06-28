@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/02/08/happily-being-shot
 date: 2021-02-08 10:19:42-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

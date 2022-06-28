@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2019/03/23/what-mental-panic-attacks-feel-l
 date: 2019-03-23 10:58:24-0600
 tags:
 - mental health
+- ocd
 category: Mental Work Health
 ---
 

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/01/04/quest-for-curiosity
 date: 2021-01-04 21:38:32-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

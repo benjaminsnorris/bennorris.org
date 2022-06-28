@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/06/24/a-rough-week
 date: 2021-06-24 08:49:43-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/12/14/distress-tolerance-sudoku
 date: 2020-12-14 22:21:50-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

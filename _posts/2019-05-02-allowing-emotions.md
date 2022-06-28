@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2019/05/02/allowing-emotions
 date: 2019-05-02 12:09:00-0600
 tags:
 - musings
+- ocd
 category: General
 ---
 

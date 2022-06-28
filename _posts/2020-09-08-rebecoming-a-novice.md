@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/09/08/rebecoming-a-novice
 date: 2020-09-08 10:46:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/09/01/spinning-in-neutral
 date: 2020-09-01 21:57:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

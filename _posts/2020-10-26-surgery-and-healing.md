@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/10/26/surgery-and-healing
 date: 2020-10-26 21:37:09-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

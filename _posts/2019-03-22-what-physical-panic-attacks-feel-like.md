@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2019/03/22/what-physical-panic-attacks-feel
 date: 2019-03-22 11:07:57-0600
 tags:
 - mental health
+- ocd
 category: Mental Work Health
 ---
 

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/11/30/gratitude-and-panic
 date: 2020-11-30 21:11:00-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

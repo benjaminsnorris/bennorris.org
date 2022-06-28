@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/06/09/inverted-advice
 date: 2021-06-09 08:33:29-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

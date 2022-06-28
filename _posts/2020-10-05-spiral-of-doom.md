@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/10/05/spiral-of-doom
 date: 2020-10-05 22:23:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 - general conference
 category: Mental Work Health

@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/01/19/purple-monkey-party
 date: 2021-01-19 08:29:55-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

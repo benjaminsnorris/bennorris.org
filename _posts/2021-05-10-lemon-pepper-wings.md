@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/05/10/lemon-pepper-wings
 date: 2021-05-10 08:40:23-0600
 tags:
 - weekly update
+- ocd
 - mental health
 - free writing
 - story

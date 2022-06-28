@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2020/09/21/recharging-in-allentown
 date: 2020-09-21 17:47:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

@@ -4,6 +4,8 @@ canonical_url: https://bennorris.com/2019/12/06/background-and-upbringing
 date: 2019-12-06 15:32:00-0700
 tags:
 - my story
+- mental health
+- ocd
 category: Mental Work Health
 ---
 

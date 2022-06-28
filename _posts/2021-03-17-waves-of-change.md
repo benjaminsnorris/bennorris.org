@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/03/17/waves-of-change
 date: 2021-03-17 07:24:00-0600
 tags:
 - weekly update
+- ocd
 - mental health
 - free writing
 category: Mental Work Health

@@ -4,6 +4,8 @@ canonical_url: https://bennorris.com/2019/12/23/suggestion-of-counseling
 date: 2019-12-23 15:39:00-0700
 tags:
 - my story
+- mental health
+- ocd
 category: Mental Work Health
 ---
 

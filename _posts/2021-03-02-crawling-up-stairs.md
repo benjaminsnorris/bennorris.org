@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/03/02/crawling-up-stairs
 date: 2021-03-02 17:36:00-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

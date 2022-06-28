@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/07/09/oh-the-irony
 date: 2021-07-09 11:05:48-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

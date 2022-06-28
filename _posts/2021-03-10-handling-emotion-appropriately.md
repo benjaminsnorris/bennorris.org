@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/03/10/handling-emotion-appropriately
 date: 2021-03-10 12:14:00-0700
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---

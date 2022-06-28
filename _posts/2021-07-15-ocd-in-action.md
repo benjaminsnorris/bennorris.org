@@ -4,6 +4,7 @@ canonical_url: https://bennorris.com/2021/07/15/ocd-in-action
 date: 2021-07-15 10:36:54-0600
 tags:
 - weekly update
+- ocd
 - mental health
 category: Mental Work Health
 ---
