@@ -1,5 +1,6 @@
 ---
 title: "🌀 “Tell him sorry right now!”"
+canonical_url: https://bennorris.com/2019/03/06/tell-him-sorry-right-now
 date: 2019-03-06 08:51:48-0700
 tags:
 - musings
@@ -14,7 +15,7 @@ I went out on a walk a few days ago, and overhead a scuffle between a couple sma
 
 Most likely, the dad wanted the offending child to actually be sorry. He wanted the child to learn that what he had done was not acceptable, and to feel remorse. If the child had actually felt remorse, an apology would have naturally followed. As parents, we recognize how silly it is to tell our children, “Feel sorry for what you just did.” It is so much easier to focus on the action rather than the feeling, and so that is where our parenting focuses.
 
-This is similar in many ways to the phenomenon I noticed a few weeks ago, and wrote about in [Living with incompetence](https://www.bennorris.org/2019/01/18/living-with-incompetence). We often settle for focusing on what is easier to measure, and leave aside the more important, but more amorphous, root cause.
+This is similar in many ways to the phenomenon I noticed a few weeks ago, and wrote about in [Living with incompetence](https://www.bennorris.com/2019/01/18/living-with-incompetence). We often settle for focusing on what is easier to measure, and leave aside the more important, but more amorphous, root cause.
 
 When we fall into this trap as parents, we teach our children the same behavior. They grow up learning that recognizing and feeling remorse for injuring someone else is not important, but rather the outward expression of those feelings. We don’t need to feel a certain way—we just have to act a certain way, and then we will be acceptable.
 

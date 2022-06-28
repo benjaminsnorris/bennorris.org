@@ -1,12 +1,13 @@
 ---
 title: "🗒 Book review template"
+canonical_url: https://bennorris.com/2019/04/14/book-review-template
 date: 2019-04-14 16:48:46-0600
 tags:
 - review
 category: General
 ---
 
-![Book review](https://media.bennorris.org/images/bennorris/uploads/2019/51b8bcd80b.png){:loading="lazy"}
+![Book review](https://media.bennorris.com/images/bennorris/uploads/2019/51b8bcd80b.png){:loading="lazy"}
 
 An exploration of a template I am creating for reviews of books I read.
 
@@ -46,4 +47,4 @@ One help for creativity is to set limits. I wanted to create a template for book
 
 I have a hard time saying something negative about the creative output of another person. On the other hand, the feedback that I value the most about my own work is clear identification of opportunities for improvement. I am hoping that providing more nuance and context will allow me to think more critically of the books I read and form a more balanced perspective.
 
-I would love to hear suggestions to improve my book review format. The main purpose of the reviews is to push me to think more about the content I consume, but I also hope that my thoughts can be helpful to others. If there are sections you would like to see added or omitted, let me know. You can reach me on Micro.blog as [@bennorris](https://micro.blog/bennorris), or email me at [ben@bennorris.org](mailto:ben@bennorris.org?subject=Thoughts%20on%20your%20book%review%20template). Thanks.
+I would love to hear suggestions to improve my book review format. The main purpose of the reviews is to push me to think more about the content I consume, but I also hope that my thoughts can be helpful to others. If there are sections you would like to see added or omitted, let me know. You can reach me on Micro.blog as [@bennorris](https://micro.blog/bennorris), or email me at [ben@bennorris.com](mailto:ben@bennorris.com?subject=Thoughts%20on%20your%20book%review%20template). Thanks.

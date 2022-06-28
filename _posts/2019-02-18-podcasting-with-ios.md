@@ -1,5 +1,6 @@
 ---
 title: "🎙 6: Podcasting with iOS"
+canonical_url: https://bennorris.com/2019/02/18/podcasting-with-ios
 date: 2019-02-18 14:32:00-0700
 tags:
 - podcast
@@ -19,7 +20,7 @@ A discussion of the tools I have tried and the system I am using now to record, 
 
 [Ferrite app](https://itunes.apple.com/us/app/ferrite-recording-studio/id1018780185?mt=8&at=1010lqCX)
 
-[🎙 3: Intro Music microcast episode](https://www.bennorris.org/2019/02/04/intro-music)
+[🎙 3: Intro Music microcast episode](https://www.bennorris.com/2019/02/04/intro-music)
 
-<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/cfc9892f7e.mp3" />
+<audio controls="controls" src="https://media.bennorris.com/images/bennorris/uploads/2019/cfc9892f7e.mp3" />
 

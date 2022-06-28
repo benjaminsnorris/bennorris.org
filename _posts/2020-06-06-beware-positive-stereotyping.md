@@ -1,5 +1,6 @@
 ---
 title: "🌀 Beware positive stereotyping"
+canonical_url: https://bennorris.com/2020/06/06/beware-positive-stereotyping
 date: 2020-06-06 08:48:28-0600
 tags:
 - musings

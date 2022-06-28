@@ -1,5 +1,6 @@
 ---
 title: "😂 Tooth fairy"
+canonical_url: https://bennorris.com/2019/11/02/tooth-fairy
 date: 2019-11-02 18:00:00-0600
 category: General
 tags:

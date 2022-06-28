@@ -1,5 +1,6 @@
 ---
 title: "Modeling being human"
+canonical_url: https://bennorris.com/2021/12/29/modeling-being-human
 date: 2021-12-29 08:28:48-0700
 category: Mental Work Health
 tags:

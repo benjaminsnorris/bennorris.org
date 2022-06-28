@@ -1,5 +1,6 @@
 ---
 title: "🔗 Changes to Missionary Communication Guidelines"
+canonical_url: https://bennorris.com/2019/02/15/changes-to-missionary-communication-guidelines
 date: 2019-02-15 11:40:10-0700
 tags:
 - link

@@ -1,5 +1,6 @@
 ---
 title: "🌀 Unleashing inner creativity"
+canonical_url: https://bennorris.com/2020/04/22/unleashing-inner-creativity
 date: 2020-04-22 08:25:11-0600
 tags:
 - musings

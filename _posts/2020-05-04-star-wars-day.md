@@ -1,5 +1,6 @@
 ---
 title: "Star Wars Day 😂"
+canonical_url: https://bennorris.com/2020/05/04/star-wars-day
 date: 2020-05-04 21:02:47-0600
 category: General
 tags:

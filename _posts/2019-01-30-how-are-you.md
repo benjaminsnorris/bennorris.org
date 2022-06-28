@@ -1,5 +1,6 @@
 ---
 title: "💮 How are you?"
+canonical_url: https://bennorris.com/2019/01/30/how-are-you
 date: 2019-01-30 09:24:45-0700
 tags:
 - mental health
@@ -10,7 +11,7 @@ I have come to hate this phrase as a greeting. 😡
 
 ***
 
-As I [wrote about recently](https://bennorris.org/2019/01/26/coming-out), I have been struggling lately with mental health challenges. This has made me more aware than ever of how often people ask a deep and probing personal question as a greeting with no thought or consideration behind it. It is an easy question to throw out, and at times an impossible one to answer.
+As I [wrote about recently](https://bennorris.com/2019/01/26/coming-out), I have been struggling lately with mental health challenges. This has made me more aware than ever of how often people ask a deep and probing personal question as a greeting with no thought or consideration behind it. It is an easy question to throw out, and at times an impossible one to answer.
 
 Here are some examples of these deeply intimate and personal questions masquerading as greetings:
 

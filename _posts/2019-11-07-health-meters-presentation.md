@@ -1,5 +1,6 @@
 ---
 title: "💮 Health meters presentation"
+canonical_url: https://bennorris.com/2019/11/07/health-meters-presentation
 date: 2019-11-07 15:20:00-0700
 tags:
 - mental health

@@ -1,5 +1,6 @@
 ---
 title:          "The Luxury of Launching into Obscurity"
+canonical_url: https://bennorris.com/2016/05/31/the-luxury-of-launching-into-obscurity
 date:           2016-05-31 16:30:00-0700
 excerpt:        Launching without an audience is intimidating and empowering.
 category:       General

@@ -1,5 +1,6 @@
 ---
 title: "Thoughts on Peers 2018"
+canonical_url: https://bennorris.com/2018/05/18/thoughts-on-peers-2018
 date: 2018-05-18 12:54:25-0600
 category: General
 ---

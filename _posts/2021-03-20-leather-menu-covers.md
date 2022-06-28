@@ -1,5 +1,6 @@
 ---
 title: "Leather menu covers"
+canonical_url: https://bennorris.com/2021/03/20/leather-menu-covers
 date: 2021-03-20 00:47:10-0600
 category: General
 ---

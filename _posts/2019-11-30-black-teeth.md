@@ -1,5 +1,6 @@
 ---
 title: "😂 Black teeth"
+canonical_url: https://bennorris.com/2019/11/30/black-teeth
 date: 2019-11-30 10:17:00-0700
 category: General
 tags:

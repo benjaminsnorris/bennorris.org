@@ -1,5 +1,6 @@
 ---
 title: "#43: OCD in action"
+canonical_url: https://bennorris.com/2021/07/15/ocd-in-action
 date: 2021-07-15 10:36:54-0600
 tags:
 - weekly update
@@ -9,7 +10,7 @@ category: Mental Work Health
 
 In this update, I share a positive application of my OCD in my efforts to become a villain.
 
-_These [weekly updates](https://bennorris.org/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
 
 ***
 
@@ -39,4 +40,4 @@ One of the keys in my OCD recovery is recognizing the strengths that are associa
 
 ***
 
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.org/subscribe/mwh/)._
+_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

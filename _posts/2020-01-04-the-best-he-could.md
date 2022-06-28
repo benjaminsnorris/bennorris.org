@@ -1,5 +1,6 @@
 ---
 title: "😂 The best he could"
+canonical_url: https://bennorris.com/2020/01/04/the-best-he-could
 date: 2020-01-04 14:03:00-0700
 category: General
 tags:
@@ -23,5 +24,5 @@ Micah: “It looks more like a spear than a sword.”
 
 After it was done cooking, Annie went over to my son. “Dad made you a pancake for your birthday. He did the best he could.”
 
-![Pancake meant to look like a sword](https://media.bennorris.org/images/bennorris/uploads/2020/209bc56f70.jpg){:loading="lazy"}
+![Pancake meant to look like a sword](https://media.bennorris.com/images/bennorris/uploads/2020/209bc56f70.jpg){:loading="lazy"}
 

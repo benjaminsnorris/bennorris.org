@@ -1,5 +1,6 @@
 ---
 title: "🎙 Answering Questions"
+canonical_url: https://bennorris.com/2019/03/19/answering-questions
 date: 2019-03-19 10:48:24-0600
 tags:
 - podcast
@@ -11,7 +12,7 @@ An exploration of the phenomenon of considering a topic for the purpose of answe
 
 *Links*
 
-[💮 Coming out](https://www.bennorris.org/2019/01/26/coming-out) (**tl;dr** Hi, I’m Ben, and I have OCD. 👋)
+[💮 Coming out](https://www.bennorris.com/2019/01/26/coming-out) (**tl;dr** Hi, I’m Ben, and I have OCD. 👋)
 
 [What is OCD?](https://iocdf.org/about-ocd/)
  
@@ -21,5 +22,5 @@ An exploration of the phenomenon of considering a topic for the purpose of answe
 
 [Black and white thinking (Splitting)](https://en.m.wikipedia.org/wiki/Splitting_(psychology))
 
-<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/94ee45458f.mp3" />
+<audio controls="controls" src="https://media.bennorris.com/images/bennorris/uploads/2019/94ee45458f.mp3" />
 

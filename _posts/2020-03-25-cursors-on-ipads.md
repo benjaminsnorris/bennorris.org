@@ -1,5 +1,6 @@
 ---
 title: "🔗 Cursors on iPads"
+canonical_url: https://bennorris.com/2020/03/25/cursors-on-ipads
 date: 2020-03-25 16:59:08-0600
 tags:
 - link

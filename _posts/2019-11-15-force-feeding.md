@@ -1,5 +1,6 @@
 ---
 title: "😂 Force feeding"
+canonical_url: https://bennorris.com/2019/11/15/force-feeding
 date: 2019-11-15 13:14:39-0700
 category: General
 tags:

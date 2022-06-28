@@ -1,5 +1,6 @@
 ---
 title: "🛡 Communication synchronicity"
+canonical_url: https://bennorris.com/2021/01/21/communication-synchronicity
 date: 2021-01-21 15:28:28-0700
 tags:
 - leadership

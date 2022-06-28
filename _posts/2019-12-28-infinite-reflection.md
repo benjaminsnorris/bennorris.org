@@ -1,5 +1,6 @@
 ---
 title: "😂 Infinite reflection"
+canonical_url: https://bennorris.com/2019/12/28/infinite-reflection
 date: 2019-12-28 19:17:00-0700
 category: General
 tags:

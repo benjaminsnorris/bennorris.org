@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/11/13/dryer-lint
 date: 2019-11-13 20:14:13-0700
 title: "Dryer lint"
 category: General

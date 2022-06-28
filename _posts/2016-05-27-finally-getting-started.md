@@ -1,5 +1,6 @@
 ---
 title:          "Finally getting started"
+canonical_url: https://bennorris.com/2016/05/27/finally-getting-started
 date:           2016-05-27 14:12:00-0700
 excerpt:        After putting this off far too long, I’m finally blogging.
 category:       General

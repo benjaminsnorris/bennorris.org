@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2021/06/11/color-matching-game
 date: 2021-06-11 17:58:34-0600
 title: "Color matching game"
 category: General

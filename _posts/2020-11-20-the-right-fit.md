@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/11/20/the-right-fit
 date: 2020-11-20 22:12:57-0700
 title: "The right fit"
 short: true

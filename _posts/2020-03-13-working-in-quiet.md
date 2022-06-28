@@ -1,5 +1,6 @@
 ---
 title: "🌀 Working in quiet"
+canonical_url: https://bennorris.com/2020/03/13/working-in-quiet
 date: 2020-03-13 16:24:22-0600
 tags:
 - musings
@@ -10,7 +11,7 @@ One of the ways I was profoundly affected by my recent trip to our India office 
 
 ***
 
-As I [wrote about recently](https://www.bennorris.org/2020/03/06/driving-without-lights), I had the opportunity to travel to India last week. We were able to visit some amazing historical sites, and to work with our colleagues in our office there. I had previously visited India, but never before with my current company. So this was my first opportunity to meet some of my colleagues in that office.
+As I [wrote about recently](https://www.bennorris.com/2020/03/06/driving-without-lights), I had the opportunity to travel to India last week. We were able to visit some amazing historical sites, and to work with our colleagues in our office there. I had previously visited India, but never before with my current company. So this was my first opportunity to meet some of my colleagues in that office.
 
 I was able to travel together with the product manager working with my team. When we arrived, we found a meeting room marked for our use. There were a few meetings rooms set off of a main room where the bulk of the office employees sat to work. Outside of the main room was a moderately sized area with a reception desk, couches, a gavel table, an eating table, and a food preparation area.
 

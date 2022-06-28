@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/11/22/happy-family-cult
 date: 2019-11-22 21:14:43-0700
 title: "Happy family cult"
 category: General

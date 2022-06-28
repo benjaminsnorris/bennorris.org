@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2021/08/27/jumpy-pants
 date: 2021-08-27 13:25:28-0600
 title: "😂 Jumpy Pants"
 category: General

@@ -1,5 +1,6 @@
 ---
 title: "🔗 How to be kind"
+canonical_url: https://bennorris.com/2019/11/15/how-to-be-kind
 date: 2019-11-15 13:33:10-0700
 tags:
 - link

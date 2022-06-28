@@ -1,5 +1,6 @@
 ---
 title: "🔗 Great retrospective format"
+canonical_url: https://bennorris.com/2019/11/25/great-retrospective-format
 date: 2019-11-25 08:59:00-0700
 tags:
 - link

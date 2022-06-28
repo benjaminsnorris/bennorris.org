@@ -1,5 +1,6 @@
 ---
 title: "🌀 People matter most"
+canonical_url: https://bennorris.com/2019/07/18/people-matter-most
 date: 2019-07-18 19:27:00-0600
 tags:
 - musings

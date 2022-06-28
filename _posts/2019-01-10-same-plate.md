@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/01/10/same-plate
 date: 2019-01-10 18:30:48-0700
 title: "Same plate"
 category: General

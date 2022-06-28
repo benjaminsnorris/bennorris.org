@@ -1,5 +1,6 @@
 ---
 title: "🛡 Remote work thoughts"
+canonical_url: https://bennorris.com/2020/05/12/remote-work-thoughts
 date: 2020-05-12 13:09:00-0600
 tags:
 - favorite

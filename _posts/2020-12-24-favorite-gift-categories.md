@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/12/24/favorite-gift-categories
 date: 2020-12-24 11:56:46-0700
 title: "Favorite gift categories"
 category: General

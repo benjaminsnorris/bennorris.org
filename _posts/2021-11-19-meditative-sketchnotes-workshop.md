@@ -1,5 +1,6 @@
 ---
 title: "Meditative Sketchnotes Workshop"
+canonical_url: https://bennorris.com/2021/11/19/meditative-sketchnotes-workshop
 date: 2021-11-19 13:14:23-0700
 category: Mental Work Health
 tags:
@@ -14,4 +15,4 @@ short: true
 
 Here is the sketchnote I created during the workshop:
 
-![Mindfulsketch](https://media.bennorris.org/images/mentalworkhealth/posts/meditative-sketchnote-live-example.jpg)
+![Mindfulsketch](https://media.bennorris.com/images/mentalworkhealth/posts/meditative-sketchnote-live-example.jpg)

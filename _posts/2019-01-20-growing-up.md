@@ -1,5 +1,6 @@
 ---
 title: "🔗 Growing up"
+canonical_url: https://bennorris.com/2019/01/20/growing-up
 date: 2019-01-20 10:02:56-0700
 tags:
 - link

@@ -1,5 +1,6 @@
 ---
 title: "Holding fewer meetings"
+canonical_url: https://bennorris.com/2021/03/18/holding-fewer-meetings
 date: 2021-03-18 23:47:38-0600
 category: General
 ---

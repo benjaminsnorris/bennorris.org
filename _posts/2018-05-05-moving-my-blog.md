@@ -2,6 +2,7 @@
 title: "Moving my blog to <a href='http://bsn.design'>bsn.design</a>"
 excerpt: My blog has moved to a new home
 category: General
+canonical_url: https://bennorris.com/2018/05/05/moving-my-blog
 date: 2018-05-05 02:49:44-0600
 ---
 My blog at bsn.io has been a great experience. I set it up a few years ago to be a [Jekyll](https://jekyllrb.com) blog and hosted it on [GitHub Pages](https://pages.github.com). I loved the flexibility this gave me, along with the performance of a static site. Over time, I figured out how to run it almost all from my iOS devices.

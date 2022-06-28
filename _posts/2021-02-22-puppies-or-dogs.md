@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2021/02/22/puppies-or-dogs
 date: 2021-02-22 19:30:30-0700
 title: "Puppies or dogs"
 category: General

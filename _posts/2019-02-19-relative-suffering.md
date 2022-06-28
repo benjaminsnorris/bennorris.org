@@ -1,5 +1,6 @@
 ---
 title: "🌀 Relative suffering"
+canonical_url: https://bennorris.com/2019/02/19/relative-suffering
 date: 2019-02-19 12:16:10-0700
 tags:
 - musings

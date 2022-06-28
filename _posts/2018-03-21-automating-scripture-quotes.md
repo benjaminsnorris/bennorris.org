@@ -3,6 +3,7 @@ title: "Automating Scripture Quotes"
 excerpt: Using Workflow to extract markdown quotes of scriptures
 category: General
 tags: reference
+canonical_url: https://bennorris.com/2018/03/21/automating-scripture-quotes
 date: 2018-03-21 16:02:05-0600
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "😂 Stupid bees"
+canonical_url: https://bennorris.com/2020/09/11/stupid-bees
 date: 2020-09-11 08:33:00-0600
 category: General
 tags:

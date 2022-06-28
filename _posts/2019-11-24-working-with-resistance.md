@@ -1,5 +1,6 @@
 ---
 title: "🔗 Working with resistance"
+canonical_url: https://bennorris.com/2019/11/24/working-with-resistance
 date: 2019-11-24 09:49:16-0700
 tags:
 - link

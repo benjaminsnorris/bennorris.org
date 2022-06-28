@@ -1,5 +1,6 @@
 ---
 title: "🔗 Balancing growth and stability"
+canonical_url: https://bennorris.com/2019/05/01/balancing-growth-and-stability
 date: 2019-05-01 00:18:00-0600
 tags:
 - link

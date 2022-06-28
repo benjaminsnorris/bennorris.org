@@ -1,5 +1,6 @@
 ---
 title: "😂 Thought not"
+canonical_url: https://bennorris.com/2020/08/27/thought-not
 date: 2020-08-27 09:27:00-0600
 category: General
 tags:

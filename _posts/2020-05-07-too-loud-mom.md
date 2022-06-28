@@ -1,5 +1,6 @@
 ---
 title: "“Too loud, Mom!” 😂"
+canonical_url: https://bennorris.com/2020/05/07/too-loud-mom
 date: 2020-05-07 22:34:00-0600
 category: General
 tags:

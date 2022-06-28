@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/09/29/cleaning-up
 date: 2019-09-29 08:26:16-0600
 title: "Cleaning up"
 category: General

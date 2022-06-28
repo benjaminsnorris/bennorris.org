@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/11/12/bad-breath
 date: 2019-11-12 20:46:00-0700
 title: "Bad breath"
 category: General

@@ -1,5 +1,6 @@
 ---
 title: "Hello world!"
+canonical_url: https://bennorris.com/2011/11/17/hello-world
 date: 2011-11-17 17:01:26-0700
 category: General
 ---

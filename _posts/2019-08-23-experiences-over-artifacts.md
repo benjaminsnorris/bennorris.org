@@ -1,5 +1,6 @@
 ---
 title: "💮 Experiences over artifacts"
+canonical_url: https://bennorris.com/2019/08/23/experiences-over-artifacts
 date: 2019-08-23 10:30:00-0600
 tags:
 - mental health

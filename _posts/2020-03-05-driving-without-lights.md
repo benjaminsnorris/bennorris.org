@@ -1,5 +1,6 @@
 ---
 title: "🌀 Driving without lights"
+canonical_url: https://bennorris.com/2020/03/05/driving-without-lights
 date: 2020-03-05 21:19:58-0700
 tags:
 - musings

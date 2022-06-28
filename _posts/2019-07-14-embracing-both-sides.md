@@ -1,5 +1,6 @@
 ---
 title: "🔗 Embracing both sides"
+canonical_url: https://bennorris.com/2019/07/14/embracing-both-sides
 date: 2019-07-14 20:38:00-0600
 tags:
 - link

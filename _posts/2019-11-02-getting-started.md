@@ -1,5 +1,6 @@
 ---
 title: "Getting started"
+canonical_url: https://bennorris.com/2019/11/02/getting-started
 date: 2019-11-02 21:54:16-0600
 category: Mental Work Health
 ---

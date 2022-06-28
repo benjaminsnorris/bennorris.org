@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/03/18/poopy-underwear
 date: 2020-03-18 08:31:00-0600
 title: "Poopy underwear"
 category: General

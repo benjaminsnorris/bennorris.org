@@ -1,5 +1,6 @@
 ---
 title: "Cold hands 😂"
+canonical_url: https://bennorris.com/2020/04/10/cold-hands
 date: 2020-04-10 09:03:00-0600
 category: General
 tags:

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/01/26/a-perfect-episode
 date: 2019-01-26 14:09:26-0700
 category: General
 title: "A perfect episode"

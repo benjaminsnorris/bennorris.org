@@ -1,5 +1,6 @@
 ---
 title: "😂 Early proposal"
+canonical_url: https://bennorris.com/2019/12/14/early-proposal
 date: 2019-12-14 16:44:00-0700
 category: General
 tags:

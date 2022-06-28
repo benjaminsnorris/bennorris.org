@@ -1,16 +1,17 @@
 ---
 title: "💮 What intrusive thoughts feel like"
+canonical_url: https://bennorris.com/2019/03/26/what-intrusive-thoughts-feel-like
 date: 2019-03-26 08:51:46-0600
 tags:
 - mental health
 category: Mental Work Health
 ---
 
-![Fernando](https://media.bennorris.org/images/bennorris/uploads/2019/9933398410.png){:loading="lazy"}
+![Fernando](https://media.bennorris.com/images/bennorris/uploads/2019/9933398410.png){:loading="lazy"}
 
 Having intrusive thoughts come in my mind is like having a terrible friend who keeps suggesting that I do ridiculous things. It can be hard at times to know who is speaking, but the more I get to know this friend, the better I can detect his voice.
 
-*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.org/2019/03/18/what-mental-illness-feels-like).*
+*Note: This is part of an ongoing series on what mental illness feels like for me. Read the introduction and associated disclaimers [here](https://www.bennorris.com/2019/03/18/what-mental-illness-feels-like).*
 
 ***
 

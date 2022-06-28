@@ -1,12 +1,13 @@
 ---
 title: "🌀 Allowing emotions"
+canonical_url: https://bennorris.com/2019/05/02/allowing-emotions
 date: 2019-05-02 12:09:00-0600
 tags:
 - musings
 category: General
 ---
 
-![Angry](https://media.bennorris.org/images/bennorris/uploads/2019/725a4a482a.png){:loading="lazy"}
+![Angry](https://media.bennorris.com/images/bennorris/uploads/2019/725a4a482a.png){:loading="lazy"}
 
 Acknowledging and welcoming emotions, even painful ones, makes it possible to process and digest them in a healthy way.
 

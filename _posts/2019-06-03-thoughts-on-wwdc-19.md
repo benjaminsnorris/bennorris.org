@@ -1,5 +1,6 @@
 ---
 title: "🌀 Thoughts on WWDC 19"
+canonical_url: https://bennorris.com/2019/06/03/thoughts-on-wwdc-19
 date: 2019-06-03 15:20:00-0600
 tags:
 - musings

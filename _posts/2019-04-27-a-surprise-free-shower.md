@@ -1,5 +1,6 @@
 ---
 title: "😂 A surprise-free shower"
+canonical_url: https://bennorris.com/2019/04/27/a-surprise-free-shower
 date: 2019-04-27 11:14:00-0600
 category: General
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "🇺🇸 Here’s to the smugglers"
+canonical_url: https://bennorris.com/2019/07/08/heres-to-the-smugglers
 date: 2019-07-08 14:24:00-0600
 tags:
 - musings
@@ -12,4 +13,4 @@ I have to admit that framing them as drug lords defending their turf strikes me 
 
 That being said, I love the additional perspective his research provided. I laughed out loud a number of times in listening to this episode. I am sharing a clip of one of my favorite segments to give you a taste. I highly recommend you listen to the whole episode. Here is an Overcast link: [Tempest in a Teacup](https://overcast.fm/+NG9Lftp2k).
 
-<video controls="controls" playsinline="playsinline" src="https://media.bennorris.org/images/bennorris/uploads/2019/c01c39fcbb.mov" width="640" height="640" poster="https://media.bennorris.org/images/bennorris/uploads/2019/f02e944293.png" preload="none"></video>
+<video controls="controls" playsinline="playsinline" src="https://media.bennorris.com/images/bennorris/uploads/2019/c01c39fcbb.mov" width="640" height="640" poster="https://media.bennorris.com/images/bennorris/uploads/2019/f02e944293.png" preload="none"></video>

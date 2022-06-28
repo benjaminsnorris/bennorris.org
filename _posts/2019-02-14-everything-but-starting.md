@@ -1,5 +1,6 @@
 ---
 title: "🌀 Everything but starting"
+canonical_url: https://bennorris.com/2019/02/14/everything-but-starting
 date: 2019-02-14 10:38:58-0700
 tags:
 - musings

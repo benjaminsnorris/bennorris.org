@@ -1,7 +1,9 @@
 ---
 title:          "Handling live text reload elegantly"
+canonical_url: https://bennorris.com/2016/08/31/handling-live-text-reload-elegantly
 date:           2016-08-31 13:00:00-0700
-update_date:    2016-09-02 06:20:00-0700
+update_canonical_url: https://bennorris.com/2016/08/31/handling-live-text-reload-elegantly
+date:    2016-09-02 06:20:00-0700
 excerpt:        Easy steps to support concurrent editing without losing cursor position or text selection in UITextView
 category:       General
 tags:

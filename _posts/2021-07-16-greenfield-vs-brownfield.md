@@ -1,5 +1,6 @@
 ---
 title: "Greenfield vs. Brownfield"
+canonical_url: https://bennorris.com/2021/07/16/greenfield-vs-brownfield
 date: 2021-07-16 09:25:24-0600
 category: General
 ---

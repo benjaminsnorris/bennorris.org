@@ -1,20 +1,21 @@
 ---
 title: "🛡 A leader’s role: protect"
+canonical_url: https://bennorris.com/2020/04/15/a-leaders-role-protect
 date: 2020-04-15 15:54:18-0600
 tags:
 - leadership
 category: General
 ---
 
-![Protect](https://media.bennorris.org/images/bennorris/uploads/2020/6d71210781.jpg)
+![Protect](https://media.bennorris.com/images/bennorris/uploads/2020/6d71210781.jpg)
 
 In my opinion, the most important functions a leader fulfills is to **protect** and **provide**. There are many ways in which a leader can do those, and I will first explore how a leader can protect **people**, the **team**, and the **company**.
 
-*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.org/2020/04/13/thoughts-on-leadership).*
+*Note: This is part of a series sharing my thoughts on leadership. Read the introduction [here](https://www.bennorris.com/2020/04/13/thoughts-on-leadership).*
 
 ***
 
-As I mentioned in my article on [trust](https://www.bennorris.org/2020/04/14/leading-through-trust), I enjoy attempting to distill a complicated topic to the simplest terms I feel still capture its essence. In considering all of the many important functions a leader performs, I settled on categorizing them in just two groups: **protect** and **provide**.
+As I mentioned in my article on [trust](https://www.bennorris.com/2020/04/14/leading-through-trust), I enjoy attempting to distill a complicated topic to the simplest terms I feel still capture its essence. In considering all of the many important functions a leader performs, I settled on categorizing them in just two groups: **protect** and **provide**.
 
 As a reminder, when I speak of a leader, I do not refer just to those with positional authority. Anyone can be a leader, as illustrated by this definition from [Niel Nickolaisen](https://www.linkedin.com/in/nielnickolaisen), our CIO at O.C. Tanner:
 
@@ -59,4 +60,4 @@ Additionally, we protect the company by defining and executing a process with di
 
 There are so many more things that could be said about the role of a leader to protect, but I am going to stop here. While this is not a comprehensive summary of everything that a leader needs to do, I feel that it is a helpful distillation of one half of the most important functions. 
 
-_In my next article in my [series on leadership](https://www.bennorris.org/2020/04/13/thoughts-on-leadership), I will explore the other half of [a leader’s role: to provide](https://www.bennorris.org/2020/04/17/a-leaders-role-provide)._
+_In my next article in my [series on leadership](https://www.bennorris.com/2020/04/13/thoughts-on-leadership), I will explore the other half of [a leader’s role: to provide](https://www.bennorris.com/2020/04/17/a-leaders-role-provide)._

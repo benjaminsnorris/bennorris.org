@@ -1,5 +1,6 @@
 ---
 title: "😂 Cold Dr. Pepper"
+canonical_url: https://bennorris.com/2020/08/23/cold-dr-pepper
 date: 2020-08-23 18:54:40-0600
 category: General
 tags:

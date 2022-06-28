@@ -1,5 +1,6 @@
 ---
 title: "🔗 Empowering women"
+canonical_url: https://bennorris.com/2020/05/26/empowering-women
 date: 2020-05-26 07:48:51-0600
 tags:
 - link

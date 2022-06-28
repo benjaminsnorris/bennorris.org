@@ -1,5 +1,6 @@
 ---
 title: "🔗 Marriage is like a car"
+canonical_url: https://bennorris.com/2019/05/07/marriage-is-like-a-car
 date: 2019-05-07 12:26:00-0600
 tags:
 - link

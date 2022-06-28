@@ -1,6 +1,7 @@
 ---
 title:          "Inktober day 18"
-gallery_thumb: https://media.bennorris.org/images/sketchnotable/thumbs/inktober-day-18.jpg
+gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/inktober-day-18.jpg
+canonical_url: https://bennorris.com/2016/10/18/inktober-day-18
 date:           2016-10-18 22:24:00-0700
 category:       Sketchnotable
 tags:           inktober
@@ -11,4 +12,4 @@ short:          true
 
 Getting dressed: the daily ritual that transforms a parent into a warden.
 
-![Escaping child](https://media.bennorris.org/images/sketchnotable/inktober-2016/inktober-day-18.jpg){:loading="lazy"}
+![Escaping child](https://media.bennorris.com/images/sketchnotable/inktober-2016/inktober-day-18.jpg){:loading="lazy"}

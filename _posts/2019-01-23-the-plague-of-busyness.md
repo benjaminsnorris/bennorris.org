@@ -1,5 +1,6 @@
 ---
 title: "🌀 The plague of busyness"
+canonical_url: https://bennorris.com/2019/01/23/the-plague-of-busyness
 date: 2019-01-23 08:46:20-0700
 tags:
 - musings

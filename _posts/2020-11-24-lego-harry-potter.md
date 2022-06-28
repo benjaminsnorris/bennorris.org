@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/11/24/lego-harry-potter
 date: 2020-11-24 21:37:24-0700
 title: "Lego Harry Potter"
 short: true

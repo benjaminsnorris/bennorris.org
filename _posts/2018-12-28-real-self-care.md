@@ -1,5 +1,6 @@
 ---
 title: "🔗 Real self-care"
+canonical_url: https://bennorris.com/2018/12/28/real-self-care
 date: 2018-12-28 10:01:26-0700
 tags:
 - link

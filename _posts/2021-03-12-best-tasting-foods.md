@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2021/03/12/best-tasting-foods
 date: 2021-03-12 21:34:34-0700
 title: "Best tasting foods"
 category: General

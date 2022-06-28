@@ -1,5 +1,6 @@
 ---
 title: "😂 Having a moment"
+canonical_url: https://bennorris.com/2020/08/27/having-a-moment
 date: 2020-08-27 09:29:00-0600
 category: General
 tags:
@@ -27,6 +28,6 @@ We couldn’t keep going for laughing, so we separated, and I started for him, a
 
 8yo: “Yikes! No, I don’t want that.”
 
-After we talked for a little bit (about [the coupons](https://www.bennorris.org/2020/08/27/thought-not)), he went to leave, and I said, “Now I want to have to have a moment with you.”
+After we talked for a little bit (about [the coupons](https://www.bennorris.com/2020/08/27/thought-not)), he went to leave, and I said, “Now I want to have to have a moment with you.”
 
 8yo: “Ok, but no kissing.”

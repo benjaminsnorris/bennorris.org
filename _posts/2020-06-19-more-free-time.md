@@ -1,5 +1,6 @@
 ---
 title: "🌀 More free time"
+canonical_url: https://bennorris.com/2020/06/19/more-free-time
 date: 2020-06-19 09:55:41-0600
 tags:
 - musings

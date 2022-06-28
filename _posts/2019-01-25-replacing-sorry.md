@@ -1,5 +1,6 @@
 ---
 title: "🌀 Replacing sorry"
+canonical_url: https://bennorris.com/2019/01/25/replacing-sorry
 date: 2019-01-25 13:21:22-0700
 tags:
 - musings

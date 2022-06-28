@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/07/16/done-meeting-ing
 date: 2020-07-16 17:08:00-0600
 title: "Done meeting-ing"
 category: General

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/09/30/super-weird-dreams
 date: 2019-09-30 07:13:11-0600
 title: "Super-weird dream"
 category: General

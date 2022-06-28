@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2018/12/16/licking-a-lemon
 date: 2018-12-16 18:58:30-0700
 title: "Licking a lemon"
 category: General

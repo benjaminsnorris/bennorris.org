@@ -1,5 +1,6 @@
 ---
 title: "🎙 5: First Impressions of Mexico"
+canonical_url: https://bennorris.com/2019/02/13/first-impressions-of-mexico
 date: 2019-02-13 14:43:00-0700
 tags:
 - podcast
@@ -9,5 +10,5 @@ short: true
 
 A few thoughts and stories about my experience visiting Mexico for the first time.
 
-<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/3495d9c76a.mp3" />
+<audio controls="controls" src="https://media.bennorris.com/images/bennorris/uploads/2019/3495d9c76a.mp3" />
 

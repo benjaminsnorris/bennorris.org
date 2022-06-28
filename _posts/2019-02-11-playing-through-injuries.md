@@ -1,5 +1,6 @@
 ---
 title: "💮 Playing through injuries"
+canonical_url: https://bennorris.com/2019/02/11/playing-through-injuries
 date: 2019-02-11 14:05:53-0700
 tags:
 - mental health

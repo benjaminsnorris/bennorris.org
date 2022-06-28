@@ -1,5 +1,6 @@
 ---
 title: "🌀 Living with incompetence"
+canonical_url: https://bennorris.com/2019/01/18/living-with-incompetence
 date: 2019-01-18 15:19:41-0700
 tags:
 - musings

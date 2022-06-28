@@ -4,6 +4,7 @@ excerpt: A basic set of resources for those considering learning to code iOS app
 category: General
 tags:
 - reference
+canonical_url: https://bennorris.com/2018/01/23/getting-started-with-ios-development
 date: 2018-01-23 12:05:33-0700
 ---
 

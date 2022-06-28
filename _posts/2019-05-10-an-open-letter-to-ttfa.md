@@ -1,5 +1,6 @@
 ---
 title: "📃 An open letter to TTFA"
+canonical_url: https://bennorris.com/2019/05/10/an-open-letter-to-ttfa
 date: 2019-05-10 11:23:00-0600
 tags:
 - open letter
@@ -27,4 +28,4 @@ Hopefully one day I can meet you, give you a hug, and thank you in person for ho
 
 Your new (but unknown) friend,
 
-![Ben Norris signature](https://media.bennorris.org/images/bennorris/uploads/2019/29fa5d6acd.png){:loading="lazy"}
+![Ben Norris signature](https://media.bennorris.com/images/bennorris/uploads/2019/29fa5d6acd.png){:loading="lazy"}

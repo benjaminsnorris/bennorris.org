@@ -1,5 +1,6 @@
 ---
 title: "Verbal violence"
+canonical_url: https://bennorris.com/2021/05/03/verbal-violence
 date: 2021-05-03 21:30:01-0600
 category: General
 ---

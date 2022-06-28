@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/11/22/use-of-space
 date: 2020-11-22 15:28:30-0700
 title: "Use of space"
 short: true

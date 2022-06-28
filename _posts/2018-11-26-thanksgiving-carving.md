@@ -1,5 +1,6 @@
 ---
 title: "🌀 Thanksgiving carving"
+canonical_url: https://bennorris.com/2018/11/26/thanksgiving-carving
 date: 2018-11-26 09:29:26-0700
 tags:
 - musings

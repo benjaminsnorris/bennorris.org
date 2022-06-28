@@ -1,5 +1,6 @@
 ---
 title: "🔗 Not responsible"
+canonical_url: https://bennorris.com/2019/04/07/not-responsible
 date: 2019-04-07 21:18:41-0600
 tags:
 - link

@@ -1,5 +1,6 @@
 ---
 title: "🎙 2: At Your Own Pace"
+canonical_url: https://bennorris.com/2019/01/31/at-your-own-pace
 date: 2019-01-31 17:43:25-0700
 tags:
 - podcast
@@ -11,7 +12,7 @@ I share my thoughts from time spent at the rec center, and how those can be appl
 
 *Links:*
 
-[Being the worst](https://www.bennorris.org/2019/01/31/being-the-worst)
+[Being the worst](https://www.bennorris.com/2019/01/31/being-the-worst)
 
-<audio controls="controls" src="https://media.bennorris.org/images/bennorris/uploads/2019/79aff62720.mp3" />
+<audio controls="controls" src="https://media.bennorris.com/images/bennorris/uploads/2019/79aff62720.mp3" />
 

@@ -1,5 +1,6 @@
 ---
 title: "😂 Zombies under the bed"
+canonical_url: https://bennorris.com/2019/12/26/zombies-under-the-bed
 date: 2019-12-26 11:45:00-0700
 category: General
 tags:

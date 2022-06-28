@@ -1,5 +1,6 @@
 ---
 title: "🌀 Enjoying recommendations"
+canonical_url: https://bennorris.com/2019/03/02/enjoying-recommendations
 date: 2019-03-02 20:18:09-0700
 tags:
 - musings

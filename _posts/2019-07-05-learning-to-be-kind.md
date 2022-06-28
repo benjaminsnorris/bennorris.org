@@ -1,5 +1,6 @@
 ---
 title: "🌀 Learning to be kind"
+canonical_url: https://bennorris.com/2019/07/05/learning-to-be-kind
 date: 2019-07-05 11:25:00-0600
 tags:
 - mental health

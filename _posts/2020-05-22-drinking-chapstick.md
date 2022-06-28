@@ -1,5 +1,6 @@
 ---
 title: "Drinking chapstick 😂"
+canonical_url: https://bennorris.com/2020/05/22/drinking-chapstick
 date: 2020-05-22 22:26:00-0600
 category: General
 tags:

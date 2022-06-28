@@ -1,5 +1,6 @@
 ---
 title: "🌀 Being the worst"
+canonical_url: https://bennorris.com/2019/01/31/being-the-worst
 date: 2019-01-31 11:12:54-0700
 tags:
 - musings

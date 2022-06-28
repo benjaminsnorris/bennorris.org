@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2020/11/21/office-space
 date: 2020-11-21 23:06:00-0700
 title: "Office space"
 short: true

@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/03/11/just-finished-season-3
 date: 2019-03-11 16:37:30-0600
 title: "Just finished season 3"
 short: true

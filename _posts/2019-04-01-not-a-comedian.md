@@ -1,12 +1,13 @@
 ---
 title: "🌀 Not a comedian"
+canonical_url: https://bennorris.com/2019/04/01/not-a-comedian
 date: 2019-04-01 07:44:32-0600
 tags:
 - musings
 category: General
 ---
 
-![Comedian](https://media.bennorris.org/images/bennorris/uploads/2019/a8d2a8400b.png){:loading="lazy"}
+![Comedian](https://media.bennorris.com/images/bennorris/uploads/2019/a8d2a8400b.png){:loading="lazy"}
 
 It’s ok that I’m not that funny. Just because I’ve listened to comedians on THWoD doesn’t mean I have to be one.
 

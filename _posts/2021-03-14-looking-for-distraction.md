@@ -1,5 +1,6 @@
 ---
 title: "Looking for distraction"
+canonical_url: https://bennorris.com/2021/03/14/looking-for-distraction
 date: 2021-03-14 15:10:04-0600
 category: General
 ---

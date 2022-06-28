@@ -1,10 +1,11 @@
 ---
 title: "Mental illnesses exaggerate"
+canonical_url: https://bennorris.com/2022/04/12/mental-illnesses-exaggerate
 date: 2022-04-12 21:22:33-0600
 image: 
-  path: https://media.bennorris.org/images/mentalworkhealth/posts/mental-illnesses-exaggerate.jpg
-  thumbnail: https://media.bennorris.org/images/mentalworkhealth/posts/thumbnails/mental-illnesses-exaggerate.jpg
-gallery_thumb: https://media.bennorris.org/images/mentalworkhealth/thumbs/mental-illnesses-exaggerate.jpg
+  path: https://media.bennorris.com/images/mentalworkhealth/posts/mental-illnesses-exaggerate.jpg
+  thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/mental-illnesses-exaggerate.jpg
+gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/mental-illnesses-exaggerate.jpg
 layout: mwh
 category: Mental Work Health
 tags:

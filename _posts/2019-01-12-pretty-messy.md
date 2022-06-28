@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2019/01/12/pretty-messy
 date: 2019-01-12 13:30:25-0700
 title: "Pretty messy"
 category: General

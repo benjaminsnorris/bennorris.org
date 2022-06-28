@@ -1,5 +1,6 @@
 ---
 title: "Product Hive Presentation"
+canonical_url: https://bennorris.com/2020/05/25/product-hive-presentation
 date: 2020-05-25 20:23:25-0600
 tags:
 - video

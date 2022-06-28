@@ -1,5 +1,6 @@
 ---
 title: "💮 Finding your dream game"
+canonical_url: https://bennorris.com/2019/02/06/finding-your-dream-game
 date: 2019-02-06 07:58:05-0700
 tags:
 - mental health

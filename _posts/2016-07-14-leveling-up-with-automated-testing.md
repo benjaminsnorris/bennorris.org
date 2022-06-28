@@ -1,5 +1,6 @@
 ---
 title:          "Leveling Up with Automated Testing"
+canonical_url: https://bennorris.com/2016/07/14/leveling-up-with-automated-testing
 date:           2016-07-14 09:20:00-0700
 excerpt:        My latest focus in self-improvement as a software engineer
 category:       General

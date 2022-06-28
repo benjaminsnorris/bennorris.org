@@ -1,5 +1,6 @@
 ---
 title: "🌀 Just write"
+canonical_url: https://bennorris.com/2019/07/03/just-write
 date: 2019-07-03 08:56:46-0600
 tags:
 - mental health

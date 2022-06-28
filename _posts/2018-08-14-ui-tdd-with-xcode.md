@@ -1,5 +1,6 @@
 ---
 title: "🧪 UI-TDD with Xcode"
+canonical_url: https://bennorris.com/2018/08/14/ui-tdd-with-xcode
 date: 2018-08-14 08:46:00-0600
 tags:
 - testing
@@ -19,8 +20,9 @@ to this:
 
 I have really enjoyed the productivity boost this has given us, along with the safety and security of good test coverage and wanted to share this approach with the community. Included below is a PDF of my presentation.
 
-[UI TDD Presentation (5 MB)](https://media.bennorris.org/images/bennorris/uploads/2019/7140e68aef.pdf)
+[UI TDD Presentation (5 MB)](https://media.bennorris.com/images/bennorris/uploads/2019/7140e68aef.pdf)
 
-*Update:* The talk was recorded and can be viewed here:
+*Upcanonical_url: https://bennorris.com/2018/08/14/ui-tdd-with-xcode
+date:* The talk was recorded and can be viewed here:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MQID07Xn23o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

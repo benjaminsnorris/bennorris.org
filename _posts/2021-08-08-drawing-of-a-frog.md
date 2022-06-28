@@ -1,4 +1,5 @@
 ---
+canonical_url: https://bennorris.com/2021/08/08/drawing-of-a-frog
 date: 2021-08-08 15:44:28-0600
 title: "Drawing of a frog"
 category: General
@@ -17,4 +18,4 @@ Wife: “Well, it was going to be a frog.”
 
 😂
 
-![Frog drawing](https://media.bennorris.org/images/posts/frog-drawing.jpeg){:loading="lazy"}
+![Frog drawing](https://media.bennorris.com/images/posts/frog-drawing.jpeg){:loading="lazy"}

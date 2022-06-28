@@ -1,5 +1,6 @@
 ---
 title: "🌀 Instantaneous mindset change"
+canonical_url: https://bennorris.com/2020/02/26/instantaneous-mindset-change
 date: 2020-02-26 13:34:10-0700
 tags:
 - musings

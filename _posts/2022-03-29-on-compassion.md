@@ -1,5 +1,6 @@
 ---
 title: "On compassion"
+canonical_url: https://bennorris.com/2022/03/29/on-compassion
 date: 2022-03-29 20:20:51-0600
 category: Mental Work Health
 tags:

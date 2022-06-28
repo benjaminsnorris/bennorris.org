@@ -2,6 +2,7 @@
 title: "Riding the wave"
 excerpt: Embracing the effects of a phasic personality
 category: General
+canonical_url: https://bennorris.com/2017/11/10/riding-the-wave
 date: 2017-11-10 08:29:37-0700
 ---
 
