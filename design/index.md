@@ -6,23 +6,23 @@ title: Design
 My personal website has gone through many different iterations, which now serve to highlight some of my web design experience.
 
 
-## [Sketchbook design](https://sketchbook.bennorris.org)
+## [Sketchbook design](https://sketchbook.bennorris.com)
 
-[![Skeuomorphic sketchbook design](/assets/images/sketchbook.jpeg)](https://sketchbook.bennorris.org){:loading="lazy"}
+[![Skeuomorphic sketchbook design](/assets/images/sketchbook.jpeg)](https://sketchbook.bennorris.com){:loading="lazy"}
 
 This was my first website to design alone every part of it. In the middle of 2013 when I did this, I was using sketchbooks constantly and decided to make the design skeuomorphic and to show off my new CSS skills. It was a blast to make.
 
 
-## [Flat design](https://sketchbook.bennorris.org?design=flat)
+## [Flat design](https://sketchbook.bennorris.com?design=flat)
 
-[![Flat design](/assets/images/flat.png)](https://sketchbook.bennorris.org?design=flat){:loading="lazy"}
+[![Flat design](/assets/images/flat.png)](https://sketchbook.bennorris.com?design=flat){:loading="lazy"}
 
 At the time that I created the sketchbook design (2013), skeuomorphic design was falling out of fashion, and the trend was flat design. I wanted to show that I was aware of this and was able to do both styles, and so I created an alternate design for the same site that users could toggle between.
 
 
-## [Static blog](https://old-blog.bennorris.org)
+## [Static blog](https://old-blog.bennorris.com)
 
-[![Old blog](/assets/images/old-blog.png)](https://old-blog.bennorris.org){:loading="lazy"}
+[![Old blog](/assets/images/old-blog.png)](https://old-blog.bennorris.com){:loading="lazy"}
 
 This served as my main website, including blog and microblog, from the middle of 2016 until the middle of 2018 when I moved to [Micro.blog](https://micro.blog). I hosted the site using [GitHub Pages](https://pages.github.com/) and configured it to support writing and publishing from mobile devices.
 
