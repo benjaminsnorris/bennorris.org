@@ -5,7 +5,7 @@ read_time:      false
 category: Sketchnotable
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 gallery_thumb: https://media.bennorris.com/images/sketchnotable/thumbs/silicon-slopes-2018-sketchnote-01.jpg
 canonical_url: https://bennorris.com/2018/01/24/silicon-slopes-2018-sketchnotes
 date: 2018-01-24 10:39:50-0700

@@ -5,7 +5,7 @@ read_time:      false
 category: Gospel Sketcher
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 gallery_thumb: https://media.bennorris.com/images/gospelsketcher/thumbs/homeschool-path-to-college-sketchnote-i.jpg
 canonical_url: https://bennorris.com/2017/02/04/homeschool-path-to-college-sketchnotes
 date: 2017-02-04 07:18:02-0700

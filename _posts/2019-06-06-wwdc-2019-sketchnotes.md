@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2019/06/06/wwdc-2019-sketchnotes
 date: 2019-06-06 14:33:06-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 category: Sketchnotable
 ---
 

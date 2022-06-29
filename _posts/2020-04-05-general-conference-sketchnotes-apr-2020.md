@@ -10,7 +10,7 @@ read_time: false
 tags:
 - gospel sketcher
 - sketchnotes
-- sketchnote collection
+- collection
 category: Gospel Sketcher
 ---
 

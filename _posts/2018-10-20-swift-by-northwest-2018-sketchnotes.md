@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2018/10/20/swift-by-northwest-2018-sketchno
 date: 2018-10-20 17:14:41-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 category: Sketchnotable
 ---
 

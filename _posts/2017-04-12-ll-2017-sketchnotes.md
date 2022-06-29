@@ -5,7 +5,7 @@ canonical_url: https://bennorris.com/2017/04/12/ll-2017-sketchnotes
 date: 2017-04-12 10:30:36-0600
 tags:
 - sketchnotes
-- sketchnote collection
+- collection
 category: Sketchnotable
 ---
 
