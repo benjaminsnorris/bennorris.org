@@ -16,7 +16,8 @@ tags:
 
 After a couple weeks in which I couldn’t quite muster enough to write an update, I share some experiences I’ve had and lessons I’ve learned.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -72,8 +73,3 @@ I try to offer information about my condition or my state as explanation, not ex
 
 I don’t know how you are doing, but my guess is not great. Life is hard, especially right now. Let’s do all we can to be extra kind and patient, with others and with ourselves. A little compassion goes a long way.
 
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>

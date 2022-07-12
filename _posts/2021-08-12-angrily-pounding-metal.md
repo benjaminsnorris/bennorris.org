@@ -17,7 +17,8 @@ tags:
 
 In this update, I share challenges with **psychiatric medication**, **family struggles**, and **work changes**. I might not have handled things in the best way, but it definitely could have been worse.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -45,9 +46,4 @@ We spent most of the session discussing the scariest and most painful experience
 The best thing my therapist did was to bring me back to the present. All of my fears for the future, whether about medication or family or work, are uncertain. Maybe things will be hard. Maybe they won’t. But right then, I was fine. I was sitting on a couch talking about my feelings. I was safe.
 
 At any time, I can drop into that moment and just be present. And so can you.
-
-***
-
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 

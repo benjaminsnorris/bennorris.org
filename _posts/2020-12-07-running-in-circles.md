@@ -11,7 +11,8 @@ category: Mental Work Health
 
 Following a difficult week, I share about another **dissociative panic attack**, the healing that comes through **facing uncertainty**, and **frantic website work**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -61,6 +62,3 @@ Another important realization was that I was using those projects as a way to av
 
 Some of the most important lessons come through painful life experiences. As long as we can remember them and not have to continue relearning multiple times, the pain is worthwhile. Most of us bury emotions occasionally, but we need to allow ourselves to fully feel them and face the uncertainty that comes our way. We need to remember to ask “And what then?” when fears pop up. And we need to extend grace and compassion, particularly to ourselves.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

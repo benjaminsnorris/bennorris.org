@@ -12,7 +12,8 @@ category: Mental Work Health
 
 After a couple weeks off, in this update I share about the **difficulty of quitting**, an **uplifting and enjoyable weekend**, and the **need for white space**.
 
-_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -56,6 +57,3 @@ Since I have stopped, I have marveled at the difference it makes to have some ti
 
 I am sure that there are things in your life that bring you joy. It can be all too easy to allow those to morph into a taskmaster that demands so much that they lose all color and become oppressive. I encourage you (and me!) to remember to find and create white space in our lives. Look for opportunities to not be productive. Don’t be afraid to do nothing. I think it will do wonders for us.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

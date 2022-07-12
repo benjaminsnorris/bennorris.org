@@ -16,7 +16,8 @@ tags:
 
 This week brought **panic attacks**, witnessing a **tender moment of support**, and **reflections on last week’s announcement**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -105,8 +106,4 @@ It is helpful to be honest and vulnerable with what I am feeling, especially to 
 I hope that you and I can unlock some self-compassion in this coming week. Find opportunities to reach outside yourself, see someone else, and connect with them. Sit in how you are feeling without judgment, and then choose how to act while taking into account your emotions, and not trying to deny, escape, or be ruled by them.
 
 You and I, we deserve love and kindness. And when we allow ourselves to feel it, we can more easily share it with those in our lives. We’re in this together.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 

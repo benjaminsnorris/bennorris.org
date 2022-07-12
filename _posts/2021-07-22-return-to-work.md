@@ -16,7 +16,8 @@ category: Mental Work Health
 
 This week’s update includes a **delightful visit**, my experience with a **remote office space**, and **apprehensions about working in our corporate office**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -40,6 +41,3 @@ All of that is to say that I am not particularly excited about having to work in
 
 As we continue to experience change and uncertainly, my continued hope is for extra compassion. Be kind to yourself and those around you. It is nearly impossible to know what they are going through.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

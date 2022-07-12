@@ -16,7 +16,8 @@ tags:
 
 In this update, I share the **difficulty of receiving a kind message**, going to a **wonderful event** with a friend, and **personal questions**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -78,6 +79,3 @@ The way in which we do it matters much less than just doing it. It’s ok to mak
 
 My hope, for you and for me, is to honor the experiences of others. We don’t get to define their experience, and we don’t ever truly know what they are. But we can stop trying to control them. Instead, let’s ask more personal questions. In a respectful way, we can open the possibility of meaningful conversations and allow others to share what they actually feel. And then listen. Truly listen. This could save lives.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

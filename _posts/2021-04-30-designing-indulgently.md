@@ -11,7 +11,8 @@ category: Mental Work Health
 
 This week I discuss **impulse control**, the **gift of OCD**, and **change and growth**.
 
-_These weekly updates are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 ***
 
 
@@ -56,6 +57,3 @@ We often think that we have to practice a specific skill in order to utilize tha
 
 As we move throughout our lives, all of us will find moments when our impulse control is not what we would wish. We are always going to see areas to improve. My hope, for you and for me, is that we can be kind through that journey. Find and express compassion and watch it transform the world.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

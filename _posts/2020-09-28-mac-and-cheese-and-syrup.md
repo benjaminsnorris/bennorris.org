@@ -11,7 +11,8 @@ category: Mental Work Health
 
 My update from this week includes a **nonsensical meal**, an **uplifting 1:1**, and an **evening of sports**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -56,10 +57,6 @@ Among other things, watching sports represents actual self care for me. It is an
 ## Wrap up
 
 I know that all of us face our own moments of mixing mac and cheese and pancakes in the same meal. To some, an issue may seem trivial, inconsequential, or even ridiculous. To others, that same issue can cause great distress, and if not handled with skill, can devolve into incapacitation. I send you compassion as you face those moments in your own life, and encourage us all to be kind with each other. We never know what someone else is facing.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: Ok, technically, I meet with one person on my team monthly, and one of the other engineering managers I meet with biweekly. But that level of accuracy was more complicated than required to convey my point.

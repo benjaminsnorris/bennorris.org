@@ -16,7 +16,8 @@ tags:
 
 This week’s update includes more **chemical experimentation**, **success with meditative sketchnoting**, and **leveraging OCD**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -94,8 +95,3 @@ I still haven’t actually moved the office around. The meeting with my friends 
 I hope things are well with you. And when they’re not, I hope you can find support. We will all have ups and downs, and have great need of compassion and patience. Sometimes we can offer it, and sometimes we need to receive it. May we do both.
 
 
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>

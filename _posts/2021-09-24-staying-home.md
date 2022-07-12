@@ -16,7 +16,8 @@ tags:
 
 This update describes **being a stay-at-home parent** for a few days and **sitting in uncertainty**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -64,6 +65,3 @@ Uncertainty will always be difficult, and at times will be overwhelming. But it 
 
 I have an even greater respect for people who choose to stay home and raise their family. There is so much challenge and reward to be found. And this is true for all of us, whatever our situation. Life will continue to present us with uncertainty and difficulty. We can choose to find satisfaction in our willingness to show up and do what we can. Just remember kindness. You deserve it.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

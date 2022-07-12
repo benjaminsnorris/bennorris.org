@@ -12,7 +12,8 @@ tags:
 
 This update is about a different kind of **panic attack** and illustrates the **uncertainty** inherent in mental illness.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -64,11 +65,6 @@ The key to handling uncertainty is to not fight it. Again from Dr. Weekes[^1], t
 
 The challenge for me in this coming week, and for you, is to practice utter acceptance as much as we can. Be kind. It’s ok to not be ok.
 
-
-***
-
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: One of the most helpful books I have read was [Hope and Help for Your Nerves](https://amzn.to/3yrCPTG). The audiobook version is not actually a narration of the book, but rather an audio series by Dr. Weekes on the same subject as the book. Highly recommended.

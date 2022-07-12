@@ -16,7 +16,8 @@ tags:
 
 This week I share about delightful last-minute plans for **my birthday** and one of my heroes, **[John Moe](https://www.johnmoe.website/)**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -45,10 +46,6 @@ The other book was my birthday present to myself--[The Hilarious World of Depres
 One of the things I love about John Moe and his work is that we are basically on the same mission. Trying to normalize conversations around mental health. Sharing our stories in the hopes that it will create space for others to share theirs. I’m like a small-time version of John Moe who is less funny and has more kids. And I’m fine with that.
 
 We all have a chance in our own sphere to make a difference for the people around us. It could be one person that needs a smile, a kind word, or empowering vulnerability. That’s enough. I’m enough. You’re enough. Just as we are.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: And I won the "Staff Pick" award! 🥳

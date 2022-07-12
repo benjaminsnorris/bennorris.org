@@ -16,7 +16,8 @@ tags:
 
 Someone close to me was sharing her feelings last week. While not terrible, things were difficult for her. I told her that I hoped she could feel at least a piece of peace. Her near-immediate response was, “A piece of peace pizza.” I knew right away that was the title of my next update.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -52,6 +53,3 @@ My hope for you and for me in the coming week is to be more mindful of our emoti
 
 And finally, as always, be kind. The people around you have their own frying pan filled of emotions. You can’t know all of what they are carrying. Be patient and give them the benefit of the doubt. And then do the same for yourself. You deserve some kindness too.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

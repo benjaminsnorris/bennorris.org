@@ -16,7 +16,8 @@ tags:
 
 This week’s update includes my thoughts on caring for sick family while trying to figure out my new job, a validating reminder that I have made a good choice, and balancing needing and giving help.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -60,8 +61,3 @@ Sometimes, my own situation prevents me from offering the care that I want to. B
 
 Most likely, you are struggling with something right now. And you also probably have people in your life that clearly need help and assistance. May we find the capacity to reach out to those around us. May we also acknowledge the help and support that we need and have the courage to seek and accept it. We’re all in this together.
 
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>

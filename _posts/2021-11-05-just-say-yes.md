@@ -16,7 +16,8 @@ tags:
 
 This week I share the challenges of a **single-hobby lifestyle**, **owning the dishes**, and an **exciting announcement**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -88,8 +89,4 @@ I am really excited about this and hope that it can be helpful for others as it 
 ## Wrap up
 
 I hope you are staying above water this week. My emotional legs are getting heavy from treading water for so long, and I know that many other feel similarly. There is hope and compassion to be found, even if we have to just give it to ourselves. We deserve love and kindness, just as we are.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 

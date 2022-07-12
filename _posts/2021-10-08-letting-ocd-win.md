@@ -16,7 +16,8 @@ tags:
 
 This week I share about **letting OCD win**, **enjoying General Conference**, and **seeing friends**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -68,8 +69,4 @@ I was reminded what a boost it is to spend time with people. Particularly people
 ## Wrap up
 
 While there were some serious difficulties in this past week, there was so much good as well. That’s probably true for all of us, nearly all the time. We will all benefit from connecting with people who love us. They will often show us the compassion that we are struggling to show ourselves. We need that kindness. And when we’re able to, we need to share it with those around us.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 

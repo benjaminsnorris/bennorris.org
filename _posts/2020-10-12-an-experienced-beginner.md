@@ -11,7 +11,8 @@ category: Mental Work Health
 
 This week brings some thoughts on  a **surprise struggle**, a **parenting win**, and **pragmatic sketching**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -49,6 +50,3 @@ One of the nice things about the revelation that I can improve drastically in th
 
 Take care of yourself out there. Life is stressful these days and we are all going to have times when we need an extra dose of support to get back up and keep going. And when you can be that for someone else, rather than worry if you will do it right or say the right thing, just reach out and try. The effort matters and your desire to help comes through.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

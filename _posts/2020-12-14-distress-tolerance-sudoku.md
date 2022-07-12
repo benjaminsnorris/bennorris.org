@@ -11,7 +11,8 @@ category: Mental Work Health
 
 In this edition of my weekly update, I write about the skill of **distress tolerance**, a lovely **sudoku app**, and **authenticity**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -57,6 +58,3 @@ I keep coming back to authenticity. It is important for me to not continually se
 
 It feels nice to be pressing on. Change continues to be our constant companion, and we can use that to our advantage. Ride the waves of uncertainty and let them propel you forward. At least, that’s what I’ll continue telling myself.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

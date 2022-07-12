@@ -17,7 +17,8 @@ tags:
 
 This week’s update shares the story of **hanging a whiteboard** in my office, and how it will help **challenge my OCD**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -74,10 +75,5 @@ This is hard! Remember that, and extend yourself compassion. And assume that tho
 
 We’re all in this together.
 
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>
 
 [^1]: I am quite picky about whiteboards, and decided I wanted a glass one. The thing I hate the most is not being able to erase well, and in my experience, glass boards are often the best for that. They are also versatile with what you can use to write on them. With those constraints, and wanting to pick one up that same day, this is the model that I chose: [Quartet® Infinity™ Magnetic Unframed Dry-Erase Whiteboard](https://www.officedepot.com/a/products/190973/Quartet-Infinity-Magnetic-Unframed-Dry-Erase/).

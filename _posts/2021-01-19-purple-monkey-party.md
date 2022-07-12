@@ -11,7 +11,8 @@ category: Mental Work Health
 
 In this week’s update, I discuss a **purple monkey birthday party**, a **magical phrase**, and a **tricky programming bug**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -74,10 +75,6 @@ The next morning, I was able to find a fix for the situation, and in my testing 
 ## Wrap up
 
 I think that we all have moments to mourn in our lives when we are not able to do what we want. My encouragement to myself and to you is to use those moments to motivate us to continue to move forward. Find those opportunities to introduce levity into otherwise distressing situations and practice more self compassion.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: The [AirPods Pro](https://en.wikipedia.org/wiki/AirPods_Pro) have been a lifesaver for me. They fit right in my pocket, so I can have them with me all the time. I just pop them in with the active noise cancelling enabled, and enjoy a muted version of everything around me. For times when I need even more relief, I can put on some quiet music.

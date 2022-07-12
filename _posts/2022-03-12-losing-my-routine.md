@@ -17,7 +17,8 @@ tags:
 
 This week I share the story of realizing how my **beautiful morning routine had mutated**, and what I have to do about it.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -82,11 +83,6 @@ When viewed with curiosity, the distress can lose some of its power. It no longe
 
 Let’s give that a try, you and I. And as we do, remember to **ramp up compassion**. This is hard stuff.
 
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>
 
 
 [^1]: On days when I don’t have to drive the kids to class, I have been trying the [Apple Fitness+ HIIT workouts](https://www.apple.com/apple-fitness-plus/). They’re great to move and elevate my heart rate without requiring exercise equipment. When I do carpool, I’ve been doing a yoga workout instead. At least, that’s the goal.

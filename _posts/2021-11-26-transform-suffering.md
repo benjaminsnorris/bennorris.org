@@ -17,7 +17,8 @@ tags:
 
 This update shares the story of the meditative sketchnoting workshop from last week, and how I tried to turn painful emotions into helpful tools for myself and others.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -78,9 +79,3 @@ When you notice that you are hurting, turn inward for a moment. Allow yourself t
 See if you can find a way to sit in your distress without judging it. Tell yourself some kind words. Hold some compassion.
 
 And, if you can, share it with someone else.
-
-***
-
-_Help reduce the stigma of mental health in the workplace and receive these updates in your inbox each week:_
-
-<a href="https://bennorris.com/subscribe/mwh/" class="btn"><span class="icon">{% include icon-email.svg %}</span>Subscribe now</a>

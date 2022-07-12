@@ -11,7 +11,8 @@ category: Mental Work Health
 
 Amidst tears and candy, this week brought both expected and surprising **news of departures**, a welcome **reminder of progress**, and a **spooky and worthwhile holiday**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -80,10 +81,6 @@ There is a certain level of irony in the arrangement. My friend had to tell his 
 ## Wrap up
 
 I am glad to have this week behind me. While it was a great reminder and validation of how far I have come, I could do with a lighter emotional load. The uncertainty that was generated from all that happened this week will be my companion for the next weeks and months. But if there is one thing I have learned to live with, it is uncertainty.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: [Inside Out](https://en.wikipedia.org/wiki/Inside_Out_(2015_film)) is one of my favorite movies to help understand and discuss emotions. It has had a powerful impact in my life.

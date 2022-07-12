@@ -11,7 +11,8 @@ category: Mental Work Health
 
 This week, I share about **nailing the holiday**, **recognizing panic attacks**, and **expressing gratitude**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -79,10 +80,6 @@ I thought I would just share each of my posts here.
 ## Wrap up
 
 So many of us with mental health challenges struggle even more during the holiday season. It felt great for me to realize that engaging well included a healthy mix of sitting out to recover before reengaging. If you are having a hard time, I send you compassion and encourage you to reach out to someone. It is often during the times when we want it the least that we need support and companionship the most.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: I wrote about one of these types of panic attacks [a few weeks ago](https://bennorris.com/2020/11/16/a-slight-breakdown).

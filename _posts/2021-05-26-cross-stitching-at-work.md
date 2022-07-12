@@ -11,7 +11,8 @@ category: Mental Work Health
 
 In this week, I discuss **feeling emotions**, a **relaxing project**, and **sketchnoting**. 
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -57,6 +58,3 @@ I look forward to becoming reacquainted with my good friend, sketchnoting.
 
 Whether you are having a hard time right now, whether life is going well, or whether things are in between, I invite you to lean in to it. Fully engage in your emotions and allow them to run their course. Emotions will always pass, both the good and the hard. And that can be comforting.
 
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._

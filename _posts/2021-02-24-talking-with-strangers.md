@@ -11,7 +11,8 @@ category: Mental Work Health
 
 In this week’s update, I discuss a **more difficult therapy session**, a **delightful group of sisters**, and an **inspiring TV show**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -53,10 +54,6 @@ The ability to do the same is well within our reach. In my own life, I have foun
 ## Wrap up
 
 It is good for us to remember that nearly everyone around us in struggling in major ways. We rarely get to see their pain, but it is usually there. To the extent that we can get outside of ourselves, and connect with others, we have the ability to improve all of our lives.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: If you are interested, you can read more about [my story](https://bennorris.com/2019/11/09/my-story).

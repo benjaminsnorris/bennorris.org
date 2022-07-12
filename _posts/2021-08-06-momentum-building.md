@@ -11,7 +11,8 @@ category: Mental Work Health
 
 In this week’s update, I share about mental health being highlighted by **Ted Lasso**, **Simone Biles**, and **Michael Phelps**.
 
-_These [weekly updates](https://bennorris.com/tags/weekly-update/) are an ongoing series in which I share what it is like to live with OCD in an effort to reduce the stigma around mental health, particularly in the workplace._
+_These [weekly updates](https://bennorris.com/tags/weekly-update/) share life with OCD as part of my [Mental Work Health](https://bennorris.com/mental-work-health) project to reduce stigma around mental health, especially at work._
+
 
 ***
 
@@ -99,10 +100,6 @@ Finally, Michael Phelps shared some of his story while reporting at the [Tokyo 2
 While these situations were public, and reached millions of people, the effect is similar to you and me reaching out to people we know and love. We can open the door to discussing mental health. In many ways, having these private conversations can have a more profound effect as we build a relationship and provide ongoing support. I was thrilled that Michael Phelps said the exact phrase I have used in nearly all of my workplace presentations on mental health:
 
 It’s OK to not be OK.
-
-***
-
-_If you would like to receive these updates in your inbox and help reduce the stigma of mental health in the workplace, [join us](https://bennorris.com/subscribe/mwh/)._
 
 
 [^1]: I wrote about Ted Lasso and the impact the show had on me [back in February](https://bennorris.com/2021/02/24/talking-with-strangers).
