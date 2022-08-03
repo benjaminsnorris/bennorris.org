@@ -5,6 +5,7 @@ category: General
 tags:
 - ocd
 - link
+excerpt_separator: "<!—more—>"
 canonical_url: https://bennorris.com/2022/08/02/magically-divine-gas
 ---
 
