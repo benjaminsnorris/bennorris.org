@@ -9,6 +9,67 @@
 
 @import "basically-basic";
 
-img {
-    border-radius: .5em;
+/* Base font family */
+$overridden-base-font-family: "Fira Sans", sans-serif !default;
+/* Other font families */
+$overridden-headline-font-family: $overridden-base-font-family !default;
+$overridden-monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
+
+/* From _reset.scss */
+html {
+    font-family: $overridden-base-font-family;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: $overridden-base-font-family;
+}
+
+/* From _base.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $overridden-headline-font-family;
+}
+
+code,
+kbd,
+samp,
+pre {
+  font-family: $overridden-monospace-font-family;
+}
+
+/* From _global.scss */
+.taxonomy-title {
+    font-family: $overridden-base-font-family;
+}
+
+.taxonomy-index {
+    font-family: $overridden-base-font-family;
+}
+
+.site-title {
+    font-family: $overridden-base-font-family;
+}  
+
+/* From _footer.scss */
+.copyright {
+    font-family: $overridden-monospace-font-family;
+}
+
+/* From _layout.scss */
+.entry .date {
+    font-family: $overridden-monospace-font-family;
+}
+
+/* From _syntax-highlighting.scss */
+div.highlighter-rouge,
+figure.highlight {
+  font-family: $overridden-monospace-font-family;
 }
