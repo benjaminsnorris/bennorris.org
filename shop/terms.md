@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terms of Use (for digital products and printable files)
+canonical_url: https://bennorris.com/shop/terms/
 permalink: /shop/terms/
 ---
 

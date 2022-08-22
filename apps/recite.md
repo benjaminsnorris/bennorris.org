@@ -6,6 +6,7 @@ release_date:   2016-04-13
 sub_title:      Memorize anything
 app_image:      https://media.bsn.design/images/apps/Recite.png
 permalink:      /apps/recite/
+canonical_url:  https://bennorris.com/apps/recite/
 ---
 
 ## Backstory

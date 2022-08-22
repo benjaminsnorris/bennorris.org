@@ -6,6 +6,7 @@ release_date:   2015-03-06
 sub_title:      Invites with a fuse
 app_image:      https://media.bsn.design/images/apps/Whimmy.png
 permalink:      /apps/whimmy/
+canonical_url:  https://bennorris.com/apps/whimmy/
 ---
 
 ## Backstory

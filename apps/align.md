@@ -6,6 +6,7 @@ release_date:   2016-12-19
 update_date:    2018-03-28
 sub_title:      Simple and powerful one-on-one tool for managers
 permalink:      /apps/align/
+canonical_url:  https://bennorris.com/apps/align/
 ---
 
 ## Backstory

@@ -1,6 +1,7 @@
 ---
 layout: collection
 title: Drafts
+canonical_url: https://bennorris.com/drafts/
 permalink: /drafts/
 collection: drafts
 meta_robots: noindex

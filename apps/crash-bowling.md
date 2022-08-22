@@ -6,6 +6,7 @@ release_date:   2015-10-28
 sub_title:      Best multiplayer bowling game on Apple TV
 app_image:      https://media.bsn.design/images/apps/bowling-tv.png
 permalink:      /apps/crash-bowling/
+canonical_url:  https://bennorris.com/apps/crash-bowling/
 ---
 
 ## Backstory

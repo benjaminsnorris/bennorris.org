@@ -9,6 +9,7 @@ sub_title:      Keep score
 app_image:      https://media.bsn.design/images/pointedly/pointedly.png
 app_id:         933257819
 permalink:      /apps/pointedly/
+canonical_url:  https://bennorris.com/apps/pointedly/
 ---
 
 ## Backstory

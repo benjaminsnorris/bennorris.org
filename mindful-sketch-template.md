@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mindful Sketch Template
+canonical_url: https://bennorris.com/mindful-sketch-template/
 permalink: /mindful-sketch-template/
 image: https://media.bennorris.com/images/bennorris/mindful-sketch-template.jpg
 ---

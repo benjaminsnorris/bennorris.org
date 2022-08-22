@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Now
+canonical_url: https://bennorris.com/now/
 permalink: /now/
 ---
 

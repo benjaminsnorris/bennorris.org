@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sketchnoting
+canonical_url:  https://bennorris.com/sketchnoting/
 ---
 
 Note-taking has been an important part of my life for many years. I was thrilled to discover that my illustrated style of notes had a name and vibrant community around the world.

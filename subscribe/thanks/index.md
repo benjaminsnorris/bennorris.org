@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Thanks for subscribing!
+canonical_url:  https://bennorris.com/subscribe/thanks/
 ---
 
 Choosing to share your email address with me is a sign of trust that I take seriously.

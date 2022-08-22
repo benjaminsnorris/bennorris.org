@@ -8,6 +8,7 @@ sub_title:      Trace and draw anywhere
 app_image:      https://media.bsn.design/images/light-table/Light-Table.png
 app_id:         1097012932
 permalink:      /apps/light-table/
+canonical_url:  https://bennorris.com/apps/light-table/
 ---
 
 ## Backstory

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Apps
+canonical_url:  https://bennorris.com/apps/
 ---
 
 I have created or contributed to a number of apps throughout my career. Here are some of them with an explanation of each.
