@@ -2,8 +2,7 @@
 title:          "Fixing local problems with a Carthage version number"
 canonical_url: https://bennorris.com/2016/06/06/fixing-local-problems-with-a-carthage-version-number
 date:           2016-06-06 09:30:00-0700
-update_canonical_url: https://bennorris.com/2016/06/06/fixing-local-problems-with-a-carthage-version-number
-date:    2016-10-04 12:48:00-0600
+update_date:    2016-10-04 12:48:00-0600
 excerpt:        For those times when Carthage will not bend itself to your will.
 category:       General
 tags:
