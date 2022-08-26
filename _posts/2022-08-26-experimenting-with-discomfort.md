@@ -1,6 +1,6 @@
 ---
 title: "#95: Experimenting with discomfort"
-date: 2022-08-26 09:00:00-0600
+date: 2022-08-26 04:50:00-0600
 category: Mental Work Health
 tags:
 - ocd
@@ -15,7 +15,7 @@ image:
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/experimenting-with-discomfort.jpg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/experimenting-with-discomfort.jpg
 
-canonical_url: https://bennorris.com/2022/08/25/
+canonical_url: https://bennorris.com/2022/08/25/experimenting-with-discomfort
 ---
 
 
