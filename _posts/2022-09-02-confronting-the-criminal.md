@@ -1,6 +1,6 @@
 ---
 title: "#96: Confronting the criminal"
-date: 2022-09-02 08:00:00-0600
+date: 2022-09-02 07:00:00-0600
 category: Mental Work Health
 tags:
 - ocd
@@ -13,7 +13,8 @@ image:
   path: https://media.bennorris.com/images/mentalworkhealth/posts/confronting-the-criminal.jpeg
   thumbnail: https://media.bennorris.com/images/mentalworkhealth/posts/thumbnails/confronting-the-criminal.jpeg
 gallery_thumb: https://media.bennorris.com/images/mentalworkhealth/thumbs/confronting-the-criminal.jpeg
-canonical_url: https://bennorris.com/2022-09-02/confronting-the-criminal
+
+canonical_url: https://bennorris.com/2022/09/02/confronting-the-criminal
 ---
 
 
